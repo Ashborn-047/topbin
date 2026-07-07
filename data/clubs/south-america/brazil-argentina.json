@@ -1,0 +1,9 @@
+{
+  "clubs": [
+    { "name": "Flamengo", "shortName": "Flamengo", "code": "FLA", "country": "Brazil", "city": "Rio de Janeiro", "founded": 1895, "stadium": "Maracanã", "capacity": 78838, "league": "Brasileirão Série A", "confederation": "CONMEBOL", "colors": ["Red", "Black"], "aliases": ["Mengão", "Rubro-Negro"], "website": "https://www.flamengo.com.br" },
+    { "name": "Palmeiras", "shortName": "Palmeiras", "code": "PAL", "country": "Brazil", "city": "São Paulo", "founded": 1914, "stadium": "Allianz Parque", "capacity": 43713, "league": "Brasileirão Série A", "confederation": "CONMEBOL", "colors": ["Green", "White"], "aliases": ["Verdão", "Alviverde"], "website": "https://www.palmeiras.com.br" },
+    { "name": "Boca Juniors", "shortName": "Boca", "code": "BOC", "country": "Argentina", "city": "Buenos Aires", "founded": 1905, "stadium": "La Bombonera", "capacity": 54000, "league": "Primera División", "confederation": "CONMEBOL", "colors": ["Blue", "Yellow"], "aliases": ["Boca", "Xeneizes"], "website": "https://www.bocajuniors.com.ar" },
+    { "name": "River Plate", "shortName": "River", "code": "RIV", "country": "Argentina", "city": "Buenos Aires", "founded": 1901, "stadium": "Estadio Monumental", "capacity": 72054, "league": "Primera División", "confederation": "CONMEBOL", "colors": ["White", "Red"], "aliases": ["River", "Millonarios"], "website": "https://www.cariverplate.com.ar" },
+    { "name": "Santos FC", "shortName": "Santos", "code": "SAN", "country": "Brazil", "city": "Santos", "founded": 1912, "stadium": "Vila Belmiro", "capacity": 16068, "league": "Brasileirão Série A", "confederation": "CONMEBOL", "colors": ["White", "Black"], "aliases": ["Peixe", "Alvinegro Praiano"], "website": "https://www.santosfc.com.br" }
+  ]
+}

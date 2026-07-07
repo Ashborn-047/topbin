@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "NationalTeam",
+  "description": "Schema for a national football team in the topbin database",
+  "type": "object",
+  "required": ["name", "code", "confederation"],
+  "properties": {
+    "name": { "type": "string" },
+    "code": { "type": "string", "maxLength": 3 },
+    "fifaCode": { "type": "string", "maxLength": 3 },
+    "confederation": { "type": "string", "enum": ["UEFA", "CONMEBOL", "CONCACAF", "CAF", "AFC", "OFC"] },
+    "fifaRanking": { "type": ["integer", "null"] },
+    "titles": {
+      "type": "object",
+      "properties": {
+        "worldCup": { "type": "integer" },
+        "continental": { "type": "integer" }
+      }
+    },
+    "nickname": { "type": ["string", "null"] },
+    "colors": { "type": "array", "items": { "type": "string" } },
+    "federation": { "type": "string" },
+    "founded": { "type": ["integer", "null"] }
+  }
+}

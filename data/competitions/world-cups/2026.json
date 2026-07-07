@@ -1,0 +1,76 @@
+{
+  "name": "World Cup 2026",
+  "edition": 23,
+  "hosts": ["Canada", "USA", "Mexico"],
+  "dates": {
+    "start": "2026-06-11",
+    "end": "2026-07-19"
+  },
+  "teams": 48,
+  "format": "12 groups of 4, expanded knockout stage",
+  "venues": [
+    "MetLife Stadium, East Rutherford",
+    "AT&T Stadium, Arlington",
+    "SoFi Stadium, Inglewood",
+    "Lumen Field, Seattle",
+    "Gillette Stadium, Foxborough",
+    "Mercedes-Benz Stadium, Atlanta",
+    "NRG Stadium, Houston",
+    "Hard Rock Stadium, Miami Gardens",
+    "Lincoln Financial Field, Philadelphia",
+    "Arrowhead Stadium, Kansas City",
+    "BMO Stadium, Toronto",
+    "BC Place, Vancouver",
+    "Estadio Azteca, Mexico City",
+    "Estadio BBVA, Monterrey",
+    "Estadio Akron, Guadalajara"
+  ],
+  "matches": [
+    {
+      "round": "Matchday 1",
+      "date": "2026-06-11",
+      "time": "13:00 UTC-6",
+      "team1": "Mexico",
+      "team2": "South Africa",
+      "score": { "ft": [2, 0], "ht": [1, 0] },
+      "goals1": [
+        { "name": "Julián Quiñones", "minute": "9" },
+        { "name": "Raúl Jiménez", "minute": "67" }
+      ],
+      "goals2": [],
+      "group": "Group A",
+      "stadium": "Estadio Azteca",
+      "city": "Mexico City",
+      "country": "Mexico"
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2026-06-11",
+      "time": "20:00 UTC-6",
+      "team1": "South Korea",
+      "team2": "Czech Republic",
+      "score": { "ft": [2, 1], "ht": [0, 0] },
+      "goals1": [
+        { "name": "Hwang In-Beom", "minute": "67" },
+        { "name": "Oh Hyeon-Gyu", "minute": "80" }
+      ],
+      "goals2": [
+        { "name": "Ladislav Krejcí", "minute": "59" }
+      ],
+      "group": "Group A",
+      "stadium": "Estadio Akron",
+      "city": "Guadalajara (Zapopan)",
+      "country": "Mexico"
+    },
+    {
+      "round": "Final",
+      "date": "2026-07-19",
+      "time": "15:00 UTC-4",
+      "team1": "TBD",
+      "team2": "TBD",
+      "stadium": "MetLife Stadium",
+      "city": "East Rutherford, New Jersey",
+      "country": "USA"
+    }
+  ]
+}

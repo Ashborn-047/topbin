@@ -1,0 +1,111 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Match",
+  "description": "Schema for a football match in the topbin database",
+  "type": "object",
+  "required": ["round", "date", "team1", "team2"],
+  "properties": {
+    "round": {
+      "type": "string",
+      "description": "Match round or matchday identifier"
+    },
+    "date": {
+      "type": "string",
+      "format": "date",
+      "description": "Match date in ISO 8601 format (YYYY-MM-DD)"
+    },
+    "time": {
+      "type": "string",
+      "description": "Kick-off time with timezone"
+    },
+    "team1": {
+      "type": "string",
+      "description": "Home team name"
+    },
+    "team2": {
+      "type": "string",
+      "description": "Away team name"
+    },
+    "score": {
+      "type": "object",
+      "properties": {
+        "ft": {
+          "type": "array",
+          "items": { "type": "integer" },
+          "minItems": 2,
+          "maxItems": 2,
+          "description": "Full-time score [home, away]"
+        },
+        "ht": {
+          "type": "array",
+          "items": { "type": "integer" },
+          "minItems": 2,
+          "maxItems": 2,
+          "description": "Half-time score [home, away]"
+        },
+        "et": {
+          "type": "array",
+          "items": { "type": "integer" },
+          "minItems": 2,
+          "maxItems": 2,
+          "description": "Extra-time score [home, away]"
+        },
+        "p": {
+          "type": "array",
+          "items": { "type": "integer" },
+          "minItems": 2,
+          "maxItems": 2,
+          "description": "Penalty shootout score [home, away]"
+        }
+      }
+    },
+    "goals1": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "minute"],
+        "properties": {
+          "name": { "type": "string" },
+          "minute": { "type": "string" },
+          "penalty": { "type": "boolean" },
+          "ownGoal": { "type": "boolean" }
+        }
+      },
+      "description": "Goals scored by team1"
+    },
+    "goals2": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "minute"],
+        "properties": {
+          "name": { "type": "string" },
+          "minute": { "type": "string" },
+          "penalty": { "type": "boolean" },
+          "ownGoal": { "type": "boolean" }
+        }
+      },
+      "description": "Goals scored by team2"
+    },
+    "group": {
+      "type": ["string", "null"],
+      "description": "Group name (null for knockout matches)"
+    },
+    "stadium": {
+      "type": "string",
+      "description": "Stadium name"
+    },
+    "city": {
+      "type": "string",
+      "description": "City where the match is played"
+    },
+    "attendance": {
+      "type": ["integer", "null"],
+      "description": "Match attendance"
+    },
+    "referee": {
+      "type": ["string", "null"],
+      "description": "Match referee"
+    }
+  }
+}

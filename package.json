@@ -1,0 +1,35 @@
+{
+  "name": "topbin",
+  "version": "1.0.0",
+  "description": "⚽ A living, ever-growing open football database & API — World Cups (1930–forever), 2000+ clubs, 500+ stadiums, 30+ leagues. Updated every season. No API key required.",
+  "main": "index.js",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashborn-047/topbin.git"
+  },
+  "keywords": [
+    "football",
+    "soccer",
+    "api",
+    "opendata",
+    "worldcup",
+    "database",
+    "json",
+    "clubs",
+    "leagues",
+    "stadiums",
+    "public-domain"
+  ],
+  "author": "Ashborn-047",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/Ashborn-047/topbin/issues"
+  },
+  "homepage": "https://github.com/Ashborn-047/topbin#readme"
+}

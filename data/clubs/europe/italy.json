@@ -1,0 +1,9 @@
+{
+  "clubs": [
+    { "name": "Juventus FC", "shortName": "Juventus", "code": "JUV", "country": "Italy", "city": "Turin", "founded": 1897, "stadium": "Allianz Stadium", "capacity": 41507, "league": "Serie A", "confederation": "UEFA", "colors": ["Black", "White"], "aliases": ["Juve", "La Vecchia Signora", "Bianconeri"], "website": "https://www.juventus.com" },
+    { "name": "AC Milan", "shortName": "Milan", "code": "MIL", "country": "Italy", "city": "Milan", "founded": 1899, "stadium": "San Siro", "capacity": 75923, "league": "Serie A", "confederation": "UEFA", "colors": ["Red", "Black"], "aliases": ["Milan", "Rossoneri", "Il Diavolo"], "website": "https://www.acmilan.com" },
+    { "name": "FC Internazionale Milano", "shortName": "Inter Milan", "code": "INT", "country": "Italy", "city": "Milan", "founded": 1908, "stadium": "San Siro", "capacity": 75923, "league": "Serie A", "confederation": "UEFA", "colors": ["Blue", "Black"], "aliases": ["Inter", "Nerazzurri", "La Beneamata"], "website": "https://www.inter.it" },
+    { "name": "SSC Napoli", "shortName": "Napoli", "code": "NAP", "country": "Italy", "city": "Naples", "founded": 1926, "stadium": "Stadio Diego Armando Maradona", "capacity": 54726, "league": "Serie A", "confederation": "UEFA", "colors": ["Sky Blue", "White"], "aliases": ["Napoli", "Gli Azzurri", "Partenopei"], "website": "https://www.sscnapoli.it" },
+    { "name": "AS Roma", "shortName": "Roma", "code": "ROM", "country": "Italy", "city": "Rome", "founded": 1927, "stadium": "Stadio Olimpico", "capacity": 72698, "league": "Serie A", "confederation": "UEFA", "colors": ["Maroon", "Gold"], "aliases": ["Roma", "Giallorossi", "La Lupa"], "website": "https://www.asroma.com" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Club",
+  "description": "Schema for a football club in the topbin database",
+  "type": "object",
+  "required": ["name", "country"],
+  "properties": {
+    "name": { "type": "string", "description": "Official club name" },
+    "shortName": { "type": "string", "description": "Common short name" },
+    "code": { "type": "string", "maxLength": 3, "description": "3-letter club code" },
+    "country": { "type": "string", "description": "Country" },
+    "city": { "type": "string", "description": "City" },
+    "founded": { "type": "integer", "description": "Year founded" },
+    "stadium": { "type": "string", "description": "Home stadium name" },
+    "capacity": { "type": ["integer", "null"], "description": "Stadium capacity" },
+    "league": { "type": "string", "description": "Current league" },
+    "confederation": { "type": "string", "enum": ["UEFA", "CONMEBOL", "CONCACAF", "CAF", "AFC", "OFC"] },
+    "colors": { "type": "array", "items": { "type": "string" }, "description": "Club colors" },
+    "aliases": { "type": "array", "items": { "type": "string" }, "description": "Alternative names" },
+    "website": { "type": ["string", "null"], "description": "Official website" }
+  }
+}

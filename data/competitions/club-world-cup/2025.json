@@ -1,0 +1,44 @@
+{
+  "name": "Club World Cup 2025",
+  "host": "USA",
+  "dates": {
+    "start": "2025-06-14",
+    "end": "2025-07-13"
+  },
+  "teams": 32,
+  "format": "8 groups of 4, knockout stage",
+  "champion": "Chelsea FC",
+  "runnerUp": "Paris Saint-Germain",
+  "matches": [
+    {
+      "round": "Group A",
+      "date": "2025-06-14",
+      "time": "20:00",
+      "team1": "Al Ahly SC (EGY)",
+      "team2": "Inter Miami CF (USA)",
+      "score": { "ft": [0, 0] },
+      "stadium": "Hard Rock Stadium",
+      "city": "Miami Gardens"
+    },
+    {
+      "round": "Group A",
+      "date": "2025-06-15",
+      "time": "18:00",
+      "team1": "Palmeiras (BRA)",
+      "team2": "FC Porto (POR)",
+      "score": { "ft": [0, 0] },
+      "stadium": "MetLife Stadium",
+      "city": "East Rutherford"
+    },
+    {
+      "round": "Final",
+      "date": "2025-07-13",
+      "time": "15:00",
+      "team1": "Chelsea FC (ENG)",
+      "team2": "Paris Saint-Germain (FRA)",
+      "score": { "ft": [3, 0], "ht": [3, 0] },
+      "stadium": "MetLife Stadium",
+      "city": "East Rutherford"
+    }
+  ]
+}

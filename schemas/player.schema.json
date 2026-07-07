@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Player",
+  "description": "Schema for a football player in the topbin database",
+  "type": "object",
+  "required": ["name", "nationality", "position"],
+  "properties": {
+    "name": { "type": "string" },
+    "fullName": { "type": "string" },
+    "nationality": { "type": "string" },
+    "dateOfBirth": { "type": ["string", "null"], "format": "date" },
+    "position": { "type": "string", "enum": ["Goalkeeper", "Defender", "Midfielder", "Forward"] },
+    "height": { "type": ["string", "null"], "description": "Height in cm" },
+    "preferredFoot": { "type": ["string", "null"], "enum": ["Left", "Right", "Both", null] },
+    "clubs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "from": { "type": "string" },
+          "to": { "type": ["string", "null"] },
+          "appearances": { "type": ["integer", "null"] },
+          "goals": { "type": ["integer", "null"] }
+        }
+      }
+    },
+    "nationalTeam": {
+      "type": ["object", "null"],
+      "properties": {
+        "team": { "type": "string" },
+        "caps": { "type": ["integer", "null"] },
+        "goals": { "type": ["integer", "null"] }
+      }
+    },
+    "awards": { "type": "array", "items": { "type": "string" } }
+  }
+}

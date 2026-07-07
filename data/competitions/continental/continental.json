@@ -1,0 +1,50 @@
+{
+  "competitions": [
+    {
+      "name": "UEFA Champions League",
+      "shortName": "UCL",
+      "confederation": "UEFA",
+      "founded": 1955,
+      "format": "League phase (36 teams) → Knockout (Round of 16 → Final)",
+      "currentChampion": "Real Madrid (2024)",
+      "mostTitles": { "club": "Real Madrid", "count": 15 },
+      "recentWinners": [
+        { "year": 2024, "winner": "Real Madrid", "runnerUp": "Borussia Dortmund", "score": "2-0" },
+        { "year": 2023, "winner": "Manchester City", "runnerUp": "Inter Milan", "score": "1-0" },
+        { "year": 2022, "winner": "Real Madrid", "runnerUp": "Liverpool", "score": "1-0" },
+        { "year": 2021, "winner": "Chelsea", "runnerUp": "Manchester City", "score": "1-0" },
+        { "year": 2020, "winner": "Bayern Munich", "runnerUp": "Paris Saint-Germain", "score": "1-0" }
+      ]
+    },
+    {
+      "name": "Copa Libertadores",
+      "shortName": "Libertadores",
+      "confederation": "CONMEBOL",
+      "founded": 1960,
+      "format": "Group stage → Knockout (Round of 16 → Final)",
+      "currentChampion": "Botafogo (2024)",
+      "mostTitles": { "club": "Independiente", "count": 7 },
+      "recentWinners": [
+        { "year": 2024, "winner": "Botafogo", "runnerUp": "Atlético Mineiro", "score": "3-1" },
+        { "year": 2023, "winner": "Fluminense", "runnerUp": "Boca Juniors", "score": "2-1" },
+        { "year": 2022, "winner": "Flamengo", "runnerUp": "Athletico Paranaense", "score": "1-0" },
+        { "year": 2021, "winner": "Palmeiras", "runnerUp": "Flamengo", "score": "2-1" },
+        { "year": 2020, "winner": "Palmeiras", "runnerUp": "Santos", "score": "1-0" }
+      ]
+    },
+    {
+      "name": "AFC Champions League Elite",
+      "shortName": "ACL Elite",
+      "confederation": "AFC",
+      "founded": 1967,
+      "format": "League phase → Knockout",
+      "currentChampion": "Al Ain (2024)",
+      "mostTitles": { "club": "Pohang Steelers / Al Hilal", "count": 4 },
+      "recentWinners": [
+        { "year": 2024, "winner": "Al Ain", "runnerUp": "Yokohama F. Marinos", "score": "5-1 agg" },
+        { "year": 2023, "winner": "Urawa Red Diamonds", "runnerUp": "Al Hilal", "score": "2-1 agg" },
+        { "year": 2022, "winner": "Al Hilal", "runnerUp": "Urawa Red Diamonds", "score": "3-2 agg" }
+      ]
+    }
+  ]
+}

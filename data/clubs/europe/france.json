@@ -1,0 +1,8 @@
+{
+  "clubs": [
+    { "name": "Paris Saint-Germain FC", "shortName": "PSG", "code": "PSG", "country": "France", "city": "Paris", "founded": 1970, "stadium": "Parc des Princes", "capacity": 47929, "league": "Ligue 1", "confederation": "UEFA", "colors": ["Blue", "Red", "White"], "aliases": ["PSG", "Paris", "Les Parisiens"], "website": "https://www.psg.fr" },
+    { "name": "Olympique de Marseille", "shortName": "Marseille", "code": "OLM", "country": "France", "city": "Marseille", "founded": 1899, "stadium": "Stade Vélodrome", "capacity": 67394, "league": "Ligue 1", "confederation": "UEFA", "colors": ["White", "Blue"], "aliases": ["OM", "Marseille", "Les Phocéens"], "website": "https://www.om.fr" },
+    { "name": "Olympique Lyonnais", "shortName": "Lyon", "code": "LYO", "country": "France", "city": "Lyon", "founded": 1950, "stadium": "Groupama Stadium", "capacity": 59186, "league": "Ligue 1", "confederation": "UEFA", "colors": ["White", "Red", "Blue"], "aliases": ["OL", "Lyon", "Les Gones"], "website": "https://www.ol.fr" },
+    { "name": "AS Monaco FC", "shortName": "Monaco", "code": "MON", "country": "France", "city": "Monaco", "founded": 1924, "stadium": "Stade Louis II", "capacity": 18523, "league": "Ligue 1", "confederation": "UEFA", "colors": ["Red", "White"], "aliases": ["Monaco", "ASM", "Les Monégasques"], "website": "https://www.asmonaco.com" }
+  ]
+}

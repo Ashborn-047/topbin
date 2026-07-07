@@ -1,0 +1,24 @@
+{
+  "stadiums": [
+    { "name": "Santiago Bernabéu", "city": "Madrid", "country": "Spain", "capacity": 81044, "yearBuilt": 1947, "yearRenovated": 2023, "surface": "Grass", "tenants": ["Real Madrid CF"], "coordinates": { "lat": 40.4531, "lng": -3.6883 } },
+    { "name": "Spotify Camp Nou", "city": "Barcelona", "country": "Spain", "capacity": 99354, "yearBuilt": 1957, "yearRenovated": 2024, "surface": "Grass", "tenants": ["FC Barcelona"], "coordinates": { "lat": 41.3809, "lng": 2.1228 } },
+    { "name": "Old Trafford", "city": "Manchester", "country": "England", "capacity": 74310, "yearBuilt": 1910, "yearRenovated": 2006, "surface": "Grass", "tenants": ["Manchester United FC"], "coordinates": { "lat": 53.4631, "lng": -2.2913 } },
+    { "name": "Anfield", "city": "Liverpool", "country": "England", "capacity": 61276, "yearBuilt": 1884, "yearRenovated": 2023, "surface": "Grass", "tenants": ["Liverpool FC"], "coordinates": { "lat": 53.4308, "lng": -2.9609 } },
+    { "name": "Allianz Arena", "city": "Munich", "country": "Germany", "capacity": 75024, "yearBuilt": 2005, "surface": "Grass", "tenants": ["FC Bayern München"], "coordinates": { "lat": 48.2188, "lng": 11.6247 } },
+    { "name": "Signal Iduna Park", "city": "Dortmund", "country": "Germany", "capacity": 81365, "yearBuilt": 1974, "yearRenovated": 2006, "surface": "Grass", "tenants": ["Borussia Dortmund"], "coordinates": { "lat": 51.4926, "lng": 7.4518 } },
+    { "name": "San Siro", "city": "Milan", "country": "Italy", "capacity": 75923, "yearBuilt": 1926, "yearRenovated": 2015, "surface": "Grass", "tenants": ["AC Milan", "FC Internazionale Milano"], "coordinates": { "lat": 45.4781, "lng": 9.1240 } },
+    { "name": "Parc des Princes", "city": "Paris", "country": "France", "capacity": 47929, "yearBuilt": 1972, "surface": "Grass", "tenants": ["Paris Saint-Germain FC"], "coordinates": { "lat": 48.8414, "lng": 2.2530 } },
+    { "name": "Wembley Stadium", "city": "London", "country": "England", "capacity": 90000, "yearBuilt": 2007, "surface": "Grass", "tenants": ["England National Team"], "coordinates": { "lat": 51.5560, "lng": -0.2795 } },
+    { "name": "Maracanã", "city": "Rio de Janeiro", "country": "Brazil", "capacity": 78838, "yearBuilt": 1950, "yearRenovated": 2013, "surface": "Grass", "tenants": ["Flamengo", "Fluminense"], "coordinates": { "lat": -22.9121, "lng": -43.2302 } },
+    { "name": "La Bombonera", "city": "Buenos Aires", "country": "Argentina", "capacity": 54000, "yearBuilt": 1940, "surface": "Grass", "tenants": ["Boca Juniors"], "coordinates": { "lat": -34.6354, "lng": -58.3648 } },
+    { "name": "Estadio Azteca", "city": "Mexico City", "country": "Mexico", "capacity": 87523, "yearBuilt": 1966, "yearRenovated": 2022, "surface": "Grass", "tenants": ["Club América", "Cruz Azul"], "coordinates": { "lat": 19.3029, "lng": -99.1505 } },
+    { "name": "MetLife Stadium", "city": "East Rutherford", "country": "USA", "capacity": 82500, "yearBuilt": 2010, "surface": "Artificial", "tenants": ["New York Giants (NFL)", "New York Jets (NFL)"], "coordinates": { "lat": 40.8128, "lng": -74.0742 } },
+    { "name": "Lusail Iconic Stadium", "city": "Lusail", "country": "Qatar", "capacity": 80000, "yearBuilt": 2022, "surface": "Grass", "tenants": [], "coordinates": { "lat": 25.4194, "lng": 51.4903 } },
+    { "name": "Tottenham Hotspur Stadium", "city": "London", "country": "England", "capacity": 62850, "yearBuilt": 2019, "surface": "Hybrid", "tenants": ["Tottenham Hotspur FC"], "coordinates": { "lat": 51.6042, "lng": -0.0662 } },
+    { "name": "Emirates Stadium", "city": "London", "country": "England", "capacity": 60704, "yearBuilt": 2006, "surface": "Grass", "tenants": ["Arsenal FC"], "coordinates": { "lat": 51.5549, "lng": -0.1084 } },
+    { "name": "Etihad Stadium", "city": "Manchester", "country": "England", "capacity": 53400, "yearBuilt": 2002, "surface": "Grass", "tenants": ["Manchester City FC"], "coordinates": { "lat": 53.4831, "lng": -2.2004 } },
+    { "name": "Stadio Diego Armando Maradona", "city": "Naples", "country": "Italy", "capacity": 54726, "yearBuilt": 1959, "yearRenovated": 2020, "surface": "Grass", "tenants": ["SSC Napoli"], "coordinates": { "lat": 40.8280, "lng": 14.1931 } },
+    { "name": "Cívitas Metropolitano", "city": "Madrid", "country": "Spain", "capacity": 70460, "yearBuilt": 2017, "surface": "Grass", "tenants": ["Atlético de Madrid"], "coordinates": { "lat": 40.4362, "lng": -3.5994 } },
+    { "name": "Stamford Bridge", "city": "London", "country": "England", "capacity": 40341, "yearBuilt": 1877, "surface": "Grass", "tenants": ["Chelsea FC"], "coordinates": { "lat": 51.4816, "lng": -0.1910 } }
+  ]
+}

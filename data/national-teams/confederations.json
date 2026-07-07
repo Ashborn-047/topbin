@@ -1,0 +1,10 @@
+{
+  "confederations": [
+    { "name": "UEFA", "fullName": "Union of European Football Associations", "founded": 1954, "headquarters": "Nyon, Switzerland", "members": 55, "continent": "Europe", "competitions": ["UEFA Champions League", "UEFA Europa League", "UEFA Conference League", "UEFA European Championship", "UEFA Nations League"] },
+    { "name": "CONMEBOL", "fullName": "South American Football Confederation", "founded": 1916, "headquarters": "Luque, Paraguay", "members": 10, "continent": "South America", "competitions": ["Copa Libertadores", "Copa Sudamericana", "Copa América", "Recopa Sudamericana"] },
+    { "name": "CONCACAF", "fullName": "Confederation of North, Central America and Caribbean Association Football", "founded": 1961, "headquarters": "Miami, USA", "members": 41, "continent": "North/Central America & Caribbean", "competitions": ["CONCACAF Champions Cup", "CONCACAF Gold Cup", "CONCACAF Nations League"] },
+    { "name": "CAF", "fullName": "Confederation of African Football", "founded": 1957, "headquarters": "Cairo, Egypt", "members": 54, "continent": "Africa", "competitions": ["CAF Champions League", "CAF Confederation Cup", "Africa Cup of Nations"] },
+    { "name": "AFC", "fullName": "Asian Football Confederation", "founded": 1954, "headquarters": "Kuala Lumpur, Malaysia", "members": 47, "continent": "Asia", "competitions": ["AFC Champions League Elite", "AFC Challenge League", "AFC Asian Cup"] },
+    { "name": "OFC", "fullName": "Oceania Football Confederation", "founded": 1966, "headquarters": "Auckland, New Zealand", "members": 13, "continent": "Oceania", "competitions": ["OFC Champions League", "OFC Nations Cup"] }
+  ]
+}

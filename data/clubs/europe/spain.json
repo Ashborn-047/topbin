@@ -1,0 +1,8 @@
+{
+  "clubs": [
+    { "name": "Real Madrid CF", "shortName": "Real Madrid", "code": "RMA", "country": "Spain", "city": "Madrid", "founded": 1902, "stadium": "Santiago Bernabéu", "capacity": 81044, "league": "La Liga", "confederation": "UEFA", "colors": ["White", "Gold"], "aliases": ["Real", "Los Blancos", "Los Merengues"], "website": "https://www.realmadrid.com" },
+    { "name": "FC Barcelona", "shortName": "Barcelona", "code": "BAR", "country": "Spain", "city": "Barcelona", "founded": 1899, "stadium": "Spotify Camp Nou", "capacity": 99354, "league": "La Liga", "confederation": "UEFA", "colors": ["Blue", "Red"], "aliases": ["Barça", "Blaugrana"], "website": "https://www.fcbarcelona.com" },
+    { "name": "Atlético de Madrid", "shortName": "Atlético Madrid", "code": "ATM", "country": "Spain", "city": "Madrid", "founded": 1903, "stadium": "Cívitas Metropolitano", "capacity": 70460, "league": "La Liga", "confederation": "UEFA", "colors": ["Red", "White"], "aliases": ["Atleti", "Los Colchoneros"], "website": "https://www.atleticodemadrid.com" },
+    { "name": "Sevilla FC", "shortName": "Sevilla", "code": "SEV", "country": "Spain", "city": "Seville", "founded": 1890, "stadium": "Ramón Sánchez Pizjuán", "capacity": 43883, "league": "La Liga", "confederation": "UEFA", "colors": ["White", "Red"], "aliases": ["Sevilla", "Los Nervionenses"], "website": "https://www.sevillafc.es" }
+  ]
+}

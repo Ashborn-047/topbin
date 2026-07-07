@@ -1,0 +1,92 @@
+{
+  "name": "World Cup 2022",
+  "edition": 22,
+  "host": "Qatar",
+  "dates": {
+    "start": "2022-11-20",
+    "end": "2022-12-18"
+  },
+  "teams": 32,
+  "venues": [
+    "Lusail Iconic Stadium",
+    "Al Bayt Stadium",
+    "Al Thumama Stadium",
+    "Education City Stadium",
+    "Ahmad Bin Ali Stadium",
+    "Khalifa International Stadium",
+    "Stadium 974",
+    "Al Janoub Stadium"
+  ],
+  "champion": "Argentina",
+  "runnerUp": "France",
+  "thirdPlace": "Croatia",
+  "fourthPlace": "Morocco",
+  "goldenBall": "Lionel Messi",
+  "goldenBoot": "Kylian Mbappé",
+  "goldenGlove": "Emiliano Martínez",
+  "bestYoungPlayer": "Enzo Fernández",
+  "totalGoals": 172,
+  "totalMatches": 64,
+  "attendance": 3404252,
+  "matches": [
+    {
+      "round": "Group A - Matchday 1",
+      "date": "2022-11-20",
+      "time": "19:00",
+      "team1": "Qatar",
+      "team2": "Ecuador",
+      "score": { "ft": [0, 2], "ht": [0, 2] },
+      "goals1": [],
+      "goals2": [
+        { "name": "Enner Valencia", "minute": "16", "penalty": true },
+        { "name": "Enner Valencia", "minute": "31" }
+      ],
+      "group": "Group A",
+      "stadium": "Al Bayt Stadium",
+      "city": "Al Khor",
+      "attendance": 67372,
+      "referee": "Daniele Orsato (ITA)"
+    },
+    {
+      "round": "Group A - Matchday 1",
+      "date": "2022-11-21",
+      "time": "19:00",
+      "team1": "Senegal",
+      "team2": "Netherlands",
+      "score": { "ft": [0, 2], "ht": [0, 0] },
+      "goals1": [],
+      "goals2": [
+        { "name": "Cody Gakpo", "minute": "84" },
+        { "name": "Davy Klaassen", "minute": "90+9" }
+      ],
+      "group": "Group A",
+      "stadium": "Al Thumama Stadium",
+      "city": "Doha",
+      "attendance": 41721,
+      "referee": "Wilton Sampaio (BRA)"
+    },
+    {
+      "round": "Final",
+      "date": "2022-12-18",
+      "time": "18:00",
+      "team1": "Argentina",
+      "team2": "France",
+      "score": { "p": [4, 2], "et": [3, 3], "ft": [2, 2], "ht": [2, 0] },
+      "goals1": [
+        { "name": "Lionel Messi", "minute": "23", "penalty": true },
+        { "name": "Ángel Di María", "minute": "36" },
+        { "name": "Lionel Messi", "minute": "108" }
+      ],
+      "goals2": [
+        { "name": "Kylian Mbappé", "minute": "80", "penalty": true },
+        { "name": "Kylian Mbappé", "minute": "81" },
+        { "name": "Kylian Mbappé", "minute": "118", "penalty": true }
+      ],
+      "group": null,
+      "stadium": "Lusail Iconic Stadium",
+      "city": "Lusail",
+      "attendance": 88966,
+      "referee": "Szymon Marciniak (POL)"
+    }
+  ]
+}
