@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Roster",
+  "description": "Schema for a team roster/squad in the topbin database",
+  "type": "object",
+  "required": ["team", "season", "competition", "players"],
+  "properties": {
+    "team": { "type": "string", "description": "Team name" },
+    "season": { "type": "string", "description": "Season identifier (e.g., 2024-25 or 2022)" },
+    "competition": { "type": "string", "description": "Competition name" },
+    "manager": { "type": "string", "description": "Head coach / manager" },
+    "formation": { "type": ["string", "null"], "description": "Preferred formation (e.g., 4-3-3)" },
+    "captain": { "type": ["string", "null"], "description": "Team captain" },
+    "players": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "number", "position", "nationality"],
+        "properties": {
+          "name": { "type": "string" },
+          "number": { "type": "integer" },
+          "position": { "type": "string", "enum": ["GK", "CB", "LB", "RB", "LWB", "RWB", "CDM", "CM", "CAM", "LM", "RM", "LW", "RW", "CF", "ST"] },
+          "nationality": { "type": "string" },
+          "dateOfBirth": { "type": ["string", "null"], "format": "date" },
+          "height": { "type": ["integer", "null"], "description": "Height in cm" },
+          "club": { "type": ["string", "null"], "description": "Club at time of selection (for national teams)" },
+          "appearances": { "type": ["integer", "null"], "description": "Appearances in this competition/season" },
+          "goals": { "type": ["integer", "null"], "description": "Goals in this competition/season" },
+          "assists": { "type": ["integer", "null"], "description": "Assists in this competition/season" },
+          "yellowCards": { "type": ["integer", "null"] },
+          "redCards": { "type": ["integer", "null"] }
+        }
+      }
+    }
+  }
+}
