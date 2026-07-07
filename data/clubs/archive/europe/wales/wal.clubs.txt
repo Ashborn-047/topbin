@@ -1,0 +1,127 @@
+================================
+=  Wales
+
+
+The New Saints FC,         Oswestry   ## in Shropshire    -- check - playing in english league?
+  | TNS | TN Saints | The New Saints
+
+Bangor City FC
+  | Bangor | Bangor City
+
+Llanelli AFC, 1896,  Llanelli
+  | Llanelli   # champs (1): 2008/09
+  | Llanelli Town
+  | Llanelli Town AFC
+
+Cefn Druids AFC
+  | Cefn Druids | NEWI Cefn Druids    ## NEWI = North East Wales Institute of Higher Education
+Neath FC
+  | Neath |  Neath Athletic
+
+Port Talbot Town FC
+  | Port Talbot
+
+Connah's Quay Nomads FC
+  | Connah's Quay
+  | Connah's Quay Nomads
+
+Bala Town FC
+  | Bala | Bala Town
+
+Llandudno FC, 1988,    Llandudno
+  | Llandudno Town FC
+  | Llandudno Town
+  | Llandudno
+
+Newtown AFC
+  | Newtown
+AUK Broughton FC
+  | Airbus | Airbus UK
+  | Broughton | Airbus UK Broughton | Airbus UK Broughton FC
+
+Aberystwyth Town FC
+  | Aberystwyth | Aberystwyth Town
+
+Barry Town AFC
+  | Barry
+  | FC Barry Town
+  | Barry Town    # champs (6): 2004...2001 (3) 2000...1997 (3)
+  | Barry Town United | Barry Town United FC
+  | Barry Town United AFC
+
+Cardiff Metropolitan University FC
+  | Cardiff Met | Cardiff M.U. | Cardiff Met Uni.
+  | Cardiff Metropolitan
+  | Cardiff Met University
+  | Cardiff Met FC
+
+Caernarfon Town FC
+  | Caernarfon | Caernarfon Town
+Carmarthen Town AFC
+  | Carmarthen
+
+Penybont FC
+  | Penybont
+
+# note: welsh clubs playing in english premiere league or championship etc. listed here
+# note: teams in english premier league & english league (championship, etc.) !!!!
+
+Swansea City AFC, 1912,     @ Liberty Stadium, Swansea
+  | Swansea | Swansea City | Swansea City FC
+  | Swansea City Association Football Club
+
+Cardiff City FC, 1899,   @ Cardiff City Stadium, Cardiff
+  | Cardiff | Cardiff City
+  | Cardiff City Association Football Club
+
+
+Newport County AFC, 1912,  @ Rodney Parade, Newport
+  | Newport | Newport County
+
+Wrexham AFC,             Wrexham
+  | Wrexham | Wrexham FC
+Merthyr Town FC,         Merthyr Tydfil
+  | Merthyr Town
+  | Merthyr Tydfil FC   ## todo/check: keep separate - why? why not?
+# In 2010 the club Merthyr Tydfil FC was liquidated
+#  and reformed under the name Merthyr Town.
+
+
+Aberdare Athletic FC (1893-1928),  Aberdare
+  | Aberdare Athletic
+
+Rhyl FC,  Rhyl    # in Denbighshire
+ | Rhyl | Rhyl Football Club      # champs (2): 2009/10 2004/05
+
+Cwmbrân Town AFC,    Cwmbrân
+  | Cwmbrân Town    # champs (1): 1993/94
+  | Cwmbrân Town FC
+  | Cwmbrân
+
+Prestatyn Town FC,  1910,  Prestatyn
+  | Prestatyn
+
+Afan Lido FC, 1967,   Port Talbot
+  | Afan Lido
+
+Haverfordwest County AFC, 1899,  Haverfordwest
+  | Haverfordwest County
+  | Haverfordwest
+
+Porthmadog FC,   Porthmadog
+  | Porthmadog
+
+Welshpool Town FC,  Welshpool
+  | Welshpool Football Club
+  | Welshpool Town
+
+
+Caersws FC,  Caersws
+  |  Caersws
+
+Flint Town United FC,  Flint
+  | Flint Town United
+
+Briton Ferry Llansawel AFC,  Briton Ferry
+  | Briton Ferry Llansawel
+

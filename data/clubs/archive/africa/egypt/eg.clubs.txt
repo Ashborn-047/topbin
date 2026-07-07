@@ -1,0 +1,123 @@
+========================================
+=  Egypt
+
+
+Al Ahly,                Cairo › Cairo
+  | Al-Ahly | Al Ahly Cairo | Al Ahly SC | Al Ahly Sporting Club
+  | Al Ahly Kairo [de]
+
+Al Mokawloon Al Arab,   Cairo › Cairo  ## Nasr City
+  | Arab Contractors (Sporting Club)
+  | Arab Contractors
+  | Al Mokawloon
+  | Al Moqawloon
+
+El Dakhleya,            Cairo › Cairo   ##  Abbassia
+  | El Dakhleya SC
+  | El Dakhleya Sporting Club
+  | El Daklyeh
+
+El Entag El Harby,      Cairo › Cairo
+  | Military Production
+ENPPI SC,               Cairo › Cairo
+  | ENPPI | ENPPI Club
+  | ENPPI Sporting Club
+  | Engineering for the Petroleum and Process Industries Sporting Club
+
+Ittihad El Shorta,      Cairo › Cairo
+  | Police Union
+Tala'ea El Gaish,       Cairo › Cairo
+  | Army's Vanguards
+  | Tala'ea El-Gaish SC
+  | Tala'ea El Gaish Sporting Club
+Wadi Degla,             Cairo › Cairo
+  | Wadi Degla SC | Wadi Degla FC
+Pyramids FC,            Cairo › Cairo
+  | Pyramids Football Club
+  | Pyramids
+
+Modern Sport FC,    Cairo
+  | Modern Sport Football Club
+  | Modern Future FC
+  | Modern Future Football Club
+  | Future FC
+# formerly known as Modern Future FC,
+
+National Bank SC,  Cairo
+  | National Bank of Egypt SC
+  | Nat. Bank Egypt
+  | National Bank of Egypt Sporting Club
+
+
+ZED FC,  Giza       #  Cairo › Cairo
+  | ZED Football Club
+  | FC Masr   # formerly known as
+  | Football Club Masr
+
+
+Zamalek,  1911,  Giza › Giza
+  | Zamalek SC | Zamalek Sporting Club
+  | El Zamalek
+  | Al Zamalek
+
+Ceramica Cleopatra, Giza
+  | Ceramica Cleopatra FC
+  | Ceramica Cleopatra Football Club
+
+
+
+Al Ittihad Al Sakandary,  1914,   Alexandria › Alexandria
+  | Al Ittihad
+  | Alexandrian Union Club
+  | Al Ittihad Alexandria Club
+  | El Ittihad El Skandary
+  | Ittihad El Iskandary
+
+Haras El Hodood,            Alexandria › Alexandria   ##  El Max
+  | Haras El-Hodood SC
+Smouha SC,                  Alexandria › Alexandria   ## Smouha
+  | Smouha | Smouha Sporting Club
+
+Pharco FC,  Alexandria
+  | Pharco Football Club
+  | Pharco
+
+
+
+Ismaily,   Ismailia › Ismailia
+  | Ismaily SC
+  | Ismaily Sporting Club
+El Gouna,    Hurghada › Red Sea   ## El Gouna
+  | El Gouna FC
+
+
+Ghazl El Mahalla, 1936, @ Ghazl El Mahalla Stadium,   El Mahalla El Kubra › Gharbia
+  | Ghazl El Mahalla SC | Ghazl El Mahalla Sporting Club
+  | Ghazl El Mahallah
+  | GMH
+
+Baladiyat El Mahalla, 1931,  @ Ghazl El Mahalla Stadium,  El Mahalla El Kubra
+  | Baladiyat El Mahalla SC | Baladiyat El Mahalla Sporting Club
+  | Baladeyet Al Mahalla
+  | Baladiyyat Mehalla
+  | BMH
+
+
+Misr El Makasa,  Faiyum › Faiyum
+  | Misr LeL Makasa
+  | Misr Lel Makkasa SC | Misr Lel Makkasa Sporting Club
+Petrojet,   Suez › Suez
+  | Petrojet FC | Petrojet Football Club
+Telephonat Bani Sweif,  Beni Suef › Beni Suef
+  | TE Beni Suef
+
+Tanta SC, Tanta
+  | Tanta Sports Club
+  | FC Tanta
+Aswan SC, Aswan
+  | Aswan Sporting Club
+  | Aswan FC
+Al Masry SC,  Port Said
+  | Al-Masry Club | Al Masry Sporting Club
+  | Al Masry
+

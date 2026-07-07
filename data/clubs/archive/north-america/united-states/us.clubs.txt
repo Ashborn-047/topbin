@@ -1,0 +1,313 @@
+==============================================
+=  United States
+
+
+# Major League Soccer (MLS) &  United Soccer League (USL) Championship clubs
+#
+#  note: see ca.txt for Canadian teams
+
+== Georgia ==
+Atlanta United FC, 2017,  Atlanta        ## Kennesaw, Georgia ??
+  | Atlanta | Atlanta United | Atlanta Utd
+ii) Atlanta United 2
+
+South Georgia Tormenta FC,    Statesboro
+  | Tormenta FC
+ii) South Georgia Tormenta 2
+  | South Georgia Tormenta FC 2
+
+
+== Alabama ==
+Birmingham Legion FC,  Birmingham
+  | Birmingham Legion
+
+== Arkansas ==
+Little Rock Rangers,   Little Rock
+  | Little Rock Rangers Soccer Club
+
+== South Carolina ==
+Charleston Battery,      Charleston
+Greenville Triumph,      Greenville
+ | Greenville Triumph SC
+
+== North Carolina ==
+
+Charlotte FC,  2019,          Charlotte
+  | Charlotte Football Club
+  | CLTFC
+
+Charlotte Independence,   Matthews
+
+
+North Carolina FC,        Cary
+
+
+
+== Wisconsin ==
+Forward Madison FC,       Madison
+Milwaukee Bavarian SC,    Milwaukee
+
+
+== Illinois ==
+Chicago Fire, 1998,  Bridgeview     ## year 1997? use Chicago (not Bridgeview?)
+  | Chicago
+  | Chicago Fire Soccer Club
+  | Chicago Fire Football Club
+  | Chicago Fire FC
+
+
+== Michigan ==
+AFC Ann Arbor,       Ann Arbor
+Lansing Ignite FC,   Lansing
+
+
+== Ohio ==
+Columbus Crew SC, 1996,  Columbus    ## year 1994?
+  | Columbus | Columbus Crew
+FC Cincinnati, 2019,  Cincinnati
+  | Cincinnati
+Dayton Dutch Lions,   Dayton
+
+== Iowa ==
+Des Moines Menace,    Des Moines
+
+
+== D.C. ==    ## district of columbia
+D.C. United, 1996,  Washington    ## year 1995?
+  | Washington D.C. United
+
+== Maryland ==
+FC Baltimore,      Baltimore
+ | FC Baltimore Christos
+
+== Virginia ==
+Loudoun United FC, Leesburg
+Richmond Kickers,    Richmond
+Virginia United FC,   Woodbridge
+
+
+== Massachusetts ==
+New England Revolution, 1996,  Foxborough     ## year 1995? use Boston?
+  | New England | N.E. Revolution | New England Rev.
+Black Rock FC,    Lakeville
+
+
+== New York ==
+New York City FC, 2015,  New York City    ## year 2013?
+  | NYC FC | New York City
+New York Cosmos, 2010,   New York City
+    # see New York Cosmos (1970–85) for original club
+
+== New Jersey ==
+New York Red Bulls, 1996,  Harrison        ## note: named >New York/New Jersey MetroStars; MetroStars< from 1996-2005    ## year 1995?
+  | NY Red Bulls | New York Metrostars | Metrostars
+ii) New York Red Bulls II       ## Montclair, New Jersey ??
+# use New Jersey (not Harrison)?
+## note: was known as the New York/New Jersey MetroStars  through 1997.
+##   From the 1998 season through the 2005 season, the team was known as the MetroStars.
+##  On March 2006 sold/rebranded to New York Red Bulls
+##  -- todo: add support for renaming/rebranding teams in db schema - why?? why not??
+
+New York Red Bulls U23,     Harrison     ## todo: how to deal with u23 or u21 clubs?
+ | New York Red Bulls U-23               ## note: is different from New York Red Bulls II
+
+
+FC Motown,      Morristown
+  | FC Morristown
+
+
+== Connecticut ==
+Hartford Athletic, Hartford
+
+
+==  Missouri ==
+
+Saint Louis FC (2014-2020), Fenton
+## On August 25, 2020, citing the financial impact
+## of the COVID-19 pandemic during 2020,
+## it was announced that the 2020 season would be
+## the final season of operation for the club
+
+Saint Louis City,   2019,    St. Louis
+  | St. Louis City Soccer Club
+  | St. Louis City SC
+
+
+
+== Florida ==
+Orlando City SC, 2015,  Orlando
+  | Orlando | Orlando City | Orlando City S
+
+Inter Miami CF,  2018,  Miami
+  | Inter Miami | Club Internacional de Fútbol Miami
+
+
+Miami FC,            Miami
+Tampa Bay Rowdies,   St. Petersburg
+
+Florida Soccer Soldiers,     North Miami Beach
+Lakeland Tropics,           Lakeland
+The Villages SC,           The Villages
+  | The Villages Soccer Club
+
+
+== Pennsylvania ==
+Philadelphia Union, 2010,  Chester       # year 2008?
+  | Philadelphia | Philadelphia Unio
+  | Philadelphia U.
+ii) Philadelphia Union II
+
+Philadelphia Lone Star FC,  Philadelphia
+
+Pittsburgh Riverhounds SC,  Pittsburgh
+  | Pittsburgh Riverhounds
+  | Pittsburgh Riverho
+
+Erie Commodores FC,       Erie
+Reading United AC,        Reading
+West Chester Predators,    West Chester
+
+
+== Tennessee ==
+Nashville SC,  2017,      Nashville
+  | Nashville Soccer Club
+Memphis 901 FC,           Memphis
+Chattanooga Red Wolves,   Chattanooga
+  | Chattanooga Red Wolves SC
+
+
+== Indiana ==
+Indy Eleven,           Indianapolis
+
+
+
+== Colorado ==
+Colorado Rapids, 1996,  Commerce City     ## use Denver (not Commerce City?)
+  | Colorado
+Colorado Springs Switchbacks FC,  Colorado Springs
+FC Denver,      Denver
+
+
+== Texas ==
+FC Dallas, 1996,  Frisco      ##  use Dallas (and not Frisco) ? - note: FC Dallas named >Dallas Burn< from 1996-2004
+  | Dallas
+
+NTX Rayados,                 Dallas
+  | North Texas Rayados
+
+Houston Dynamo, 2005,  Houston
+  | Houston | H. Dynamo
+  | Houston Dynamo FC
+
+
+Austin FC,  2018,        Austin
+  | Austin Football Club
+
+# Not to be confused with Austin Bold FC,
+#  the USL Championship soccer team
+#  that played from 2019–21 at Circuit of the Americas.
+Austin Bold FC,              Austin
+
+
+
+El Paso Locomotive FC,       El Paso
+Rio Grande Valley FC Toros,  Edinburg
+San Antonio FC,              San Antonio
+
+Brazos Valley Cavalry FC,   Bryan
+Laredo Heat,                Laredo
+Midland-Odessa Sockers FC,   Midland
+
+
+== California ==
+LA Galaxy, 1996,  Carson           ## founding year 1995?  -- use Los Angeles (not Carson) ??
+  | Los Angeles Galaxy
+ii) LA Galaxy II
+
+Los Angeles FC, 2018,  Los Angeles   ## use 2014?
+  | LAFC
+San Jose Earthquakes, 1996,  San Jose   ## note: named >San Jose Clash< from 1996-1999
+  | San Jose | SJ Earthquakes | Earthquakes      ## founding year 1994?
+  | San Jose Earthqua
+
+Orange County SC,       Irvine
+Orange County FC,       Lake Forest       # note: NOT to be confused with Orange County SC
+
+Sacramento Republic FC, Sacramento
+San Diego Loyal SC,     San Diego
+
+Academica SC,   Turlock
+Cal FC,         Thousand Oaks
+El Farolito,          San Francisco
+Golden State Force,   Whittier
+  | FC Golden State Force
+Fresno FC,       Fresno
+
+
+== Washington ==
+Seattle Sounders FC, 2009,  Seattle       ## year 2007?
+  | Seattle | Seattle Sounders
+Tacoma Defiance,   Tacoma
+
+
+
+== Oregon ==
+Portland Timbers, 2011,  Portland         ## year  2009?  -- Hillsboro, Oregon ??
+  | Portland T.
+  | Portland
+ii) Portland Timbers 2
+
+FC Mulhouse Portland,    Portland
+  | International Portland Select FC
+
+== Minnesota ==
+Minnesota United FC, 2017,  Minneapolis    ## use 2015?
+  | Minnesota | Minnesota United | FC Minnesota Utd.
+  | Minnesota Utd.
+
+Duluth FC,   Duluth
+
+
+== Utah ==
+Real Salt Lake, 2005,  Sandy           ## year 2004?  use Salt Lake City (not Sandy?)
+  | Real Salt Lake City
+Real Monarchs,  Herriman          ## todo: add/mark as reserve club for Real Salt Lake ??
+  | Real Monarchs SLC
+
+
+== Kansas ==
+Sporting Kansas City, 1996,  Kansas City     ## year 1995? note: Sporting KC named >Kansas City Wiz / Wizards< from 1996-2010
+  | Sp. Kansas City | Sporting KC | Kansas City Wizards
+ii) Sporting Kansas City II
+## note: was known as: Kansas City Wizards
+##   rebranded in Nov 2010 to Sporting Kansas City
+
+== Oklahoma ==
+OKC Energy FC,  Oklahoma City
+  | Oklahoma City Energy FC
+FC Tulsa,      Tulsa
+
+== Kentucky ==
+Louisville City FC, Louisville
+
+== Nevada ==
+Las Vegas Lights FC, Las Vegas
+Reno 1868 FC, Reno
+
+== New Mexico ==
+New Mexico United, Albuquerque
+
+== Arizona ==
+Phoenix Rising FC, Tempe
+
+
+
+== ?? ==
+
+##################################
+#  Defunct / Historic
+
+Tampa Bay Mutiny (1996-2001),  Tampa           › Florida
+Miami Fusion     (1998-2001),  Fort Lauderdale › Florida
+CD Chivas USA    (2005-2014),  Carson          › California   ## use 2014? use Los Angeles (not Carson)?
+  | Chivas USA | Club Deportivo Chivas US

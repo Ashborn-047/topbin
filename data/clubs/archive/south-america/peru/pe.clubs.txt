@@ -1,0 +1,130 @@
+==========================
+=  Peru
+
+Alianza Lima,     Lima
+  | Club Alianza Lima
+Sporting Cristal,  Lima
+  | Club Sporting Cristal
+  | CS Cristal | Cristal
+  | Sp. Cristal
+Deportivo Municipal,  Lima
+  | Dep. Municipal
+Club Deportivo Universidad de San Martín de Porres, Lima
+  | Univ. San Martín | Universidad San Martín
+Club Universitario de Deportes, Lima
+  | Universitario | Universitario Dep.
+
+
+Deportivo Coopsol, Chancay
+   | Club Deportivo Coopsol
+
+
+
+Juan Aurich,      Chiclayo
+  | Club Juan Aurich S.A
+Molinos El Pirata, Chiclayo
+
+
+Sport Huancayo,   Huancayo
+  | CSD Sport Huancayo
+
+Alianza Universidad,  Huánuco
+  | Ali. Univ. Huánuco
+
+Cusco FC,   Cusco
+  | Cusco Fútbol Club
+  | Real Garcilaso
+  | Asociación Civil Real Atlético Garcilaso
+##  founded on 28 August 2008 as Real Garcilaso,
+##   changing their name to Cusco FC in 2019.
+
+
+Deportivo Garcilaso,  Cusco
+  | Dep. Garcilaso
+  | Club Deportivo Garcilaso
+
+Club Cienciano,   Cusco
+  | Cienciano
+
+
+Universidad César Vallejo, Trujillo
+  | César Vallejo | Club Deportivo Universidad César Vallejo
+Carlos A. Mannucci,    Trujillo
+  | Carlos Mannucci
+
+Ayacucho FC,          Ayacucho
+  | Ayacucho
+
+Deportivo Binacional FC,  Juliaca
+  | Deportivo Binacional Fútbol Club
+  | Dep. Binacional
+  | Binacional
+  | Escuela Municipal Binacional
+##  formerly Escuela Municipal Deportivo Binacional
+
+
+Academia Cantolao,       Callao
+  | Cantolao
+Sport Boys,             Callao
+  | Sport Boys Assoc.
+
+FBC Melgar, Arequipa
+  | Melgar
+
+Unión Comercio, Nueva Cajamarca
+
+Universidad Técnica de Cajamarca, Cajamarca
+  | UTC | UTC de Cajamarca
+  | UTC Cajamarca
+
+Club Atlético Grau, 1919,  Piura
+  | Atlético Grau
+
+
+Alianza Atlético,  1920,     Sullana
+  | Club Alianza Atlético de Sullana
+  | Club Sport Alianza Atlético de Sullana
+
+
+Los Chankas,  1989, Andahuaylas
+  | Club Deportivo Los Chankas
+  | Los Chankas CYC
+  | Club Deportivo Los Chankas CYC # or Club Deportivo Los Chankas - CYC
+  | Cultural Santa Rosa    # known as until 2021
+
+
+Comerciantes Unidos,   2002,  Cutervo
+  | Club Deportivo Comerciantes Unidos
+  | Comerciantes Uni
+  | Comerciantes Un.
+  | Asociación Social Deportiva y Cultural Comerciantes Unidos
+
+
+AD Comerciantes FC,  2017,  Iquitos (Belén)      # in Maynas, Loreto,
+  | Comerciantes FC
+  | Asociación Deportiva Comerciantes Fútbol Club
+
+ADT Tarma, Tarma
+  | Asociación Deportiva Tarma
+  | ADT
+  | AD Tarma
+  | Aso. Dep. Tarma
+
+
+FC Carlos Stein,  2012, Lambayeque
+ | Carlos Stein
+ | Asociación FC Carlos Stein
+
+
+Club Sport Rosario,  Huaraz
+  | Sport Rosario
+
+Santos de Nasca FC,  Nazca
+  | Santos de Nasca
+  | Club Social Santos FC
+  | Santos FC
+
+
+Deportivo Llacuabamba
+  | Dep. Llacuabamba
+  | Club Social Cultural Deportivo Llacuabamba

@@ -1,0 +1,170 @@
+=================================
+=  Israel
+
+Hapoel Tel-Aviv FC
+  | H. Tel-Aviv | Hapoel Tel-Aviv
+Maccabi Tel-Aviv FC
+  | Maccabi Tel Aviv | Macc. Tel Aviv | M. Tel-Aviv
+Bnei Yehuda Tel-Aviv FC
+  | Bnei Yehuda
+  | Bnei Yehuda Tel Aviv
+Beitar Tel Aviv Bat Yam FC,  Tel Aviv       ## and Bat Yam
+  | Beitar Tel Aviv | Beitar Tel Aviv Bat Yam
+
+Maccabi Jaffa, Tel Aviv
+
+Maccabi Kabilio Jaffa,  Tel Aviv
+
+
+
+Maccabi Haifa FC
+  | M. Haifa | Maccabi Haifa
+Hapoel Haifa FC
+  | H. Haifa | Hapoel Haifa
+
+Hapoel Kiryat Shmona FC
+  | H. Kiryat Shmona | Hapoel Kiryat Shmona
+  | Hapoel Ironi Kiryat Shmona FC
+  | Hapoel Ironi Kiryat Shmona     # champs (1): 2012/13
+  | Ironi K. Shmona | Ironi Kiryat Shmona
+  | Ironi Kiryat Schmona
+
+Maccabi Netanya FC
+  | M. Netanya | Maccabi Netanya
+
+Beitar Jerusalem FC,    Jerusalem
+  | Beitar Jerus. | Beitar Jerusalem
+
+Hapoel Jerusalem,  Jerusalem
+  | Hapoel Katamon Jerusalem FC
+  | Hap. Kat. Jerusalem | Hapoel Katamon Jerusalem
+  | Hapoel K. Jerusale
+  | Hapoel Jerusalem FC
+
+Hapoel Beer-Sheva FC,  1949,   Be'er Sheva
+  | H. Beer-Sheva | Hap. Beer-Sheva
+  | Hapoel Be'er
+  | Hapoel Be'er Sheva
+
+FC Ashdod,   1999,   Ashdod
+  | Ashdod | FC Ironi Ashdod
+  | Moadon Sport Ashdod
+  | Ashdod SC
+
+Maccabi Ironi Ashdod,   Ashdod
+
+
+
+Hapoel Hadera FC, Hadera
+  | Hapoel Hadera
+
+Hapoel Ra'anana AFC, Ra'anana
+  | H. Ra'anana | Hapoel Ra'anana
+  | Hapoel Ra'anana FC
+
+
+Maccabi Petah Tikva FC, Petah Tikva
+  | M. Petah Tikva | Maccabi Petah Tikva
+  | Macc. Petach Tikva | Mac. Petach Tikva
+  | Maccabi Petach-Tikva FC
+  | Maccabi Petach-Tikva
+  | M. Petach Tik | M. Petach Tikv
+  | M. Petach Tikva
+
+
+Hapoel Petah Tikva FC,   Petah Tikva
+  | H. Petah Tikva | Hapoel Petah Tikva
+  | H. Petach Tikva
+  | Hapoel Petach-Tikva FC     ## fix/todo: check dash(-) if fancy?!
+  | Hapoel Petach-Tikva
+
+Hapoel Kfar-Saba FC
+  | H. Kfar-Saba | Hapoel Kfar-Saba
+
+Sektzia Nes Tziona FC,   Ness Ziona
+  | Nes Tziona | Sektzia Nes Tziona
+  | Sectzya Nes Ziona
+  | Sektzia Ness Ziona FC
+  | Sektzia Ness Ziona
+
+
+Bnei Sakhnin FC,  Sakhnin
+  | Bnei Sakhnin
+  | Bnei Sachnin FC
+
+FC Kafr Qasim, Kafr Qasim
+  | SC Kfar Qasem
+Hapoel Acre FC, Acre
+  | Hapoel Acre  | Hapoel Akko
+  | Hapoel Ironi Akko
+
+Hapoel Afula FC, Afula
+  | Hapoel Afula
+Hapoel Ashkelon FC, Ashkelon
+  | Hapoel Ashkelon
+Hapoel Bnei Lod FC,  Lod
+  | Hapoel Bnei Lod
+Hapoel Nof HaGalil FC, Nof HaGalil
+  | Hapoel Nof HaGalil
+  | H. Nof HaGalil
+
+Hapoel Ramat Gan Giv'atayim FC,  Ramat Gan
+  | Hapoel Ramat Gan | H. Ramat Gan
+  | Hapoel Ramat Gan FC
+
+Hapoel Ramat HaSharon FC,   Ramat HaSharon
+  | Hapoel Ramat HaSharon
+  | Ironi Ramat HaSharon | I. Ramat Hasharon
+  | Hapoel Nir Ramat HaSharon
+
+
+Hapoel Rishon LeZion FC, Rishon LeZion
+  | Hap. Rishon LeZion | Hapoel Rishon LeZion | Hapoel Rishon Lezi
+
+Hapoel Umm al-Fahm FC,   Umm al-Fahm   # in hebrew: Um el-Faḥem
+  | Umm al-Fahm | Hapoel Umm al-Fahm
+  | Hapoel Um el-Fahem
+  | El Fahem
+
+
+Maccabi Ahi Nazareth FC,   Nazareth
+  | M. Ahi Nazareth | Maccabi Ahi Nazareth
+
+
+Maccabi Bnei,  Reineh
+  | Maccabi Bnei Reineh
+  | Maccabi Bnei Raina
+  | Maccabi Bnei Reine
+  | Maccabi Bnei Reineh FC
+  | Maccabi Bnei Reineh Football Club
+
+
+Maccabi Herzliya, Herzliya
+
+Hapoel Herzliya,  Herzliya
+
+
+Ihud Bnei Shefa-'Amr, Shefa-'Amr
+  Ihud Shefa-AMR
+
+Ironi Tiberias,   Tiberias
+  | Ironi Tiberias FC
+
+Maccabi Ironi Kiryat Ata,  Kiryat Ata
+
+Maccabi Yavne,  Yavne
+MS Dimona,  Dimona
+MS Kafr Qasim,  Kafr Qasim
+Tzeirei Kafr Kanna,   Kafr Kanna
+
+Hapoel Marmorek,    Rehovot
+  | Hapoel Ironi Marmorek Rehovot FC
+  | Hapoel Marmorek FC
+
+Hapoel Iksal,  Iksal
+  | Hapoel Imad Iksal
+  | Hapoel Iksal Imad
+
+Hapoel Kfar Shalem,    Kfar Shalem   # neighbourhood of Tel Aviv
+  | Hap. Kfar Shalem
+

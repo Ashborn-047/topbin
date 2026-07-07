@@ -1,0 +1,383 @@
+===================================================
+=  Switzerland
+
+###  by 26  cantons / Kantone
+##
+## ZH	 Zürich	, Zürich  - 	Deutsch
+## BE	 Bern,  Bern	 - 	Deutsch, Französisch
+## LU	 Luzern,	 Luzern	- 	Deutsch
+## UR	 Uri,	 Altdorf	-	Deutsch
+## SZ	 Schwyz,	 Schwyz	-	Deutsch
+## OW	 Obwalden,	 Sarnen	-	Deutsch
+## NW	 Nidwalden,	 Stans	-	Deutsch
+## GL	 Glarus,	 Glarus	-	Deutsch
+## ZG	 Zug,	 Zug	-	Deutsch
+## FR	 Fribourg / Freiburg,	Freiburg	-	Französisch, Deutsch
+## SO	 Solothurn, Solothurn	-	Deutsch
+## BS	 Basel-Stadt,	 Basel	-	Deutsch
+## BL	 Basel-Landschaft, Liestal	-	Deutsch
+## SH	 Schaffhausen,	 Schaffhausen	-	Deutsch
+## AR	 Appenzell Ausserrhoden,	 Herisau -	Deutsch
+## AI	 Appenzell Innerrhoden,	 Appenzell - Deutsch
+## SG	 St. Gallen,	St. Gallen	-	Deutsch
+## GR	 Graubünden,	 Chur	 - Deutsch, Rätoromanisch, Italienisch
+## AG	 Aargau,	 Aarau	-	Deutsch
+## TG	 Thurgau,	 Frauenfeld	-	Deutsch
+## TI	 Ticino / Tessin,	 Bellinzona	-	Italienisch
+## VD	 Vaud / Waadt,	 Lausanne	-	Französisch
+## VS	 Valais / Wallis, Sitten	-	Französisch, Deutsch
+## NE	 Neuchâtel / Neuenburg,	 Neuenburg -		Französisch
+## GE	 Genève / Genf, Genf	 - Französisch
+## JU	   Jura,	 Delsberg -  Französisch
+
+
+
+== Zürich ==
+Grasshoppers Zürich, 1886,  @ Stadion Letzigrund,      Zürich
+  | Grasshoppers
+  | Grasshopper Club Zürich | Grasshopper Zürich
+
+FC Zürich, 1896, @ Stadion Letzigrund,     Zürich
+  | Zürich
+  | Fussball Club Zürich
+ii) FC Zürich II
+
+FC Red Star Zürich,     Zürich
+  | Red Star Zürich
+
+Zürich City,     Zürich
+  | Zürich City SC
+
+YF Juventus Zürich,     Zürich
+  | SC YF/Juventus Zürich
+
+
+
+
+FC Winterthur, 1896,  @ Schützenwiese,      Winterthur
+  | Winterthur
+  | Fussballclub Winterthur
+
+
+== Basel-Stadt ==
+FC Basel, 1893,  @ Sankt-Jakob-Park,        Basel
+  | Basel | FC Basel 1893
+  | Fussball Club Basel 1893
+ii) FC Basel II
+
+FC Black Stars Basel,   Basel
+  | Black Stars Basel
+
+Concordia Basel,  Basel
+
+
+
+== Bern ==
+BSC Young Boys, 1898,  @  Wankdorf,          Bern
+  | Young Boys | Young Boys Bern
+  | Berner Sport-Club Young Boys | BSC YB
+  | YB Bern
+ii) BSC Young Boys II
+
+
+FC Breitenrain Bern
+FC Prishtina Bern
+
+
+FC Biel-Bienne, 1896,     Biel/Bienne
+  | Biel-Bienne
+FC Besa Biel/Bienne
+
+FC Thun, 1898,                 Thun
+  | Thun | FC Thun 1898
+  | FC Thun Berner Oberland
+
+== Luzern ==
+FC Luzern, 1901,   @ Swissporarena,      Luzern    ## use Lucerne [fr] - why??
+  | Luzern
+  | Fussball Club Luzern
+ii) FC Luzern II
+
+
+FC Kickers Luzern,  Luzern
+
+
+SC Kriens, 1944,   Kriens             # a western suburb of Lucerne
+  | Kriens | Sport Club Kriens
+
+== St. Gallen ==
+FC St. Gallen, 1879,    @ Kybunpark,          St. Gallen
+  | St. Gallen | FC St. Gallen 1879
+  | FC Sankt Gallen
+  | Fussball Club St. Gallen 1879
+ii) St. Gallen A.
+
+
+FC Winkeln St. Gallen
+
+Besa St. Gallen
+
+Dardania St. Gallen
+  | KF Dardania St. Gallen
+
+
+
+
+FC Wil, 1900,                   Wil
+  | Wil | FC Wil 1900
+
+== Schaffhausen ==
+FC Schaffhausen, 1896,  Schaffhausen
+
+
+SV Schaffhausen, 1922,  Schaffhausen
+  | Spielvereinigung Schaffhausen
+
+== Aargau ==
+FC Aarau, 1902,                Aarau
+  | Aarau
+FC Wohlen, 1904,          Wohlen
+  | Wohlen
+
+FC Wettingen, 1931,   Wettingen
+  | FC Wettingen 93
+  | Wettingen
+# 1931 (as FC Wettingen)
+# 1993 (as FC Wettingen 1993)
+
+FC Baden,  Baden
+  | Fussballclub Baden 1897
+
+
+== Schwyz ==
+SC Schwyz
+
+== Zug ==
+Zug 94
+
+== Graubünden ==
+Chur 97
+
+
+== Valais ==      ##  Wallis [de]
+FC Sion, 1909, @ Tourbillon,           Sion
+  | Sion
+  | Football Club Sion
+
+
+== Neuchâtel ==
+Xamax Neuchâtel,              Neuchâtel
+  | Xamax
+  | Neuchâtel Xam | Neuchâtel Xamax
+  | Neuchâtel Xamax FC | Neuchâtel Xamax FCS
+
+
+
+FC La Chaux-de-Fonds, 1894,  La Chaux-de-Fonds    # champs (1): 1964/65
+  | Chaux-de-Fonds
+
+
+== Genève ==
+Servette FC, 1890,  @ Stade de Genève,            Genève
+  | Servette | Servette Genève | Servette FC Genève
+  | Servette Football Club
+  | Servette Genf [de] | FC Servette Genf [de] | Genf [de]
+
+
+== Vaud ==       ## Waadt [de]
+FC Lausanne,  1896,  @ Stade de la Tuilière,         Lausanne
+  | Lausanne | FC Lausanne-Sport
+  | Lausanne Sport
+  | Lausanne Sports    #  champs (1): 1965/66
+  | Football Club Lausanne-Sport
+
+## reformed 2001 (formed 1901) ??
+Stade Lausanne-Ouchy,   2001,   @ Olympique de la Pontaise,   Lausanne (Ouchy)
+  | Lausanne-Ouchy
+  | FC Stade Ls Ouchy | FC Stade Lausanne Ouchy
+  | SLO | FC SLO
+  | Football Club Stade Lausanne Ouchy
+# note: a merger between FC Stade Lausanne and FC Ouchy Olympic in 2001
+
+FC Dardania Lausanne,  Lausanne
+
+
+FC Le Mont, 1942,             Le Mont-sur-Lausanne
+  | FC Le Mont-sur-Lausanne
+
+
+Yverdon-Sport FC, 1948, @ Stadion Municipal,  Yverdon-les-Bains
+  | Yverdon-Sport
+  | Yverdon Sport Football Club
+  | Yverdon
+  | FC Yverdon-Sports
+
+
+FC Stade Nyonnais,  Nyon
+  | Stade Nyonnais
+
+Vevey-Sports,   1898,    Vevey
+  | Vevey United | FC Vevey United
+  # formerly FC Vevey United
+
+
+== Ticino ==    ## Tessin [de]
+FC Lugano, 1908,    @  Cornaredo,          Lugano
+  | Lugano
+  | Football Club Lugano
+FC Chiasso, 1905,            Chiasso
+  | Chiasso
+FC Locarno, 1906,    Locarno
+  | Locarno
+AC Bellinzona, 1904,    Bellinzona
+  | Bellinzona
+
+
+
+== Jura ==
+SR Delémont,  1909,   Delémont
+  | Sport-Réunis de Delémont
+
+
+
+
+== ?? ==
+
+#########
+## todo - add clubs to kantons
+
+FC Affoltern
+  | FC Affoltern am Albis
+FC Ajoie-Monterri
+FC Altstätten
+FC Aemme
+FC Allschwil
+US Arbedo
+ASI Audax Friul
+
+FC Bosporus
+FC Buchs AG
+  | FC Buchs
+FC Bulle
+SC Brühl
+  | SC Brühl SG
+FC Bavois
+FC Bischofszell 1913
+FC Breitenrain
+SC Balerna
+FC Begnins
+SC Binningen
+FC Bubendorf
+SC Buochs
+
+Etoile Carouge FC
+SC Cham
+FC Collina d'Oro
+FC Courtételle
+FC CSL
+FC Champel
+Compesieres FC
+FC Chatel St. Denis
+CS Chenois
+FC Coffrane
+
+FC Dietikon
+FC Dübendorf
+FC Dürrenast
+
+FC Echallens
+SC Emmen
+FC Echichens
+FC Escholzmatt-Marbach
+
+FC Frutigen
+
+FC Gambarogno-Contone | FC Gambarogno
+FC Genolier-Begnins
+FC Grand-Saconnex
+FC Greifensee
+FC Gunzwil
+FC Gland
+FC Goldstern
+
+FC Haute-Gruyère
+FC Haute-Ajoie
+SV Höngg
+FC Hausen am Albis
+AS Haute-Broye
+
+FC Ibach
+
+FC Kreuzlingen
+FC Köniz
+VfR Kleinhüningen
+
+FC Lancy
+FC Langenthal
+Le Locle Sports
+FC Linth 04
+FC Laufen
+FC Lachen/Altendorf
+FC Littau
+
+AC Malcantone
+  | FC Malcantone
+FC Mendrisio
+FC Meyrin
+FC Monthey
+FC Muri
+FC Münsingen
+
+FC Onex
+
+FC Porrentruy
+FC Paradiso
+FC Printse-Nendaz
+Italien Pertandingan
+FC Portalban/Gletterens
+
+FC Rorschach
+FC Rotkreuz
+FC Rapperswil-Jona
+  | Rapperswil-Jona
+FC Regensdorf
+
+FC Saint-Blaise
+FC Savièse
+FC Schönenwerd-Niedergösgen
+FC Solothurn,       Solothurn
+Iliria Solothurn,   Solothurn
+  | FC Iliria Solothurn
+FC Subingen
+FC Suhr
+FC Schattdorf
+Signal FC
+  | FC Signal
+Sarmenstorf FC
+FC Saxon Sports
+FC Schoenberg
+FC Sternenberg
+FC Saint-Prex
+FC Seuzach
+FC Someo
+FC St.-Leonard
+SC Schöftland
+FC Schötz
+FC Sierre
+
+AC Taverne
+FC Tuggen
+
+FC Unterstrass
+FC Ursy
+
+FC Wallbach
+FC Wettswil-Bonstetten
+FC Widnau
+FC Winkeln SG
+FC Wiedikon ZH
+FC Wittenbach
+
+FC Zollbrück
+
+

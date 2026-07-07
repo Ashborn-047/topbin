@@ -1,0 +1,839 @@
+========================
+= Österreich • Austria
+
+
+#
+# todo/fix
+#   split into nine files (for nine bundesländer) - why? why not?
+#      use at.noe.clubs.txt   or at.n.clubs.txt
+#          at.wien.clubs.txt  or at.w.clubs.txt
+#            etc.
+#           check what abbreviation to use (w,n or wien,noe, etc.)
+
+
+
+== Wien ==
+
+SK Rapid Wien, 1899,  @ Allianz Stadion,   Wien (Hütteldorf)
+  | Rapid | Rapid Wien | SK Rapid
+  | Sportklub Rapid Wien
+  | Rapid Vienna [en]
+ Keisslergasse 3 // 1140 Wien
+ii) SK Rapid Wien II
+  | Rapid Wien II | Rapid II
+  | Rapid Wien Am. | Rapid Wien A.
+  | SK Rapid Amateure
+
+FK Austria Wien, 1911,  @ Generali Arena,   Wien (Favoriten)
+  | Austria | Austria Wien
+  | Fussballklub Austria Wien
+  | Austria Vienna [en]
+  | FAK
+ Fischhofgasse 12 // 1100 Wien
+ii) Young Violets Austria Wien
+  | Young Violets | Y. Violets Austria | Young Violets A. W.
+  | Y. Violets
+  | FK Austria Wien II
+  | Austria Wien Amat.| Austria Wien A. | Austria Wien Amateure
+
+
+
+TWL Elektra,   Wien (Favoriten)
+  | TWL Elektra Wien
+  | Team Wiener Linien/Elektra
+  | SC Team Wiener Linien
+  | Wiener Linien
+  | Team Wiener Linien | SC Team Wr. Linien
+## in der Saison 2021/22 mit dem ASK Elektra Wien
+##  zum TWL Elektra fusionierte
+
+ASK Elektra Wien (-2021),     Wien (Leopoldstadt)
+  | ASK Elektra
+  | AS Koma Elektra | Athletic Sportklub Koma Elektra
+# 1921 als SC Elektra Wien
+# 2013 Fusion des FS Elektra mit dem 1984 gegründeten AS Koma
+
+
+Favoritner AC,   1910,  Wien (Favoriten)
+  | FavAC
+  | Favoritner Athletikclub
+
+
+SV Wienerberg,  1921,  Wien (Favoriten)     ## aus dem Wiener Stadtteil Inzersdorf-Stadt am Fuße des Wienerbergs
+  | SV Wienerberg 1921
+
+
+Wiener Sport-Club,       Wien (Hernals)
+  | Wiener Sportklub | Wiener SK | Wr. Sportklub
+  | Wiener SC
+  | Sportclub
+  | Wr. Sportclub
+
+First Vienna FC,  1894,  Wien (Döbling)
+  | Vienna | Vienna FC 1894 | First Vienna FC 1894
+  | First Vienna
+
+Floridsdorfer AC,  1904,  Wien (Floridsdorf)
+  | FAC Team für Wien
+  | FAC Wien
+  | FAC
+
+
+Wiener Viktoria,         Wien (Meidling)
+  | SC Wiener Viktoria
+  | Wr. Viktoria
+
+
+FC Mauerwerk,            Wien (Simmering)
+  | Mauerwerk
+  | Karabakh Wien | FC Karabakh Wien
+# Von September 2014 bis Juni 2018 spielte der Verein
+#   unter dem Namen "FC Karabakh Wien"
+
+
+SC Ostbahn XI,           Wien (Simmering)
+
+
+Admira Landhaus
+  | ISS Admira Landhaus
+  | Technopool Admira | Admira Technopool
+# 2009 Fusion zwischen ISS Admira Landhaus und SC Technopool Brigittenau
+# 2018 war alles wieder vorbei... Mauerwerk Sport Admira... FC Floridsdorf...????
+
+
+Sportunion Mauer
+  | Union Mauer | Mauer
+
+
+SR Donaufeld,   Wien (Floridsdorf)
+  | Donaufeld | SR Donaufeld Wien
+  | SV Rasenspieler Donaufeld Wien
+
+SV Donau Wien,  Wien (Donaustadt)
+  | SV Donau
+  | Sportvereinigung Donau
+
+
+FC Stadlau
+SC Red Star Penzing
+  | Red Star Penzing
+
+
+FV Austria XIII
+  | A-XIII $$Auhof Center$$
+  | Austria XIII $$Auhof Center$$
+  | Austria XIII
+
+
+Post SV Wien
+
+FC Hellas Kagran,  Wien (Donaustadt)  # aus Kagran im 22. Wiener Gemeindebezirk Donaustadt
+  | Hellas Kagran
+
+
+== Burgenland ==
+
+SV Mattersburg,  1922,  @  Pappelstadion,  Mattersburg
+  | Mattersburg
+  | Sportverein Mattersburg
+  | Sportvereinigung Mattersburg
+ Michael Koch Straße 50 // 7210 Mattersburg
+ii) SV Mattersburg II
+  | SV Mattersburg Am. | SV Mattersburg Amateure
+
+SC Neusiedl am See,  Neusiedl am See
+  | SC Neusiedl | Neusiedl am See | SC Neusiedl am See 1919
+  | SC Neusiedl/See | SC Neusiedl/See 1919
+  | Neusiedl
+
+ASV Draßburg, Draßburg
+  | Draßburg
+
+
+SC-ESV Parndorf,   Parndorf
+  | Parndorf | SC-ESV Parndorf 1919
+  | SC/ESV Parndorf | SC/ESV Parndorf 1919
+  | SC Parndorf
+
+SV Stegersbach,    Stegersbach
+
+SV Oberwart,   Oberwart
+  | Oberwart
+
+SV Heiligenkreuz
+
+SC Pinkafeld
+SV Wimpassing
+  | Wimpassing
+SC Ritzing
+  | Ritzing
+SC Trausdorf
+
+ASV Siegendorf
+  | Siegendorf | ASV Siegendorf 1930
+SV Neuberg
+SV St. Margarethen
+ASK Baumgarten
+ASKÖ Stinatz
+USV Rudersdorf
+SC Bad Sauerbrunn
+
+FC Deutschkreutz, 1984, Deutschkreutz
+
+
+== Niederösterreich ==
+
+FC Admira Wacker Mödling, 1905, Maria Enzersdorf (Südstadt)    ## Südstadt ist ein Ortsteil der Marktgemeinde Maria Enzersdorf
+  | Admira | Admira Wacker
+  | FC Admira | FC Admira Wacker | Admira Wacker Mödling
+  | FC $$Flyeralarm$$ Admira
+  | Fussballklub $$Trenkwalder$$ Admira Wacker Mödling
+  | Fussballklub $$Flyeralarm$$ Admira Wacker Mödling
+  | Admira Wien        ## historic Admira Wien name add (-????) or something
+  | SK Admira Wacker Wien
+  | SK Admira Vienna [en]
+ Johann Steinböck Strasse 5b // 2344 Maria Enzersdorf      ## Mödling
+ii) FC Admira Wacker Mödling II
+  | FC Admira Wacker II
+  | Admira Amateure | Admira Juniors
+
+
+VfB Mödling (1911-1977),  Mödling
+  | Verein für Bewegungsspiele Mödling
+# Fusion mit Fusion mit FC Admira/Wacker aus der Südstadt
+#    zum VfB Admira Wacker Mödling
+
+
+SC Wiener Neustadt, 1908,  @ Wiener Neustädter Stadion,  Wr. Neustadt
+  | Neustadt | Wr. Neustadt | SC Wr. Neustadt | Wiener Neustadt
+  | Sport Club $$Magna$$ Wiener Neustadt
+ Giltschwertgasse 81 // 2700 Wr. Neustadt
+
+1. Wiener Neustädter SC, 2008,   Wr. Neustadt
+  | 1. Wiener Neustädter Sportclub
+
+
+SKN St. Pölten, 2000,      St. Pölten
+  | St. Pölten | Sportklub Niederösterreich St. Pölten
+  | SKN Sankt Pölten
+  | $$Spusu$$ SKN St. Pölten
+  | $$spusu$$ Sportklub Niederösterreich St. Pölten
+
+ii) SKN St. Pölten Juniors
+  | St. Pölten Amat.
+
+
+VSE St. Pölten (1920-1998), St. Pölten
+  | Voith-Schwarze Elf St. Pölten
+
+
+SV Horn,  1922,   Horn
+  | Horn
+ii) Horn Amateure
+  | SV Horn II
+
+SKU Amstetten,   Amstetten
+  | Amstetten SKU
+  | SKU $$Ertl Glas$$ Amstetten
+  | Amstetten
+
+ASK Ebreichsdorf,   Ebreichsdorf
+
+FC Marchfeld,  Mannsdorf an der Donau
+  | Marchfeld Donauaue | FC Marchfeld Donauauen
+  | Mannsdorf-Großenz. | FC Mannsdorf/Großenzersdorf
+  | FC Marchfeld Mannsdorf | FC Marchfeld/M.
+  | Marchfeld
+  | SC Mannsdorf     # vormals (alter name)
+
+SV Leobendorf,     Leobendorf
+  | Leobendorf
+SV Stripfing,      Stripfing    # Gemeinde Weikendorf
+  | Stripfing
+  | SV Stripfing/Weiden
+
+FCM Traiskirchen,  Traiskirchen
+  | Traiskirchen
+ASK-BSC Bruck/Leitha,  Bruck an der Leitha
+  | Bruck/Leitha
+1. SC Sollenau,  Sollenau
+  | Sollenau | SC Sollenau
+
+SV Schwechat, Schwechat
+  | Schwechat SV
+
+ASK Bad Vöslau
+SC Retz
+  | Retz
+SCU Ardagger         # Bezirk Amstetten
+  | SC Union Ardagger
+  | Ardagger SCU
+  | SG Ardagger/Viehdorf | Ardagger/Viehdorf
+
+SV Gaflenz
+FC Rohrendorf/Gedersdorf
+  | SC Rohrendorf
+  | SC Rohrendorf/Gedersdorf
+SC Leopoldsdorf
+  | SC Leopoldsdorf i. Mfd.
+  | SC Leopoldsdorf/Mfd.
+ATSV Ober-Grafendorf
+  | Ober-Grafendorf
+ASK Kottingbrunn
+ASV Spratzern
+ASV Schrems,  Schrems
+ASKÖ Gmünd,   Gmünd
+
+SC Krems,  Krems
+  | Kremser SC
+  | SG Kremser SC/Rehberg
+  | Krems
+
+
+#  add Gebietsliga NW/Wald.  --  6-noe-nordwest-waldviertel
+SC Guntersdorf
+  | Guntersdorf
+SC Echsenbach
+  | Echsenbach | SC $$Hartl Haus$$
+SC St. Martin
+  | St. Martin
+SC Weißenkirchen
+  | Weißenkirchen
+SV Rehberg
+  | Rehberg
+SV Sieghartskirchen
+  | Sieghartskirchen
+SV Zwentendorf, Zwentendorf
+  | Zwentendorf
+USC Altenwörth, Altenwörth
+  | Altenwörth
+USC Grafenwörth, Grafenwörth
+  | Grafenwörth
+USC Kirchberg/W., Kirchberg/W.
+  | Kirchberg/W.
+USC Schweiggers
+  | Schweiggers
+USV Groß Gerungs
+  | Groß Gerungs
+USV Langenlois, Langenlois
+  | Langenlois
+
+SV Haitzendorf,   Haitzendorf
+  | Haitzendorf
+
+SC Admira Gföhl,   Gföhl
+USV Raabs/Thaya
+
+SV Gloggnitz,  Gloggnitz
+  | Gloggnitz
+USV Scheiblingkirchen-Warth
+ASC Götzendorf
+SC Brunn am Gebirge
+SVg Purgstall
+
+
+SC Korneuburg,   Korneuburg
+  | Korneuburg
+
+
+
+== Oberösterreich ==
+
+LASK Linz, 1899,   @ Raiffeisen Arena,   Linz (Pasching)          ## use Pasching ??
+  | LASK | Linzer ASK
+  | Linzer Athletik Sport-Klub Linz
+ii) LASK Amateure OÖ
+  | LASK Juniors OÖ
+
+
+FC Juniors OÖ,      Linz (Pasching)
+  | Juniors OÖ        ##  bis Juli 2017 FC Pasching (merge with FC Pasching!! see below)
+## todo/(double) check: is a not a feeder / reserve team / club ?
+## After the rise of LASK Juniors OÖ in the 2. Liga in the 2017–18 season,
+#   the syndicate is dissolved.
+# The FC Juniors OÖ will play as an independent club
+#  in the second league, but continue to cooperate with the LASK
+
+
+FC Pasching,   2007        Linz (Pasching)
+  | Pasching
+  | FC Superfund Pasching
+# im Jahr 2007 als FC Superfund Pasching neu gegründet
+
+ASKÖ Pasching (1946-2007), Linz (Pasching)
+  | FC Superfund
+  | SV PlusCity Pasching
+# unter den Sponsorbezeichnungen SV PlusCity Pasching und FC Superfund
+#   von 2002/03 bis 2006/07 insgesamt fünf Saisonen in der Bundesliga.
+# Medial wurde in dieser Zeit der Verein auch mit
+# den umgangssprachlichen Namen SV Pasching, FC Pasching
+# bezeichnet.
+
+FC Blau-Weiß Linz,   @ Hofmann Personal Stadion, Linz
+  | BW Linz | Blau-Weiß Linz
+  | Fußball Club Blau-Weiß Linz
+
+FC Stahl Linz,       Linz
+  | SK VOEST Linz
+  | FC Linz
+  | Linz
+##
+## add support for historic names - how?
+#
+# FC Stahl Linz | FC Linz (1991-1997, 2013-), 1946,  Linz
+#  | SK VÖEST Linz (1946-1978)
+#  | SK VOEST Linz (1978-1990)
+#  | FC VOEST Linz (1990-1991)
+
+
+Union Edelweiß Linz,   Linz
+  | Edelweiß Linz     ## use Edelweiss why? why not?
+  | SPG Edelweiss Linz/$$Neue Heimat$$
+
+
+ASKÖ Donau Linz, Linz
+  | Donau Linz
+
+
+SV Ried,  1912,  @ Keine Sorgen Arena,     Ried i. Innkreis
+  | Ried
+  | SV $$Josko$$ Ried
+  | SV $$Josko Fenster$$ Ried     ## note: Josko is a sponsor
+  | Sportvereinigung $$Josko Fenster$$ Ried
+  | SV $$Guntamatic$$ Ried
+  | Sportvereinigung Ried von 1912
+ Volksfestplatz 2 // 4910 Ried i. Innkreis
+ii) SV Ried II
+  | Junge Wikinger | Junge Wikinger Ried
+
+SK Vorwärts Steyr,   Steyr
+  | Vorw. Steyr | Vorwärts Steyr
+
+
+FC Wels,         Wels   ### fix - add (-2023) ??
+  | Wels FC
+WSC Hertha Wels, Wels   ### fix - add (-2023) ??
+  | WSC Hertha
+  | Hertha Wels
+
+FC Hertha Wels,  2023,  Wels      ## note - starting in 2023/24
+  | SPG Hertha Wels  | SPG Wels
+  | SPG $$HOGO$$ Wels   ## HOGO is sponsor name
+## note - SPG Wels  - merger of FC Wels & WSC Herta Wels
+##
+## Zur Saison 2023/24 ging Hertha Wels eine Spielgemeinschaft
+## mit dem Stadtrivalen FC Wels ein und firmierte
+## in jener Saison als SPG Wels.
+## Zur Saison 2024/25 fusionierten die beiden Teams,
+## die Hertha trägt seither den Namen FC Hertha Wels.
+
+
+Union Vöcklamarkt, Vöcklamarkt
+  | Vöcklamarkt
+  | UVB Vöcklamarkt
+
+
+ATSV Stadl-Paura, Stadl-Paura
+  | Stadl-P. ATSV
+  | Stadl-Paura
+Union Gurten,        Gurten
+  | Gurten
+  | Union $$Raiffeisen$$ Gurten
+
+
+Union St. Florian,  St. Florian
+  | St. Florian
+  | St. Florian/Niederneukirchen
+  | SPG Union St. Florian/Niederneukirchen
+
+
+SV Wallern
+  | Wallern | Wallern/St. M. | Wallern/St. Marienk. | Wallern/St. Marienkirchen
+  | SPG SV Wallern/St. M. | SPG SV Wallern/St. Marienkirchen
+  | SPG Wallern/St. Marienkirchen
+  | SV $$Zaunergroup$$ Wallern
+
+
+SV Grün-Weiß Micheldorf
+  | SV GW Micheldorf
+  | Micheldorf | SV Micheldorf
+
+
+ASKÖ Oedt
+SV Grieskirchen
+  | Grieskirchen
+SK Bad Wimsbach
+
+Union Dietach
+  | Dietach
+
+Union Weißkirchen
+  | SPG Weißkirchen/Allhaming
+
+
+Union St. Martin/M.
+  | Sportunion St. Martin im Mühlkreis
+
+SV Bad Schallerbach
+
+Union Mondsee
+
+Union Ostermiething
+
+SPG Friedburg/Pöndorf
+  | SPG Friedburg/P.
+  | SV Friedburg
+
+SV Bad Ischl
+SU Bad Leonfelden
+
+Union Perg
+  | DSG Union Perg
+
+SPG Pregarten
+
+ASK St. Valentin
+
+SV Gmunden
+Union Rohrbach/Berg
+  | UFC Rohrbach-Berg
+
+SC Marchtrenk
+
+
+
+
+== Steiermark ==
+
+SK Sturm Graz, 1909,   @ Merkur Arena,   Graz
+  | Sturm | Sturm Graz
+  | SK $$Puntigamer$$ Sturm Graz
+  | Sportklub $$Puntigamer$$ Sturm Graz
+ Sternäckerweg 118 // 8042 Graz
+ii) SK Sturm Graz II
+  | Sturm Graz II | Sturm II
+  | Sturm Graz Amat. | Sturm Graz A.
+  | Sturm Amateure | Sturm A.
+
+Grazer AK,   Graz
+  | GAK | GAK 1902
+  | Grazer AK 1902
+
+TSV Hartberg, 1946,    @ Profertil Arena Hartberg,   Hartberg
+  | TSV | Hartberg
+  | TSV $$Sparkasse$$ Hartberg
+  | TSV $$Prolactal$$ Hartberg
+  | Turn- und Sportverein Hartberg
+  | Turn- und Sportverein $$Prolactal$$ Hartberg
+
+
+Kapfenberger SV,   Kapfenberg
+  | KSV | KSV 1919 | Kapfenberger SV 1919
+  | Kapfenberg 1919
+  | Kapfenberg
+ii) Kapfenberger SV II
+
+
+SV Lafnitz,   Lafnitz
+  | Lafnitz
+  | SV $$Licht-Loidl$$ Lafnitz
+
+
+SV Frauental, Frauental an der Laßnitz
+  |
+  | Sportverein Frauental
+
+USV Allerheiligen,     Allerheiligen bei Wildon
+  | Allerheiligen | SV Allerheiligen
+  | SV $$Raiffeisen$$ Allerheiligen
+
+
+SV Wildon
+  | SV $$Raiffeisen$$ Wildon
+  | Wildon
+  | Wildon SV
+
+TuS Bad Gleichenberg,  Bad Gleichenberg
+  | Bad Gleichenberg
+Deutschlandsberger SC, Deutschlandsberg
+  | Deutschlandsberg
+  | DSC Deutschlandsberg
+  | DSC
+
+FC Gleisdorf 09,       Gleisdorf
+  | Gleisdorf | FC Gleisdorf
+SC Kalsdorf,           Kalsdorf
+  | Kalsdorf
+USV St. Anna,          St. Anna am Aigen
+  | St. Anna/Aigen | St. Anna am Aigen | St. Ann/A.
+  | USV St. Anna/A. | USV St. Anna am Aigen
+
+SC Weiz,               Weiz
+  | Weiz
+
+DSV Leoben,      Leoben
+FC Gratkorn,     Gratkorn
+FC Lankowitz
+  | FC Piberstein Lankowitz
+
+USV Mettersdorf
+
+
+ASK Voitsberg, 1921,  Voitsberg
+  | Arbeiter Sport-Klub Voitsberg
+  | Voitsberg
+
+
+== Kärnten ==
+
+Wolfsberger AC, 1931,  @ Lavanttal-Arena,   Wolfsberg
+  | Wolfsberg | Wolfsberger | AC Wolfsberger | Wolfsberger Athletik Club
+  | WAC
+  | WAC/St. Andrä | Wolfsberger AC/St. Andrä
+  | $$RZ Pellets$$ WAC           ## $$$ note: RZ Pellets is a sponsor name
+  | $$Riegler & Zechmeister Pellets$$ Wolfsberger Athletik Club
+ Don Bosco Weg 1 // 9400 Wolfsberg
+ii) Wolfsberger AC II
+  | WAC Amateure | WAC A.
+
+# note: Durch eine Kooperation mit dem SK St. Andrä trat der Verein von 2007 bis 2012
+#  unter den Namen Wolfsberger AC/St. Andrä in der Ersten Liga
+
+
+ATSV Wolfsberg, 	Wolfsberg
+
+Austria Klagenfurt,   @ Wörthersee Stadion, Klagenfurt
+  | A. Klagenfurt | Aus. Klagenfurt
+  | SK Austria Klagenfurt | SG Austria Klagenfurt
+  | Sportklub Austria Klagenfurt
+  | Klagenfurt   ## top club from Klagenfurt - use !! or such for piority if multiple?
+  | FC Kärnten     ## todo: keep as separate club - why? why not?
+  | Kärnten
+## FC Kärnten | Kärnten  in uefa europa 2001/02, 2002/03, 2003/04
+
+
+Austria Kärnten (2007-2010), Klagenfurt
+  | SK Austria Kärnten
+
+SAK Klagenfurt, Klagenfurt
+  | Slovenski atletski klub | Slowenischer AK
+  | SAK Celovec/Klagenfurt
+
+ASV Annabichler SV 1923,   Klagenfurt (Annabichl)
+  | ASV
+  | Annabichler SV | Annabichler Sportverein
+
+
+ASK Klagenfurt,  1945, Klagenfurt (St. Peter bei Ebenthal)
+  | Arbeitersportclub Klagenfurt
+  | SG ASK/HSV Klagenfurt
+
+
+ATUS Velden,   Velden
+  | Velden
+
+
+Villacher SV, Villach
+
+SV Spittal/Drau
+  | Spittal/Drau
+  | SV Spittal
+
+FC St. Veit
+  | FC Sankt Veit
+FC Lendorf
+  | Lendorf
+  | SV Lendorf
+  # Der Verein wurde 1981 als Fußballsektion des SV Lendorf gegründet
+  #   und trug daher auch den Namen SV Lendorf
+
+ASKÖ Köttmannsdorf
+  | Köttmannsdorf
+
+VST Völkermarkt,    Völkermarkt
+  | Völkermarkter ST 1868
+  | Völkermarkter Sport- und Turnverein 1868
+
+SK Treibach
+  | Treibach
+SK Maria Saal
+
+ATUS Ferlach,  Ferlach
+
+SV St. Jakob/Rosental
+  | SV St. Jakob/R. | SV St. Jakob Rosental
+  | SV St. Jakob im Rosental
+
+SV Dellach/Gail,    Dellach
+  | Dellacher Sportverein
+
+
+== Salzburg ==
+
+FC RB Salzburg, 1933,  @ Red Bull Arena,   Salzburg (Wals-Siezenheim)         ## use Wals-Siezenheim ??
+  | Salzburg | FC Salzburg | RB Salzburg | Red Bull Salzburg
+  | FC Red Bull Salzburg
+  | Football Club Red Bull Salzburg
+ Stadionstraße 2/3 // 5071 Wals-Siezenheim   ## Salzburg
+ii) FC RB Salzburg II        ## check for old name until season 2011/12 - now "independent" Liefering?
+  | RB Salzburg II | FC Red Bull Salzburg II
+  | FC RB Juniors Salzburg
+
+Austria Salzburg,    Salzburg
+  | A. Salzburg | SV Austria Salzburg
+
+FC Liefering,  1947      #  note: Liefering - Stadtteil von Salzburg -- add as RB Salzburg II - why? why not?
+  | Liefering
+USK Anif
+  | USK $$Maximarkt$$ Anif
+
+
+SAK 1914,     1914, Salzburg
+  | Salzburger AK 1914 | SAK 1914 Salzburg
+
+SV Grödig,  1948,           Grödig
+  | Grödig
+  | Sportverein Grödig
+ Prötschhofstrasse 26 // 5082 Grödig
+ii) SV Grödig II
+
+
+SV Seekirchen
+  | SV Seekirchen 1945
+FC Pinzgau Saalfelden
+  | Pinzgau Saalfelden
+  | FC Pinzgau
+TSV St. Johann,   St. Johann im Pongau
+  | TSV St. Johann Pongau | TSV St. Johann im Pongau
+  | $$McDonald's$$ St. Johann/Pongau
+
+SV Wals-Grünau
+SV Kuchl
+Bischofshofen Sportklub 1933
+  | SK Bischofshofen
+TSV Neumarkt
+  | TSV Neumarkt am Wallersee
+USC Eugendorf
+SC Golling
+
+FC Zell am See,  Zell am See
+SV Straßwalchen
+FC Bergheim
+
+
+
+== Tirol ==
+
+FC Wacker Innsbruck, 1913, Innsbruck
+  | Innsbruck | FC Wacker | W. Innsbruck | Wacker Innsbr | Wacker Innsbruck
+  | Fußballclub Wacker Innsbruck
+  | FC Tirol | FC Tirol Innsbruck              ## note: FC Tirol old name - add year
+  | SSW Innsbruck | Spielgemeinschaft $$Swarovski$$ Wacker Innsbruck   # champs (7): 2002..2000 (2) 1977/78 1975/76 1974...1971 (3)
+  | Wacker
+ Stadionstraße 1b // 6020 Innsbruck
+ii) FC Wacker Innsbruck II
+  | Wack. Innsbruck II | Wacker Innsbruck II
+
+SV Innsbruck, Innsbruck   ## Tiroler Liga
+
+Union Innsbruck,  Innsbruck
+  | FC Union Innsbruck
+
+
+WSG Tirol, 1930,   Wattens
+  | Tirol | WSG
+  | WSG $$Swarovski$$ Tirol | WSG $$Swarovs.$$ Tirol | Wattener Sportgemeinschaft Tirol
+  | $$S.$$ Tirol | $$Swarovski$$ Tirol
+  | Wattens | WSG Wattens | WSG $$Swarovski$$ Wattens        ## $$$ note: Swarovski is a sponsor
+  | Wattener Sportgemeinschaft $$Swarovski$$ Tirol
+ii) WSG Tirol Amateure
+
+
+SC Schwaz,    Schwaz
+  | Schwaz
+FC Kitzbühel, Kitzbühel
+  | Kitzbühel
+FC Kufstein,  Kufstein
+  | Kufstein
+
+SV Telfs
+SV Wörgl
+SC Imst
+  | SC Imst 1933
+SV Hall
+SVG Reichenau
+  | Reichenau SVG
+  | SVG Reichenau-Innsbruck
+
+FC Zirl
+  | Zirl
+SV Reutte
+SC Kundl
+
+SV Fügen,    Fügen   # im Bezirk Schwaz
+
+SPG Silz/Mötz
+
+
+== Vorarlberg ==
+
+SCR Altach, 1929,   @ Cashpoint-Arena,  Altach
+  | Altach
+  | Rheindorf Altach | SC Rheindorf Altach | Sportclub Rheindorf Altach
+  | $$Cashpoint$$ SCR Altach
+  | $$Cashpoint$$ Sportclub Rheindorf Altach
+ Schnabelholz 1 // 6844 Altach
+ii) SCR Altach Juniors
+  | Altach Amateure
+
+Austria Lustenau, 1914,   Lustenau
+  | A. Lustenau | SC Austria Lustenau
+  | Sportclub Austria Lustenau
+  | Lustenau
+ii) Austria Lustenau Amateure
+  | SC Austria Lustenau Amateure
+  | Austria Lustenau A.
+
+FC Lustenau 07,   1907,  Lustenau
+  | FC Lustenau | FC Lustenau 1907
+
+FC Dornbirn 1913,  Dornbirn
+  | Dornbirn | FC Dornbirn
+  | FC $$Mohren$$ Dornbirn 1913
+
+Dornbirner SV,     Dornbirn
+  | Dornbirner Sportverein
+  | $$Hella$$ Dornbirner SV
+
+SC Admira Dornbirn,  Dornbirn
+  | Sportclub Admira Dornbirn
+
+
+FC Höchst
+  | Höchst
+VfB Hohenems
+  | Hohenems
+  | $$World-of-Jobs$$ Hohenems
+
+
+FC Wolfurt
+  | $$Meusburger$$ FC Wolfurt      ## $$$ Meusburger is a sponsor
+
+SW Bregenz,   Bregenz
+  | Schwarz-Weiß Bregenz | SC Schwarz-Weiß Bregenz
+  | Bregenz SW
+  | SC Bregenz     ## todo/check if SC Bregenz exists as its own independent club??
+  | Bregenz
+
+FC Hard
+  | Hard
+FC Langenegg
+  | SPG FC Langenegg
+FC Lauterach
+RW Rankweil
+SC Röthis
+  | SC $$Röfix$$ Röthis           ## $$$ note: Röfix is a sponsor
+
+FC Alberschwende
+FC Schwarzach
+

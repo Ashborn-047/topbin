@@ -1,0 +1,107 @@
+===================================
+=  Slovenia
+
+NK Olimpija Ljubljana,   Ljubljana
+  | Olimpija Ljubljana
+  | Ol. Ljubljana
+NK IB Ljubljana,   Ljubljana
+  | IB Ljubljana
+
+NK Bravo, 2006,  Ljubljana
+  | Bravo
+  | Nogometni klub Bravo
+
+
+NK Maribor, Maribor
+  | Maribor
+
+
+NŠ Mura,    Murska Sobota
+  | Nogometna šola Mura   # en - Mura Football School
+  | Mura
+
+ND Mura 05 (2005-2013),   Murska Sobota
+  | Nogometno društvo Mura 05
+  | Mura 05
+## The club emerged after the dissolution of NK Mura
+
+NK Mura (1924-2005), Murska Sobota
+  | Nogometni klub Mura   # en - Mura Football Club
+
+
+FC Koper
+  | Koper
+  | NK Koper
+
+ND Gorica
+  | Gorica
+  | Nova Gorica
+
+
+NK Domžale
+  | Domžale
+NK Rudar Velenje
+  | Rudar Velenje
+NK Celje
+  | Celje
+NK Aluminij
+  | Aluminij
+ASK Bravo Publikum
+  | ASK Bravo
+NK Tabor Sezana
+  | Tabor
+NK Triglav
+  | Triglav
+NK Radomlje
+  | Radomlje
+
+NK Nafta 1903,      Lendava
+ | Nafta 1903 | NK Nafta Lendava 1903
+ | NK Nafta Lendava | Nafta Lendava    ## note: ND Lendava 1903 is legally not considered to be the successor of NK Nafta Lendava - keep them separate here too? why? why not?
+ | NK Nafta | Nafta
+
+
+NK Krško, 1922,   Krško
+  | Krško | Nogometni Klub Krško
+
+
+NK Primorje (1924-2011),  Ajdovščina
+ | Primorje | Nogometni Klub Primorje
+
+ND Primorje, 2011,  Ajdovščina
+  | Nogometno društvo Primorje Ajdovščina
+
+
+
+
+
+
+MNK Izola,  1996,  	@ Izola City Stadium, Izola
+  | Mladinski Nogometni Klub Izola
+  | Izola | NK Izola
+
+
+NK Izola (1923-1996),  Izola
+  | Izola
+  | Nogometni Klub Izola
+# Note: For the currently active club, see MNK Izola
+## todo/fix - use  NK Izola (-1996) and/or NK Izola (1996)
+##    as canonical name - why? why not?
+##   check if possible NK Izola and NK Izola (1923-1996)
+#
+#  Izola played in the 1992–93 UEFA Cup (europa_1992-93), losing to Benfica
+
+NK Rogaška,   Rogaška Slatina
+ | Nogometni klub Rogaška
+ | Rogaška
+
+
+NK Bistrica,     Slovenska Bistrica
+  | Nogometni klub Bistrica
+  | Bistrica
+
+
+ND Beltinci,   Beltinci
+  | Nogometno društvo Beltinci
+#  established in 2006 as a phoenix club of NK Beltinci
+

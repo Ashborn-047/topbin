@@ -1,0 +1,234 @@
+====================================
+=  Portugal
+
+SL Benfica,       Lisboa
+  | Benfica | Benfica Lis. | Benfica Lisboa
+  | Sport Lisboa e Benfica
+  | Benfica Lissab [de] | Benfica Lissabon [de]
+ii) SL Benfica B
+  | Benfica B | Sport Lisboa e Benfica B
+  | Benfica Lissabon B [de]
+
+Sporting CP,      Lisboa
+  | Sporting
+  | Sporting Lisboa | Sporting Clube de Portugal
+  | Sp Lisbon [en]
+  | Sporting CP Lisbon
+  | Sporting Liss. [de] | Sporting Lissabon [de]
+
+Os Belenenses,    Lisboa
+  | Belenenses | Belenenses L. | Belenenses SAD
+  | CF Os Belenenses
+  | Os Belenenses Futebol
+  | Os Belenenses - Sociedade Desportiva de Futebol SAD
+  ## note - SAD == Sociedade Anónima Desportiva
+
+Casa Pia,         Lisboa
+  | Casa Pia AC | Casa Pia Atlético
+  | Casa Pia Atlético Clube
+
+UD Vilafranquense (-2023),    Vila Franca de Xira   # a municipality in the Lisbon District
+  | Vilafranquense | União Desportiva Vilafranquense
+#  merged with AVS Futebol SAD in 2023
+
+
+CD Mafra,  Mafra                            # a city and a municipality in the district of Lisbon
+  | Mafra | Clube Desportivo Mafra
+
+SC União Torreense, 1917,   Torres Vedras   #  a municipality in the district of Lisbon
+  | União Torreense
+  | SCU Torreense | Sport Clube União Torreense
+  | Sport União Torreense
+
+
+CD Cova Piedade,  1947,    Cova da Piedade
+  | Cova da Piedade
+  | Clube Desportivo Cova da Piedade
+#  resulting from the merge between União Piedense Futebol Clube,
+#    founded in 9 April 1914, and Sporting Clube Piedense
+
+Estoril Praia, Estoril
+  | Estoril
+  | GD Estoril Praia | Grupo Desportivo Estoril Praia
+  | GD Estoril
+
+
+
+FC Porto,     Porto
+  | Porto | Futebol Clube do Porto
+ii) FC Porto B
+  | Porto B | Futebol Clube do Porto B
+
+Boavista FC,  Porto
+  | Boavista | Boavista Porto | Boavista Porto FC
+  | Boavista Futebol Clube
+
+UD Oliveirense,  Oliveira de Azeméis    # a city and a municipality located in Porto Metropolitan Area
+  | Oliveirense | União Desportiva Oliveirense
+
+CD Aves, 1930,  Aves
+  | Aves | Desportivo Aves
+  | CD das Aves | Desportivo das Aves
+##  For the new club known as AVS Futebol SAD,
+##  founded in 2023, see AVS Futebol SAD !!!
+
+AVS Futebol, 2023,  Vila das Aves
+  | AVS
+  | AVS Futebol SAD
+
+
+GD Chaves, Chaves
+  | Chaves | Grupo Desportivo de Chaves
+
+
+CD Feirense, 1918, Santa Maria da Feira
+  | Feirense | Clube Desportivo Feirense
+
+Vitória de Guimarães, Guimarães
+  | Vitória
+  | Guimarães | Vit. Guimarães | Vitória Guimarães
+  | Vitória Sport Clube (de Guimarães)
+  | Vitória SC
+Vitória de Setúbal, Setúbal   ## note:  Vitória SC <=> Vitória FC !!!
+  | Setúbal | Vitória Setúbal
+  | Vitória FC
+
+CS Marítimo, Funchal
+  | Marítimo | Marítimo Funchal
+  | CS Marítimo Madeira
+  | Club Sport Marítimo
+
+CD Nacional Madeira, Funchal
+  | Nacional  | CD Nacional | Nacional da Madeira
+  | Clube Desportivo Nacional
+  | Nacional Funchal
+
+Moreirense FC, Moreira de Cónegos
+  | Moreirense
+  | Moreirense Futebol Clube
+FC Paços de Ferreira, Paços de Ferreira
+  | Paços | Paços Ferreira | Paços de Ferreira
+  | FC Paços Ferreira
+  | Futebol Clube Paços de Ferreira
+Portimonense SC, Portimão
+  | Portimonense
+  | Portimonense Sporting Clube
+Rio Ave FC, Vila do Conde
+  | Rio Ave
+  | Rio Ave Futebol Clube
+SC Braga, Braga
+  | Braga | Sp Braga | Sporting Braga
+  | Sporting Clube de Braga
+
+FC Vizela,  1939,  Vizela
+  | Futebol Clube de Vizela
+  | Vizela
+
+CD Tondela, Tondela
+  | Tondela
+  | Clube Desportivo de Tondela
+
+Académica de Coimbra, Coimbra
+  | Académica | Académ. Coimbra | A. Académica de Coimbra
+  | Associação Académica de Coimbra
+  | Associação Académica de Coimbra - Organismo Autónomo de Futebol  # (AAC–OAF)
+  | Associação Académica de Coimbra - O.A.F
+
+
+FC Arouca, Arouca
+  | Arouca
+  | Futebol Clube de Arouca
+
+FC Penafiel, 1951,  Penafiel
+  | Penafiel | Futebol Clube de Penafiel
+
+SC Beira-Mar, Aveiro
+  | Beira-Mar
+Desportivo de Chaves, Chaves
+  | Desp. Chaves
+
+CF Estrela da Amadora, Amadora
+  | Est Amadora | Estrela Amadora
+  | Estrela da Amadora
+  | CF Estrela
+  | Club Football Estrela Amadora
+  | Club Football Estrela da Amadora
+  | Club Foot Estrela
+
+
+SC Farense, 1910, Faro
+  | Farense
+  | Sporting Farense | Sporting Clube Farense
+
+Gil Vicente FC, Barcelos
+  | Gil Vicente
+  | Gil Vicente Futebol Clube
+União de Leiria,   Leiria
+  | Leiria | UD Leiria | União Desportiva de Leiria
+  | União Leiria
+
+União da Madeira,  Funchal
+  | Madeira | União Madeira
+SC Salgueiros,  Paranhos
+  | Salgueiros
+FC Tirsense,  Santo Tirso
+  | Tirsense
+SC Campomaiorense, Campo Maior
+  | Campomaior | Campomaiorense
+FC Felgueiras, Felgueiras
+  | Felgueiras
+Leça FC, Leça da Palmeira
+  | Leça
+
+FC Alverca, Alverca do Ribatejo
+  | Alverca |  Alverca Futebol
+Sporting de Espinho,  Espinho
+  | Espinho | SC Espinho | Sporting Clube de Espinho
+Leixões SC, 1907,  Matosinhos
+  | Leixões | Leixões Sport Club
+Naval 1º de Maio, Figueira da Foz
+  | Naval | Associação Naval 1º de Maio
+  | Naval 1° de Maio       ### todo/fix: add ° to norm_names!!!!!!
+
+SC Olhanense,     Olhão
+  | Olhanense
+CD Santa Clara,   Ponta Delgada
+  | Santa Clara
+  | Clube Desportivo Santa Clara
+CD Trofense,     Tulipa
+  | Trofense | Clube Desportivo Trofense
+Varzim SC,    1915,   Póvoa de Varzim
+  | Varzim | Varzim Sport Club
+
+FC Famalicão,  1931,  Vila Nova de Famalicão
+  | Famalicão | Futebol Clube de Famalicão
+
+SC Covilhã,   1923,   Covilhã
+  | Sp. Covilhã | Sporting Covilhã
+  | Sporting da Covilhã | Sporting Clube da Covilhã
+  | SCC
+
+Académico Viseu,  Viseu
+  | Académico de Viseu | Académico de Viseu FC
+
+
+Anadia FC, Anadia
+  | Anadia Futebol Clube
+AC Marinhense,  Marinha Grande
+
+
+CU Fabril Barreiro, 1937, Barreiro
+  | Fabril | Fabril Barreiro | Fabril do Barreiro
+  | GD Fabril | Grupo Desportivo Fabril
+  | GD CUF Barreiro
+  | CUF Barreiro | CUF do Barreiro    # Companhia União Fabril
+
+FC Barreirense,  1911,  Barreiro
+  | Futebol Clube Barreirense
+
+Amarante FC,    Amarante
+  | Amarante Futebol Clube
+  | Amarante
+
+FC Vilaverdense,    Vila Verde
+  | Länk FC Vilaverdense

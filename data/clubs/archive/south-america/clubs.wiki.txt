@@ -1,0 +1,80 @@
+===========================
+=  Argentina
+
+Aldosivi
+Argentinos Juniors
+Arsenal de Sarandí
+Atlético Tucumán
+Club Atlético Banfield
+Boca Juniors
+Central Córdoba de Santiago del Estero
+Club Atlético Colón
+Defensa y Justicia
+Estudiantes de La Plata
+Club de Gimnasia y Esgrima La Plata
+Godoy Cruz Antonio Tomba
+
+# Club Atlético Huracán
+## todo/fix: add city!!!!  e.g.    Club Atlético Huracán,   Tres Arroyos  or  Club Atlético Huracán › Tres Arroyos
+# todo/fix:  ERROR !!! - too many (greater than one) matching clubs found for wiki(pedia) name >Club Atlético Huracán, Argentina (ar)
+#  - Huracán de Tres Arroyos
+#  - Huracán de Buenos Aires
+
+Club Atlético Independiente
+Club Atlético Lanús
+Newell's Old Boys
+Club Atlético Patronato
+Racing Club de Avellaneda
+Club Atlético River Plate
+Rosario Central
+San Lorenzo de Almagro
+Talleres de Córdoba
+Unión de Santa Fe
+Club Atlético Vélez Sarsfield
+
+
+
+======================
+=  Brazil 
+
+Club Athletico Paranaense
+Clube Atlético Mineiro
+Avaí FC
+Esporte Clube Bahia
+Botafogo de Futebol e Regatas
+Ceará Sporting Club
+Associação Chapecoense de Futebol
+Sport Club Corinthians Paulista
+Cruzeiro Esporte Clube
+Centro Sportivo Alagoano
+Clube de Regatas do Flamengo
+Fluminense FC
+Fortaleza Esporte Clube
+Goiás Esporte Clube
+Grêmio Foot-Ball Porto Alegrense
+Sport Club Internacional
+Sociedade Esportiva Palmeiras
+Santos FC
+São Paulo FC
+CR Vasco da Gama
+
+Botafogo Futebol Clube (SP)
+Red Bull Bragantino
+Guarani FC
+Oeste Futebol Clube
+Associação Atlética Ponte Preta
+Esporte Clube São Bento
+Coritiba Foot Ball Club
+Londrina Esporte Clube
+Operário Ferroviário Esporte Clube
+Paraná Clube
+Atlético Clube Goianiense
+Vila Nova Futebol Clube
+Criciúma Esporte Clube
+Figueirense FC
+Clube de Regatas Brasil
+Esporte Clube Vitória
+Cuiabá Esporte Clube
+América Futebol Clube (MG)
+Sport Club do Recife
+Grêmio Esportivo Brasil

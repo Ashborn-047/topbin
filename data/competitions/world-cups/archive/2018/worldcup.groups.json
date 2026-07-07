@@ -1,0 +1,37 @@
+{
+  "name": "World Cup 2018",
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": ["Egypt", "Russia", "Saudi Arabia", "Uruguay"]
+    },
+    {
+      "name": "Group B",
+      "teams": ["Morocco", "Spain", "Portugal", "Iran"]
+    },
+    {
+      "name": "Group C",
+      "teams": ["France", "Denmark", "Australia", "Peru"]
+    },
+    {
+      "name": "Group D",
+      "teams": ["Nigeria", "Croatia", "Iceland", "Argentina"]
+    },
+    {
+      "name": "Group E",
+      "teams": ["Costa Rica", "Switzerland", "Serbia", "Brazil"]
+    },
+    {
+      "name": "Group F",
+      "teams": ["South Korea", "Germany", "Sweden", "Mexico"]
+    },
+    {
+      "name": "Group G",
+      "teams": ["Tunisia", "Panama", "Belgium", "England"]
+    },
+    {
+      "name": "Group H",
+      "teams": ["Senegal", "Japan", "Poland", "Colombia"]
+    }
+  ]
+}

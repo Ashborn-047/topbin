@@ -1,0 +1,18 @@
+Name,                   Web
+FK Austria Wien,        www.fk-austria.at
+SK Rapid Wien,          www.skrapid.at
+FC Admira Wacker,       www.admirawacker.at
+SV Mattersburg,         www.svm.at
+FC RB Salzburg,         www.redbulls.com/soccer/salzburg
+SV Grödig,              www.sv-groedig.at
+SK Sturm Graz,          www.sksturm.at
+Wolfsberger AC,         www.rzpelletswac.at
+SV Ried,                www.svried.at
+SCR Altach,             www.scra.at
+SC Wiener Neustadt,     www.scwn.at
+FC Wacker Innsbruck,    www.fc-wacker-innsbruck.at
+SC Austria Lustenau,    www.austria-lustenau.at
+SKN St. Pölten,         www.skn-stpoelten.at
+Kapfenberger SV,        www.ksv1919.at
+Floridsdorfer AC,       www.fac.at
+LASK Linz,              www.lask.at

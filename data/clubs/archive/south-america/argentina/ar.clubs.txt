@@ -1,0 +1,288 @@
+===========================
+=  Argentina
+
+
+== Buenos Aires ==
+
+All Boys,           Buenos Aires
+  | Club Atlético All Boys
+  | CA All Boys
+Argentinos Juniors,  Buenos Aires
+  | Argentinos | Argentinos Jrs
+  | Argentinos Jun | Arg. Juniors
+  | Asociación Atlética Argentinos Juniors
+  | AA Argentinos Juniors
+
+Boca Juniors,       Buenos Aires
+  | Boca | Boca Jrs
+  | CA Boca Juniors
+  | Club Atlético Boca Juniors
+River Plate,        Buenos Aires
+  | River | CA River Plate
+  | Club Atlético River Plate
+  | CA River Plate (Buenos Aires)
+
+San Lorenzo,        Buenos Aires
+  | San Lorenzo de Almagro
+  | CA San Lorenzo | CA San Lorenzo de Almagro | Club Atlético San Lorenzo de Almagro
+Vélez Sarsfield,    Buenos Aires
+  | Vélez | Vélez Sarsf | CA Vélez
+  | CA Vélez Sarsfield | Club Atlético Vélez Sarsfield
+Huracán,            Buenos Aires
+  | CA Huracán
+  | Club Atlético Huracán
+Nueva Chicago,   Buenos Aires
+  | Club Atlético Nueva Chicago
+Atlanta,           Buenos Aires (Villa Crespo)
+  | Club Atlético Atlanta
+Barracas Central, Buenos Aires (Barracas)
+  | Club Atlético Barracas Central
+Defensores de Belgranes, Buenos Aires (Nuñez)
+  | Club Atlético Defensores de Belgrano
+Deportivo Riestra,  Buenos Aires
+  | Deportivo Riestra Asociación de Fomento Barrio Colón
+Estudiantes de Buenos Aires, Buenos Aires     # note: NOT to be confused with Estudiantes LP, La Plata
+  | Estudiantes (Buenos Aires)
+  | Club Atlético Estudiantes
+  | Estudiantes de Caseros
+Ferro Carril Oeste, Buenos Aires (Caballito)
+  | Ferro | Club Ferro Carril Oeste
+
+
+# Greater Buenos Aires
+
+CA Tigre,     Victoria › Buenos Aires     #  Victoria es una ciudad del partido de San Fernando, en la zona centro-este de la provincia de Buenos Aires y parte del Gran Buenos Aires
+  | Tigre | Club Atlético Tigre
+CA Independiente de Avellaneda, Avellaneda › Buenos Aires  #  Avellaneda sits in the metropolitan area of the Greater Buenos Aires
+  | Independiente | CA Independiente | Club Atlético Independiente
+Racing Club,                    Avellaneda › Buenos Aires  #  Avellaneda sits in the metropolitan area of the Greater Buenos Aires
+  | Racing
+  | Racing Club de Avellaneda
+Deportivo Español, 1956,  Buenos Aires (Parque Avellaneda)
+  | Club Deportivo Español
+
+
+Quilmes AC,    Quilmes › Buenos Aires       # Quilmes is a city in the province of Buenos Aires
+  | Quilmes | Quilmes Atlético Club
+CA Lanús,   Lanús › Buenos Aires         #  Lanús is a city in  Greater Buenos Aires
+  | Lanús | Atlético Lanús | Club Atlético Lanús
+
+Arsenal de Sarandí,  Sarandí › Buenos Aires    #  Sarandí es una ciudad de la Zona Sur del Gran Buenos Aires
+  | Arsenal | Arsenal Sarandí
+  | Arsenal FC | Arsenal Fútbol Club
+
+Estudiantes LP, La Plata › Buenos Aires
+  | Club Estudiantes de La Plata
+  | Estudiantes de La Plata
+  | Estudiantes
+  | Estudiantes BA    ## todo/check: remove? - confusion/conflict with Estudiantes Buenos Aires (see above)??
+  | Estudiantes (La Plata)
+
+
+Gimnasia y Esgrima LP,  La Plata › Buenos Aires
+  | GELP | Gimnasia LP | Gimnasia ELP | Gimnasia y Esgrima La Plata
+  | Club de Gimnasia y Esgrima La Plata
+  | Club de Gimnasia y Esgrima LP
+  | Gimnasia La Plata
+  | Gimnasia y Esgrima
+  | GyE La Plata
+
+Club Atlético Aldosivi,   Mar del Plata › Buenos Aires
+  | Aldosivi | CA Aldosivi
+Alvarado, Mar del Plata
+  | Alvarado (Mar del Plata)
+  | Club Atlético Alvarado
+
+Club Atlético Banfield,   Banfield › Buenos Aires
+  | Banfield | CA Banfield
+
+Defensa y Justicia,   Gobernador Julio A. Costa › Buenos Aires
+  | Defensa y Just. | Defensa y Jus. | Defensa y Justic.
+  | Club Social y Deportivo Defensa y Justicia
+  | CSD Defensa y Justicia
+
+
+Olimpo Bahía Blanca,  Bahía Blanca  › Buenos Aires
+  | Olimpo | Club Olimpo | Olimpo de Bahía Blanca
+Sarmiento Junín,   1911,  Junín › Buenos Aires
+  | Sarmiento | Sarmiento de Junín
+  | CA Sarmiento
+  | Club Atlético Sarmiento | Club Atlético Sarmiento (Junín)
+Temperley,           Turdera › Buenos Aires
+  | CA Temperley | Club Atlético Temperley
+
+Chacarita Juniors,    Villa Maipú › Buenos Aires
+  | Club Atlético Chacarita Juniors
+
+Agropecuario Argentino,  Carlos Casares
+  | Agropecuario | Club Agropecuario Argentino
+Almagro,    José Ingenieros
+  | Club Almagro
+Brown,   Adrogué
+  | Brown de Adrogué | Brown (Adrogué)
+  | Club Atlético Brown
+Deportivo Morón,  Morón
+  | Club Deportivo Morón
+Platense, Florida Este
+  | Club Atlético Platense
+  | CA Platense
+Santamarina,  Tandil
+  | Club y Biblioteca Ramón Santamarina
+Villa Dálmine,  Campana
+  | Dálmine | Club Villa Dálmine
+
+Huracán de Tres Arroyos, 1923,      Tres Arroyos
+  | Club Atlético Huracán
+  | Club Atlético Huracán de Tres Arroyos
+
+CA Los Andes,  1917,  Lomas de Zamora
+  | Los Andes
+  | Club Atlético Los Andes
+
+
+== Provincia Santa Fe ==
+
+Colón Santa Fe,  Santa Fe
+  | Colón | CA Colón | Club Atlético Colón | Club Atlético Colón (Santa Fe)
+  | Colon Santa FE
+Unión Santa Fe,  Santa Fe
+  | Unión | Unión de Santa Fe  | CA Unión | Club Atlético Unión
+
+Newell's Old Boys, Rosario
+  | Newell's | N.O. Boys | Newell's OB | Newell's Old B. | Newells Old Boys
+  | CA Newell's Old Boys | Club Atlético Newell's Old Boys
+Rosario Central,  Rosario
+  | Rosario Cent. | Rosario Cen.
+  | CA Rosario Central
+  | Club Atlético Rosario Central
+Tiro Federal, 1905,  Rosario
+  | Tiro Federal de Rosario
+  | CA Tiro Federal Argentino | Club Atlético Tiro Federal Argentino
+
+
+Atlético Rafaela, Rafaela
+  | At. de Rafaela | Atl. Rafaela | Atlético de Rafaela
+  | Asociación Mutual Social y Deportiva Atlético de Rafaela
+
+
+== Provincia Córdoba ==
+
+Talleres de Córdoba,      Córdoba
+  | Talleres | Talleres C. | Talleres Cordoba | Club Atlético Talleres
+  | CA Talleres
+
+Club Atlético Belgrano, Córdoba     # note: NOT to be confused with Belgrano Athletic Club
+  | Belgrano | Belgrano (Córdoba) | Belgrano de Córdoba
+  | CA Belgrano
+
+
+Instituto, Córdoba
+  | Instituto de Córdoba | Instituto (Córdoba)
+  | Instituto ACC | Instituto Atlético Central Córdoba
+
+Estudiantes de Río Cuarto,   Río Cuarto
+  | Asociación Atlética Estudiantes
+
+
+== Provincia Mendoza ==
+
+Godoy Cruz,  1921,  Mendoza       # Godoy Cruy is a city in Greater Mendoza
+  | CD Godoy Cruz
+  | Godoy Cruz Antonio Tomba
+  | Club Deportivo Godoy Cruz Antonio Tomba
+  | CD Godoy Cruz Antonio Tomba
+  | CD Godoy Cruz AT
+  | Godoy Cruz (Mendoza)
+
+Gimnasia y Esgrima de Mendoza,   Mendoza
+  | Gimnasia (Mendoza)
+  | Gimnasia y Esgrima | Club Gimnasia y Esgrima
+
+Independiente Rivadavia,  Mendoza
+  | Club Sportivo Independiente Rivadavia
+  | Independiente Rivadavia (Mendoza)
+  | Indep. Rivadavia
+
+== Provincia San Juan ==
+
+San Martín San Juan,    San Juan
+  | San Martín | San Martín SJ
+  | CA San Martín | Club Atlético San Martín
+
+
+==  Provincia Jujuy ==
+
+Gimnasia y Esgrima de Jujuy,   San Salvador de Jujuy
+  | GEJ | Gimnasia y Esgrima (Jujuy)
+  | Club Atlético Gimnasia y Esgrima de Jujuy
+  | GyE Jujuy
+
+
+== Provincia Tucumán ==
+
+Atlético Tucumán,       San Miguel de Tucumán  › Tucumán
+  | Tucumán | Atl. Tucumán
+  | Club Atlético Tucumán
+San Martín de Tucumán,  San Miguel de Tucumán  › Tucumán
+  | San Martín | San Martín T. | San Martín (Tucumán)
+  | Club Atlético San Martín | Club Atlético San Martín (Tucumán)
+
+
+== Provincia Entre Ríos ==
+
+Patronato,           Paraná › Entre Ríos
+  | CA Patronato
+  | Club Atlético Patronato
+  | Club Atlético Patronato de la Juventud Católica
+  | CA Patronato Juventud Católica
+  | Patronato Paraná
+  | Patronato Par.
+
+== Provincia Misiones ==
+
+Crucero del Norte, Garupá › Misiones
+  | Club Mutual Crucero del Norte
+
+
+== Provincia Santiago del Estero ==
+
+Central Córdoba,     Santiago del Estero › Santiago del Estero
+  | CC Córdoba  | Club Atlético Central Córdoba
+  | Central Córdoba de Santiago del Estero
+  | Central Córdoba (SdE)
+  | Central Córdoba (Santiago del Estero)
+  | CA Central Córdoba
+  | CA Central Córdob.
+
+
+Mitre,            Santiago del Estero
+  | Mitre (SdE) | Mitre (Santiago del Estero)
+  | Club Atlético Mitre
+
+
+== Provincia Chubut ==
+Guillermo Brown,  Puerto Madryn
+   | Guillermo Brown de Puerto Madryn
+   | Brown de Puerto Madryn
+
+
+== Provincia Corrientes ==
+
+Deportivo Mandiyú,  1952, Corrientes
+  | Club Deportivo Mandiyú | Mandiyú
+
+Huracán Corrientes, 1918, Corrientes
+  | Huracán de Corrientes
+  | Club Atlético Huracán Corrientes
+
+
+== Provincia Salta ==
+
+Gimnasia y Tiro, 1902,  Salta
+  | Club de Gimnasia y Tiro
+
+
+== Provincia Chaco ==
+
+Chaco For Ever, 1913,  Resistencia
+  | Club Atlético Chaco For Ever

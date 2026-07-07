@@ -1,0 +1,197 @@
+{
+  "name": "World Cup 2018",
+  "teams": [
+    {
+      "name": "Egypt",
+      "code": "EGY",
+      "continent": "Africa",
+      "confed":  "CAF"
+    },
+    {
+      "name": "Morocco",
+      "code": "MAR",
+      "continent": "Africa",
+      "confed":  "CAF"
+    },
+    {
+      "name": "Tunisia",
+      "code": "TUN",
+      "continent": "Africa",
+      "confed":  "CAF"
+    },
+    {
+      "name": "Senegal",
+      "code": "SEN",
+      "continent": "Africa",
+      "confed":  "CAF"
+    },
+    {
+      "name": "Nigeria",
+      "code": "NGA",
+      "continent": "Africa",
+      "confed":  "CAF"
+    },
+    {
+      "name": "Japan",
+      "code": "JPN",
+      "continent": "Asia",
+      "confed":  "AFC"
+    },
+    {
+      "name": "South Korea",
+      "code": "KOR",
+      "continent": "Asia",
+      "confed":  "AFC"
+    },
+    {
+      "name": "Costa Rica",
+      "code": "CRC",
+      "continent": "Central America",
+      "confed":  "CONCACAF"
+    },
+    {
+      "name": "Panama",
+      "code": "PAN",
+      "continent": "Central America",
+      "confed":  "CONCACAF"
+    },
+    {
+      "name": "Belgium",
+      "code": "BEL",
+      "continent": "Europe",
+      "confed":  "UEFA"
+    },
+    {
+      "name": "Germany",
+      "code": "GER",
+      "continent": "Europe",
+      "confed": "UEFA"
+    },
+    {
+      "name": "Spain",
+      "code": "ESP",
+      "continent": "Europe",
+      "confed": "UEFA"
+    },
+    {
+      "name": "France",
+      "code": "FRA",
+      "continent": "Europe",
+      "confed":  "UEFA"
+    },
+    {
+      "name": "Portugal",
+      "code": "POR",
+      "continent": "Europe",
+      "confed": "UEFA"
+    },
+    {
+      "name": "Denmark",
+      "code": "DEN",
+      "continent": "Europe",
+      "confed":  "UEFA"
+    },
+    {
+      "name": "Poland",
+      "code": "POL",
+      "continent": "Europe",
+      "confed":  "UEFA"
+    },
+    {
+      "name": "Sweden",
+      "code": "SWE",
+      "continent": "Europe",
+      "confed":  "UEFA"
+    },
+    {
+      "name": "Switzerland",
+      "code": "SUI",
+      "continent": "Europe",
+      "confed":  "UEFA"
+    },
+    {
+      "name": "Croatia",
+      "code": "CRO",
+      "continent": "Europe",
+      "confed":  "UEFA"
+    },
+    {
+      "name": "Serbia",
+      "code": "SRB",
+      "continent": "Europe",
+      "confed":  "UEFA"
+    },
+    {
+      "name": "Russia",
+      "code": "RUS",
+      "continent": "Europe",
+      "confed":  "UEFA"
+    },
+    {
+      "name": "Iceland",
+      "code": "ISL",
+      "continent": "Europe",
+      "confed":  "UEFA"
+    },
+    {
+      "name": "England",
+      "code": "ENG",
+      "continent": "Europe",
+      "confed":  "UEFA"
+    },
+    {
+      "name": "Iran",
+      "code": "IRN",
+      "continent": "Middle East",
+      "confed":  "AFC"
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "KSA",
+      "continent": "Middle East",
+      "confed":  "AFC"
+    },
+    {
+      "name": "Mexico",
+      "code": "MEX",
+      "continent": "North America",
+      "confed":  "CONCACAF"
+    },
+    {
+      "name": "Australia",
+      "code": "AUS",
+      "continent": "Pacific",
+      "confed":  "AFC"
+    },
+    {
+      "name": "Argentina",
+      "code": "ARG",
+      "continent": "South America",
+      "confed":  "CONMEBOL"
+    },
+    {
+      "name": "Brazil",
+      "code": "BRA",
+      "continent": "South America",
+      "confed":  "CONMEBOL"
+    },
+    {
+      "name": "Uruguay",
+      "code": "URU",
+      "continent": "South America",
+      "confed":  "CONMEBOL"
+    },
+    {
+      "name": "Colombia",
+      "code": "COL",
+      "continent": "South America",
+      "confed": "CONMEBOL"
+    },
+    {
+      "name": "Peru",
+      "code": "PER",
+      "continent": "South America",
+      "confed":  "CONMEBOL"
+    }
+  ]
+}

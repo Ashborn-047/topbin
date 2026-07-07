@@ -1,0 +1,19 @@
+Name,                Web,                         Twitter
+Club América,        www.clubamerica.com.mx,      CF_America
+Cruz Azul,           www.cruzazulfc.com,          Cruz_Azul_FC
+Pumas UNAM,          www.clubpumasunam.com,       PumasMX
+CF Monterrey,        www.rayados.com,             Rayados
+Tigres UANL,         www.tigres.com.mx,           TigresOficial
+Guadalajara Chivas,  www.chivasdecorazon.com.mx,  Chivas
+Atlas,               futbol.atlas.com.mx,         atlasoficial
+Atlante,             www.atlantefc.mx,            FCAtlante
+Jaguares de Chiapas, www.chiapasfc.com,           SoyJaguar
+Club León,           www.clubleon-fc.com,         clubleonfc
+Monarcas Morelia,    www.fuerzamonarca.com,       FuerzaMonarca
+Pachuca,             www.tuzos.com.mx,            Tuzos
+Puebla FC,           www.puebla-fc.com,           PueblaFC
+Querétaro FC,        www.clubqueretaro.com,       Club_Queretaro
+Santos Laguna,       www.clubsantoslaguna.com.mx, ClubSantos
+Club Tijuana,        www.xolos.com.mx,            XolosOficial
+Deportivo Toluca,    www.deportivotolucafc.com,   deptolucafc
+Veracruz,            www.tiburones-rojos.com,     tiburonesrojos

@@ -1,0 +1,135 @@
+================================
+=  Luxembourg
+
+Racing FC Union Lëtzebuerg, Lëtzebuerg
+  | Racing Union
+  | Racing Union Lëtzebuerg
+  | Racing Union Luxembourg
+  | Racing FC Union Luxembourg
+  | RFCU Luxemburg
+
+FC Aris Bonnevoie (-2001),  Lëtzebuerg    # champs (3): 1972/73 1966/67 1964/65
+  | Aris Bonnevoie
+  | Aris Bonneweg
+  | Aris
+# note: now a part of Racing FC Union Luxembourg
+
+FC Avenir Beggen, Lëtzebuerg     # champs (6): 1995..1993 (2) 1986/87 1984/85 1982/83 1969/70
+  | Avenir Beggen
+  | Avenir
+
+Spora Luxemburg (1923-2005), Lëtzebuerg
+  | CA Spora Luxembourg   # champs (3): 1989/90 1961/62 1956/57
+  | Spora
+# In 2005, Spora merged with two other clubs from Luxembourg City,
+#   CS Alliance 01 and Union Luxembourg,
+#   to form Spora's modern incarnation, Racing FC Union Luxembourg.
+
+Union Luxembourg (1925-2005), Lëtzebuerg        # champs (5): 1993...1990 (3) 1971/72 1962/63
+  | US Luxembourg | Union Sportive Luxembourg
+  | US Luxemburg | Union Luxemburg
+# now a part of Racing FC Union Luxembourg
+
+
+FC Blue Boys Muhlenbach,  Lëtzebuerg (Muhlenbach)
+  | Muhlenbach
+  | Blue Boys Muhlenbach
+  | FC Muhlenbach Sandzak
+
+
+RM Hamm Benfica,   Lëtzebuerg (Hamm)
+  | FC RM Hamm Benfica
+  | FC Rapid Mansfeldia Hamm Benfica
+
+
+
+F91 Dudelange,   Dudelange
+  | Dudelange
+  | F91 Diddeleng
+  | Diddeleng
+
+
+Stade Dudelange (1913-1991),  Dudelange    # champs (2): 1965/66 1957/58
+  |  CS Stade Dudelange
+#   now a part of F91 Dudelange, which was formed by the merger of
+#      Stade, Alliance Dudelange, and US Dudelange in 1991.
+
+
+FC Differdange 03,  2003,  Differdange
+  | Differdange | Differdange 03
+  | Differdange FC
+## Differdange 03 was formed in 2003 as an amalgam of two clubs
+#  from the city of Differdange: FA Red Boys Differdange and AS Differdange.
+
+Red Boys Differdange (1907-2003),  Differdange
+  | FA Red Boys Differdange     # champs (1): 1979/80
+# now a part of FC Differdange 03
+
+
+CS Fola Esch,     Esch-sur-Alzette
+  | Fola | Fola Esch     # champs (2): 2015/16 2013/14
+
+Jeunesse d'Esch, Esch-sur-Alzette
+  | Jeunesse Esch | AS Jeunesse Esch
+
+
+
+CS Grevenmacher,   Grevenmacher
+  | Grevenmacher     # champs (1): 2003/04
+  | Club Sportif Grevenmacher
+
+UN Käerjéng 97,   Bascharage
+  | Uewer Nidder Käerjéng 97
+  | Käerjéng
+
+FC Progrès Niederkorn,   Niederkorn
+  | Progrès | P. Niederkorn
+  | Progrès Niederkorn
+  | Progrès Niedercorn       # champs (2): 1981/82 1978/79
+
+US Mondorf-les-Bains,   Mondorf-les-Bains
+  | Mondorf-les-Bains | US Mondorf
+
+FC Union Titus Pétange,  Pétange
+  | Union Titus | Union Titus Pétange
+
+CS Pétange (1910-2015),    Pétange
+  | Club Sportif Pétange
+# In 2015 folded and merged with FC Titus Lamadelaine
+#  to form Union Titus Pétange.
+
+
+FC UNA Strassen,   Strassen
+  | UNA Strassen
+FC Victoria Rosport,    Rosport
+  | Rosport | Victoria Rosport
+
+
+
+FC Etzella Ettelbruck,    Ettelbruck
+  | Etzella | Etzella Ettelbruck
+FC Rodange 91,    Rodange
+  | Rodange
+US Hostert,      	Hostert
+  | Hostert
+  | Football Club Union Sportive Hostert
+
+FC Mondercange, 1933,  Mondercange
+  | Mondercange
+
+US Rumelange,  1908, Rumelange
+  | Union Sportive Rumelange
+  | Rumelange
+
+FC Wiltz 71,   Wiltz
+  | Wiltz
+
+FC Swift Hesperange,  Hesperange
+  | Swift Hesperange
+  | Football Club Swift Hesper
+  | FC Swift Hesper
+  | Swift Hesper | Swift Hesperan
+
+SC Bettembourg,  1927, Bettemburg
+  |	Sporting Club Bettemburg
+

@@ -1,0 +1,50 @@
+====================================
+=  San Marino
+
+
+SP Tre Fiori
+  | Tre Fiori
+  | SS Tre Fiori FC
+SP Tre Penne
+  | Tre Penne     # champs (2): 2014..2012 (2)
+
+
+AC Juvenes-Dogana
+  | Juvenes/Dogana | AC Juvenes/Dogana
+SP La Fiorita
+  | La Fiorita | La Fiorita 1967
+AC Libertas
+  | Libertas
+SC Faetano
+  | Faetano
+SS Murata
+  | Murata
+SS Folgore
+  | Folgore
+  | SS Folgore Falciano Calcio    # champs (1): 2015/16
+  | SS Folgore/Falciano
+ 
+SP Cailungo
+  | Cailungo
+SS Cosmos
+  | Cosmos
+FC Domagnano
+  | Domagnano | Domagnano FC
+FC Fiorentino
+  | Fiorentino
+SS Pennarossa
+  | Pennarossa
+
+AS San Giovanni 
+  | Associazione Sportiva San Giovanni
+  | SS San Giovanni | Società Sportiva San Giovanni
+  | San Giovanni
+
+Virtus FC
+  | Virtus
+  | AC Virtus | Virtus AC
+  | SS Virtus
+  | Virtus Acquaviva
+
+San Marino Academy
+  

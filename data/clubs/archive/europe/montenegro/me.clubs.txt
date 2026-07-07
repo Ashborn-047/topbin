@@ -1,0 +1,68 @@
+====================================
+=  Montenegro
+
+FK Budućnost Podgorica, 1925,  Podgorica
+  | Budućnost | Budućnost Podgorica
+  | Bud. Podgorica
+  | B. Podgorica
+
+FK Podgorica, 1970,   Podgorica
+  | Fudbalski klub Podgorica
+  # formerly known as OFK Mladost 1970
+
+
+FK Mogren (1920-2016),  Budva
+  | FK Mogren Budva
+  | Mogren
+
+FK Zeta
+  | Zeta
+  | Zeta Golubovci
+  | FK Zeta Golubo
+
+FK Rudar Pljevlja
+  | Rudar Pljevlja
+OFK Petrovac
+  | Petrovac
+FK Čelik Nikšić
+  | Čelik Nikšić
+FK Sutjeska
+  | Sutjeska | Sutjeska Nikšić | FK Sutjeska Nikšić
+  | Sutj. Nikšić
+
+OFK Titograd
+  | Titograd
+FK Bokelj
+  | Bokelj | Bokelj Kotor
+FK Lovćen
+  | Lovćen Cetinje
+  | Lovćen
+FK Iskra
+  | Iskra
+  | FK Iskra Danil
+
+Mladost Ljeskopolje
+FK Kom
+  | Kom
+OFK Grbalj
+  | Grbalj
+
+FK Jezero, 1934,  Plav
+  | Jezero | FK Jezero Plav
+  | Fudbalski klub Jezero
+
+FK Dečić
+  | Dečić | FK Dečić Tuzi
+  | Dečić Tuzi
+
+FK Mornar,  1923,  Bar
+  | Mornar | Mornar Bar | FK Mornar Bar
+
+
+FK Jedinstvo Bijelo Polje
+  | Jedinstvo
+FK Arsenal Tivat
+  | Arsenal Tivat
+  | FK Arsenal Tiv
+FK Otrant
+

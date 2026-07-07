@@ -1,0 +1,111 @@
+=================================
+=  Iceland
+
+
+KR Reykjavík, Reykjavík
+  | KR | Knattspyrnufélag Reykjavíkur
+Fram Reykjavík,  Reykjavík
+  | Fram
+Fylkir Reykjavik,  Reykjavík
+  | Fylkir
+
+Valur Reykjavík,  1911, Reykjavík
+  | Valur | Valur Reykj.
+  | KF Valur | Knattspyrnufélagið Valur
+
+Víkingur Reykjavík, Reykjavík
+  | Víkingur R.
+  | KF Víkingur | Víkingur
+  | Víkingur Reykj
+
+
+Fjölnir Reykjavík, Reykjavík
+  | Fjölnir | Ungmennafélagið Fjölnir
+
+Throttur Reykjavik, Reykjavík
+ | Þróttur Reykjavík
+ | Knattspyrnufélagið Þróttur
+
+
+Leiknir Reykjavík,  1973  Reykjavík (Breiðholt)
+ | Leiknir R.
+ | Leiknir
+ | Íþróttafélagið Leiknir
+
+
+ÍR Reykjavík,  Reykjavík
+ | Íþróttafélag Reykjavíkur
+
+
+Grótta,   Seltjarnarnes
+  | Íþróttafélagið Grótta
+
+
+ÍA Akranes,   Akranes
+  | ÍA | Íþróttabandalag Akraness
+
+FH Hafnarfjörður,  Hafnarfjörður    # note - Hafnarfjördur (auto-match via unaccent)
+  | FH
+  | Hafnarfjörður
+  | FH Hafnarfjardar
+
+Breiðablik,          Kópavogur
+  | UMF Breiðablik | Ungmennafélag Breiðablik
+  | Breiðablik Kópavogur
+  # note - Breidablik (auto-match via unaccent -  auto-change ð to d)
+
+ÍBV Vestmannaeyjar,  Vestmannaeyjar
+  | ÍBV
+  | ÍB Vestmannaeyja  # champs (3): 2000..1998 (2) 1980/81
+
+Stjarnan,  1960,      Garðabær
+  | Stjarnan Garð. | Stjarnan Garðab.
+  | UMF Stjarnan
+  | Stjarnan Garðabær
+  | Stjarnan FC
+
+Grindavík,    Grindavík
+  | UMF Grindavík
+HK Kópavogs,   Kópavogur
+  | HK | Handknattleiksfélag Kópavogs
+  | HK Kópavogur
+
+KA Akureyri,   Akureyri
+  | KA
+  | Knattspyrnufélag Akureyrar     # "Akureyri Football Club"
+
+Thór Akureyri,    Akureyri        # note: Þór Akureyri - auto-change Þ to Th - why? why not
+  | Þór Akureyri
+  | Thór
+
+Keflavík ÍF,      Reykjanesbær
+  | Keflavík
+  | ÍB Keflavík      # champs (4): 1974/75 1972/73 1970/71 1965/66
+  # En 1994 adopta su actual nombre Keflavík ÍF
+
+
+Knattspyrnufélag Fjallabyggðar,  Fjallabyggð  # from the towns Ólafsfjörður and Siglufjörður
+  | KF
+  | Leiftur
+# 2010: formerly two clubs
+#   Leiftur and Knattspyrnufélag Siglufjarðar (KS)
+
+UMF Afturelding,    Mosfellsbær
+  | Ungmennafélagið Afturelding
+  | Afturelding
+
+
+UMF Njarðvík, 1944, Njarðvík
+  | Njarðvík
+  | Ungmennafélag Njarðvíkur
+
+
+ÍF Vestri
+  | Íþróttafélagið Vestri
+  | Vestri
+
+
+Dalvík/Reynir, 2006,   Dalvík
+  | Knattspyrnufélagið Dalvík/Reynir
+  # formed in 2006 after the merger between
+  #    UMFS Dalvík & Reynir Árskógsströnd

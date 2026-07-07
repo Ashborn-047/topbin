@@ -1,0 +1,21 @@
+#########################
+# Belgium (BEL), be
+
+Name,                 Web
+RSC Anderlecht,       www.rsca.be
+Club Brugge,          www.clubbrugge.be
+Cercle Brugge KSV,    www.cerclebrugge.be
+KV Oostende,          www.kvo.be
+SV Zulte Waregem,     www.essevee.be
+KV Kortrijk,          www.kvk.be
+KAA Gent,             www.kaagent.be
+KSC Lokeren OV,       www.sporting.be
+Waasland-Beveren,     www.waasland-beveren.be
+KVC Westerlo,         www.kvcwesterlo.be
+KV Mechelen,          www.kvmechelen.be
+KRC Genk,             www.krcgenk.be
+K. Sint-Truidense VV, www.stvv.com
+OH Leuven,            www.ohl.be
+Standard Liège,       www.standard.be
+R. Charleroi SC,      www.sporting-charleroi.be
+R. Mouscron-Péruwelz, www.rmp-foot.be

@@ -1,0 +1,325 @@
+====================================
+=  Romania
+
+Steaua București,        București
+  | Steaua | FC Steaua București
+  | FCSB
+  | FCSB Bukarest [de] | FCS Bukarest [de]
+  | CCA București     # champs (2): 1961/62 1957/58
+
+Dinamo București,  1948,       București
+  | Din. Bucuresti | FC Dinamo București
+  | FC Dinamo 1948
+  | Dinamo Bukarest [de]
+
+
+## note - romanian text may have variants of  s+cedilla e.g.
+##           with different unicodes
+##  Rapid București   - check what is canonical char
+##  Rapid Bucureşti
+##   or
+##  FC Petrolul Ploiești
+##  FC Petrolul Ploieşti
+##   or
+##  CS Gaz Metan Mediaș
+##  CS Gaz Metan Mediaş  ## todo/check: unaccent ro - auto-generate with cedilla from with ...
+##   or
+##  FC Botoșani, Botoșani
+##  FC Botoşani
+##   or
+## CSM Politehnica Iași     ## check - older name?
+## CSM Politehnica Iaşi   ## todo/check: unaccent ro - auto-generate with cedilla from with ...
+##  or ...
+##  same with
+##  Oțelul
+##  Oţelul !!!!!!!
+
+
+
+
+Rapid București,   1923,      București
+  | FC Rapid București
+  | Fotbal Club Rapid 1923 | FC Rapid 1923
+  | Rapid Bukarest [de]
+
+Daco-Getica București, 1992,  București
+  | ASC Daco-Getica București | Asociația Sport Club Daco-Getica București
+  | Juventus București
+## From 1992 to the summer of 2018, the team was known as Juventus București
+
+Sportul Studențesc București, 1916,  București
+  | Sportul | Sportul Studențesc
+  | FC Sportul Studențesc | FC Sportul Studențesc București
+
+AS Progresul București,   1944,  București
+  | Progresul | Progresul București
+  | FC Progresul București | Fotbal Club Progresul București
+  | Național București | FC Național București
+# The team was founded in 1944 as B.N.R. București,
+#   being the team of the National Bank of Romania (B.N.R.)
+
+
+Victoria București (1949-1990),  București
+  | AS Victoria București
+
+
+CFR Cluj,     Cluj
+  | CFR 1907 Cluj | FC CFR Cluj | FC CFR 1907 Cluj
+U Cluj,       Cluj
+  | U. Cluj  | Universitatea Cluj | FC Univ. Cluj | FC Universitatea Cluj
+
+
+Astra Giurgiu,   Giurgiu
+  | Astra | FC Astra Giurgiu
+  | AFC Astra Giurgiu
+  | Astra Ploiești
+# name history:
+# 1945 Astra Română Ploiești
+# 1959 Rafinorul Ploiești
+# 1990 CS Astra Ploiești
+# 1996 AS Danubiana Ploiești
+# 1998 SC FC Astra Ploiești
+# 2005 CSM Ploiești
+# 2007 FC Ploiești
+# 2009 FC Astra Ploiești
+# 2012 FC Astra Giurgiu
+
+
+FC Petrolul Ploiești, Ploiești
+  | Petrolul | Petrolul Ploiești
+  | Petrolul 52
+  | Asociația Clubul Sportiv Petrolul 52
+
+
+Ceahlăul Piatra Neamț,  Piatra Neamț
+  | Ceahlăul | CSM Ceahlăul Piatra Neamț
+Concordia Chiajna,   Chiajna
+  | Concordia | CS Concordia Chiajna
+FC Vaslui,   Vaslui
+  | Vaslui
+Gaz Metan Mediaș,   Mediaș
+  | Gaz Metan
+  | CS Gaz Metan Mediaș
+
+Gloria Bistrița,    Bistrița
+  | Bistrita
+  | ACF Gloria 1922 Bistrița
+
+
+
+
+FC Viitorul Constanța (2009-2021),   Ovidiu
+  | Viitorul
+  | Viitorul Con.
+  | FC Viitorul | Viitorul Constanța
+#  merged with Farul Constanța in 2021
+
+FCV Farul Constanța,  Constanța
+  | FC Farul Constanța
+  | FC Farul Const | FC Farul Constanț
+  | Farul Constanța
+  | Farul                 # Farul translates as "the Lighthouse"
+## Established in 1920 as SPM Constanța,
+#  the team had spent over 40 seasons in the first league
+#  before merging with Viitorul Constanța in 2021.
+
+
+
+Corona Brașov (2010-2014),   Brașov
+ | ASC Corona 2010 Brașov
+ | Asociatia Sport Club Corona Brașov
+
+FC Brașov,  1936, Brașov
+ | SR Brașov | Steagul Rosu Brașov
+ | AS SR Brașov | Asociația Sportivă SR Brașov
+ | Brașov
+
+
+Dunărea Călărași,   Călărași
+  | Călărași
+  | AFC Dunărea 2005 | Asociația Fotbal Club Dunărea 2005 Călărași
+  | FC Dunărea Călărași
+
+Chindia Târgoviște, 2010,  Târgoviște
+  | AFC Chindia Târgoviște
+
+
+CS Turnu Severin,    Drobeta-Turnu Severin
+  | Clubul Sportiv Turnu Severin
+FC Severin,         Drobeta-Turnu Severin
+  | FC Drobeta-Turnu Severin
+
+AFC Turris-Oltul,  1965,  Turnu Măgurele
+  | AFC Turris-Oltul Turnu Măgurele
+  | Turris Turnu Măgurele | Turris-Oltul Turnu Măgurele
+
+FC Botoșani, Botoșani
+  | Botoșani
+  | Fotbal Club Botoșani
+
+FC Hermannstadt,   Hermannstadt
+  | Hermannstadt | AFC Hermannstadt
+
+Săgeata Năvodari, Năvodari
+  | Năvodari | AFC Săgeata Năvodari
+
+Oțelul Galați,  Galați
+  | Oțelul
+  | ASC Oțelul Galați
+  | FC Oțelul Galați
+  | SC Oțelul Galați
+
+Pandurii Târgu Jiu,  Târgu Jiu
+  | Pandurii | Pandurii Tg Jiu | CS Pandurii Târgu Jiu
+
+
+FC Politehnica Iași,   Iași
+  | Poli Iași | Politehnica Iași
+  | CSM Politehnica Iași     ## check - older name?
+  | CSM Poli. Iași
+  | CSMS Iasi | CSM Studențesc Iași
+  ## add alternate spelling with l (small letter l)
+  | CSMS lași | Politehnica lași | FC Politehnica lași
+  ##  | CSMS Iașilași     -- todo/check: typo?  l is a small letter l ?
+# note: This article - FC Politehnica Iași (2010) - is about the football club
+# established in 2010. For the dissolved club, see FC Politehnica Iași (1945).
+# For other uses, see Politehnica Iași.
+
+
+Poli Timișoara, Timișoara
+  | Timișoara | ACS Poli Timișoara
+  | FC Politehnica Timișoara     # champs (1): 2009/10
+  | Politehnica Timișoara
+  | FC Timișoara
+
+Sepsi Sfântu Gheorghe,   Sfântu Gheorghe
+  | Sepsi | Sepsi Sf. Gheorghe | Sepsi OSK
+  | Sf. Gheorghe
+
+ASA Târgu Mureș (2008-2018),    Târgu Mureș
+  | Târgu Mureș
+  | ASA Tîrgu Mureș
+  | Tîrgu Mureș
+  | FCM Târgu Mureș
+# in 2008 founded as FCM Târgu Mureș
+# In 2013, the club changed its name from
+# Fotbal Club Municipal (FCM) to Asociația Sportivă Ardealul (ASA).
+
+
+Universitatea Craiova,    Craiova
+  | U Craiova | CS U Craiova | CS Uni Craiova | U Craiova 1948 CS | CS Universitatea Craiova
+  | U Craiova 1948 Club Sportiv
+  | Univ. Craiova
+  | Uni Craiova 1948
+  | FC Universitatea Craiova   # champs (4): 1991/92 1982..1980 (2) 1974/75
+
+
+UTA Arad,   Arad
+  | FC UTA Arad | Fotbal Club UTA Arad
+  | FCM UTA Arad
+  | UT Arad    # champs (2): 1971..1969 (2)
+  | UTA
+
+
+FC Voluntari,  Voluntari
+  | Voluntari
+  | CS Voluntari
+  | FC FC Voluntari       ## typo: misspelled in football data.uk csv source
+
+FC Academica Clinceni, 2005,  Clinceni
+  | Academica Clinceni | Fotbal Club Academica Clinceni
+  | FC Academica Clinc
+
+CS Mioveni, 2000, Mioveni
+  | Mioveni
+
+CSM Flacăra Moreni,  1922,   Moreni
+  | Flacăra | Flacăra Moreni
+  | CS Flacăra Moreni
+  | Club Sportiv Municipal Flacăra Moreni
+
+FC Argeș Pitești, Pitești
+  | Argeș | Argeș Pitești | FC Argeș
+  | Asociația Clubul Sportiv Campionii Fotbal Club Argeș
+  | ACS Campionii FC Argeș
+
+
+
+CS Minaur Baia Mare, 1948,  Baia Mare
+  | Baia Mare | Minaur Baia Mare
+  | FC Baia Mare
+
+
+CSM Jiul Petroșani, 1919,   Petroșani
+  | Jiul Petroșani | CS Jiul Petroșani
+  | Clubul Sportiv Municipal Jiul Petroșani
+
+FCM Bacău,  1950,   Bacău
+  | FCM 1950 Bacău | ASS FCM 1950 Bacău
+
+
+FK Csíkszereda Miercurea Ciuc,  Miercurea Ciuc
+  | FK Csíkszereda
+  | Csíkszereda Miercurea Ciuc
+  | Csíkszereda
+  | Csiksz. M. Ciuc
+  | Asociația Futball Klub Csíkszereda Miercurea Ciuc
+
+
+CS Corvinul Hunedoara,  1921,    Hunedoara
+  | Corvinul Hunedoara
+  | Corvinul
+  | Corv. Hunedoara | Corv. Hunedoar
+  | Clubul Sportiv Corvinul 1921 Hunedoara
+  | FC Corvinul Hunedoara
+
+
+AS FC Buzău,  2016,  Buzău
+  | FC Buzău
+  | Buzău
+  | Asociația Sportivă Fotbal Club Buzău
+  | FC Gloria Buzău
+# club was originally founded on 25 August 2016,
+#  following the dissolution of FC Gloria Buzău.
+##  In the summer of 2017 FC Buzău was renamed as SCM Gloria Buzău,
+#  as part of the city new sports club SCM Gloria Buzău
+
+
+
+Unirea Slobozia, 1955,  Slobozia
+   | Asociația Fotbal Club Unirea 04 Slobozia
+   | FC Unirea 2004 Slo
+   | FC Unirea Slobozia
+
+CS Tunari,    Tunari
+  | Clubul Sportiv Tunari
+  | Tunari
+
+CSC 1599 Șelimbăr,   Șelimbăr
+  | Club Sportiv Comunal 1599 Șelimbăr
+  | 1599 Șelimbăr
+  | Șelimbăr
+
+
+
+Chimia Râmnicu Vâlcea (1946-2004),  Râmnicu Vâlcea
+  | Chimia Rimnicu Vilcea
+  | CS Chimia Râmnicu Vâlcea
+  | FC Râmnicu Vâlcea
+
+Unirea Urziceni (1954-2017), Urziceni   # champs (2): 2011..2009 (2)
+  | FC Unirea | FC Unirea Urziceni
+
+
+FC Extensiv Craiova (1949-2013),    Caracal
+  | Fotbal Club Extensiv Craiova
+  | FC Caracal
+  | Extensiv
+
+FC Victoria Brănești (1968-2012),   Brănești
+  | Victoria Brănești
+
+CSU Voința Sibiu (2007-2012),   Sibiu
+  | Voința Sibiu
+
+

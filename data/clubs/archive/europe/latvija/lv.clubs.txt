@@ -1,0 +1,96 @@
+==============================
+=  Latvija
+
+FK RFS,  Riga
+  | RFS | Rīgas Futb. Skola | FK Rīgas Futbola Skola
+  | Rīgas Futbola Skola
+  | JFK Olimps/RFS           ## todo/check where this name is (still/was) used ?
+  | Olimps
+  | FC RFS
+  | Rigas Fb. Sk
+
+
+Rīga FC,         Riga
+  | Riga | FC Riga
+  | FK Rīga     ### always use Rīga not Riga - why? why not?
+
+
+FS METTA,        Riga
+  | METTA | FS METTA/LU | FS METTA/Latvijas Universitāte
+  | FK Universitate
+  | Universitate
+
+FK LU/Daugava (1979-2000), Riga
+  | FK Latvijas Universitāte/Daugava
+  | Torpedo Rīga
+  | Daugava
+
+FC Daugava Rīga (2003-2015),  Riga          # note: historic soviet era club
+  | Daugava Rīga
+  | FK Daugava Rīga
+
+Skonto FC (1991-2006), Riga
+  | Skonto | Skonto Riga
+  | FC Skonto Riga
+
+ FK Auda Riga, 1969,   Riga (Ķekava)    # Ķekava near the capital, Riga
+   | Auda | FK Auda
+   | Futbola klubs Auda
+
+
+FK Ventspils,    Ventspils
+  | Ventspils
+
+FK Liepāja,      Liepāja       # check -same as SK Liepājas Metalurgs ??
+  | Liepāja
+# an indirect legatee of FK Liepājas Metalurgs,
+#  which was dissolved following the 2013 Latvian Higher League season
+#  due to the bankruptcy of its owner company and the sole sponsor metallurgical plant A/S Liepājas Metalurgs.
+
+SK Liepājas Metalurgs,      Liepāja
+  | Liepājas Metalurgs
+  | FK Liepājas Metalurgs
+  | Metalurgs Liepāja
+
+FK Jelgava, 2004, Jelgava
+  | Jelgava
+  | Futbola klubs Jelgava
+
+FS Jelgava, 2017, Jelgava
+  | Futbola skola Jelgava
+# previous name Albatroz SC
+
+
+FK Valmiera, Valmiera
+  | Valmiera FK
+
+FK Spartaks Jūrmala, Jūrmala
+  | Spartaks Jūrmala
+  | FK Spartaks
+
+FC Daugava Daugavpils, Daugavpils
+  | FC Daugava
+  | Daugava Daugavpils    # champs (1): 2013/14
+
+
+BFC Daugavpils,         Daugavpils
+  | Daugavpils
+
+FC Dinaburg
+  | Dinaburg
+
+Grobiņas SC,  2009,  @ Grobiņa Stadium, Grobiņa
+  | Sporta Centrs Grobiņa
+  | Grobiņas SC/LFS
+  | Grobiņas sporta centrs/Liepājas Futbola skola
+  | Grobiņa
+## Grobiņas SC also has an agreement with FK Liepāja
+
+
+FK Tukums 2000, 2000, Tukums
+  | Tukums 2000 | Futbola klubs Tukums 2000
+
+
+Valmiera FC,  1996,  Valmiera
+  | Valmiera
+  | Valmiera Football Club

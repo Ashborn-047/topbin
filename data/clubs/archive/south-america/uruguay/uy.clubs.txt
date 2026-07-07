@@ -1,0 +1,74 @@
+========================
+=  Uruguay
+
+Liverpool Montevideo,          Montevideo
+  | Liverpool | Liverpool FC | Liverpool Fútbol Club
+  | Liverpool Montevid | Liverpool FC Montevideo
+  | Liverpool Mont.
+  | Liverpool Montev.
+
+Nacional de Montevideo, 1899,  Montevideo
+  | Nacional | Nacional de Footb. | Club Nacional | Club Nacional de Football | C. N. de F.
+Defensor Sporting,             Montevideo
+  | Defensor | Defensor Sp. | Defensor Sporting Club
+  | Defensor SC
+CA Peñarol,                    Montevideo
+  | Peñarol | Club Atlético Peñarol
+CA Cerro, 1922,                Montevideo
+  | Cerro | Club Atlético Cerro
+Danubio FC, 1932,              Montevideo
+  | Danubio | Danubio Fútbol Club
+El Tanque Sisley, 1941,        Montevideo
+  | Deportivo El Tanque Sisley
+
+Centro Atlético Fénix, 1916,   Montevideo
+  | Fénix | CA Fénix
+  | Fénix Montevideo
+  | Atletico Fénix Mon
+
+
+CS Miramar Misiones, 1906,     Montevideo
+  | Miramar Misiones | Club Sportivo Miramar Misiones
+Montevideo Wanderers, 1902,    Montevideo
+  | Wanderers  | Montevideo Wanderers FC
+  | Montevideo Wanderers Fútbol Club
+  | Montev. Wanderers
+  | Montev. Wand.
+Racing CM, 1919,               Montevideo
+  | Racing | Racing Club de Montevideo
+  | RC Montevideo
+CA Rentistas, 1933,            Montevideo
+  | Rentistas | Club Atlético Rentistas
+CA River Plate, 1932,          Montevideo
+  | River Plate | Club Atlético River Plate
+  | Club Atlético River Plate (Uruguay)     ## wikipedia name
+Boston River,                  Montevideo
+  | CA Boston River
+CA Progreso,                   Montevideo
+  | Progreso
+Rampla Juniors,                Montevideo
+  | Rampla Juniors FC
+Montevideo City,               Montevideo
+  | Montevideo City Torque
+  | Torque
+# Founded in 2007 as Club Atlético Torque
+
+La Luz FC,  1929,  Montevideo (Aires Puros)
+  | La Luz
+  | La Luz Fútbol Club
+
+
+
+Juventud de Las Piedras, 1935,    Las Piedras
+  | Juventud | Juventud Piedras | Club Atlético Juventud de Las Piedras
+Cerro Largo, 2002,                Melo
+  | Cerro Largo FC | Cerro Largo Fútbol Club
+Sud América, 1914,                San José
+  | Institución Atlética Sud América | I.A.S.A
+Club Plaza Colonia de Deportes,   Colonia
+  | Plaza Colonia | Plaza Colonia CD
+
+CD Maldonado,               Maldonado
+  | Club Deportivo Maldonado
+  | Deportivo Maldonado
+  | D. Maldonado

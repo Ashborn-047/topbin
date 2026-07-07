@@ -1,0 +1,119 @@
+==============================
+=  Ireland
+
+Shamrock Rovers FC,                Dublin (Tallaght)         #  Tallaght, South Dublin
+  | Shamrock | Shamrock Rovers | FC Shamrock Rovers
+  | Shamrock Rovers Football Club
+  ii) Shamrock Rovers II
+
+Bohemian FC,                     Dublin (Phibsborough)
+  | Bohemians | Boh. Dublin | Bohemians Dublin
+  | Bohemian Football Club
+  | Bohemian Football Club Dublin
+
+St Patrick's Athletic FC,        Dublin (Inchicore)
+  | St Patrick's | St Patrick's Athletic
+  | St. Patricks
+  | Saint Patrick's Athletic FC
+  | Saint Patrick's
+  | St Patrick's Athletic Football Club
+University College Dublin AFC,  Dublin (Belfield)
+  | UCD | UC Dublin | Uni College Dublin
+  | University College Dublin
+  | University College Dublin Association Football Club
+
+Shelbourne FC,                   Dublin (Drumcondra)
+  | Shelbourne | Shelbourne Dublin
+  | Shelbourne Football Club
+
+Drumcondra FC,          Dublin (Drumcondra)
+  | Drumcondra Dublin     # champs (3): 1965/66 1961/62 1958/59
+
+Dublin City FC (1999-2006),    Dublin (Northside)
+  | Dublin City
+
+
+Athlone Town AFC,    Athlone
+  | Athlone | Athlone Town
+  | Athlone Town FC
+  | FC Athlone Town
+
+Bray Wanderers FC,   Bray
+  | Bray | Bray Wanderers
+  | FC Bray Wanderers
+
+Cobh Ramblers FC,  Cobh
+  | Cobh Ramblers
+
+Cork City FC,        Cork
+  | Cork | Cork City
+# In 2008, financial issues resulted in a period of examinership,
+#   and the club's then holding company was wound up in 2010
+# A team was entered into the 2010 League of Ireland First Division,
+# before the club re-acquired rights to the name
+# "Cork City Football Club"
+
+
+Cork Celtic FC (1951-1979),  Cork
+  | Cork Celtic      # champs (1): 1974/75
+Cork Hibernians FC (1957-1976), Cork
+  | Cork Hibernians   # champs (1): 1971/72
+  | Cork Hibs
+
+Drogheda United FC,  Drogheda
+  | Drogheda | Drogheda United
+  | FC Drogheda United
+  | Drogheda United Football Club
+
+Dundalk FC,         Dundalk
+  | Dundalk | FC Dundalk
+  | Dundalk Football Club
+
+Finn Harps FC,     Ballybofey
+  | Finn Harps | FC Finn Harps
+  | Finn Harps Football Club
+Galway United FC, Galway
+  | Galway | Galway United
+  | FC Galway United
+
+Limerick FC (1937-2020), Limerick
+  | Limerick
+  | Limerick Football Club
+
+Treaty United,  2020,    Limerick
+  | Treaty United Football Club
+## The club was founded in 2020 following the demise of Limerick F.C
+
+
+Longford Town FC,  Longford
+  | Longford | Longford Town | FC Longford Town
+Mervue
+Monaghan
+  | Monaghan United
+Sligo Rovers FC,       Sligo
+  | Sligo | Sligo Rovers | FC Sligo Rovers
+  | Sligo Rovers Football Club
+
+Waterford FC,          Waterford
+  | Waterford
+  | Waterford United (1982-2016) | Waterford United FC (1982-2016)
+  | Waterford AFC    # champs (6): 1974..1972 (2) 1971...1968 (3) 1966/67
+  | Waterford Football Club
+
+## todo/fix: use/try new format e.g.
+##  1982-2016  | Waterford United | Waterford United FC
+
+Wexford FC,           Crossabeg
+  | Wexford
+  | Wexford Youths
+
+Sporting Fingal FC
+  | Sporting Fingal
+
+Cabinteely FC,        Cabinteely
+  | Cabinteely
+
+
+Kerry FC,   2022,   Tralee   # in County Kerry
+  | Kerry Football Club
+

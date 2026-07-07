@@ -1,0 +1,170 @@
+==============================================
+=  Scotland
+
+
+
+Celtic FC, 1887,       Glasgow
+  | Celtic | Celtic Glasgow
+  | The Celtic Football Club
+Rangers FC,      Glasgow
+  | Rangers | Gl. Rangers | Glasgow Rangers
+  | Rangers Football Club
+Partick Thistle, 1876, Glasgow
+  | Partick | Partick Thistle FC | Jags
+Queen's Park,    Glasgow
+  | Queens Park
+  | FC Queens Park
+
+Heart of Midlothian FC,  Edinburgh   ## Gorgie - West of Edinburgh
+  | Hearts | Heart of Midl. | Heart of Midlothian
+  | Hearts FC
+  | Heart of Midlothian Football Club
+Hibernian FC,            Edinburgh   ## Leith  - North of Edinburgh
+  | Hibernian | Hibernians
+  | Hibernian Football Club
+Edinburgh City,          Edinburgh
+
+FC Spartans,  1951,  Edinburgh
+ | The Spartans Football Club
+ | The Spartans
+
+
+
+Aberdeen FC, 1903, Aberdeen
+  | Aberdeen
+  | FC Aberdeen
+  | Aberdeen Football Club
+  | Abderden    ## typo - fix in champs csv datafile!!!!
+
+Cove Rangers FC, 1922, Aberdeen (Cove Bay)
+  | Cove Rangers | Cove Rangers Football Club
+
+
+
+Dundee FC, 1893,       Dundee     ## note: depends on level (1) for mapping
+  | Dundee | FC Dundee
+  | Dundee Football Club
+Dundee United, 1909,   @ Tannadice Park  Dundee
+  | Dundee Utd | Dundee United FC | Dundee Hibernian
+  | Dundee United Football Club
+
+Hamilton Academical FC, 1874,  @ New Douglas Park,   Hamilton
+  | Hamilton | Hamilton FC | Hamilton Accies
+  | Hamilton Academical
+  | Hamilton Academical Football Club
+Kilmarnock FC, 1869, Kilmarnock
+  | Killie | Kilmarnock | FC Kilmarnock
+  | Kilmarnock Football Club
+
+Motherwell FC, 1886,  Motherwell
+  | Motherwell | FC Motherwell
+  | Motherwell Football Club
+Ross County FC,  1929,  Dingwall
+  | Ross County | FC Ross County
+  | Ross County Football Club
+St Johnstone FC, 1884, Perth
+  | St Johnstone | St. Johnstone | Saint Johnstone FC
+  | St Johnstone Football Club
+  | FC St. Johnstone
+
+Brechin City,  Brechin
+  | Brechin
+  | FC Brechin City
+Dumbarton,     Dumbarton
+  | FC Dumbarton
+
+Dunfermline Athletic, Dunfermline
+  | Dunfermline
+  | Dunfermline Athletic FC
+
+Falkirk,  Falkirk
+  | FC Falkirk
+  | Falkirk FC
+
+Greenock Morton,  Greenock
+  | Morton |  Greenock Morton FC
+
+Inverness Caledonian Thistle, 1994,  Inverness
+  | Inverness | Inverness C | Inverness CT | Inverness Caledonian Thistle FC
+  | Caley Thistle | ICT | The Caley Jags
+
+Livingston FC, Livingston
+  | Livingston | FC Livingston
+  | Livingston Football Club
+
+Queen of the South,  Dumfries
+  | Queen of Sth | Queen of South
+  | Queen of the South FC
+
+Saint Mirren FC, 1877,  Paisley
+  | St Mirren | St Mirren FC
+  | St Mirren Football Club
+  | FC St. Mirren
+
+## todo/check/fix: map Airdrie to Airdrieonians  - why? why not?
+##
+##  - x Airdrie (???) - 8 seasons in 1 level
+##  - 2 (8): 2001-02........1994-95 (8)
+
+Airdrieonians,    Airdrie
+  | Airdrie Utd | Airdrie
+
+Albion Rovers,    Coatbridge
+  | Albion Rvs | FC Albion Rovers
+Alloa Athletic,   Alloa
+  | Alloa | FC Alloa Athletic
+Arbroath,         Arbroath
+  | FC Arbroath
+Ayr United,       Ayr
+  | Ayr
+East Fife,        Methil
+  | FC East Fife
+Forfar Athletic,  Forfar
+  | Forfar
+
+Raith Rovers,     Kirkcaldy
+   | Raith | Raith Rvs | FC Raith Rovers
+   | Raith Rovers FC
+
+Stranraer,        Stranraer
+   | FC Stranraer
+
+
+
+
+Annan Athletic,   Annan
+Clyde,            Cumbernauld
+  | FC Clyde
+Cowdenbeath,      Cowdenbeath
+  | FC Cowdenbeath
+Elgin City,       Elgin
+  | Elgin
+Montrose,         Montrose
+  | FC Montrose
+Peterhead,        Peterhead
+  | Peterhead FC
+Stenhousemuir,    Stenhousemuir
+  | FC Stenhousemuir
+Stirling Albion,  Stirling
+  | Stirling
+
+
+Clydebank FC,  Clydebank
+  | Clydebank
+East Stirlingshire FC,  Falkirk
+  | East Stirling
+Gretna FC, Gretna
+  | Gretna
+
+
+Kelty Hearts FC,  1975,  Kelty
+  | Kelty Hearts
+  | Kelty Hearts Football Club
+
+Bonnyrigg Rose,  1881, Bonnyrigg
+  | Bonnyrigg Rose Football Club
+  | Bonnyrigg Rose FC
+  | Rose
+East Kilbride FC,  East Kilbride
+  | East Kilbride Football Club
+  | East Kilbride

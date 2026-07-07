@@ -1,0 +1,20 @@
+##############################
+# Czech Republic (CZE), cz
+
+Name,                 Web
+Sparta Praha,         www.sparta.cz
+Slavia Praha,         www.slavia.cz
+FK Dukla Praha,       www.fkdukla.cz
+Bohemians Praha 1905, www.bohemians.cz
+FK Mladá Boleslav,    www.fkmb.cz
+1. FK Příbram,        www.fkpribram.cz
+Viktoria Plzeň,       www.fcviktoria.cz
+FC Slovan Liberec,    www.fcslovanliberec.cz
+FK Jablonec,          www.fkjablonec.cz
+FC Baník Ostrava,     www.fcb.cz
+SK Sigma Olomouc,     www.sigmafotbal.cz
+FK Teplice,           www.fkteplice.cz
+1. FC Slovácko,       www.fcslovacko.cz
+FC Zlín,              www.fcfastavzlin.cz
+FC Vysočina Jihlava,  www.fcvysocina.cz
+FC Zbrojovka Brno,    www.fczbrno.cz

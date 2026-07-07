@@ -1,0 +1,200 @@
+==========================
+=   Denmark
+
+
+== Hovedstaden ==
+FC København, 1992,    København         ## Copenhagen [en]
+  | København | Football Club København
+  | Copenhagen | FC Copenhagen [en]
+  | FC Kopenhagen [de]
+
+B 1903 København (1903-1992),     København      # champs (3): 1977/78 1972..1970 (2)
+  | B 1903 | Boldklubben 1903
+## In 1992 merged with Kjøbenhavns Boldklub (KB)
+##    to form the current club FC Copenhagen
+
+KB København (1876-1992),     København    # champs (4): 1981/82 1975/76 1969/70 1958/59
+  | KB | Kjøbenhavns BK | Kjøbenhavns Boldklub
+
+# In 1991, KB and B 1903 merged their professional football teams
+#  and formed FC Copenhagen
+
+B93 København, 1893,  København (Østerbro)
+  | B.93 | Boldklubben 1893
+  | B93 Kopenhagen  [de]
+
+
+BK Fremad Amager,    København
+  | Fremad Amager
+Brønshøj BK,         København
+  | Brønshøj Boldklub
+B 1908 Amager,       København
+  | B.1908 | Boldklubben 1908
+Vanløse IF,          København
+
+BK Frem, 1886,     København (Valby-Sydhavnen)
+  | Boldklubben Frem
+  | Frem København | BK Frem København
+  | BK Frem Copenhagen
+  | Frem
+
+
+Akademisk Boldklub,  Gladsaxe   # north of Copenhagen
+  | AB Gladsaxe |  Akademisk Boldklub Gladsaxe
+  | Akademisk BK
+  | AB København
+  | AB
+
+Brøndby IF, 1964,  @ Brøndby Stadion,   Brøndbyvester       ## use Brøndby ??
+  | Brøndby | Brøndbyernes Idrætsforening
+
+FC Nordsjælland, 1991,  Farum
+  | Nordsjælland | Football Club Nordsjælland
+
+FC Helsingør, 2005,  Helsingør
+ | Helsingør
+
+Lyngby BK, 1921,  @ Lyngby Stadion,  Lyngby
+  | Lyngby | Lyngby Boldklub
+  | Lyngby Boldklub af 1921
+
+== Nordjylland ==
+Aalborg BK, 1885,   @ Aalborg Portland Park,   Aalborg
+  | AaB | Aalborg | AaB Aalborg
+  | Aalborg Boldspilklub
+
+Hobro IK, 1913,     Hobro
+  | Hobro | Hobro Idræts Klub
+
+Vendsyssel FF, Hjørring
+  | Vendsyssel
+
+
+== Midtjylland ==
+FC Midtjylland, 1999,   Herning
+  | Midtjylland | Football Club Midtjylland
+
+Ikast FS (1935-1999),  Ikast
+  | IFS | Ikast Forenede Sportsklubber
+  | Ikast
+# In 1999 merged with Herning Fremad to found FC Midtjylland.
+
+
+AGF Aarhus, 1880, @ Ceres Park,  Aarhus
+  | AGF | Aarhus
+  | Aarhus GF
+  | Aarhus Gymnastikforening
+  | Aarhus Gymnastikforening af 1880
+
+Viborg FF, 1896,    Viborg
+  | Viborg | Viborg Fodsports Forening
+
+AC Horsens,  1994, @ CASA Arena Horsens,  Horsens
+  | Horsens
+  | Alliance Club Horsens
+
+Silkeborg IF, 1917,  Silkeborg
+  | Silkeborg | SIF | Silkeborg Idrætsforening
+
+
+== Østjylland ==
+Randers FC, 2003,  @ Cepheus Park Randers,   Randers
+  | Randers | Randers Football Club
+
+Randers Freja,   Randers
+  | Randers Sportsklub Freja
+# In 2003 merged with five other local football clubs to form Randers FC.
+
+
+== Syddanmark ==
+Sønderjysk Elitesport, 2004, @ Sydbank Park,   Haderslev
+  | SønderjyskE | SønderjyskE Fodbold
+
+Odense BK, 1887,      Odense
+  | OB | Odense | Odense Boldklub
+  | OB Odense
+
+B 1909 Odense, Odense    # champs (3): 1966..1964 (2) 1959/60
+  | B 1909 | Boldklubben 1909
+B 1913 Odense, Odense    # champs (1): 1961/62
+  | B 1913 | Boldklubben 1913
+
+Esbjerg fB, 1924,    Esbjerg
+  | Esbjerg | Esbjerg forenede Boldklubber
+
+Vejle, 1891,  @ Vejle Stadion,  Vejle
+  | Vejle BK | Vejle Boldklub
+  | VB
+
+
+== Sjælland ==
+FC Vestsjælland,  Slagelse
+  | Vestsjælland
+
+
+== ?? ==
+
+HB Køge, 2009,             Køge (Herfølge)
+  | Køge
+
+Herfølge BK (1921-2009),   Køge (Herfølge)
+  | Herfølge Boldklub
+# In 2009 merged its professional football
+#    with Køge BK to form HB Køge
+
+Køge BK (1927-2009),     Køge     # in Zealand
+  | Køge Boldklub    # champs (1): 1976/77
+# In March 2009 the first team merged
+#    with Herfølge Boldklub to form HB Køge.
+
+Holbæk B&I, 1931,     Holbæk   # on Zealand
+  | Holbæk Bold- & Idrætsforening
+  | Holbæk
+
+
+FC Fredericia,  Fredericia
+Skive IK,       Skive
+Kolding IF,     Kolding
+FC Roskilde,    Roskilde
+
+Hvidovre IF,   1925, @ Hvidovre Stadium,   Hvidovre
+  | Hvidovre
+  | Hvidovre Idrætsforening
+
+
+Nykøbing FC,    Nykøbing Falster
+
+B 1901 Nykøbing (1901-1994),  Nykøbing Falster
+  | B1901 Nykøbing
+
+
+Næstved BK,     Næstved
+  | Næstved IF
+  | Næstved
+
+
+Hillerød Fodbold,   Hillerød
+Middelfart BK,       Middelfart
+  | Middelfart G&BK
+Varde IF,       Varde
+Thisted FC,     Thisted
+Viby IF,       Viby
+Hellerup IK,   Hellerup
+  | HIK | HIK Hellerup
+
+
+
+## note:
+##  de lookup works with unaccent
+##    Brønshøj BK      => bronshojbk
+##    Brönshöj BK [de] => bronshojbk
+##  => no need to duplicate!!!
+##      remove (do NOT add) german variants
+##   more (former) examples:
+##    -  Vanlöse IF [de]
+##    -  HB Köge [de]
+##    -  Nyköbing FC [de]
+##    -  Hilleröd Fodbold [de]
+##    -  Kjöbenhavns Boldklub
+
+

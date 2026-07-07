@@ -1,0 +1,22 @@
+=========================
+=  Honduras
+
+CD Olimpia,       Tegucigalpa
+  | Olimpia
+
+FC Motagua,  1928,     Tegucigalpa
+  | Club de Fútbol Motagua
+  | Futbol Club Motagua
+  | CD Motagua
+  | Motagua
+# formerly Club Deportivo Motagua up to 2017
+
+
+
+CD Marathón,     San Pedro Sula
+  | Marathón
+Real CD España,    San Pedro Sula
+  | Real España
+
+CD Victoria,      La Ceiba
+  | Victoria

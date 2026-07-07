@@ -1,0 +1,93 @@
+=====================================
+=  Northern Ireland
+
+Derry City FC,       Derry     ## note: plays in (Republic of) Ireland league
+  | Derry | Derry City | FC Derry City
+  | Derry City Football Club
+
+Institute FC,        Derry
+  | Institute | FC Institute
+
+
+
+Linfield FC,    Belfast
+  | Linfield | Linfield Belfast
+  | FC Linfield
+Glentoran FC,   Belfast
+  | Glentoran | Glentoran Belfast
+  | FC Glentoran
+Crusaders FC,  Belfast
+  | Crusaders | Crusaders Belfast
+
+Newington FC, Belfast (Newington)
+  | Newington Football Club
+
+Knockbreda FC, Belfast
+  | Knockbreda
+  | Knockbreda Football Club
+  | Breda
+
+Dundela FC, Belfast
+  | Dundela Football Club
+  | FC Dundela
+
+
+
+Cliftonville FC
+  | Cliftonville
+  | FC Cliftonville
+
+Portadown FC,   Portadown
+  | Portadown   # champs (3): 2002/03 1992..1990 (2)
+  | FC Portadown
+
+Annagh United FC,  Portadown
+  | Annagh United Football Club
+  | Annagh United
+  | FC Annagh United
+
+Lisburn Distillery FC, 1880,  Ballyskeagh
+  | Lisburn Distillery    # champs (1): 1963/64
+  | Distillery
+
+Glenavon FC
+  | Glenavon | FC Glenavon
+Coleraine FC
+  | Coleraine
+  | FC Coleraine
+Ballymena United FC,  1928, Ballymena
+  | Ballymena | Ballymena United
+
+Ballinamallard United FC,  Ballinamallard
+  | Ballinamallard United
+
+Dungannon Swifts FC,    Dungannon
+  | Dungannon | Dungannon Swifts
+  | FC Dungannon
+
+Larne FC
+  | Larne
+Carrick Rangers FC
+  | Carrick
+  | FC Carrick Rangers
+  |  Carrick Rangers
+
+Warrenpoint Town FC
+  | Warrenpoint | Warrenpoint Town
+
+Ards FC,  1900     #  champs (1): 1958/59
+  | Ards
+  | FC Ards
+
+
+Bangor FC,   Bangor
+  | FC Bangor
+  | Bangor
+  ## note: not to confuse with Bangor City in Wales!! - fix error in champs.txt!!
+
+Newry City AFC,  Newry
+
+
+Loughgall FC,  Loughgall
+  | Loughgall
+  | Loughgall Football Club

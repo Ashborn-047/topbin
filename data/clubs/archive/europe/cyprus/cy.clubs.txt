@@ -1,0 +1,119 @@
+================================
+=  Cyprus
+
+AC Omonia Nicosia,  1948,     Nicosia
+  | Omonia | Omonia Nicosia | AC Omonia
+  | Omonia Nikosia [de]
+  | Athletic Club Omonia Nicosia
+  | AC Omonoia | Omonoia
+# note - Omonia (Ομόνοια) is the Greek language word
+#         for harmony, unity, or concord
+
+
+PΑC Omonia 29M, 2018, Nicosia
+  | PAC Omonia
+  | ALS Omonia
+  | ALS Omonia 29is Maiou
+  | Omonia 29M
+  | People's Athletic Club Omonia 29 May
+
+
+APOEL Nicosia FC,       Nicosia
+  | APOEL Nicosia | APOEL | APOEL FC
+  | APOEL Nikosia [de]
+Olympiakos Nicosia FC,  Nicosia
+  | Olympiakos
+  | Olympiakos Nicosia
+  | Olympiakos Nikosia
+
+
+AEL Limassol,            Limassol     # romanized: Lemesós
+  | AEL | AEL Limassol FC | Athlitiki Enosi Lemesou
+Apollon Limassol FC,     Limassol
+  | Apollon | Apollon L. | Apollon Limassol
+  | Apollon FC Lemesós
+Aris Limassol FC,     Limassol
+  | Aris Limassol
+  | Aris Limassol Football Club
+
+
+Karmiotissa Pano Polemidia,  Limassol (Pano Polemidia)
+  | Karmiotissa Pol. | Karmiotissa Polemidion
+  | Karmiotissa FC
+  | Karmiotissa Pano Polemidion
+  | FC Karmiotissa
+  | Karmiotissa
+
+
+Anorthosis Famagusta FC, Larnaca         ## note: originally based in Famagusta, now based in Larnaca
+  | Anorthosis | Anorthosis Famagusta
+  | Anorthosis F.
+
+AEK Larnaca FC,  Larnaca
+  | AEK Larnaca
+  | AÉK Lárnaka
+
+
+## note - Not to be confused with AC Omonia
+Omonia Aradippou     # Aradippou - a settlement on the outskirts of the city of Larnaca
+
+
+
+Pezoporikos Larnaca (1927-1994), Larnaca   # champs (1): 1988/89
+  | Pezoporikos Larnaca FC
+  | Pezoporikos FC
+  | Pezoporikos
+
+EPA Larnaca (1930-1994), Larnaca    # champs (1): 1970/71
+  | EPA Larnaca FC
+  | Enosis Pezoporikou Amol FC
+  | Pezoporikou
+# merged with Pezoporikos Larnaca and formed AEK Larnaca FC.
+
+Alki Larnaca FC (1948-2014), Larnaca
+  | Alki Larnaca
+  | Alki
+
+APOP/Kinyras Peyias FC
+  | APOP | APOP / Kinyras
+Ermis Aradippou FC
+  | Ermis | Ermis Aradippou
+
+Ethnikos Achnas FC
+  | Ethnikos Achnas
+  | Ethnikos Achna
+
+Pafos FC
+  | Pafos | FC Pafos
+Doxa Katokopia FC,  Katokopia
+  | Doxa | Doxa Katokopias FC
+  | Doxa Katokopia
+  | Doxa Katokopias
+
+Enosis Neon Paralimni FC
+  | Paralimni
+  | Enosis N. Paralimni | Enosis Neon Paralimni
+  | Enosis Paralimni
+
+Nea Salamis Famagusta FC
+  | Nea Salamis
+  | Nea Salamina Fama.
+  | Salamis Famagusta
+
+Digenis Morphou, Morphou
+  | Digenis Akritas Morphou FC
+  | Dighenis Akritas Morphou FC
+  | Dighenis Morphou
+  | Akritas
+
+Alki Oroklini,  Oroklini
+  | Alki Oroklinis
+
+
+Othellos Athienou, Athienou
+  | Othellos Athienou FC
+  | Athletic Club Othellos Athienou
+
+AEZ Zakakiou,  Zakaki
+  | Athletic Union of Zakaki
+

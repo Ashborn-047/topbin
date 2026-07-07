@@ -1,0 +1,86 @@
+==============================
+=  Armenia
+
+
+FC Yerevan, 1995,  Yerevan
+  | Yerevan
+  | FK Yerevan
+
+FC Ararat Yerevan, 1935,  Yerevan
+  | Ararat | FC Ararat
+  | Ararat Yerevan
+# Note: For other football clubs named Ararat, see FC Ararat.
+
+Ararat-Armenia FC, 2017,  Yerevan
+  | Ararat-Armenia
+  | FC Ararat-Armenia
+  | Ararat-Arm.
+
+FC BKMA Yerevan,   1947,  Yerevan
+  | Banaki Kentronakan Marzakan Akumb   # en - Central Sport Club of the Army
+## commonly known with its Russian abbreviation as CSKA Yerevan
+
+Alashkert FC,  Yerevan
+  | Alashkert
+  | FC Alashkert
+  | Alashkert Erewan  [de]
+
+
+
+Kilikia FC (1992-2011),  Yerevan
+  | FC Kilikia
+  | Kilikia
+
+Zvartnots-AAL FC (1997-2003),  Yerevan
+  | FC Zvartnots AAL
+  | Zvartnots
+
+
+
+FC Pyunik,  Yerevan
+  | Pyunik | Pyunik FC
+  | Pyunik Yerevan
+  | Pyu. Yerevan
+  | FC Pyunik Yerevan
+  | Pjunik Erewan [de]
+
+Ulisses FC
+  | Ulisses     # champs (1): 2012/13
+  | Ulisses Yerevan
+
+FC Mika
+  | Mika Ashtarak
+  | Mika
+FC Gandzasar
+  | Gandzasar | Gandzasar FC
+  | Gandzasar Kapan
+
+FC Urartu
+  | Urartu
+  | FC Banants | Banants  ## note: The club was known as FC Banants until 1 August 2019
+  | Banants Yerevan
+
+FC Shirak
+  | Shirak
+  | Shirak FC
+  | Shirak Gyumri
+
+Araks Ararat (-2005),  Ararat         # champs (2): 2001/02 1999/00
+  | FC Araks Ararat
+  | Araks
+
+FSC Lori
+  | Lori
+
+FC Noah,  2017,  Armavir
+  | Noah
+  | Noah Yerevan | FC Noah Yerevan
+  | Artsakh FC | FC Artsakh | Artsakh
+
+FC Gandzasar Kapan,  2004,   Kapan
+  | FC Gandzasar-Kapan
+
+
+FC Van,  2019,  Charentsavan
+  | Van | Football Club Van
+

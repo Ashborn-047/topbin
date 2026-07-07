@@ -1,0 +1,37 @@
+{
+  "name": "World Cup 2014",
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [ "Cameroon", "Croatia", "Mexico", "Brazil" ]
+    },
+    {
+      "name": "Group B",
+      "teams": [ "Spain", "Netherlands", "Australia", "Chile"]
+    },
+    {
+      "name": "Group C",
+      "teams": ["Côte d'Ivoire", "Japan",  "Greece",  "Colombia"]
+    },
+    {
+      "name": "Group D",
+      "teams": ["Costa Rica", "Italy", "England", "Uruguay"]
+    },
+    {
+      "name": "Group E",
+      "teams": ["Honduras", "France", "Switzerland", "Ecuador"]
+    },
+    {
+      "name": "Group F",
+      "teams": ["Nigeria", "Bosnia-Herzegovina", "Iran", "Argentina"]
+    },
+    {
+      "name": "Group G",
+      "teams": ["Ghana", "Germany", "Portugal", "United States"]
+    },
+    {
+      "name": "Group H",
+      "teams": ["Algeria", "South Korea", "Belgium", "Russia"]
+    }
+  ]
+}

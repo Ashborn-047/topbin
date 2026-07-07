@@ -1,0 +1,118 @@
+======================================
+=  Azerbaijan
+
+Bakı FK,   Baku
+  | Baku    # champs (2): 2009/10 2006/07
+  | FK Baku
+  | Bakı
+
+İnter Bakı PİK,  Baku
+  | Inter Baku PIK    # champs (2): 2010/11 2008/09
+  | Inter Baku
+
+FK Shafa Baku (1997-2005),  Baku
+  | Shafa | FK Shafa
+  | Shafa Baku | Safa Baku
+  | FK Şäfa
+
+Neftçi PFK,   Baku
+  | Neftçi
+  | Neftchi PFC Baku   # champs (6): 2014...2011 (3) 2006..2004 (2) 1997/98
+  | Neftchi Baku
+
+Zirä FK,    Baku   # based in Zirə, Baku
+  | FK Zirä
+  | Zirä
+  | Zirä Football Club
+  | Zirä Futbol Klubu
+  | PFC Zire
+
+
+
+FK Şämkir (1954-2017), Şəmkir
+  | Shamkir | Shamkir FC     # champs (2): 2002..2000 (2)
+  | Shamkir FK
+  | FK Shamkir
+
+
+FK Şamaxı,    Shamakhi
+  | Şamaxı
+  | Şamaxı Futbol Klubu
+
+
+Qarabağ FK
+  | Qarabağ | Qarabağ Ağdam
+  | Garabag Agdam
+  | Qarabağ Ağdam FK
+
+Xäzär Länkäran FK
+  | Xäzär Länkäran
+  | Khazar Lankaran   # champs (1): 2007/08
+
+Olimpik-Şüvälan PFK
+  | Olimpik-Şüvälan
+
+Simurq PFK (2005-2015),  Zaqatala
+  | Simurq PFC
+  | Simurq PIK
+  | Simurq Zaqatala PFK
+  | Simurq
+
+Gabala SC
+  | Gabala
+  | Gabala FK | FK Gabala
+  | Qäbälä
+
+Keşla FK
+  | Keşla
+  | Keşlə FK   ## todo/fix: auto-create variants ş=>ş (with cedilla? and comma?)
+  | FK Keshla
+
+
+Käpäz PFK, 1959,    Ganja
+  | Käpäz   # champs (2): 2000..1998 (2)
+  | FK Käpäz
+  | Kapaz Ganja
+  | Kapaz Professional Football Club
+
+Sabail
+  | Səbail FK   ### todo/fix - add  ə to unaccent ???
+  | Sabail FC
+  | Sabail FK
+
+Sumqayıt FK
+  | Sumqayıt
+  | Sumgayit FK
+
+
+Sabah FC
+  | Sabah
+  | Sabah FK
+
+# note - Not to be confused with FC Turan
+PFK Turan Tovuz, 1954,  Tovuz
+  | Turan PFK
+  | Turan-T İK
+  | Turan-Tovuz İK
+  | Turan İK | Turan İdman Klubu
+  | Turan Tovuz
+  | Turan Tovuz PFK
+  | Turan
+
+
+FK MKT Araz, 2004,    İmişli
+  | MKT Araz
+  | FK MKT Araz İmişli
+
+Araz FK Naxçıvan,     Nakchivan
+  | Araz-Naxçıvan PFK
+
+
+Karvan FK (2004-2014),   Yevlakh
+  | FK Karvan Evlakh
+  | Karvan
+
+Khazri Buzovna (1994-1998),  Buzovna
+  | FK Khazri Buzovna
+  | Khazri
+

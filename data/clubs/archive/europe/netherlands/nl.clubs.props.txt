@@ -1,0 +1,25 @@
+###########################
+#  Eredivisie
+
+Name,            Web
+AFC Ajax,        www.ajax.nl
+AZ Alkmaar,      www.az.nl
+ADO Den Haag,    www.adodenhaag.nl
+Feyenoord,       www.feyenoord.nl
+SBV Excelsior,   www.sbvexcelsior.nl
+Heracles Almelo, www.heracles.nl
+FC Twente,       www.fctwente.nl
+PEC Zwolle,      www.peczwolle.nl
+FC Groningen,    www.fcgroningen.nl
+FC Utrecht,      www.fcutrecht.nl
+NAC Breda,       www.nac.nl
+NEC Nijmegen,    www.nec-nijmegen.nl
+Vitesse Arnhem,  www.vitesse.nl
+De Graafschap,   www.degraafschap.nl
+PSV Eindhoven,   www.psv.nl
+RKC Waalwijk,    www.rkcwaalwijk.nl
+Willem II,       www.willem-ii.nl
+Roda JC,         www.rodajc.nl
+VVV-Venlo,       www.vvv-venlo.nl
+SC Heerenveen,   www.sc-heerenveen.nl
+SC Cambuur,      www.cambuur.nl

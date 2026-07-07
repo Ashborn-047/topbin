@@ -1,0 +1,36 @@
+===========================================
+=  Australia
+
+# note: Wellington Phoenix included in nz/clubs !!
+
+
+== New South Wales ==
+Sydney FC,                 Sydney
+Western Sydney Wanderers,  Sydney
+  | W Sydney | Western Sydney | WS Wanderers FC
+Central Coast Mariners,   Gosford    ##  › Central Coast
+  | Central Coast
+Newcastle United Jets,    Newcastle
+  | Newcastle | Newcastle Jets
+
+== Victoria ==
+Melbourne City FC,          Melbourne
+  | Melb City
+  | Melbourne Heart   # founded in 2009 as Melbourne Heart
+Melbourne Victory,        Melbourne
+  | Melb Victory
+
+Western United,      Geelong      # use Melbourne (Truganina) ?? - note: the club aims to represent western Victoria
+  | Western United FC
+
+== Queensland ==
+Brisbane Roar,            Brisbane Roar
+  | Brisbane
+
+== South Australia ==
+Adelaide United,          Adelaide
+  | Adelaide | Adelaide United FC
+  | Adelaide United F
+
+== Western Australia ==
+Perth Glory,           Perth

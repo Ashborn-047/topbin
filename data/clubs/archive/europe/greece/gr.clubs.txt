@@ -1,0 +1,220 @@
+================================
+=  Greece
+
+
+AEK Athens FC,     Athens    ## use!? - Marousi or Maroussi a suburban city in the northeastern part of the Athens agglomeration
+  | AEK | AEK Athens
+  | PAE AEK
+  | Athlitiki Enosis Konstantinoupoleos
+  | AEK Athen [de]
+
+Panathinaikos FC,  Athens
+  | Panathinaikos
+  | Panathinaikos Athens
+  | PAE Panathinaikos Athlitikos Omilos
+  | Panathinaikos Athen [de]
+
+Apollon Smyrnis FC,  Athens
+  | Apollon | Apollon Smyrnis
+  | Apollon Athens FC
+  | Apollon Smyrni
+  | Gymnastikos Syllogos Apollon Smyrnis
+
+Atromitos FC,      Athens    ## use!? - Peristeri a suburban municipality in the northwestern part of the Athens agglomeration
+  | Atromitos
+  | PAE APS Atromitos Athinon
+  | Atromitos Ath.
+  | Atromitos Athen [de]
+
+Panionios GSS,     Athens    ## use!? - Nea Smyrni a municipality and a southern suburb of Athens
+  | Panionios
+  | Panionios Athen [de]
+APO Akratitos,      Athens        ## Ano Liosia, Athens
+  | Akratitos
+Athinaikos AS FC,   Athens
+  | Athinaikos
+
+Chalkidona FC, Athens   ## Nikaia - a suburb in the western part of the Athens agglomeration
+  | Chalkidona
+Egaleo FC, Athens   ## Egaleo - a suburb of Athens
+  | Egaleo
+  | AO Aigaleo
+
+Ethnikos Asteras FC, Athens   ## Kaisariani - a suburban town and a municipality in the eastern part of the Athens agglomeration
+  | Ethnikos Asteras | Eth Asteras
+
+
+AE Kifisia FC, Athens  ##  Kifissia - a suburban town in the Athens agglomeration
+  | AE Kifisia
+  | Athlitiki Enosi Kifisia
+  | Kifisia
+
+
+
+Kallithea FC, Kallithea   ## Kallithea - the 4th biggest in the Athens urban area
+  | Kalithea | Kallithea
+Thrasyvoulos FC,  Fyli  ##  a town and a municipality in the northwestern part of Attica; a suburb of Athens
+  | Thrasyvoulos
+
+Panelefsiniakos FC, Elefsina › Attica
+  | Eleysina
+
+Proodeftiki FC, Nikaia › Attica
+  | Proodeftiki | Proodeytiki
+Ionikos FC, Nikaia › Attica   ## Athens Nikaia - a suburb in the western part of the Athens agglomeration
+  | Ionikos
+  | Ionikos Nikea
+  | Athlitikós Ómilos Ionikós Níkaias
+
+Olympiacos Piraeus FC,  Piraeus › Attica
+  | Olympiacos | Olympiacos Piraeus | Olympiacos FC
+  | Olympiakos | Olympiakos Piräus | Olympiakos P.
+  | PAE Olympiakos SFP
+  | Olympiakos Syndesmos Filathlon Pirea
+
+Ethnikos Piraeus FC,    Piraeus › Attica
+  | Ethnikos Piraeus | Ethnikos
+
+
+
+PAOK FC,              Thessaloniki › Central Macedonia
+  | PAOK | PAOK Thessal. | PAOK Thessaloniki
+  | PAOK Saloniki
+  | PAOK Thessaloniki FC
+  | Panthessalonikeios Athlitikos Omilos Konstantinoupoliton
+
+Aris Thessaloniki FC, Thessaloniki › Central Macedonia
+  | Aris | Aris Thessaloniki
+  | A. Saloniki | Aris Saloniki
+Iraklis 1908 Thessaloniki FC, Thessaloniki › Central Macedonia
+  | Iraklis | Iraklis FC
+  | Iraklis Thessaloniki | Iraklis Saloniki
+  | AEP Iraklis FC
+  | Heracles [en]       ## Iraklis = Haracles (engl.)
+
+Apollon Pontou FC, Kalamaria › Central Macedonia    ## Kalamaria, Thessaloniki
+  | Kalamaria
+
+Asteras Tripolis FC, Tripoli › Peloponnese
+  | Asteras | Asteras Tripolis
+  | Asteras Tripoli
+  | PAE Asteras Tripolis
+
+Xanthi FC,           Xanthi › Thrace
+  | Xanthi
+  | $$Skoda$$ Xanthi | $$Skoda$$ Xanthi FC
+
+Panetolikos GFS,   1926,   Agrinio › West Greece
+  | Panetolikos | Panetolikos Agrinio
+  | Panaitolikos
+  | Panetolikos Gymnastikos Philekpaideutikos Syllogos
+  | Panetolikos FC
+  | Pan-Aetolian Gymnastic and Educational Club [en]
+
+PAS Giannina FC,     Ioannina › Epirus
+  | Giannina | PAS Giannina
+  | Ioannina | PAS Ioannina
+  | Yiannina
+  | Panipirotikos Athlitikos Syllogos Giannina
+Levadiakos FC,       Livadeia › Central Greece
+  | Levadeiakos | Levadiakos
+  | PAE Athlitikos Podosferikos Omilos Levadiakos
+
+AE Larissa FC,  1964,     Larissa › Thessaly
+  | Larissa | Larissa FC | AE Larissa
+  | Larisa | AE Larisa
+  | Larisa AEL
+  | AEL | Athlitiki Enosi Larissa
+  | Athlitiki Enosi Larissa FC
+  | AEL Football Club
+
+PAS Lamia 1964,      Lamia › Central Greece
+  | Lamia | PAS Lamia | Lamia 1964
+  | AS Lamia
+  | Lamia FC
+
+Kerkyra FC,          Corfu › Ionian Islands
+  | Kerkyra
+  | Kerkyra Kassiopi     # club founded in 2013 following a merger between AO Kerkyra and AO Kassiopi.
+  | AO Kerkyra | AOK Kerkyra
+  | PAE Kerkyra
+# name history.
+#   1969–2013 (AO Kerkyra)
+#   1984–2013 (AO Kassiopi)
+#   2013–present (AOK PAE Kerkyra
+
+
+Doxa Dramas FC, Drama › Macedonia
+  | Doxa | Doxa Dramas
+Edessaikos FC,  Edessa › Macedonia
+  | Edessaikos
+
+Platanias FC,        Chania › Crete     ## use Platanias › Chania  why? why not?
+  | Platanias | Platanias Chaníon
+  | AO Platanias | Athlitikós Ómilos Plataniá Chaníon
+
+
+PAE Chania,           Chania  › Crete   ## use Mournies › Chania   why? why not?
+  | Chania FC
+
+Ergotelis FC, Heraklion › Crete
+  | Ergotelis
+OFI Crete FC, Heraklion › Crete
+  | OFI | OFI Crete
+  | OFI Heraklion
+  | Iraklion | OF Iraklion
+  | Omilos Filathlon Irakleiou 1925
+  | OFI Kreta [de] | OFI Kreta FC [de]
+
+Kalamata FC,       Kalamata › Peloponnese
+  | Kalamata | Kalamata Football Club
+  | PAE PS Kalamata
+
+AEL Kalloni FC, Kalloni › Aegean Islands
+  | AEL Kalloni
+  | Kallonis
+Kastoria FC, Kastoria › Macedonia
+  | Kastoria
+Kavala FC, Kavala › Macedonia
+  | Kavala
+  | AO Kavala
+
+
+Volos FC, 2017, Volos › Thessaly
+  | Volos
+  | Volos NFC | Volos Football Club
+  | Volos NPS
+  | Volos Neos Podosfairikos Syllogos
+  | Volos New Football Club
+Niki Volou FC, Volos › Thessaly
+  | Niki Volou
+  | Niki Volos
+Olympiacos Volou 1937 FC, Volos › Thessaly
+  | Olympiacos Volou | Olympiacos Volou FC
+  | Olympiakos Volou
+  | Olympiakos Volos
+
+Panachaiki FC, 1891,  Patras › Peloponnese
+  | Panahaiki | Panahaiki FC
+  | Panachaiki Patras
+  | Panachaiki 1891 Football Club
+  | Panachaiki GE
+
+Paniliakos FC, Pyrgos › Peloponnese
+  | Paniliakos
+Panserraikos FC, Serres › Macedonia
+  | Panserraikos
+  | Panserraikos Football Club
+
+Panthrakikos FC, Komotini › Thrace
+  | Panthrakikos
+  | Panthrakikos Komotini
+
+Trikala FC,       Trikala › Thessaly
+  | Trikala
+AO Trikala 1963,  Trikala › Thessaly
+  | Trikala 1963 FC | AO Trikala 1963 FC    # note:  NOT to be confused with Trikala FC
+
+
+Veria FC, Veria › Macedonia
+  | Veria | Veroia

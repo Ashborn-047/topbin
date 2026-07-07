@@ -1,0 +1,43 @@
+Name,                   Web
+Bayern München,         www.fcbayern.de
+Borussia Dortmund,      www.bvb.de
+Bayer Leverkusen,       www.bayer04.de
+Schalke 04,             www.schalke04.de
+Eintracht Frankfurt,    www.eintracht.de
+Hamburger SV,           www.hsv.de
+Borussia M'gladbach,    www.borussia.de
+Hannover 96,            www.hannover96.de
+VfL Wolfsburg,          www.vfl-wolfsburg.de
+1. FSV Mainz 05,        www.mainz05.de
+Werder Bremen,          www.werder.de
+1899 Hoffenheim,        www.achtzehn99.de
+VfB Stuttgart,          www.vfb.de
+FC Augsburg,            www.fcaugsburg.de
+Hertha BSC,             www.herthabsc.de
+1. FC Köln,             www.fc-koeln.de
+FC Ingolstadt 04,       www.fcingolstadt.de
+SV Darmstadt 98,        www.sv98.de
+
+SC Paderborn 07,        www.scpaderborn07.de
+SC Freiburg,            www.scfreiburg.com
+Eintracht Braunschweig, www.eintracht.com
+1. FC Nürnberg,         www.fcn.de
+Fortuna Düsseldorf,     www.f95.de
+SpVgg Greuther Fürth,   www.greuther-fuerth.de
+1. FC Kaiserslautern,   www.fck.de
+FSV Frankfurt,          www.fsv-frankfurt.de
+TSV München 1860,       www.tsv1860.de
+1. FC Union Berlin,     www.fc-union-berlin.de
+VfL Bochum,             www.vfl-bochum.de
+FC St. Pauli,           www.fcstpauli.com
+SV Sandhausen,          www.svs1916.de
+Karlsruher SC,          www.ksc.de
+1. FC Heidenheim,       www.fc-heidenheim.de
+RB Leipzig,             www.dierotenbullen.com
+MSV Duisburg,           ?
+Arminia Bielefeld,      www.arminia-bielefeld.de
+
+Energie Cottbus,        www.fcenergie.de
+VfR Aalen,              www.vfr-aalen.de
+Erzgebirge Aue,         www.fc-erzgebirge.de
+Dynamo Dresden,         www.dynamo-dresden.de

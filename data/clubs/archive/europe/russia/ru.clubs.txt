@@ -1,0 +1,297 @@
+=====================================
+=  Russia
+
+
+Lokomotiv Moskva, 1923,  Moskva       ## Moscow [en]
+  | Lokomotiv | FC Lokomotiv | FC Lokomotiv Moskva
+  | Loko Moscow [en] | Lokomotiv Moscow [en] | FC Lokomotiv Moscow [en]
+  | Lokomotive Moskau [de] | Lok Moskau [de]
+  | FK Lokomotiv Moskva
+  | Futbolniy Klub Lokomotiv (Moskva)
+
+PFC CSKA Moskva, 1911,   Moskva
+  | CSKA | PFK CSCA | CSKA Moskva
+  | CSKA Moscow [en] | PFC CSKA Moscow [en] | PFK CSKA Moscow [en]
+  | ZSKA Moskau [de]
+  | Professionalniy Futbolniy Klub Tsentralniy Sportivniy Klub Armii (Moskva)
+
+Dynamo Moskva, 1923,     Moskva
+  | Dynamo | Dinamo | Dinamo Moskva | FC Dinamo Moskva
+  | Dynamo Mosc [en] | Dynamo Moscow [en] | Dinamo Moscow [en] | FC Dynamo Moscow [en]
+  | Dinamo Moskau [de]
+  | Futbolniy Klub Dynamo (Moskva)
+
+
+FC Spartak Moskva, 1922,    Moskva
+  | Spartak | FC Spartak | Spartak Moskva
+  | Spartak Moscow [en] | FC Spartak Moscow [en]
+  | Spartak Moskau [de] | FC Spartak Moskau [de]
+  | FK Spartak Moskva
+  | Futbolniy Klub Spartak (Moskva)
+ii) Spartak Moskva II
+  | Spartak Moskau II [de]
+  | Spartak Moskva 2
+  | Spartak-2 Moscow
+
+
+FC Moskva,    Moskva
+  | Moskva
+  | FK Moskva
+  | FC Moscow [en]
+
+Torpedo Moskva,    Moskva
+  | Torpedo | FC Torpedo Moskva
+  | T. Moscow [en] | Torpedo Moscow [en] | FC Torpedo Moscow [en]
+  | FC Torpedo Moskau [de]
+# note: Not to be confused with Torpedo-ZIL Moscow (1997) or
+#        Torpedo-ZIL Moscow (2003).
+
+Torpedo Metallurg Moskva,    Moskva
+  | Torpedo Metallurg
+## note: Torpedo-ZIL which existed from 1997 to 2003
+##   and during its final season was known as Torpedo-Metallurg.
+## For the successors in the Russian Premier League, see FC Moscow.
+## For the successors from the viewpoint of belonging to ZiL,
+## see FC Torpedo-ZIL Moscow (2003).
+## For the unrelated Torpedo club founded in 1924
+## which were originally owned by ZIL and are now owned by ZIL again,
+## see Torpedo Moscow.
+
+
+FC Chertanovo Moskva,  1993,  Moskva
+  | Chertanovo Moscow [en] | FC Chertanovo Moscow [en]
+  | FC Chertanovo Mosk [de]
+  | FK Chertanovo Moskva
+
+
+
+FC Saturn Ramenskoye, 1946,  Ramenskoye    # Ramenskoe - a town and the administrative center of Ramensky District in Moscow Oblast, Russia, located 46 kilometers (29 mi) southeast of Moscow
+  | FCSR | Saturn | FC Saturn
+  | FK Saturn [de]
+# also known as FC Saturn Moscow Region (FC Saturn Moskovskaya Oblast)
+
+
+
+Zenit St. Petersburg, 1925,     St. Petersburg
+  | Zenit | Zenit Petersb. | Zenit Petersburg | Zenit St. Peter | Zenit St. Petersb.
+  | Zenit Saint Petersburg
+  | FC Zenit | FC Zenit St Petersburg | FC Zenit Saint Petersburg
+  | FK Zenit Sankt-Petersburg | Zenit Sankt Petersburg
+  | Futbolniy Klub Zenit (Sankt-Peterburg)
+
+Dinamo St. Petersburg,     St. Petersburg
+
+
+PFC Sochi, 2018, Sochi      #  formed in 2018 on the base of FC Dynamo Saint Petersburg
+  | Sochi | Professional Football Club Sochi
+  | Professionalniy Futbolniy Klub Sochi
+  | FC Sochi
+  | FK Sochi [de]
+
+
+FC Rubin Kazan, 1958,  Kazan     ##  Tatarstan (Republic of) > Volga (Federal District)
+  | Rubin | FC Rubin | Rubin Kazan
+  | Futbolniy Klub Rubin (Kazan)
+  | Rubin Kasan [de]
+
+FC Amkar Perm, 1994,   Perm      ##  Perm Krai  > Volga (Federal District)
+  | Amkar | Amkar Perm
+  | FK Amkar Perm [de]
+
+FC Anzhi Makhachkala, 1991,  Makhachkala      ## Dagestan (Republic of) >  North Caucasian (Federal District)
+  | Anzhi | Anzhi Makhachkala | FK Anzi Makhackala
+  | Anji | FC Anji | FC Anji Makhachkala
+
+FK Dynamo Makhachkala,  1927, Makhachkala
+  | Dynamo Makhachkala
+
+
+FC Sibir Novosibirsk,  Novosibirsk
+  | Sibir | Sibir' | FC Sibir
+  | Sibir Novosibirsk
+
+FC Alania Vladikavkaz,  Vladikovkaz
+  | Alania | Alania Vladikavkaz
+  | Alaniya
+
+PFC Krylya Sovetov Samara,    Samara
+  | Samara
+  | Krylya Sovetov | FK Krylya Sovetov Samara
+  | Krylia Sovetov | Kryl'ia Sovetov | Krylia Sovetov Samara | PFC Krylia Sovetov Samara
+  | Krylya Sovetov Samara
+  | Kryliya Sovetov [de]
+  | Professionalniy Futbolniy Klub Krylia Sovetov (Samara)
+
+Arsenal Tula,  Tula
+  | Arsenal | FC Arsenal Tula
+
+Chernomorets Novorosisk, 1907, Novorosisk
+  | Chernomorets
+  | FC Chernomorets Novorossiysk
+  | FC Chernomorets Novorossiisk
+  | FC Chernomorets Krasnodarskiy Kray    # Novorossiysk is a city in Krasnodar Krai
+  | Chernomorets Novorossisk
+
+FC Khimki,  Khimki
+  | Khimki
+  | FK Khimki [de]
+
+FC Krasnodar,  Krasnodar
+  | Krasnodar | Krasnodar Krasnodar
+  | FK Krasnodar
+  | Futbolniy Klub Krasnodar
+ii) FC Krasnodar 2
+  | FK Krasnodar 2
+  | Krasnodar-2 | FC Krasnodar-2
+
+
+FC Kuban,    Krasnodar
+  | Kuban | Kuban' | Kuban Krasnodar | FC Kuban Krasnodar
+
+FC Baltika, Kaliningrad
+  | Baltika Kaliningrad | FC Baltika Kaliningrad
+  | FK Baltika
+  | Futbolniy Klub Baltika Kaliningrad
+
+Luch Energia Vladivostok,   Vladivostok
+  | Luch | Luch-Energia | Luch Vladivostok
+  | Luch Wladivostok [de]
+
+
+FC Mordovia,   Saransk
+  | Mordovia | Mordovia Saransk | M. Saransk
+
+Spartak Nalchik,   Nalchik
+  | Nalchik
+
+Pari Nizhny Novgorod,  Nizhny Novgorod
+  | Pari NN
+  | Futbolniy Klub Pari Nizhny Novgorod
+  | FC Pari Nizhny Novgorod
+  | Nizhnii Novgorod
+  | Nizhny Novgorod | FC Nizhny Novgorod
+  | FK Nizhny Novgorod
+# that was called FC Nizhny Novgorod from 2018 to 2022.
+## The club has been known under different names:
+##   2015–2016: FC Volga-Olimpiyets Nizhny Novgorod
+##   2016–2018: FC Olimpiyets Nizhny Novgorod
+##   2018–present: FC Nizhny Novgorod
+
+
+Volga Nizhnii Novgorod, Nizhny Novgorod
+  | Volga | Volga N. Novgorod
+  | Volga Nyzhnyi
+  | Volga Nizhniy Novgorod
+
+
+FC Rostov,     Rostov-on-Don
+  | Rostov | Rostov Rostov-on-Don | FK Rostov
+  | Futbolniy Klub Rostov (Rostov-na-Donu)
+  | FK Rostow  [de]
+
+Rotor, Volgograd
+  | Rotor Volgograd | FC Rotor Volgograd
+  | SC Rotor Volgograd
+  | FC Rotor Wolgograd [de]
+
+Shinnik, Yaroslavl
+  | Shinnik Yaroslavl
+SKA Khabarovsk, Khabarovsk
+  | SKA-Energiia | SKA Energia | Energ. Khabarovsk
+  | SKA-Energia Khabarovsk
+  | FC SKA-Khabarovsk
+# note: The club has been known under different names: SKA (1960–99)
+#                                                      SKA-Energia (1999–2016)
+#                                                      SKA-Khabarovsk (2016–)
+
+
+
+Sokol, Saratov
+Terek Grozny, Grozny
+  | Terek | FC Terek Grozny
+
+Akhmat Grozny, Grozny
+  | Akhmat | FC Akhmat Grozny
+  | FK Akhmat Grozny
+  | FK Achmat Grozny [de]
+  | Republikanskiy Futbolniy Klub Akhmat (Grozny)
+
+Tom Tomsk, 1957,   Tomsk
+  | Tom | Tom' | Tomsk | FC Tom Tomsk
+  | FK Tom Tomsk
+
+
+Tosno,  Tosno
+  | FK Tosno
+FC Ufa, Ufa
+  | Ufa | Ufa Ufa
+  | FK Ufa
+Ural Yekaterinburg, Yekaterinburg
+  | Ural | FC Ural | FC Ural Yekaterinburg
+  | FC Ural Sverdlovsk Oblast | Football Club Ural Sverdlovsk Oblast
+  | FK Ural
+  | Futbolniy Klub Ural
+  | Ural Jekaterinburg [de]
+
+Uralan, Elista
+
+FC Tambov,  2013, Tambov
+  | Tambov
+  | FK Tambov
+  | FK Tambow
+FC Orenburg,  Orenburg
+  | Orenburg | FK Orenburg
+  | Gazovik Orenburg
+  | Futbolniy Klub Orenburg
+
+Volgar-Astrakhan,  Astrakhan
+
+Vladikavkaz,   Vladikavkaz
+  | Spartak Vladikavkaz
+  | FC Spartak Vladikavkaz
+
+Yenisey, Krasnoyarsk
+  | FC Yenisey | Yenisey Krasnoyarsk | FC Yenisey Krasnoyarsk
+  | Enisey Krasnoyarsk
+
+FC Avangard Kursk,  Kursk
+  | Avangard Kursk
+
+FC Tekstilshchik Ivanovo, Ivanovo
+  | Tekstilshchik
+  | Tekstilshchik Ivanovo
+
+
+Neftekhimik Nizhnekamsk, Nizhnekamsk
+  | FC Neftekhimik | FC Neftekhimik Nizhnekamsk
+
+FC Chayka, Peschanokopskoye
+  | Chayka Peschanokopskoye | FC Chayka Peschanokopskoye
+
+FC Fakel Voronezh, Voronezh
+  | Fakel | Fakel Voronezh
+  | Futbolniy Klub Fakel Voronezh
+  | Fakel Worenesch [de]
+
+FC Armavir,  1959,  Armavir
+  | Torpedo Armavir
+  | FK Torpedo Armavir
+# note: on 9 June 2016, the club was renamed from FC Torpedo Armavir to FC Armavir
+
+FC Tekstilshchik Kamyshin,    1958,    Kamyshin
+  | Tekstilshchik
+  | Tekstilshchik Kamyshin
+  | Tekstilschik Kamyshin
+  | FC Rotor Kamyshin
+  | Kamyshin
+# name history:
+#  1979–1995: FC Tekstilshchik Kamyshin
+#  1996: FC Energiya-Tekstilshchik Kamyshin
+#  1997: FC Energiya Kamyshin
+#  1998: FC Rotor-Kamyshin Kamyshin
+#  1999–present: FC Tekstilshchik Kamyshin
+
+
+FC Akron Tolyatti,  Tolyatti
+ | FK Akron Togliatti
+

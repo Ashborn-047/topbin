@@ -1,0 +1,250 @@
+==================================
+=  Belgium
+
+
+== Brussels ==
+
+RSC Anderlecht, 1908,   Brussels (Anderlecht)      ## use (just) Anderlecht or Brussel-Anderlecht ??
+  | Anderlecht | Royal Sporting Club Anderlecht
+
+
+RWD Molenbeek,  Brussels (Molenbeek)
+  | Molenbeek | Racing White Daring Molenbeek
+  | RWDM Brussels FC
+  | FC Molenbeek Brussels Strombeek
+  | FC Brussels | Brussels
+  | R. Racing White Bruxelles
+  | Racing White Brussels
+  | Racing
+##  keep Molenbeek clubs separte? from wikipedia:
+## This R.W.D.M. Brussels F.C. article is about the club dissolved in 2014.
+# For the predecessor club dissolved in 2002, see R.W.D. Molenbeek.
+# For the club continuing its traditions founded in 2015, see RWDM47.
+##
+## R. Racing White Bruxelles | Racing - used in uefa europa 1972/73
+
+Saint-Gilloise,  Brussels (Saint-Gilles)
+  | R. Union Saint-Gilloise
+  | Union Saint-Gilloise
+  | Union St. Gilloise | Union SG
+  | Royale Union Saint-Gilloise
+
+
+
+== Antwerpen › Vlaanderen ==
+
+Royal Antwerp FC,    Antwerpen › Antwerpen › Vlaanderen
+  | Antwerp | Royal Antwerp | R. Antwerp FC
+  | R. Antwerpen | Royal Antwerpen
+  | FC Royal Antwerpen
+  | Royal Antwerp Football Club
+  | Antwerpen
+
+
+K. Beerschot VA, 1899,  Antwerpen › Antwerpen › Vlaanderen               ## in 2019 renamed to K. Beerschot V.A.)
+  | Beerschot VA
+  | Koninklijke Beerschot Voetbalclub Antwerpen
+  | KFCO Wilrijk | KFCO Beerschot Wilrijk
+  | Beerschot Wilrijk
+  | Beerschot
+  | K. Beerschot AC
+# In 2013, KFCO Wilrijk decided to integrate the identity of
+#   Beerschot AC
+# In June 2013 K.FC.O. Wilrijk unofficially integrated
+# Beerschot AC's identity into theirs to become
+# FCO Beerschot Wilrijk
+#
+# beerschot | k. beerschot AC in uefa europa 1991-92, 1996-97,
+#                                            1998-99, 2005-06
+
+Germinal Beerschot (1920-2013),  Antwerpen › Antwerpen › Vlaanderen       ## officially declared bankrupt on 21 May 2013
+  | Germinal | Germinal Ekeren
+  | Beerschot AC
+  | KFC Germinal Beerschot Antwerpen
+  | Koninklijke Beerschot Antwerpen Club
+# Note: Not to be confused with  Beerschot V.A.C., or K Beerschot VA.
+# 1920 (Germinal Ekeren)
+# 1999 (merger; as Germinal Beerschot)
+
+Beerschot VAC (1899-1999), Antwerpen
+  | Koninklijke Beerschot Voetbal en Atletiek Club
+  | K. Beerschot VAC
+  | Beerschot VAV
+# Note: Not to be confused with K. Beerschot AC
+
+
+KV Mechelen, 1904,    Mechelen › Antwerpen › Vlaanderen
+  | Mechelen | YR KV Mechelen | Yellow Red Koninklijke Voetbalclub Mechelen
+
+KVC Westerlo, 1933,    Westerlo › Antwerpen › Vlaanderen
+  | Westerlo | Koninklijke Voetbal Club Westerlo
+
+K Lierse SK,    Lier     › Antwerpen › Vlaanderen
+  | Lierse | Lierse SK
+  | KFC Oosterzonen
+## founded in 1943 as Oosterzonen in Oosterwijk,
+#   was relocated to Lier following the bankruptcy of Lierse in 2018
+
+
+== Limburg › Vlaanderen ==
+
+KRC Genk, 1988,    Genk         › Limburg › Vlaanderen
+  | Genk | Racing Genk | Koninklijke Racing Club Genk
+  | KFC Winterslag    ## todo: keep as separate club - why? why not?
+  | Winterslag
+# in 1988 formed by the merger of
+#  Waterschei Thor with KFC Winterslag
+
+Waterschei Thor (1919-1988),  Genk
+  | K. Waterschei S.V. Thor Genk
+  | Thor Waterschei
+
+
+Sint-Truidense VV, 1924,  Sint-Truiden › Limburg › Vlaanderen
+  | St. Truiden | St. Truiden VV | VV St. Truiden
+  | K. Sint-Truiden VV | K. Sint-Truidense VV
+  | Sint-Truiden | Sint-Truidense
+  | Koninklijke Sint-Truidense Voetbalvereniging
+
+Lommel United, Lommel
+  | Lommel SK
+
+
+Patro Eisden,   1942,  Maasmechelen
+  | Koninklijke Patro Eisden Maasmechelen
+  | K. Patro Eisden Maasmechelen
+  | K. Patro Eisden
+
+
+== Oost-Vlaanderen › Vlaanderen ==
+
+KAA Gent, 1864,     Gent        › Oost-Vlaanderen › Vlaanderen
+  | Gent
+  | Koninklijke Atletiek Associatie Gent
+  | Koninklijke Athletic Associatie Gent
+  | AA Gent
+
+KSC Lokeren OV, 1923,   Lokeren     › Oost-Vlaanderen › Vlaanderen
+  | Lokeren | KSC Lokeren | KSC Lokeren Oost-Vlaanderen
+  | Sporting Lokeren
+  | Koninklijke Sporting Club Lokeren Oost-Vlaanderen
+
+
+SC Eendracht Aalst,  1919,  Aalst       › Oost-Vlaanderen › Vlaanderen
+  | Aalst | Eendracht Aalst
+  | KSC Eendracht Aalst
+
+FCV Dender EH,       Denderleeuw › Oost-Vlaanderen › Vlaanderen
+  | Dender
+
+Waasland-Beveren, 1936,   Beveren › Oost-Vlaanderen › Vlaanderen   ## KVRS Waasland - SK Beveren
+  | Waasland-B. | Waasland-Bev
+  | Red Star Waasland
+  | Koninklijke Voetbalclub Red Star Waasland - Sportkring Beveren
+# In the summer of 2010 Red Star Waasland changed its name to Waasland-Beveren
+# and moved to the bigger stadium of Beveren
+
+KSK Beveren,       Beveren › Oost-Vlaanderen › Vlaanderen
+  | Beveren
+  | SK Beveren
+
+
+KMSK Deinze,  1926,   Deinze
+  | Deinze
+  | Koninklijke Maatschappij Sportkring Deinze
+  | MSK Deinze
+
+
+== West-Vlaanderen › Vlaanderen ==
+
+Club Brugge, 1891,    Brugge › West-Vlaanderen › Vlaanderen
+  | Club Brugge KV
+  | Club Brugge Koninklijke Voetbalvereniging
+  | Club Brugge Koninklijke Vereniging
+  | Cl. Brügge [de] | Club Brügge [de]
+Cercle Brugge, 1899,  Brugge › West-Vlaanderen › Vlaanderen
+  | Cercle Brugge KSV | Cercle Brugge Koninklijke Sportvereniging
+  | Cer. Brügge [de] | Cercle Brügge [de] | Cercle Brügge KSV [de]
+  | KSV Cercle Brügge [de]
+
+
+KV Kortrijk, 1901,    Kortrijk › West-Vlaanderen › Vlaanderen
+  | Kortrijk | Koninklijke Voetbalclub Kortrijk
+
+KV Oostende, 1981,    Oostende › West-Vlaanderen › Vlaanderen
+  | Oostende | Koninklijke Voetbalclub Oostende
+
+SV Zulte Waregem, 1950,   Waregem  › West-Vlaanderen › Vlaanderen
+  | Waregem | Zulte W. | Zulte Waregem
+  | Sportvereniging Zulte Waregem
+
+KSV Waregem (1925-2001),   Waregem
+  | Koninklijke Sportvereniging Waregem
+
+
+== Hainaut › Wallonie ==
+
+Sporting Charleroi, 1904,    Charleroi › Hainaut › Wallonie  ##  [fr]
+  | Charleroi  | R. Charleroi SC | RSC Charleroi
+  | Royal Charleroi SC | Royal Charleroi Sporting Club
+  | Sp. Charleroi | Sporting de Charleroi
+
+Royal Excel Mouscron, 2010,    Mouscron  › Hainaut › Wallonie     ## Moeskroen [nl]
+  | Mouscron | Mouscron-Péruwelz | RE Mouscron | Excel Mouscron | R. Excel Mouscron
+  | R. Mouscron-Péruwelz | Royal Mouscron-Péruwelz
+  | R. Excelsior Mouscron
+  | Excelsior Mouscron
+  | Royal Excel Mouscron Péruwelz
+
+RAEC Mons,             Mons      › Hainaut › Wallonie     ##  Bergen [nl]
+  | Mons | Bergen
+
+== Luxembourg › Wallonie ==
+
+Excelsior Virton, Virton
+  | R.E. Virton
+
+
+== Liège › Wallonie ==
+
+KAS Eupen,             Eupen     › Liège   › Wallonie    ## [de]
+  | Eupen | AS Eupen | K. AS Eupen
+  | Königliche Allgemeine Sportvereinigung Eupen
+
+Standard Liège, 1898,   Liège     › Liège   › Wallonie    ## [fr]
+  | Standard | R. Standard de Liège | Royal Standard de Liège
+  | Standard de Liège
+  | Royal Standard Club de Liège
+  | Stand. Lüttich [de] | Standard Lüttich [de]
+
+RFC Liège,  1892,  Liège
+  | RC Liégeois
+  | RFC de Liège | Royal Football Club de Liège
+  | FC Liège
+  | Liège
+
+
+== ??? ==
+
+KFC Verbroedering Geel, Geel
+  | Geel
+KRC Harelbeke, Harelbeke
+  | Harelbeke
+K Heusden-Zolder,  Heusden-Zolder
+  | Heusden Zolder
+KFC Lommel SK,  Lommel
+  | Lommel
+RAA Louviéroise, La Louvière
+  | Louvieroise
+  | RAA La Louviéroise
+  | La Louvière
+KSV Roeselare, Roeselare
+  | Roeselare | SV Roeselare
+RFC Seraing, Seraing
+  | Seraing
+  | Royal Football Club Seraing
+AFC Tubize, Tubize
+  | Tubize
+  | FC Tubize
+Oud-Heverlee Leuven, 2002,   Leuven   ## Flemish Brabant > Flanders
+  | Leuven | OH Leuven | Oud-Heverlee

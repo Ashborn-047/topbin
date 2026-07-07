@@ -1,0 +1,67 @@
+================================
+=  Malta
+
+
+Valletta FC,         Valletta
+  | Valletta
+Sliema Wanderers FC, Sliema
+  | Sliema | Sliema Wanderers
+  | Sliema Wandere
+
+Birkirkara FC
+  | Birkirkara
+Floriana FC
+  | Floriana | FC Floriana
+Hibernians FC
+  | Hibernians
+
+Marsaxlokk FC, 1949,   Marsaxlokk
+  | Marsaxlokk
+
+Balzan FC
+  | Balzan
+Gżira United FC
+  | Gżira | Gżira United
+
+Gudja United
+Hamrun Spartans FC
+  | Hamrun | Hamrun Spartans
+  | Hamrun Spartan
+
+FC Sirens
+  | Sirens
+  | Sirens FC
+
+Santa Lucia
+Senglea Athletic FC
+  | Senglea
+Mosta FC
+  | Mosta
+Tarxien Rainbows FC
+  | Tarxien
+
+Rabat Ajax, Rabat      # champs (2): 1987..1985 (2)
+  | Rabat Ajax FC
+  | Rabat
+
+
+Marsa FC, 1920,  Marsa
+  | Marsa
+
+Żurrieq FC, 1949,  Żurrieq
+  | Żurrieq | FC Żurrieq
+
+
+Melita FC,  St. Julian's
+  | Melita
+  | Melita Football Club
+
+St. Patrick FC Żabbar,  1912, Żabbar
+  | Saint Patrick FC
+  | Żabbar St. Patrick FC
+  | St. Patrick Football Club
+  | Saint Patrick FC Żabbar
+
+Naxxar Lions FC,   Naxxar
+  | Naxxar Lions Football Club
+  | Naxxar

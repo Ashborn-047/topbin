@@ -1,0 +1,88 @@
+==============================
+=   Venezuela
+
+Caracas FC, 1967,      Caracas
+  | Caracas | Caracas Fútbol Club
+
+Deportivo La Guaira,   Caracas
+  | Dvo. La Guaira
+  | Deportivo La Guaira FC
+  | Deportivo La Guaira Fútbol Club
+  # formerly known as Real Esppor
+
+Deportivo Petare,      Caracas
+  | Dvo. Petare
+Estudiantes de Caracas, Caracas
+  | Estud. de Caracas
+Metropolitanos FC,      Caracas
+  | Metropolitanos | FC Metropolitanos
+
+Atlético Venezuela,     Caracas     ##  location use Maiquetía ???
+
+
+
+Deportivo Táchira,     San Cristóbal
+  | Dvo. Táchira | Deportivo Táchira Fútbol Club
+  | Deportivo Táchira FC
+  | Dep. Táchira
+  | Táchira
+
+
+Zamora FC,             Barinas
+  | Zamora | Zamora Fútbol Club
+
+Deportivo Lara,        Barquisimeto
+  | Dvo. Lara | Club Deportivo Lara
+  | Asociación Civil Deportivo Lara
+
+Deportivo Anzoátegui,  Puerto La Cruz
+  | Dvo. Anzoátegui | Deportivo Anzoátegui Sport Club
+
+AC Mineros,            Ciudad Guayana (Puerto Ordaz)
+  | Mineros | Mineros Guayana | Mineros de Guayana
+  | Asociación Civil Club Deportivo Mineros de Guayana
+  | ACCD Mineros de Guayana
+  | Min. Guayana
+## dividing Ciudad Guayana into its predominant halves -
+## the old town of San Félix, to the east,
+## and the newer area of Puerto Ordaz, to the west.
+
+
+LALA FC,               Ciudad Guayana
+  | LALA
+
+
+Atlético El Vigía,     El Vigía
+
+
+# note - Llaneros FC   name in use by club in Colombia!!!
+Llaneros Guanare,     Guanare
+  | Llaneros FC
+  | Llaneros | Llaneros de Guanare
+  | Llaneros Escuela de Fútbol
+
+Zulia FC,              Maracaibo
+  | Zulia
+Aragua FC,             Maracay
+  | Aragua
+Estudiantes de Mérida,  Mérida
+  | Estudiantes | Est. de Mérida
+Tucanes FC,            Puerto Ayacucho
+  | Tucanes | Tucanes de Amazonas
+Yaracuyanos FC,        San Felipe
+  | Yaracuyanos
+Carabobo FC,           Valencia
+  | Carabobo
+Trujillanos FC,        Valera
+  | Trujillanos
+Academia Puerto Cabello,   Puerto Cabello
+  | A. Pu. Cabello
+Monagas Sport Club,  Maturín
+  | Monagas | Monagas SC
+Portuguesa FC,       Acarigua
+  | Portuguesa
+
+Rayo Zuliano,  Maracaibo
+  | Deportivo Rayo Zuliano
+  | Departivo Rayo
+

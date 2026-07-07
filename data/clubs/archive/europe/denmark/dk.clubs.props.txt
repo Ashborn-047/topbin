@@ -1,0 +1,17 @@
+###########################
+# Denmark (DEN), dk
+
+Name,             Web
+FC København,     www.fck.dk
+FC Nordsjælland,  www.fcn.dk
+Brøndby IF,       www.brondby.com
+Aalborg BK,       fodbold.aabsport.dk
+Hobro IK,         www.hikfodbold.dk
+FC Midtjylland,   www.fcm.dk
+AGF Aarhus,       www.agf.dk
+Viborg FF,        www.vff.dk
+Randers FC,       www.randersfc.dk
+SønderjyskE,      www.soenderjyske.dk
+Odense BK,        www.ob.dk
+Esbjerg fB,       www.efb.dk
+AC Horsens,       ?

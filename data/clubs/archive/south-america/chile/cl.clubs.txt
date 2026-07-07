@@ -1,0 +1,69 @@
+=========================
+=  Chile
+
+Universidad de Chile,   Santiago (Ñuñoa)
+  | U. de Chile | Club Universidad de Chile
+  | Univers. de Chile | Univ. de Chile
+
+Universidad Católica,   Santiago (Las Condes)
+  | CDUC | Univ. Católica | CD Universidad Católica | Club Deportivo Universidad Católica
+
+Unión Española,         Santiago (Independencia)          # Independencia located in Santiago metro
+  | Club Unión Española S.A.D.P
+Audax Italiano,   Santiago (La Florida)
+Colo-Colo,         Santiago (Macul)
+   | CSD Colo-Colo
+CD Palestino,  Santiago (La Cisterna)
+  | Club Deportivo Palestino
+  | Palestino
+
+CD Magallanes,  1897,      Santiago (San Bernardo)
+  | Club Deportivo Magallanes
+  | Magallanes
+
+
+
+CD Huachipato,          Talcahuano
+  | Huachipato | Club Deportivo Huachipato
+Deportes Iquique,       Iquique
+  | Iquique | Club Deportes Iquique
+
+CD Cobresal,      El Salvador
+  | Cobresal
+Coquimbo Unido,    Coquimbo
+  | Coquimbo Un.
+
+Curicó Unido,      Curicó
+  | CDP Curicó Unido
+  | Curicó
+# note: CDP = Club de Deportes Provincial
+
+
+CD Antofagasta,          Antofagasta
+  | Deportes Antofagasta
+Everton de Viña del Mar,  Viña del Mar
+  | Everton | Everton Viña d. Mar
+  | Evert. V.d.Mar
+
+O'Higgins FC,           Rancagua
+  | O'Higgins
+Unión La Calera,     La Calera
+  | Un. La Calera
+CD Universidad de Concepción,      Concepción
+  | Univ. d. Concepción | Universidad de Concepción
+  | UD Concepción
+Deportes Vallenar,   Vallenar
+  | Club de Deportes Vallenar
+Deportes La Serena,  La Serena
+  | CD La Serena | Club de Deportes La Serena
+
+Santiago Wanderers,   Valparaíso
+  | Sant. Wanderers
+  | Club de Deportes Santiago Wanderers
+
+CD Ñublense,    1916,    Chillán   # capital city of the Ñuble Region in the Diguillín Province
+   | Club Deportivo Ñublense
+   | Ñublense
+
+Deportes Melipilla, Melipilla  #  a comune in the Santiago Metropolitan Region
+   | Corporacion de Deportes Melipilla

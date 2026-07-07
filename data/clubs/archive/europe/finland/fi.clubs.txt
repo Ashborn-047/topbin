@@ -1,0 +1,178 @@
+=================================
+=  Finland
+
+
+HJK Helsinki,     Helsinki
+  | HJK | Helsingin Jalkapalloklubi
+  | Helsingin JK
+
+Klubi 04, Helsinki   # is the reserve team of HJK Helsinki
+  | Talenttiklubi Klubi 04
+  | HJK Klubi 04
+
+
+HIFK Helsinki,    Helsinki
+  | HIFK | HIFK Fotboll | IFK Helsingfors
+  | Helsingfors IFK   # champs (2): 1962/63 1960/61
+  | Helsinki IFK
+
+HPS Helsinki,   Helsinki    # champs (1): 1958/59
+  | HPS | Helsingin Palloseura
+
+Finnairin Palloilijat Helsinki (1965-1998), Helsinki
+  | FinnPa | FinnPa Helsinki
+  | Finnairin Palloilijat
+
+FC Jokerit (1999-2004),   Helsinki
+  | Jokerit
+
+IF Gnistan,   Helsinki (Oulunkylä)
+  | Gnistan
+
+KäPa, Helsinki (Käpylä)
+  | Käpylän Pallo
+
+
+
+FC Haka Valkeakoski,    Valkeakoski
+  | Haka Valkeakoski | Valkeakosken Haka
+
+FC Inter Turku,  Turku
+  | FC Inter | Inter Turku
+TPS Turku, 1922,      Turku
+  | TPS | Turun Palloseura
+  | Turku PS
+
+FC Honka Espoo,   Espoo
+  | Honka | Honka Espoo
+  | FC Honka
+
+KuPS Kuopio,      Kuopio
+  | KuPS | Kuopio PS
+  | Kuopion PS     # champs (3): 1977/78 1975/76 1967/68
+  | Kuopion Palloseura
+
+Koparit Kuopio (1931-1990),   Kuopio
+  | Koparit | Koparit FC
+  | KPT | Kuopion Pallotoverit
+
+
+Myllykosken Pallo -47,   Myllykoski    ## part of the city of Kouvola
+  | MYPA | MyPa | MyPa-47
+  | Myllykosken Pallo-47
+  | Myllykosken Pallo −47   ### todo/fix: norm dash (− => -) !!!
+
+FC Lahti,         Lahti
+  | Lahti
+# FC Lahti was founded in 1996 when two rival clubs from Lahti
+#  FC Kuusysi and Reipas Lahti - decided to merge.
+
+FC Kuusysi,       Lahti   # champs (5): 1992/93 1990/91 1987/88 1985/86 1983/84
+  | Kuusysi Lahti
+FC Reipas Lahti,  Lahti   # champs (3): 1971/72 1968/69 1964/65
+  | Reipas | FC Reipas | Reipas Lahti
+
+
+JJK Jyväskylä,     Jyväskylä
+  | JJK
+  | Jyväskylä JK
+
+Tampere United,      Tampere
+
+FC Ilves,            Tampere
+  | Ilves | Ilves Tampere
+  | FC Ilves Tampere
+  | Tampereen Ilves
+  | Tampereen Ilve
+# They were formed in 1975 as a merger between
+#  Ilves-Kissat Tampere and TaPa Tampere
+
+Ilves-Kissat Tampere,  Tampere
+  | Ilves-Kissat | Tampereen-Viipurin Ilves-Kissat
+# In 1974 Ilves-Kissat and Tampellan Palloilijat
+#   merged with Ilves Tampere
+
+Tampereen Pallo-Veikot, 1930, Tampere
+  | TPV | TPV Tampere
+
+
+IFK Mariehamn,    Mariehamn
+  | Mariehamn
+KPV Kokkola,        Kokkola
+  | KPV | Kokkolan Palloveikot
+Rovaniemen Palloseura,  Rovaniemi
+  | RoPS | Rovaniemi | RoPS Rovaniemi | Rovaniemi PS
+
+SJK Seinäjoki,      Seinäjoki
+  | Seinäjoki
+  | SJK | Seinäjoen Jalkapallokerho
+  | Seinäjoen JK
+
+SJK Akatemia, 2012,  Seinäjoki
+  | SJK II
+# (formerly Kerho 07 in 2013–2015)
+
+
+
+Vaasan Palloseura,    Vaasa
+  | VPS | VPS Vaasa | Vaasa PS | Vaasan PS
+
+Vasa IFK,  Vaasa
+  | VIFK
+  | Idrottsföreningen Kamraterna Vasa
+
+
+FC Haka, Valkeakoski
+  | Haka
+
+FF Jaro,  Jakobstad
+  | Jaro | Fotbollsföreningen Jaro Jalkapalloseura
+KTP Kotka,   Kotka
+  | KTP | Kotkan Työväen Palloilijat
+  | FC KTP
+PK-35 Vantaa, Vantaa
+  | PK-35 | Pallokerho-35
+Palloseura Kemi Kings,  Kemi
+  | PS Kemi | Kemi City FC | Kemi City Football Club
+Ekenäs IF,  Raseborg
+  | EIF
+PEPO Lappeenranta,  Lappeenranta
+  | PEPO
+JIPPO Joensuu, Joensuu
+  | JIPPO
+
+
+FC Jazz, Pori      # champs (1): 1997/98
+  | Jazz | FC Jazz Pori
+
+AC Oulu, 2002, Oulu
+  | Oulu
+# AC Oulu was founded in 2002 as a joint initiative of the
+#  OLS, OPS, OTP and Tervarit clubs.
+
+OPS Oulu,   Oulu    #  champs (2): 1982..1980 (2)
+   | OPS | Oulun Palloseura
+
+
+Mikkelin Palloilijat, 1929, Mikkeli
+  | MP | MP Mikkeli
+  | Mikkelin Pall.
+
+
+Järvenpään Palloseura, 1947, Järvenpää
+  | JäPS
+  | Järvenpään PS
+
+
+Salon Palloilijat,    Salo
+  | SalPa
+
+
+
+AC Vantaan Allianssi (2002-2006),  Vantaa
+  | AC Allianssi
+  | Allianssi
+
+
+
+

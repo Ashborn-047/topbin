@@ -1,0 +1,97 @@
+===============================
+=  Lithuania
+
+FK Riteriai, 2005, Vilnius
+  | Riteriai
+  | FK Trakai
+# Note: Until 21 February 2019, the club was based in Trakai and was known as FK Trakai.
+
+
+FK TransINVEST,   Galinė   # in  Vilnius County
+  | TransINVEST
+  | Futbolo Klubas TransINVEST
+
+
+VMFD Žalgiris,  Vilnius
+  | Žalgiris | Žalgiris Vilnius | FK Žalgiris | FK Žalgiris Vilnius
+  | Vilnius FK Žalgiris
+  | Žalg. Vilnius
+
+FK Kauno Žalgiris,  Kaunas
+  | Kauno Žalgiris
+  | FK Žalgiris Kaunas
+  | Žalg. Kaunas
+
+FC Stumbras,        Kaunas
+  | Stumbras | Stumbras Kaunas
+
+FC Hegelmann,   Kaunas
+  | Hegelmann
+  | Futbolo klubas Hegelmann
+
+
+FBK Kaunas,        Kaunas
+  | Kaunas
+
+FK Kareda Kaunas (1935-2003),  Kaunas
+  | FK Kareda
+  | Kareda Kaunas
+  | Kareda
+
+FK Inkaras Kaunas (1937-2003), Kaunas
+  | FK Inkaras
+  | Inkaras
+
+
+
+FK Ekranas
+  | Ekranas | Ekranas Panevezys
+
+Panevėžys
+  | FK Panevėžys
+
+
+FK Sūduva,    Marijampolė
+  | Sūduva | Sūduva Marija.
+  | Sūduva Marijampolė | FK Sūduva Marijampolė
+
+FK Tauras
+  | Tauras
+FK Vėtra
+  | Vėtra
+
+
+FA Šiauliai, 2007, Šiauliai
+  | Šiauliai
+  | Football Academy Šiauliai
+
+FC Šiauliai (1995-2016), Šiauliai
+  | KFK Šiauliai    # 1995-2004 ?
+  | FK Šiauliai
+# In 2014, FK Šiauliai became FC Šiauliai
+
+
+FK Banga
+  | Banga Gargzdai
+  | Banga
+FK Atlantas
+  | Atlantas | Atlantas Klaipeda
+
+FK Kruoja
+  | Kruoja Pakruojis | FK Kruoja Pakruojis
+  | Kruoja
+
+FK Palanga
+
+FK Mažeikiai,   Mažeikiai
+  | Mažeikiai
+
+
+FC Džiugas,   Telšiai
+  | Džiugas
+  | Football Club Džiugas Telšiai | Džiugas Telšiai
+
+DFK Dainava,    Alytus
+  | Dainava
+  | Dzūkija Futbolo Klubas Dainava
+

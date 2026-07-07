@@ -1,0 +1,155 @@
+=============================
+=   Norway
+
+Vålerenga Fotball,   1913, @ Intility Arena,   Oslo
+  | Vålerenga | Vålerenga IF
+  | Vålerengen IF
+KFUM-Kameratene Oslo,  1939, @ KFUM Oslo,  Oslo
+  | KFUM | KFUM Oslo
+Skeid Fotball,  Oslo
+  | Skeid | Skeid FK
+  | Skeid Oslo    # champs (1): 1967/68
+
+Lyn Oslo,  Oslo
+  | Lyn | Lyn 1896 FK | FK Lyn     # champs (4): 1969/70 1966...1963 (3)
+  | Lyn Fotball | Lyn 1896 Fotballklubb
+  | FC Lyn Oslo
+
+Frigg Oslo FK,  1904, Oslo (Majorstua)
+  | Frigg Oslo Fotballklubb
+
+
+Rosenborg BK,  1917, @ Lerkendal Stadion,  Trondheim
+  | Rosenborg | Rosenborg Ballklub
+  | Rosenborg Trondheim
+
+Ranheim,       Trondheim
+  | Ranheim Fotball | Ranheim IL
+
+Moss FK,   Moss
+  | Moss Fotballklubb    # champs (1): 1988/89
+  | Moss
+
+Molde FK,   1911, @ Aker Stadion,     Molde
+  | Molde
+  | Molde Fotballklubb
+Tromsø IL,   1920, @ Alfheim Stadion,   Tromsø
+  | Tromsø | Tromsø Idrettslag
+Aalesunds FK,   1914, @ Color Line Stadion,  Ålesund
+  | Aalesund | Aalesunds Fotballklubb
+
+SK Brann,   1908, @ Brann Stadion,    Bergen
+  | Brann | SK Brann Bergen
+  | Sportsklubben Brann
+
+Strømsgodset IF,  1907, @ Marienlyst Stadion,  Drammen
+  | Strømsgodset
+  | Strømsgodset Idrettsforening
+  | Strømsgodset Toppfotball
+Fredrikstad FK,   1903, @ Fredrikstad Stadion,   Fredrikstad
+  | Fredrikstad | Fredrikstad Fotballklubb
+Lillestrøm SK,   1917, @ Åråsen,   Lillestrøm
+  | Lillestrøm
+  | Lillestrøm Sportsklubb
+Viking FK,   1899, @ SR-Bank Arena,   Stavanger
+  | Viking | Viking Fotballklubb | Viking Stavanger
+Odds BK,  1894, @ Skagerak Arena,  Skien
+  | Odd | Odds Ballklubb
+  | Odd Grenland
+# known as Odd Grenland between 1994 and 2012
+
+Sandefjord,  1998, @ Release Arena,  Sandefjord
+  | Sandefjord Fotball
+Sandnes Ulf,  Sandnes
+  | Sandnes
+
+Sarpsborg 08,   2008, @ Sarpsborg Stadion,  Sarpsborg
+  | Sarpsborg | Sarpsborg 08 FF | Sarpsborg 08 Fotballforening
+  | Sarpsborg FK
+
+Sogndal,  Sogndal
+  | Sogndal Fotball | Sogndal IL
+Stabæk,   1912, @ Nadderud Stadion,   Bærum
+ | Stabæk Fotball | Stabæk IF
+IK Start,  Kristiansand
+  | Start | Idrettsklubben Start
+
+Kristiansund BK,  2003, @ Kristiansund Stadion, Kristiansund
+  | Kristiansund | Kristiansund Ballklubb
+Mjøndalen IF,   1910, @ Consto Arena,   Mjøndalen
+  | Mjøndalen
+  | Mjøndalen Idrettsforening
+Bodø/Glimt,  1916, @ Aspmyra Stadion,  Bodø
+  | FK Bodø/Glimt | Fotballklubben Bodø/Glimt
+
+FK Haugesund, 1993, @ Haugesund Stadion,  Haugesund
+  | Haugesund | Fotballklubben Haugesund
+
+
+SK Haugar,  1939,  Haugesund
+  | Haugur Haugesund
+  | Sportsklubben Haugar
+# In 1993 merged its elite teams with
+#    Djerv 1919 to create FK Haugesund
+
+Hønefoss BK,  Hønefoss
+ | Hønefoss | Hønefoss Ballklubb
+FK Jerv,   1921, @ J.J. Ugland Stadion - Levermyr,   Grimstad
+  | Jerv
+  | Fotballklubben Jerv
+Ullensaker/Kisa IL,   Ullensaker    ## locaction use Jessheim ???
+  | Ull/Kisa | Ullensaker/Kisa
+
+IL Hødd, 1919,  Ulsteinvik
+  | Hødd | Idrettslaget Hødd
+  | IL Hødd Fotball
+
+
+Hamarkameratene,  1918, @ Briskeby Arena,  Hamar
+  | HamKam | Ham-Kam
+  | Hamarkameratene Fotball
+  | HamKam Fotball
+
+
+Kongsvinger IL,  1892,    Kongsvinger
+  | Kongsvinger
+  | Kongsvinger IL Fot | Kongsvinger IL Toppfotball
+
+Nest-Sotra Fotball,  Sotra
+  | Nest-Sotra
+Notodden FK,  Notodden
+  | Notodden
+Raufoss IL, Raufoss
+  | Raufoss
+Strømmen IF, Strømmen
+  | Strømmen
+Tromsdalen UIL,  Tromsdalen
+  | Tromsdalen
+Åsane Fotball, Åsane
+  | Aasane Fotball [de]     ## Å => Aa
+
+
+Bryne FK,  1926,   Bryne
+   | Bryne Fotballklubb
+   | Bryne
+
+Egersunds IK, Egersund
+  | Egersund
+  | Egersunds Idrettsklubb
+  | EIK
+
+ Levanger FK, Levanger
+  | Levanger
+  | Levanger Fotballklubb
+
+
+## note:
+##  de lookup works with unaccent
+##     Lillestrøm SK =   lillestromsk
+##     Lilleström SK =>  lillestromsk
+##  => no need to duplicate!!!
+##      remove (do NOT add) german variants
+##   more (former) examples:
+##   -   Mjöndalen
+##   -   Bodö Glimt
+##   -   Strömmen IF
