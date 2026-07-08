@@ -3,8 +3,10 @@
   "title": "NationalTeam",
   "description": "Schema for a national football team in the topbin database",
   "type": "object",
-  "required": ["name", "code", "confederation"],
+  "required": ["id", "name", "code", "confederation"],
   "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "Canonical lowercase hyphenated ASCII slug ID" },
+    "wikidata_qid": { "type": "string", "pattern": "^Q\\d+$", "description": "Optional Wikidata QID code" },
     "name": { "type": "string" },
     "code": { "type": "string", "maxLength": 3 },
     "fifaCode": { "type": "string", "maxLength": 3 },

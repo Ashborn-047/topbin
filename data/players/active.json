@@ -1,0 +1,706 @@
+{
+  "players": [
+    {
+      "id": "ederson-1995",
+      "name": "Ederson",
+      "nationality": "Brazil",
+      "position": "Goalkeeper",
+      "dateOfBirth": null,
+      "height": "188",
+      "stub": true
+    },
+    {
+      "id": "stefan-ortega-1995",
+      "name": "Stefan Ortega",
+      "nationality": "Germany",
+      "position": "Goalkeeper",
+      "dateOfBirth": null,
+      "height": "188",
+      "stub": true
+    },
+    {
+      "id": "kyle-walker-1995",
+      "name": "Kyle Walker",
+      "nationality": "England",
+      "position": "Defender",
+      "dateOfBirth": null,
+      "height": "178",
+      "stub": true
+    },
+    {
+      "id": "ruben-dias-1995",
+      "name": "Rúben Dias",
+      "nationality": "Portugal",
+      "position": "Defender",
+      "dateOfBirth": null,
+      "height": "187",
+      "stub": true
+    },
+    {
+      "id": "john-stones-1995",
+      "name": "John Stones",
+      "nationality": "England",
+      "position": "Defender",
+      "dateOfBirth": null,
+      "height": "188",
+      "stub": true
+    },
+    {
+      "id": "nathan-ake-1995",
+      "name": "Nathan Aké",
+      "nationality": "Netherlands",
+      "position": "Defender",
+      "dateOfBirth": null,
+      "height": "180",
+      "stub": true
+    },
+    {
+      "id": "josko-gvardiol-1995",
+      "name": "Joško Gvardiol",
+      "nationality": "Croatia",
+      "position": "Defender",
+      "dateOfBirth": null,
+      "height": "185",
+      "stub": true
+    },
+    {
+      "id": "manuel-akanji-1995",
+      "name": "Manuel Akanji",
+      "nationality": "Switzerland",
+      "position": "Defender",
+      "dateOfBirth": null,
+      "height": "188",
+      "stub": true
+    },
+    {
+      "id": "rodri-1995",
+      "name": "Rodri",
+      "nationality": "Spain",
+      "position": "Midfielder",
+      "dateOfBirth": null,
+      "height": "191",
+      "stub": true
+    },
+    {
+      "id": "kevin-de-bruyne-1995",
+      "name": "Kevin De Bruyne",
+      "nationality": "Belgium",
+      "position": "Midfielder",
+      "dateOfBirth": null,
+      "height": "181",
+      "stub": true
+    },
+    {
+      "id": "bernardo-silva-1995",
+      "name": "Bernardo Silva",
+      "nationality": "Portugal",
+      "position": "Midfielder",
+      "dateOfBirth": null,
+      "height": "173",
+      "stub": true
+    },
+    {
+      "id": "mateo-kovacic-1995",
+      "name": "Mateo Kovačić",
+      "nationality": "Croatia",
+      "position": "Midfielder",
+      "dateOfBirth": null,
+      "height": "178",
+      "stub": true
+    },
+    {
+      "id": "phil-foden-1995",
+      "name": "Phil Foden",
+      "nationality": "England",
+      "position": "Forward",
+      "dateOfBirth": null,
+      "height": "171",
+      "stub": true
+    },
+    {
+      "id": "jack-grealish-1995",
+      "name": "Jack Grealish",
+      "nationality": "England",
+      "position": "Forward",
+      "dateOfBirth": null,
+      "height": "175",
+      "stub": true
+    },
+    {
+      "id": "jeremy-doku-1995",
+      "name": "Jérémy Doku",
+      "nationality": "Belgium",
+      "position": "Forward",
+      "dateOfBirth": null,
+      "height": "173",
+      "stub": true
+    },
+    {
+      "id": "julian-alvarez-1995",
+      "name": "Julián Álvarez",
+      "nationality": "Argentina",
+      "position": "Forward",
+      "dateOfBirth": null,
+      "height": "170",
+      "stub": true
+    },
+    {
+      "id": "thibaut-courtois-1995",
+      "name": "Thibaut Courtois",
+      "nationality": "Belgium",
+      "position": "Goalkeeper",
+      "dateOfBirth": null,
+      "height": "200",
+      "stub": true
+    },
+    {
+      "id": "andriy-lunin-1995",
+      "name": "Andriy Lunin",
+      "nationality": "Ukraine",
+      "position": "Goalkeeper",
+      "dateOfBirth": null,
+      "height": "191",
+      "stub": true
+    },
+    {
+      "id": "dani-carvajal-1995",
+      "name": "Dani Carvajal",
+      "nationality": "Spain",
+      "position": "Defender",
+      "dateOfBirth": null,
+      "height": "173",
+      "stub": true
+    },
+    {
+      "id": "eder-militao-1995",
+      "name": "Eder Militão",
+      "nationality": "Brazil",
+      "position": "Defender",
+      "dateOfBirth": null,
+      "height": "186",
+      "stub": true
+    },
+    {
+      "id": "david-alaba-1995",
+      "name": "David Alaba",
+      "nationality": "Austria",
+      "position": "Defender",
+      "dateOfBirth": null,
+      "height": "180",
+      "stub": true
+    },
+    {
+      "id": "nacho-1995",
+      "name": "Nacho",
+      "nationality": "Spain",
+      "position": "Defender",
+      "dateOfBirth": null,
+      "height": "180",
+      "stub": true
+    },
+    {
+      "id": "antonio-rudiger-1995",
+      "name": "Antonio Rüdiger",
+      "nationality": "Germany",
+      "position": "Defender",
+      "dateOfBirth": null,
+      "height": "190",
+      "stub": true
+    },
+    {
+      "id": "ferland-mendy-1995",
+      "name": "Ferland Mendy",
+      "nationality": "France",
+      "position": "Defender",
+      "dateOfBirth": null,
+      "height": "180",
+      "stub": true
+    },
+    {
+      "id": "jude-bellingham-1995",
+      "name": "Jude Bellingham",
+      "nationality": "England",
+      "position": "Midfielder",
+      "dateOfBirth": null,
+      "height": "186",
+      "stub": true
+    },
+    {
+      "id": "toni-kroos-1995",
+      "name": "Toni Kroos",
+      "nationality": "Germany",
+      "position": "Midfielder",
+      "dateOfBirth": null,
+      "height": "183",
+      "stub": true
+    },
+    {
+      "id": "eduardo-camavinga-1995",
+      "name": "Eduardo Camavinga",
+      "nationality": "France",
+      "position": "Midfielder",
+      "dateOfBirth": null,
+      "height": "182",
+      "stub": true
+    },
+    {
+      "id": "federico-valverde-1995",
+      "name": "Federico Valverde",
+      "nationality": "Uruguay",
+      "position": "Midfielder",
+      "dateOfBirth": null,
+      "height": "182",
+      "stub": true
+    },
+    {
+      "id": "aurelien-tchouameni-1995",
+      "name": "Aurélien Tchouaméni",
+      "nationality": "France",
+      "position": "Midfielder",
+      "dateOfBirth": null,
+      "height": "187",
+      "stub": true
+    },
+    {
+      "id": "vinicius-junior-1995",
+      "name": "Vinícius Júnior",
+      "nationality": "Brazil",
+      "position": "Forward",
+      "dateOfBirth": null,
+      "height": "176",
+      "stub": true
+    },
+    {
+      "id": "rodrygo-1995",
+      "name": "Rodrygo",
+      "nationality": "Brazil",
+      "position": "Forward",
+      "dateOfBirth": null,
+      "height": "174",
+      "stub": true
+    },
+    {
+      "id": "joselu-1995",
+      "name": "Joselu",
+      "nationality": "Spain",
+      "position": "Forward",
+      "dateOfBirth": null,
+      "height": "192",
+      "stub": true
+    },
+    {
+      "id": "brahim-diaz-1995",
+      "name": "Brahim Díaz",
+      "nationality": "Morocco",
+      "position": "Midfielder",
+      "dateOfBirth": null,
+      "height": "170",
+      "stub": true
+    },
+    {
+      "id": "emiliano-martinez-1992",
+      "name": "Emiliano Martínez",
+      "nationality": "Argentina",
+      "position": "Goalkeeper",
+      "dateOfBirth": "1992-09-02",
+      "height": "195",
+      "stub": true
+    },
+    {
+      "id": "franco-armani-1986",
+      "name": "Franco Armani",
+      "nationality": "Argentina",
+      "position": "Goalkeeper",
+      "dateOfBirth": "1986-10-16",
+      "height": "189",
+      "stub": true
+    },
+    {
+      "id": "geronimo-rulli-1992",
+      "name": "Gerónimo Rulli",
+      "nationality": "Argentina",
+      "position": "Goalkeeper",
+      "dateOfBirth": "1992-05-20",
+      "height": "189",
+      "stub": true
+    },
+    {
+      "id": "nahuel-molina-1998",
+      "name": "Nahuel Molina",
+      "nationality": "Argentina",
+      "position": "Defender",
+      "dateOfBirth": "1998-04-06",
+      "height": "175",
+      "stub": true
+    },
+    {
+      "id": "gonzalo-montiel-1997",
+      "name": "Gonzalo Montiel",
+      "nationality": "Argentina",
+      "position": "Defender",
+      "dateOfBirth": "1997-01-01",
+      "height": "176",
+      "stub": true
+    },
+    {
+      "id": "cristian-romero-1998",
+      "name": "Cristian Romero",
+      "nationality": "Argentina",
+      "position": "Defender",
+      "dateOfBirth": "1998-04-27",
+      "height": "185",
+      "stub": true
+    },
+    {
+      "id": "nicolas-otamendi-1988",
+      "name": "Nicolás Otamendi",
+      "nationality": "Argentina",
+      "position": "Defender",
+      "dateOfBirth": "1988-02-12",
+      "height": "183",
+      "stub": true
+    },
+    {
+      "id": "lisandro-martinez-1998",
+      "name": "Lisandro Martínez",
+      "nationality": "Argentina",
+      "position": "Defender",
+      "dateOfBirth": "1998-01-18",
+      "height": "175",
+      "stub": true
+    },
+    {
+      "id": "nicolas-tagliafico-1992",
+      "name": "Nicolás Tagliafico",
+      "nationality": "Argentina",
+      "position": "Defender",
+      "dateOfBirth": "1992-08-31",
+      "height": "172",
+      "stub": true
+    },
+    {
+      "id": "marcos-acuna-1991",
+      "name": "Marcos Acuña",
+      "nationality": "Argentina",
+      "position": "Defender",
+      "dateOfBirth": "1991-10-28",
+      "height": "172",
+      "stub": true
+    },
+    {
+      "id": "rodrigo-de-paul-1994",
+      "name": "Rodrigo De Paul",
+      "nationality": "Argentina",
+      "position": "Midfielder",
+      "dateOfBirth": "1994-05-24",
+      "height": "180",
+      "stub": true
+    },
+    {
+      "id": "leandro-paredes-1994",
+      "name": "Leandro Paredes",
+      "nationality": "Argentina",
+      "position": "Midfielder",
+      "dateOfBirth": "1994-06-29",
+      "height": "180",
+      "stub": true
+    },
+    {
+      "id": "enzo-fernandez-2001",
+      "name": "Enzo Fernández",
+      "nationality": "Argentina",
+      "position": "Midfielder",
+      "dateOfBirth": "2001-01-17",
+      "height": "178",
+      "stub": true
+    },
+    {
+      "id": "guido-rodriguez-1994",
+      "name": "Guido Rodríguez",
+      "nationality": "Argentina",
+      "position": "Midfielder",
+      "dateOfBirth": "1994-04-12",
+      "height": "185",
+      "stub": true
+    },
+    {
+      "id": "exequiel-palacios-1998",
+      "name": "Exequiel Palacios",
+      "nationality": "Argentina",
+      "position": "Midfielder",
+      "dateOfBirth": "1998-10-05",
+      "height": "177",
+      "stub": true
+    },
+    {
+      "id": "alexis-mac-allister-1998",
+      "name": "Alexis Mac Allister",
+      "nationality": "Argentina",
+      "position": "Midfielder",
+      "dateOfBirth": "1998-12-24",
+      "height": "176",
+      "stub": true
+    },
+    {
+      "id": "angel-di-maria-1988",
+      "name": "Ángel Di María",
+      "nationality": "Argentina",
+      "position": "Forward",
+      "dateOfBirth": "1988-02-14",
+      "height": "180",
+      "stub": true
+    },
+    {
+      "id": "lautaro-martinez-1997",
+      "name": "Lautaro Martínez",
+      "nationality": "Argentina",
+      "position": "Forward",
+      "dateOfBirth": "1997-08-22",
+      "height": "174",
+      "stub": true
+    },
+    {
+      "id": "paulo-dybala-1993",
+      "name": "Paulo Dybala",
+      "nationality": "Argentina",
+      "position": "Forward",
+      "dateOfBirth": "1993-11-15",
+      "height": "177",
+      "stub": true
+    },
+    {
+      "id": "papu-gomez-1988",
+      "name": "Papu Gómez",
+      "nationality": "Argentina",
+      "position": "Midfielder",
+      "dateOfBirth": "1988-02-15",
+      "height": "167",
+      "stub": true
+    },
+    {
+      "id": "thiago-almada-2001",
+      "name": "Thiago Almada",
+      "nationality": "Argentina",
+      "position": "Midfielder",
+      "dateOfBirth": "2001-04-26",
+      "height": "171",
+      "stub": true
+    },
+    {
+      "id": "angel-correa-1995",
+      "name": "Ángel Correa",
+      "nationality": "Argentina",
+      "position": "Forward",
+      "dateOfBirth": "1995-03-09",
+      "height": "171",
+      "stub": true
+    },
+    {
+      "id": "german-pezzella-1991",
+      "name": "Germán Pezzella",
+      "nationality": "Argentina",
+      "position": "Defender",
+      "dateOfBirth": "1991-06-27",
+      "height": "187",
+      "stub": true
+    },
+    {
+      "id": "juan-foyth-1998",
+      "name": "Juan Foyth",
+      "nationality": "Argentina",
+      "position": "Defender",
+      "dateOfBirth": "1998-01-12",
+      "height": "187",
+      "stub": true
+    },
+    {
+      "id": "hugo-lloris-1986",
+      "name": "Hugo Lloris",
+      "nationality": "France",
+      "position": "Goalkeeper",
+      "dateOfBirth": "1986-12-26",
+      "height": "188",
+      "stub": true
+    },
+    {
+      "id": "steve-mandanda-1985",
+      "name": "Steve Mandanda",
+      "nationality": "France",
+      "position": "Goalkeeper",
+      "dateOfBirth": "1985-03-28",
+      "height": "185",
+      "stub": true
+    },
+    {
+      "id": "alphonse-areola-1993",
+      "name": "Alphonse Areola",
+      "nationality": "France",
+      "position": "Goalkeeper",
+      "dateOfBirth": "1993-02-27",
+      "height": "195",
+      "stub": true
+    },
+    {
+      "id": "jules-kounde-1998",
+      "name": "Jules Koundé",
+      "nationality": "France",
+      "position": "Defender",
+      "dateOfBirth": "1998-11-12",
+      "height": "180",
+      "stub": true
+    },
+    {
+      "id": "raphael-varane-1993",
+      "name": "Raphaël Varane",
+      "nationality": "France",
+      "position": "Defender",
+      "dateOfBirth": "1993-04-25",
+      "height": "191",
+      "stub": true
+    },
+    {
+      "id": "dayot-upamecano-1998",
+      "name": "Dayot Upamecano",
+      "nationality": "France",
+      "position": "Defender",
+      "dateOfBirth": "1998-10-27",
+      "height": "186",
+      "stub": true
+    },
+    {
+      "id": "ibrahima-konate-1999",
+      "name": "Ibrahima Konaté",
+      "nationality": "France",
+      "position": "Defender",
+      "dateOfBirth": "1999-05-25",
+      "height": "194",
+      "stub": true
+    },
+    {
+      "id": "theo-hernandez-1997",
+      "name": "Theo Hernández",
+      "nationality": "France",
+      "position": "Defender",
+      "dateOfBirth": "1997-10-06",
+      "height": "184",
+      "stub": true
+    },
+    {
+      "id": "benjamin-pavard-1996",
+      "name": "Benjamin Pavard",
+      "nationality": "France",
+      "position": "Defender",
+      "dateOfBirth": "1996-03-28",
+      "height": "186",
+      "stub": true
+    },
+    {
+      "id": "adrien-rabiot-1995",
+      "name": "Adrien Rabiot",
+      "nationality": "France",
+      "position": "Midfielder",
+      "dateOfBirth": "1995-04-03",
+      "height": "188",
+      "stub": true
+    },
+    {
+      "id": "youssouf-fofana-1999",
+      "name": "Youssouf Fofana",
+      "nationality": "France",
+      "position": "Midfielder",
+      "dateOfBirth": "1999-01-10",
+      "height": "185",
+      "stub": true
+    },
+    {
+      "id": "antoine-griezmann-1991",
+      "name": "Antoine Griezmann",
+      "nationality": "France",
+      "position": "Midfielder",
+      "dateOfBirth": "1991-03-21",
+      "height": "176",
+      "stub": true
+    },
+    {
+      "id": "ousmane-dembele-1997",
+      "name": "Ousmane Dembélé",
+      "nationality": "France",
+      "position": "Forward",
+      "dateOfBirth": "1997-05-15",
+      "height": "178",
+      "stub": true
+    },
+    {
+      "id": "olivier-giroud-1986",
+      "name": "Olivier Giroud",
+      "nationality": "France",
+      "position": "Forward",
+      "dateOfBirth": "1986-09-30",
+      "height": "192",
+      "stub": true
+    },
+    {
+      "id": "randal-kolo-muani-1998",
+      "name": "Randal Kolo Muani",
+      "nationality": "France",
+      "position": "Forward",
+      "dateOfBirth": "1998-12-05",
+      "height": "187",
+      "stub": true
+    },
+    {
+      "id": "kingsley-coman-1996",
+      "name": "Kingsley Coman",
+      "nationality": "France",
+      "position": "Forward",
+      "dateOfBirth": "1996-06-13",
+      "height": "180",
+      "stub": true
+    },
+    {
+      "id": "marcus-thuram-1997",
+      "name": "Marcus Thuram",
+      "nationality": "France",
+      "position": "Forward",
+      "dateOfBirth": "1997-08-06",
+      "height": "192",
+      "stub": true
+    },
+    {
+      "id": "axel-disasi-1998",
+      "name": "Axel Disasi",
+      "nationality": "France",
+      "position": "Defender",
+      "dateOfBirth": "1998-03-11",
+      "height": "190",
+      "stub": true
+    },
+    {
+      "id": "william-saliba-2001",
+      "name": "William Saliba",
+      "nationality": "France",
+      "position": "Defender",
+      "dateOfBirth": "2001-03-24",
+      "height": "193",
+      "stub": true
+    },
+    {
+      "id": "jordan-veretout-1993",
+      "name": "Jordan Veretout",
+      "nationality": "France",
+      "position": "Midfielder",
+      "dateOfBirth": "1993-03-01",
+      "height": "177",
+      "stub": true
+    },
+    {
+      "id": "matteo-guendouzi-1999",
+      "name": "Mattéo Guendouzi",
+      "nationality": "France",
+      "position": "Midfielder",
+      "dateOfBirth": "1999-04-14",
+      "height": "185",
+      "stub": true
+    }
+  ]
+}

@@ -7,22 +7,175 @@
   "captain": "Kyle Walker",
   "result": "Premier League Champions",
   "players": [
-    { "name": "Ederson", "number": 31, "position": "GK", "nationality": "Brazil", "height": 188, "appearances": 43, "goals": 0, "assists": 0, "yellowCards": 3, "redCards": 0 },
-    { "name": "Stefan Ortega", "number": 18, "position": "GK", "nationality": "Germany", "height": 188, "appearances": 20, "goals": 0, "assists": 0, "yellowCards": 1, "redCards": 0 },
-    { "name": "Kyle Walker", "number": 2, "position": "RB", "nationality": "England", "height": 178, "appearances": 47, "goals": 0, "assists": 5, "yellowCards": 2, "redCards": 0 },
-    { "name": "Rúben Dias", "number": 3, "position": "CB", "nationality": "Portugal", "height": 187, "appearances": 45, "goals": 0, "assists": 0, "yellowCards": 6, "redCards": 0 },
-    { "name": "John Stones", "number": 5, "position": "CB", "nationality": "England", "height": 188, "appearances": 28, "goals": 1, "assists": 2, "yellowCards": 2, "redCards": 0 },
-    { "name": "Nathan Aké", "number": 6, "position": "LB", "nationality": "Netherlands", "height": 180, "appearances": 44, "goals": 3, "assists": 2, "yellowCards": 1, "redCards": 0 },
-    { "name": "Joško Gvardiol", "number": 24, "position": "LB", "nationality": "Croatia", "height": 185, "appearances": 42, "goals": 5, "assists": 3, "yellowCards": 5, "redCards": 0 },
-    { "name": "Manuel Akanji", "number": 25, "position": "CB", "nationality": "Switzerland", "height": 188, "appearances": 48, "goals": 4, "assists": 0, "yellowCards": 8, "redCards": 1 },
-    { "name": "Rodri", "number": 16, "position": "CDM", "nationality": "Spain", "height": 191, "appearances": 50, "goals": 9, "assists": 14, "yellowCards": 11, "redCards": 1 },
-    { "name": "Kevin De Bruyne", "number": 17, "position": "CAM", "nationality": "Belgium", "height": 181, "appearances": 26, "goals": 6, "assists": 18, "yellowCards": 2, "redCards": 0 },
-    { "name": "Bernardo Silva", "number": 20, "position": "CM", "nationality": "Portugal", "height": 173, "appearances": 49, "goals": 11, "assists": 10, "yellowCards": 9, "redCards": 0 },
-    { "name": "Mateo Kovačić", "number": 8, "position": "CM", "nationality": "Croatia", "height": 178, "appearances": 46, "goals": 3, "assists": 1, "yellowCards": 5, "redCards": 0 },
-    { "name": "Phil Foden", "number": 47, "position": "RW", "nationality": "England", "height": 171, "appearances": 53, "goals": 27, "assists": 12, "yellowCards": 3, "redCards": 0 },
-    { "name": "Jack Grealish", "number": 10, "position": "LW", "nationality": "England", "height": 175, "appearances": 36, "goals": 3, "assists": 3, "yellowCards": 5, "redCards": 0 },
-    { "name": "Jérémy Doku", "number": 11, "position": "LW", "nationality": "Belgium", "height": 173, "appearances": 43, "goals": 6, "assists": 10, "yellowCards": 4, "redCards": 0 },
-    { "name": "Erling Haaland", "number": 9, "position": "ST", "nationality": "Norway", "height": 195, "appearances": 45, "goals": 38, "assists": 6, "yellowCards": 3, "redCards": 0 },
-    { "name": "Julián Álvarez", "number": 19, "position": "ST", "nationality": "Argentina", "height": 170, "appearances": 54, "goals": 19, "assists": 13, "yellowCards": 2, "redCards": 0 }
+    {
+      "player_ref": "ederson-1995",
+      "number": 31,
+      "position": "GK",
+      "appearances": 43,
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 3,
+      "redCards": 0
+    },
+    {
+      "player_ref": "stefan-ortega-1995",
+      "number": 18,
+      "position": "GK",
+      "appearances": 20,
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    {
+      "player_ref": "kyle-walker-1995",
+      "number": 2,
+      "position": "RB",
+      "appearances": 47,
+      "goals": 0,
+      "assists": 5,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    {
+      "player_ref": "ruben-dias-1995",
+      "number": 3,
+      "position": "CB",
+      "appearances": 45,
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 6,
+      "redCards": 0
+    },
+    {
+      "player_ref": "john-stones-1995",
+      "number": 5,
+      "position": "CB",
+      "appearances": 28,
+      "goals": 1,
+      "assists": 2,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    {
+      "player_ref": "nathan-ake-1995",
+      "number": 6,
+      "position": "LB",
+      "appearances": 44,
+      "goals": 3,
+      "assists": 2,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    {
+      "player_ref": "josko-gvardiol-1995",
+      "number": 24,
+      "position": "LB",
+      "appearances": 42,
+      "goals": 5,
+      "assists": 3,
+      "yellowCards": 5,
+      "redCards": 0
+    },
+    {
+      "player_ref": "manuel-akanji-1995",
+      "number": 25,
+      "position": "CB",
+      "appearances": 48,
+      "goals": 4,
+      "assists": 0,
+      "yellowCards": 8,
+      "redCards": 1
+    },
+    {
+      "player_ref": "rodri-1995",
+      "number": 16,
+      "position": "CDM",
+      "appearances": 50,
+      "goals": 9,
+      "assists": 14,
+      "yellowCards": 11,
+      "redCards": 1
+    },
+    {
+      "player_ref": "kevin-de-bruyne-1995",
+      "number": 17,
+      "position": "CAM",
+      "appearances": 26,
+      "goals": 6,
+      "assists": 18,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    {
+      "player_ref": "bernardo-silva-1995",
+      "number": 20,
+      "position": "CM",
+      "appearances": 49,
+      "goals": 11,
+      "assists": 10,
+      "yellowCards": 9,
+      "redCards": 0
+    },
+    {
+      "player_ref": "mateo-kovacic-1995",
+      "number": 8,
+      "position": "CM",
+      "appearances": 46,
+      "goals": 3,
+      "assists": 1,
+      "yellowCards": 5,
+      "redCards": 0
+    },
+    {
+      "player_ref": "phil-foden-1995",
+      "number": 47,
+      "position": "RW",
+      "appearances": 53,
+      "goals": 27,
+      "assists": 12,
+      "yellowCards": 3,
+      "redCards": 0
+    },
+    {
+      "player_ref": "jack-grealish-1995",
+      "number": 10,
+      "position": "LW",
+      "appearances": 36,
+      "goals": 3,
+      "assists": 3,
+      "yellowCards": 5,
+      "redCards": 0
+    },
+    {
+      "player_ref": "jeremy-doku-1995",
+      "number": 11,
+      "position": "LW",
+      "appearances": 43,
+      "goals": 6,
+      "assists": 10,
+      "yellowCards": 4,
+      "redCards": 0
+    },
+    {
+      "player_ref": "erling-haaland-2000",
+      "number": 9,
+      "position": "ST",
+      "appearances": 45,
+      "goals": 38,
+      "assists": 6,
+      "yellowCards": 3,
+      "redCards": 0
+    },
+    {
+      "player_ref": "julian-alvarez-1995",
+      "number": 19,
+      "position": "ST",
+      "appearances": 54,
+      "goals": 19,
+      "assists": 13,
+      "yellowCards": 2,
+      "redCards": 0
+    }
   ]
 }

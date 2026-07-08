@@ -1,12 +1,182 @@
 {
   "clubs": [
-    { "name": "Manchester United FC", "shortName": "Man United", "code": "MUN", "country": "England", "city": "Manchester", "founded": 1878, "stadium": "Old Trafford", "capacity": 74310, "league": "Premier League", "confederation": "UEFA", "colors": ["Red", "White"], "aliases": ["Man Utd", "United", "Red Devils"], "website": "https://www.manutd.com" },
-    { "name": "Manchester City FC", "shortName": "Man City", "code": "MCI", "country": "England", "city": "Manchester", "founded": 1880, "stadium": "Etihad Stadium", "capacity": 53400, "league": "Premier League", "confederation": "UEFA", "colors": ["Sky Blue", "White"], "aliases": ["Man City", "City", "Citizens"], "website": "https://www.mancity.com" },
-    { "name": "Liverpool FC", "shortName": "Liverpool", "code": "LIV", "country": "England", "city": "Liverpool", "founded": 1892, "stadium": "Anfield", "capacity": 61276, "league": "Premier League", "confederation": "UEFA", "colors": ["Red"], "aliases": ["Liverpool", "The Reds"], "website": "https://www.liverpoolfc.com" },
-    { "name": "Arsenal FC", "shortName": "Arsenal", "code": "ARS", "country": "England", "city": "London", "founded": 1886, "stadium": "Emirates Stadium", "capacity": 60704, "league": "Premier League", "confederation": "UEFA", "colors": ["Red", "White"], "aliases": ["Arsenal", "The Gunners"], "website": "https://www.arsenal.com" },
-    { "name": "Chelsea FC", "shortName": "Chelsea", "code": "CHE", "country": "England", "city": "London", "founded": 1905, "stadium": "Stamford Bridge", "capacity": 40341, "league": "Premier League", "confederation": "UEFA", "colors": ["Blue", "White"], "aliases": ["Chelsea", "The Blues"], "website": "https://www.chelseafc.com" },
-    { "name": "Tottenham Hotspur FC", "shortName": "Tottenham", "code": "TOT", "country": "England", "city": "London", "founded": 1882, "stadium": "Tottenham Hotspur Stadium", "capacity": 62850, "league": "Premier League", "confederation": "UEFA", "colors": ["White", "Navy Blue"], "aliases": ["Spurs", "Tottenham"], "website": "https://www.tottenhamhotspur.com" },
-    { "name": "Aston Villa FC", "shortName": "Aston Villa", "code": "AVL", "country": "England", "city": "Birmingham", "founded": 1874, "stadium": "Villa Park", "capacity": 42657, "league": "Premier League", "confederation": "UEFA", "colors": ["Claret", "Blue"], "aliases": ["Villa", "The Villans"], "website": "https://www.avfc.co.uk" },
-    { "name": "Newcastle United FC", "shortName": "Newcastle", "code": "NEW", "country": "England", "city": "Newcastle upon Tyne", "founded": 1892, "stadium": "St James' Park", "capacity": 52305, "league": "Premier League", "confederation": "UEFA", "colors": ["Black", "White"], "aliases": ["Newcastle", "The Magpies", "Toon"], "website": "https://www.nufc.co.uk" }
+    {
+      "id": "manchester-united-fc",
+      "name": "Manchester United FC",
+      "shortName": "Man United",
+      "code": "MUN",
+      "country": "England",
+      "city": "Manchester",
+      "founded": 1878,
+      "stadium": "Old Trafford",
+      "capacity": 74310,
+      "league": "Premier League",
+      "confederation": "UEFA",
+      "colors": [
+        "Red",
+        "White"
+      ],
+      "aliases": [
+        "Man Utd",
+        "United",
+        "Red Devils"
+      ],
+      "website": "https://www.manutd.com"
+    },
+    {
+      "id": "manchester-city-fc",
+      "name": "Manchester City FC",
+      "shortName": "Man City",
+      "code": "MCI",
+      "country": "England",
+      "city": "Manchester",
+      "founded": 1880,
+      "stadium": "Etihad Stadium",
+      "capacity": 53400,
+      "league": "Premier League",
+      "confederation": "UEFA",
+      "colors": [
+        "Sky Blue",
+        "White"
+      ],
+      "aliases": [
+        "Man City",
+        "City",
+        "Citizens"
+      ],
+      "website": "https://www.mancity.com"
+    },
+    {
+      "id": "liverpool-fc",
+      "name": "Liverpool FC",
+      "shortName": "Liverpool",
+      "code": "LIV",
+      "country": "England",
+      "city": "Liverpool",
+      "founded": 1892,
+      "stadium": "Anfield",
+      "capacity": 61276,
+      "league": "Premier League",
+      "confederation": "UEFA",
+      "colors": [
+        "Red"
+      ],
+      "aliases": [
+        "Liverpool",
+        "The Reds"
+      ],
+      "website": "https://www.liverpoolfc.com"
+    },
+    {
+      "id": "arsenal-fc",
+      "name": "Arsenal FC",
+      "shortName": "Arsenal",
+      "code": "ARS",
+      "country": "England",
+      "city": "London",
+      "founded": 1886,
+      "stadium": "Emirates Stadium",
+      "capacity": 60704,
+      "league": "Premier League",
+      "confederation": "UEFA",
+      "colors": [
+        "Red",
+        "White"
+      ],
+      "aliases": [
+        "Arsenal",
+        "The Gunners"
+      ],
+      "website": "https://www.arsenal.com"
+    },
+    {
+      "id": "chelsea-fc",
+      "name": "Chelsea FC",
+      "shortName": "Chelsea",
+      "code": "CHE",
+      "country": "England",
+      "city": "London",
+      "founded": 1905,
+      "stadium": "Stamford Bridge",
+      "capacity": 40341,
+      "league": "Premier League",
+      "confederation": "UEFA",
+      "colors": [
+        "Blue",
+        "White"
+      ],
+      "aliases": [
+        "Chelsea",
+        "The Blues"
+      ],
+      "website": "https://www.chelseafc.com"
+    },
+    {
+      "id": "tottenham-hotspur-fc",
+      "name": "Tottenham Hotspur FC",
+      "shortName": "Tottenham",
+      "code": "TOT",
+      "country": "England",
+      "city": "London",
+      "founded": 1882,
+      "stadium": "Tottenham Hotspur Stadium",
+      "capacity": 62850,
+      "league": "Premier League",
+      "confederation": "UEFA",
+      "colors": [
+        "White",
+        "Navy Blue"
+      ],
+      "aliases": [
+        "Spurs",
+        "Tottenham"
+      ],
+      "website": "https://www.tottenhamhotspur.com"
+    },
+    {
+      "id": "aston-villa-fc",
+      "name": "Aston Villa FC",
+      "shortName": "Aston Villa",
+      "code": "AVL",
+      "country": "England",
+      "city": "Birmingham",
+      "founded": 1874,
+      "stadium": "Villa Park",
+      "capacity": 42657,
+      "league": "Premier League",
+      "confederation": "UEFA",
+      "colors": [
+        "Claret",
+        "Blue"
+      ],
+      "aliases": [
+        "Villa",
+        "The Villans"
+      ],
+      "website": "https://www.avfc.co.uk"
+    },
+    {
+      "id": "newcastle-united-fc",
+      "name": "Newcastle United FC",
+      "shortName": "Newcastle",
+      "code": "NEW",
+      "country": "England",
+      "city": "Newcastle upon Tyne",
+      "founded": 1892,
+      "stadium": "St James' Park",
+      "capacity": 52305,
+      "league": "Premier League",
+      "confederation": "UEFA",
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "aliases": [
+        "Newcastle",
+        "The Magpies",
+        "Toon"
+      ],
+      "website": "https://www.nufc.co.uk"
+    }
   ]
 }

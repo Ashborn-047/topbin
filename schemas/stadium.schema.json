@@ -3,8 +3,10 @@
   "title": "Stadium",
   "description": "Schema for a football stadium in the topbin database",
   "type": "object",
-  "required": ["name", "city", "country"],
+  "required": ["id", "name", "city", "country"],
   "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "Canonical lowercase hyphenated ASCII slug ID" },
+    "wikidata_qid": { "type": "string", "pattern": "^Q\\d+$", "description": "Optional Wikidata QID code" },
     "name": { "type": "string" },
     "city": { "type": "string" },
     "country": { "type": "string" },
@@ -19,6 +21,20 @@
         "lat": { "type": "number" },
         "lng": { "type": "number" }
       }
+    },
+    "history": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["from", "name"],
+        "properties": {
+          "from": { "type": "integer", "description": "Start year of this naming/capacity version" },
+          "to": { "type": ["integer", "null"], "description": "End year of this version" },
+          "name": { "type": "string", "description": "Stadium name during this era" },
+          "capacity": { "type": ["integer", "null"], "description": "Capacity during this era" }
+        }
+      },
+      "description": "Historical name and capacity records"
     }
   }
 }

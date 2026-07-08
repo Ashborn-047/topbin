@@ -1,8 +1,93 @@
 {
   "clubs": [
-    { "name": "FC Bayern München", "shortName": "Bayern Munich", "code": "BAY", "country": "Germany", "city": "Munich", "founded": 1900, "stadium": "Allianz Arena", "capacity": 75024, "league": "Bundesliga", "confederation": "UEFA", "colors": ["Red", "White"], "aliases": ["Bayern", "FCB", "Die Roten"], "website": "https://www.fcbayern.com" },
-    { "name": "Borussia Dortmund", "shortName": "Dortmund", "code": "BVB", "country": "Germany", "city": "Dortmund", "founded": 1909, "stadium": "Signal Iduna Park", "capacity": 81365, "league": "Bundesliga", "confederation": "UEFA", "colors": ["Yellow", "Black"], "aliases": ["BVB", "Die Borussen"], "website": "https://www.bvb.de" },
-    { "name": "Bayer 04 Leverkusen", "shortName": "Leverkusen", "code": "LEV", "country": "Germany", "city": "Leverkusen", "founded": 1904, "stadium": "BayArena", "capacity": 30210, "league": "Bundesliga", "confederation": "UEFA", "colors": ["Red", "Black"], "aliases": ["Bayer", "Die Werkself"], "website": "https://www.bayer04.de" },
-    { "name": "RB Leipzig", "shortName": "Leipzig", "code": "RBL", "country": "Germany", "city": "Leipzig", "founded": 2009, "stadium": "Red Bull Arena", "capacity": 47069, "league": "Bundesliga", "confederation": "UEFA", "colors": ["White", "Red"], "aliases": ["RBL", "Die Roten Bullen"], "website": "https://www.rbleipzig.com" }
+    {
+      "id": "fc-bayern-munchen",
+      "name": "FC Bayern München",
+      "shortName": "Bayern Munich",
+      "code": "BAY",
+      "country": "Germany",
+      "city": "Munich",
+      "founded": 1900,
+      "stadium": "Allianz Arena",
+      "capacity": 75024,
+      "league": "Bundesliga",
+      "confederation": "UEFA",
+      "colors": [
+        "Red",
+        "White"
+      ],
+      "aliases": [
+        "Bayern",
+        "FCB",
+        "Die Roten"
+      ],
+      "website": "https://www.fcbayern.com"
+    },
+    {
+      "id": "borussia-dortmund",
+      "name": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "code": "BVB",
+      "country": "Germany",
+      "city": "Dortmund",
+      "founded": 1909,
+      "stadium": "Signal Iduna Park",
+      "capacity": 81365,
+      "league": "Bundesliga",
+      "confederation": "UEFA",
+      "colors": [
+        "Yellow",
+        "Black"
+      ],
+      "aliases": [
+        "BVB",
+        "Die Borussen"
+      ],
+      "website": "https://www.bvb.de"
+    },
+    {
+      "id": "bayer-04-leverkusen",
+      "name": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "code": "LEV",
+      "country": "Germany",
+      "city": "Leverkusen",
+      "founded": 1904,
+      "stadium": "BayArena",
+      "capacity": 30210,
+      "league": "Bundesliga",
+      "confederation": "UEFA",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "aliases": [
+        "Bayer",
+        "Die Werkself"
+      ],
+      "website": "https://www.bayer04.de"
+    },
+    {
+      "id": "rb-leipzig",
+      "name": "RB Leipzig",
+      "shortName": "Leipzig",
+      "code": "RBL",
+      "country": "Germany",
+      "city": "Leipzig",
+      "founded": 2009,
+      "stadium": "Red Bull Arena",
+      "capacity": 47069,
+      "league": "Bundesliga",
+      "confederation": "UEFA",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "aliases": [
+        "RBL",
+        "Die Roten Bullen"
+      ],
+      "website": "https://www.rbleipzig.com"
+    }
   ]
 }

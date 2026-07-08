@@ -7,23 +7,185 @@
   "captain": "Nacho",
   "result": "La Liga Champions, UCL Champions",
   "players": [
-    { "name": "Thibaut Courtois", "number": 1, "position": "GK", "nationality": "Belgium", "height": 200, "appearances": 5, "goals": 0, "assists": 0, "yellowCards": 0, "redCards": 0 },
-    { "name": "Andriy Lunin", "number": 13, "position": "GK", "nationality": "Ukraine", "height": 191, "appearances": 31, "goals": 0, "assists": 0, "yellowCards": 2, "redCards": 0 },
-    { "name": "Dani Carvajal", "number": 2, "position": "RB", "nationality": "Spain", "height": 173, "appearances": 41, "goals": 6, "assists": 5, "yellowCards": 7, "redCards": 1 },
-    { "name": "Eder Militão", "number": 3, "position": "CB", "nationality": "Brazil", "height": 186, "appearances": 13, "goals": 0, "assists": 0, "yellowCards": 0, "redCards": 0 },
-    { "name": "David Alaba", "number": 4, "position": "CB", "nationality": "Austria", "height": 180, "appearances": 17, "goals": 0, "assists": 2, "yellowCards": 2, "redCards": 0 },
-    { "name": "Nacho", "number": 6, "position": "CB", "nationality": "Spain", "height": 180, "appearances": 45, "goals": 0, "assists": 1, "yellowCards": 7, "redCards": 2 },
-    { "name": "Antonio Rüdiger", "number": 22, "position": "CB", "nationality": "Germany", "height": 190, "appearances": 48, "goals": 2, "assists": 3, "yellowCards": 8, "redCards": 0 },
-    { "name": "Ferland Mendy", "number": 23, "position": "LB", "nationality": "France", "height": 180, "appearances": 37, "goals": 1, "assists": 0, "yellowCards": 6, "redCards": 0 },
-    { "name": "Jude Bellingham", "number": 5, "position": "CAM", "nationality": "England", "height": 186, "appearances": 42, "goals": 23, "assists": 13, "yellowCards": 10, "redCards": 1 },
-    { "name": "Toni Kroos", "number": 8, "position": "CM", "nationality": "Germany", "height": 183, "appearances": 48, "goals": 1, "assists": 10, "yellowCards": 4, "redCards": 0 },
-    { "name": "Luka Modrić", "number": 10, "position": "CM", "nationality": "Croatia", "height": 172, "appearances": 46, "goals": 2, "assists": 8, "yellowCards": 3, "redCards": 0 },
-    { "name": "Eduardo Camavinga", "number": 12, "position": "CDM", "nationality": "France", "height": 182, "appearances": 46, "goals": 0, "assists": 2, "yellowCards": 11, "redCards": 0 },
-    { "name": "Federico Valverde", "number": 15, "position": "CM", "nationality": "Uruguay", "height": 182, "appearances": 54, "goals": 3, "assists": 8, "yellowCards": 2, "redCards": 0 },
-    { "name": "Aurélien Tchouaméni", "number": 18, "position": "CDM", "nationality": "France", "height": 187, "appearances": 38, "goals": 3, "assists": 1, "yellowCards": 9, "redCards": 0 },
-    { "name": "Vinícius Júnior", "number": 7, "position": "LW", "nationality": "Brazil", "height": 176, "appearances": 39, "goals": 24, "assists": 11, "yellowCards": 9, "redCards": 0 },
-    { "name": "Rodrygo", "number": 11, "position": "RW", "nationality": "Brazil", "height": 174, "appearances": 51, "goals": 17, "assists": 9, "yellowCards": 3, "redCards": 0 },
-    { "name": "Joselu", "number": 14, "position": "ST", "nationality": "Spain", "height": 192, "appearances": 49, "goals": 17, "assists": 3, "yellowCards": 2, "redCards": 0 },
-    { "name": "Brahim Díaz", "number": 21, "position": "CAM", "nationality": "Morocco", "height": 170, "appearances": 44, "goals": 12, "assists": 9, "yellowCards": 1, "redCards": 0 }
+    {
+      "player_ref": "thibaut-courtois-1995",
+      "number": 1,
+      "position": "GK",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    {
+      "player_ref": "andriy-lunin-1995",
+      "number": 13,
+      "position": "GK",
+      "appearances": 31,
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    {
+      "player_ref": "dani-carvajal-1995",
+      "number": 2,
+      "position": "RB",
+      "appearances": 41,
+      "goals": 6,
+      "assists": 5,
+      "yellowCards": 7,
+      "redCards": 1
+    },
+    {
+      "player_ref": "eder-militao-1995",
+      "number": 3,
+      "position": "CB",
+      "appearances": 13,
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0
+    },
+    {
+      "player_ref": "david-alaba-1995",
+      "number": 4,
+      "position": "CB",
+      "appearances": 17,
+      "goals": 0,
+      "assists": 2,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    {
+      "player_ref": "nacho-1995",
+      "number": 6,
+      "position": "CB",
+      "appearances": 45,
+      "goals": 0,
+      "assists": 1,
+      "yellowCards": 7,
+      "redCards": 2
+    },
+    {
+      "player_ref": "antonio-rudiger-1995",
+      "number": 22,
+      "position": "CB",
+      "appearances": 48,
+      "goals": 2,
+      "assists": 3,
+      "yellowCards": 8,
+      "redCards": 0
+    },
+    {
+      "player_ref": "ferland-mendy-1995",
+      "number": 23,
+      "position": "LB",
+      "appearances": 37,
+      "goals": 1,
+      "assists": 0,
+      "yellowCards": 6,
+      "redCards": 0
+    },
+    {
+      "player_ref": "jude-bellingham-1995",
+      "number": 5,
+      "position": "CAM",
+      "appearances": 42,
+      "goals": 23,
+      "assists": 13,
+      "yellowCards": 10,
+      "redCards": 1
+    },
+    {
+      "player_ref": "toni-kroos-1995",
+      "number": 8,
+      "position": "CM",
+      "appearances": 48,
+      "goals": 1,
+      "assists": 10,
+      "yellowCards": 4,
+      "redCards": 0
+    },
+    {
+      "player_ref": "luka-modric-1985",
+      "number": 10,
+      "position": "CM",
+      "appearances": 46,
+      "goals": 2,
+      "assists": 8,
+      "yellowCards": 3,
+      "redCards": 0
+    },
+    {
+      "player_ref": "eduardo-camavinga-1995",
+      "number": 12,
+      "position": "CDM",
+      "appearances": 46,
+      "goals": 0,
+      "assists": 2,
+      "yellowCards": 11,
+      "redCards": 0
+    },
+    {
+      "player_ref": "federico-valverde-1995",
+      "number": 15,
+      "position": "CM",
+      "appearances": 54,
+      "goals": 3,
+      "assists": 8,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    {
+      "player_ref": "aurelien-tchouameni-1995",
+      "number": 18,
+      "position": "CDM",
+      "appearances": 38,
+      "goals": 3,
+      "assists": 1,
+      "yellowCards": 9,
+      "redCards": 0
+    },
+    {
+      "player_ref": "vinicius-junior-1995",
+      "number": 7,
+      "position": "LW",
+      "appearances": 39,
+      "goals": 24,
+      "assists": 11,
+      "yellowCards": 9,
+      "redCards": 0
+    },
+    {
+      "player_ref": "rodrygo-1995",
+      "number": 11,
+      "position": "RW",
+      "appearances": 51,
+      "goals": 17,
+      "assists": 9,
+      "yellowCards": 3,
+      "redCards": 0
+    },
+    {
+      "player_ref": "joselu-1995",
+      "number": 14,
+      "position": "ST",
+      "appearances": 49,
+      "goals": 17,
+      "assists": 3,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    {
+      "player_ref": "brahim-diaz-1995",
+      "number": 21,
+      "position": "CAM",
+      "appearances": 44,
+      "goals": 12,
+      "assists": 9,
+      "yellowCards": 1,
+      "redCards": 0
+    }
   ]
 }

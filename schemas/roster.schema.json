@@ -15,15 +15,12 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["name", "number", "position", "nationality"],
+        "required": ["player_ref", "number", "position"],
         "properties": {
-          "name": { "type": "string" },
+          "player_ref": { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "Slug ID of the player" },
           "number": { "type": "integer" },
           "position": { "type": "string", "enum": ["GK", "CB", "LB", "RB", "LWB", "RWB", "CDM", "CM", "CAM", "LM", "RM", "LW", "RW", "CF", "ST"] },
-          "nationality": { "type": "string" },
-          "dateOfBirth": { "type": ["string", "null"], "format": "date" },
-          "height": { "type": ["integer", "null"], "description": "Height in cm" },
-          "club": { "type": ["string", "null"], "description": "Club at time of selection (for national teams)" },
+          "club": { "type": ["string", "null"], "description": "Club slug/name at time of selection (for national teams)" },
           "appearances": { "type": ["integer", "null"], "description": "Appearances in this competition/season" },
           "goals": { "type": ["integer", "null"], "description": "Goals in this competition/season" },
           "assists": { "type": ["integer", "null"], "description": "Assists in this competition/season" },

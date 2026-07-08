@@ -1,14 +1,508 @@
 {
   "players": [
-    { "name": "Cristiano Ronaldo", "fullName": "Cristiano Ronaldo dos Santos Aveiro", "nationality": "Portugal", "dateOfBirth": "1985-02-05", "position": "Forward", "height": "187", "preferredFoot": "Right", "clubs": [{ "name": "Sporting CP", "from": "2001", "to": "2003", "appearances": 31, "goals": 5 }, { "name": "Manchester United", "from": "2003", "to": "2009", "appearances": 292, "goals": 118 }, { "name": "Real Madrid", "from": "2009", "to": "2018", "appearances": 438, "goals": 450 }, { "name": "Juventus", "from": "2018", "to": "2021", "appearances": 134, "goals": 101 }, { "name": "Manchester United", "from": "2021", "to": "2022", "appearances": 54, "goals": 27 }, { "name": "Al Nassr", "from": "2023", "to": null, "appearances": 75, "goals": 66 }], "nationalTeam": { "team": "Portugal", "caps": 217, "goals": 135 }, "awards": ["5x Ballon d'Or", "5x Champions League", "Euro 2016", "UEFA Nations League 2019", "4x European Golden Shoe"] },
-    { "name": "Lionel Messi", "fullName": "Lionel Andrés Messi Cuccittini", "nationality": "Argentina", "dateOfBirth": "1987-06-24", "position": "Forward", "height": "170", "preferredFoot": "Left", "clubs": [{ "name": "FC Barcelona", "from": "2004", "to": "2021", "appearances": 778, "goals": 672 }, { "name": "Paris Saint-Germain", "from": "2021", "to": "2023", "appearances": 75, "goals": 32 }, { "name": "Inter Miami CF", "from": "2023", "to": null, "appearances": 69, "goals": 41 }], "nationalTeam": { "team": "Argentina", "caps": 191, "goals": 112 }, "awards": ["8x Ballon d'Or", "World Cup 2022", "4x Champions League", "Copa América 2021", "6x European Golden Shoe"] },
-    { "name": "Pelé", "fullName": "Edson Arantes do Nascimento", "nationality": "Brazil", "dateOfBirth": "1940-10-23", "position": "Forward", "height": "173", "preferredFoot": "Right", "clubs": [{ "name": "Santos FC", "from": "1956", "to": "1974", "appearances": 659, "goals": 643 }, { "name": "New York Cosmos", "from": "1975", "to": "1977", "appearances": 64, "goals": 31 }], "nationalTeam": { "team": "Brazil", "caps": 92, "goals": 77 }, "awards": ["3x World Cup (1958, 1962, 1970)", "FIFA Player of the Century"] },
-    { "name": "Diego Maradona", "fullName": "Diego Armando Maradona", "nationality": "Argentina", "dateOfBirth": "1960-10-30", "position": "Midfielder", "height": "165", "preferredFoot": "Left", "clubs": [{ "name": "Argentinos Juniors", "from": "1976", "to": "1981", "appearances": 166, "goals": 116 }, { "name": "Boca Juniors", "from": "1981", "to": "1982", "appearances": 40, "goals": 28 }, { "name": "FC Barcelona", "from": "1982", "to": "1984", "appearances": 58, "goals": 38 }, { "name": "SSC Napoli", "from": "1984", "to": "1991", "appearances": 259, "goals": 115 }], "nationalTeam": { "team": "Argentina", "caps": 91, "goals": 34 }, "awards": ["World Cup 1986", "2x Serie A", "UEFA Cup 1989", "FIFA Player of the Century"] },
-    { "name": "Zinedine Zidane", "fullName": "Zinedine Yazid Zidane", "nationality": "France", "dateOfBirth": "1972-06-23", "position": "Midfielder", "height": "185", "preferredFoot": "Right", "clubs": [{ "name": "AS Cannes", "from": "1989", "to": "1992", "appearances": 61, "goals": 6 }, { "name": "Girondins de Bordeaux", "from": "1992", "to": "1996", "appearances": 139, "goals": 28 }, { "name": "Juventus", "from": "1996", "to": "2001", "appearances": 212, "goals": 31 }, { "name": "Real Madrid", "from": "2001", "to": "2006", "appearances": 227, "goals": 49 }], "nationalTeam": { "team": "France", "caps": 108, "goals": 31 }, "awards": ["World Cup 1998", "Euro 2000", "Ballon d'Or 1998", "3x FIFA World Player of the Year", "Champions League 2002"] },
-    { "name": "Ronaldo Nazário", "fullName": "Ronaldo Luís Nazário de Lima", "nationality": "Brazil", "dateOfBirth": "1976-09-18", "position": "Forward", "height": "183", "preferredFoot": "Right", "clubs": [{ "name": "Cruzeiro", "from": "1993", "to": "1994", "appearances": 47, "goals": 44 }, { "name": "PSV Eindhoven", "from": "1994", "to": "1996", "appearances": 57, "goals": 54 }, { "name": "FC Barcelona", "from": "1996", "to": "1997", "appearances": 49, "goals": 47 }, { "name": "Inter Milan", "from": "1997", "to": "2002", "appearances": 99, "goals": 59 }, { "name": "Real Madrid", "from": "2002", "to": "2007", "appearances": 177, "goals": 104 }], "nationalTeam": { "team": "Brazil", "caps": 98, "goals": 62 }, "awards": ["2x World Cup (1994, 2002)", "2x Ballon d'Or", "3x FIFA World Player of the Year", "World Cup Golden Boot 2002"] },
-    { "name": "Kylian Mbappé", "fullName": "Kylian Mbappé Lottin", "nationality": "France", "dateOfBirth": "1998-12-20", "position": "Forward", "height": "178", "preferredFoot": "Right", "clubs": [{ "name": "AS Monaco", "from": "2015", "to": "2017", "appearances": 60, "goals": 27 }, { "name": "Paris Saint-Germain", "from": "2017", "to": "2024", "appearances": 308, "goals": 256 }, { "name": "Real Madrid", "from": "2024", "to": null, "appearances": 50, "goals": 30 }], "nationalTeam": { "team": "France", "caps": 86, "goals": 48 }, "awards": ["World Cup 2018", "World Cup Golden Boot 2022", "7x Ligue 1", "4x Ligue 1 Player of the Year"] },
-    { "name": "Erling Haaland", "fullName": "Erling Braut Haaland", "nationality": "Norway", "dateOfBirth": "2000-07-21", "position": "Forward", "height": "194", "preferredFoot": "Left", "clubs": [{ "name": "Molde FK", "from": "2017", "to": "2019", "appearances": 50, "goals": 20 }, { "name": "RB Salzburg", "from": "2019", "to": "2020", "appearances": 27, "goals": 29 }, { "name": "Borussia Dortmund", "from": "2020", "to": "2022", "appearances": 89, "goals": 86 }, { "name": "Manchester City", "from": "2022", "to": null, "appearances": 120, "goals": 110 }], "nationalTeam": { "team": "Norway", "caps": 35, "goals": 32 }, "awards": ["Premier League Golden Boot 2023", "European Golden Shoe 2023", "Treble with Man City 2023"] },
-    { "name": "Neymar Jr", "fullName": "Neymar da Silva Santos Júnior", "nationality": "Brazil", "dateOfBirth": "1992-02-05", "position": "Forward", "height": "175", "preferredFoot": "Right", "clubs": [{ "name": "Santos FC", "from": "2009", "to": "2013", "appearances": 225, "goals": 136 }, { "name": "FC Barcelona", "from": "2013", "to": "2017", "appearances": 186, "goals": 105 }, { "name": "Paris Saint-Germain", "from": "2017", "to": "2023", "appearances": 173, "goals": 118 }, { "name": "Al Hilal", "from": "2023", "to": "2025", "appearances": 7, "goals": 1 }, { "name": "Santos FC", "from": "2025", "to": null, "appearances": 10, "goals": 3 }], "nationalTeam": { "team": "Brazil", "caps": 128, "goals": 79 }, "awards": ["Champions League 2015", "Olympic Gold 2016", "Copa América 2019 (did not play final)", "3x Ligue 1 Player of the Year"] },
-    { "name": "Luka Modrić", "fullName": "Luka Modrić", "nationality": "Croatia", "dateOfBirth": "1985-09-09", "position": "Midfielder", "height": "172", "preferredFoot": "Right", "clubs": [{ "name": "Dinamo Zagreb", "from": "2003", "to": "2008", "appearances": 127, "goals": 32 }, { "name": "Tottenham Hotspur", "from": "2008", "to": "2012", "appearances": 160, "goals": 17 }, { "name": "Real Madrid", "from": "2012", "to": null, "appearances": 534, "goals": 39 }], "nationalTeam": { "team": "Croatia", "caps": 178, "goals": 25 }, "awards": ["Ballon d'Or 2018", "6x Champions League", "World Cup Golden Ball 2018", "4x La Liga", "FIFA Best Men's Player 2018"] }
+    {
+      "id": "cristiano-ronaldo-1985",
+      "name": "Cristiano Ronaldo",
+      "fullName": "Cristiano Ronaldo dos Santos Aveiro",
+      "nationality": "Portugal",
+      "dateOfBirth": "1985-02-05",
+      "position": "Forward",
+      "height": "187",
+      "preferredFoot": "Right",
+      "clubs": [
+        {
+          "name": "Sporting CP",
+          "from": "2001",
+          "to": "2003",
+          "appearances": 31,
+          "goals": 5
+        },
+        {
+          "name": "Manchester United",
+          "from": "2003",
+          "to": "2009",
+          "appearances": 292,
+          "goals": 118
+        },
+        {
+          "name": "Real Madrid",
+          "from": "2009",
+          "to": "2018",
+          "appearances": 438,
+          "goals": 450
+        },
+        {
+          "name": "Juventus",
+          "from": "2018",
+          "to": "2021",
+          "appearances": 134,
+          "goals": 101
+        },
+        {
+          "name": "Manchester United",
+          "from": "2021",
+          "to": "2022",
+          "appearances": 54,
+          "goals": 27
+        },
+        {
+          "name": "Al Nassr",
+          "from": "2023",
+          "to": null,
+          "appearances": 75,
+          "goals": 66
+        }
+      ],
+      "nationalTeam": {
+        "team": "Portugal",
+        "caps": 217,
+        "goals": 135
+      },
+      "awards": [
+        "5x Ballon d'Or",
+        "5x Champions League",
+        "Euro 2016",
+        "UEFA Nations League 2019",
+        "4x European Golden Shoe"
+      ]
+    },
+    {
+      "id": "lionel-messi-1987",
+      "name": "Lionel Messi",
+      "fullName": "Lionel Andrés Messi Cuccittini",
+      "nationality": "Argentina",
+      "dateOfBirth": "1987-06-24",
+      "position": "Forward",
+      "height": "170",
+      "preferredFoot": "Left",
+      "clubs": [
+        {
+          "name": "FC Barcelona",
+          "from": "2004",
+          "to": "2021",
+          "appearances": 778,
+          "goals": 672
+        },
+        {
+          "name": "Paris Saint-Germain",
+          "from": "2021",
+          "to": "2023",
+          "appearances": 75,
+          "goals": 32
+        },
+        {
+          "name": "Inter Miami CF",
+          "from": "2023",
+          "to": null,
+          "appearances": 69,
+          "goals": 41
+        }
+      ],
+      "nationalTeam": {
+        "team": "Argentina",
+        "caps": 191,
+        "goals": 112
+      },
+      "awards": [
+        "8x Ballon d'Or",
+        "World Cup 2022",
+        "4x Champions League",
+        "Copa América 2021",
+        "6x European Golden Shoe"
+      ]
+    },
+    {
+      "id": "pele-1940",
+      "name": "Pelé",
+      "fullName": "Edson Arantes do Nascimento",
+      "nationality": "Brazil",
+      "dateOfBirth": "1940-10-23",
+      "position": "Forward",
+      "height": "173",
+      "preferredFoot": "Right",
+      "clubs": [
+        {
+          "name": "Santos FC",
+          "from": "1956",
+          "to": "1974",
+          "appearances": 659,
+          "goals": 643
+        },
+        {
+          "name": "New York Cosmos",
+          "from": "1975",
+          "to": "1977",
+          "appearances": 64,
+          "goals": 31
+        }
+      ],
+      "nationalTeam": {
+        "team": "Brazil",
+        "caps": 92,
+        "goals": 77
+      },
+      "awards": [
+        "3x World Cup (1958, 1962, 1970)",
+        "FIFA Player of the Century"
+      ]
+    },
+    {
+      "id": "diego-maradona-1960",
+      "name": "Diego Maradona",
+      "fullName": "Diego Armando Maradona",
+      "nationality": "Argentina",
+      "dateOfBirth": "1960-10-30",
+      "position": "Midfielder",
+      "height": "165",
+      "preferredFoot": "Left",
+      "clubs": [
+        {
+          "name": "Argentinos Juniors",
+          "from": "1976",
+          "to": "1981",
+          "appearances": 166,
+          "goals": 116
+        },
+        {
+          "name": "Boca Juniors",
+          "from": "1981",
+          "to": "1982",
+          "appearances": 40,
+          "goals": 28
+        },
+        {
+          "name": "FC Barcelona",
+          "from": "1982",
+          "to": "1984",
+          "appearances": 58,
+          "goals": 38
+        },
+        {
+          "name": "SSC Napoli",
+          "from": "1984",
+          "to": "1991",
+          "appearances": 259,
+          "goals": 115
+        }
+      ],
+      "nationalTeam": {
+        "team": "Argentina",
+        "caps": 91,
+        "goals": 34
+      },
+      "awards": [
+        "World Cup 1986",
+        "2x Serie A",
+        "UEFA Cup 1989",
+        "FIFA Player of the Century"
+      ]
+    },
+    {
+      "id": "zinedine-zidane-1972",
+      "name": "Zinedine Zidane",
+      "fullName": "Zinedine Yazid Zidane",
+      "nationality": "France",
+      "dateOfBirth": "1972-06-23",
+      "position": "Midfielder",
+      "height": "185",
+      "preferredFoot": "Right",
+      "clubs": [
+        {
+          "name": "AS Cannes",
+          "from": "1989",
+          "to": "1992",
+          "appearances": 61,
+          "goals": 6
+        },
+        {
+          "name": "Girondins de Bordeaux",
+          "from": "1992",
+          "to": "1996",
+          "appearances": 139,
+          "goals": 28
+        },
+        {
+          "name": "Juventus",
+          "from": "1996",
+          "to": "2001",
+          "appearances": 212,
+          "goals": 31
+        },
+        {
+          "name": "Real Madrid",
+          "from": "2001",
+          "to": "2006",
+          "appearances": 227,
+          "goals": 49
+        }
+      ],
+      "nationalTeam": {
+        "team": "France",
+        "caps": 108,
+        "goals": 31
+      },
+      "awards": [
+        "World Cup 1998",
+        "Euro 2000",
+        "Ballon d'Or 1998",
+        "3x FIFA World Player of the Year",
+        "Champions League 2002"
+      ]
+    },
+    {
+      "id": "ronaldo-nazario-1976",
+      "name": "Ronaldo Nazário",
+      "fullName": "Ronaldo Luís Nazário de Lima",
+      "nationality": "Brazil",
+      "dateOfBirth": "1976-09-18",
+      "position": "Forward",
+      "height": "183",
+      "preferredFoot": "Right",
+      "clubs": [
+        {
+          "name": "Cruzeiro",
+          "from": "1993",
+          "to": "1994",
+          "appearances": 47,
+          "goals": 44
+        },
+        {
+          "name": "PSV Eindhoven",
+          "from": "1994",
+          "to": "1996",
+          "appearances": 57,
+          "goals": 54
+        },
+        {
+          "name": "FC Barcelona",
+          "from": "1996",
+          "to": "1997",
+          "appearances": 49,
+          "goals": 47
+        },
+        {
+          "name": "Inter Milan",
+          "from": "1997",
+          "to": "2002",
+          "appearances": 99,
+          "goals": 59
+        },
+        {
+          "name": "Real Madrid",
+          "from": "2002",
+          "to": "2007",
+          "appearances": 177,
+          "goals": 104
+        }
+      ],
+      "nationalTeam": {
+        "team": "Brazil",
+        "caps": 98,
+        "goals": 62
+      },
+      "awards": [
+        "2x World Cup (1994, 2002)",
+        "2x Ballon d'Or",
+        "3x FIFA World Player of the Year",
+        "World Cup Golden Boot 2002"
+      ]
+    },
+    {
+      "id": "kylian-mbappe-1998",
+      "name": "Kylian Mbappé",
+      "fullName": "Kylian Mbappé Lottin",
+      "nationality": "France",
+      "dateOfBirth": "1998-12-20",
+      "position": "Forward",
+      "height": "178",
+      "preferredFoot": "Right",
+      "clubs": [
+        {
+          "name": "AS Monaco",
+          "from": "2015",
+          "to": "2017",
+          "appearances": 60,
+          "goals": 27
+        },
+        {
+          "name": "Paris Saint-Germain",
+          "from": "2017",
+          "to": "2024",
+          "appearances": 308,
+          "goals": 256
+        },
+        {
+          "name": "Real Madrid",
+          "from": "2024",
+          "to": null,
+          "appearances": 50,
+          "goals": 30
+        }
+      ],
+      "nationalTeam": {
+        "team": "France",
+        "caps": 86,
+        "goals": 48
+      },
+      "awards": [
+        "World Cup 2018",
+        "World Cup Golden Boot 2022",
+        "7x Ligue 1",
+        "4x Ligue 1 Player of the Year"
+      ]
+    },
+    {
+      "id": "erling-haaland-2000",
+      "name": "Erling Haaland",
+      "fullName": "Erling Braut Haaland",
+      "nationality": "Norway",
+      "dateOfBirth": "2000-07-21",
+      "position": "Forward",
+      "height": "194",
+      "preferredFoot": "Left",
+      "clubs": [
+        {
+          "name": "Molde FK",
+          "from": "2017",
+          "to": "2019",
+          "appearances": 50,
+          "goals": 20
+        },
+        {
+          "name": "RB Salzburg",
+          "from": "2019",
+          "to": "2020",
+          "appearances": 27,
+          "goals": 29
+        },
+        {
+          "name": "Borussia Dortmund",
+          "from": "2020",
+          "to": "2022",
+          "appearances": 89,
+          "goals": 86
+        },
+        {
+          "name": "Manchester City",
+          "from": "2022",
+          "to": null,
+          "appearances": 120,
+          "goals": 110
+        }
+      ],
+      "nationalTeam": {
+        "team": "Norway",
+        "caps": 35,
+        "goals": 32
+      },
+      "awards": [
+        "Premier League Golden Boot 2023",
+        "European Golden Shoe 2023",
+        "Treble with Man City 2023"
+      ]
+    },
+    {
+      "id": "neymar-jr-1992",
+      "name": "Neymar Jr",
+      "fullName": "Neymar da Silva Santos Júnior",
+      "nationality": "Brazil",
+      "dateOfBirth": "1992-02-05",
+      "position": "Forward",
+      "height": "175",
+      "preferredFoot": "Right",
+      "clubs": [
+        {
+          "name": "Santos FC",
+          "from": "2009",
+          "to": "2013",
+          "appearances": 225,
+          "goals": 136
+        },
+        {
+          "name": "FC Barcelona",
+          "from": "2013",
+          "to": "2017",
+          "appearances": 186,
+          "goals": 105
+        },
+        {
+          "name": "Paris Saint-Germain",
+          "from": "2017",
+          "to": "2023",
+          "appearances": 173,
+          "goals": 118
+        },
+        {
+          "name": "Al Hilal",
+          "from": "2023",
+          "to": "2025",
+          "appearances": 7,
+          "goals": 1
+        },
+        {
+          "name": "Santos FC",
+          "from": "2025",
+          "to": null,
+          "appearances": 10,
+          "goals": 3
+        }
+      ],
+      "nationalTeam": {
+        "team": "Brazil",
+        "caps": 128,
+        "goals": 79
+      },
+      "awards": [
+        "Champions League 2015",
+        "Olympic Gold 2016",
+        "Copa América 2019 (did not play final)",
+        "3x Ligue 1 Player of the Year"
+      ]
+    },
+    {
+      "id": "luka-modric-1985",
+      "name": "Luka Modrić",
+      "fullName": "Luka Modrić",
+      "nationality": "Croatia",
+      "dateOfBirth": "1985-09-09",
+      "position": "Midfielder",
+      "height": "172",
+      "preferredFoot": "Right",
+      "clubs": [
+        {
+          "name": "Dinamo Zagreb",
+          "from": "2003",
+          "to": "2008",
+          "appearances": 127,
+          "goals": 32
+        },
+        {
+          "name": "Tottenham Hotspur",
+          "from": "2008",
+          "to": "2012",
+          "appearances": 160,
+          "goals": 17
+        },
+        {
+          "name": "Real Madrid",
+          "from": "2012",
+          "to": null,
+          "appearances": 534,
+          "goals": 39
+        }
+      ],
+      "nationalTeam": {
+        "team": "Croatia",
+        "caps": 178,
+        "goals": 25
+      },
+      "awards": [
+        "Ballon d'Or 2018",
+        "6x Champions League",
+        "World Cup Golden Ball 2018",
+        "4x La Liga",
+        "FIFA Best Men's Player 2018"
+      ]
+    }
   ]
 }

@@ -31,5 +31,9 @@
   "bugs": {
     "url": "https://github.com/Ashborn-047/topbin/issues"
   },
-  "homepage": "https://github.com/Ashborn-047/topbin#readme"
+  "homepage": "https://github.com/Ashborn-047/topbin#readme",
+  "devDependencies": {
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1"
+  }
 }

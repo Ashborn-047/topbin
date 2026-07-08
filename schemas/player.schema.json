@@ -3,8 +3,10 @@
   "title": "Player",
   "description": "Schema for a football player in the topbin database",
   "type": "object",
-  "required": ["name", "nationality", "position"],
+  "required": ["id", "name", "nationality", "position"],
   "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "Canonical lowercase hyphenated ASCII slug ID" },
+    "wikidata_qid": { "type": "string", "pattern": "^Q\\d+$", "description": "Optional Wikidata QID code" },
     "name": { "type": "string" },
     "fullName": { "type": "string" },
     "nationality": { "type": "string" },
@@ -12,6 +14,7 @@
     "position": { "type": "string", "enum": ["Goalkeeper", "Defender", "Midfielder", "Forward"] },
     "height": { "type": ["string", "null"], "description": "Height in cm" },
     "preferredFoot": { "type": ["string", "null"], "enum": ["Left", "Right", "Both", null] },
+    "stub": { "type": "boolean", "description": "Flag indicating if this is a minimal stub player record" },
     "clubs": {
       "type": "array",
       "items": {
