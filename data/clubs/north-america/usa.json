@@ -1,0 +1,20 @@
+{
+  "clubs": [
+    {
+      "id": "inter-miami-cf",
+      "name": "Inter Miami CF",
+      "shortName": "Inter Miami",
+      "code": "MIA",
+      "country": "USA",
+      "city": "Miami",
+      "founded": 2018,
+      "stadium": "Chase Stadium",
+      "capacity": 21550,
+      "league": "MLS",
+      "confederation": "CONCACAF",
+      "colors": ["Pink", "Black"],
+      "aliases": ["The Herons"],
+      "website": "https://www.intermiamicf.com"
+    }
+  ]
+}

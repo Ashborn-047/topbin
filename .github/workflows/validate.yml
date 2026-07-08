@@ -45,6 +45,9 @@ jobs:
       - name: Run schema validation
         run: node scripts/validate.js
 
+      - name: Run referential integrity validation
+        run: node scripts/validate-refs.js
+
       - name: Report results
         if: always()
         run: |

@@ -1,0 +1,20 @@
+{
+  "clubs": [
+    {
+      "id": "fc-porto",
+      "name": "FC Porto",
+      "shortName": "Porto",
+      "code": "FCP",
+      "country": "Portugal",
+      "city": "Porto",
+      "founded": 1893,
+      "stadium": "Estádio do Dragão",
+      "capacity": 50033,
+      "league": "Primeira Liga",
+      "confederation": "UEFA",
+      "colors": ["Blue", "White"],
+      "aliases": ["Dragões"],
+      "website": "https://www.fcporto.pt"
+    }
+  ]
+}

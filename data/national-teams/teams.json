@@ -384,6 +384,66 @@
       ],
       "federation": "Nigeria Football Federation",
       "founded": 1945
+    },
+    {
+      "id": "qatar",
+      "name": "Qatar",
+      "code": "QAT",
+      "fifaCode": "QAT",
+      "confederation": "AFC",
+      "titles": {
+        "worldCup": 0,
+        "continental": 2
+      },
+      "federation": "Qatar Football Association"
+    },
+    {
+      "id": "ecuador",
+      "name": "Ecuador",
+      "code": "ECU",
+      "fifaCode": "ECU",
+      "confederation": "CONMEBOL",
+      "titles": {
+        "worldCup": 0,
+        "continental": 0
+      },
+      "federation": "Federación Ecuatoriana de Fútbol"
+    },
+    {
+      "id": "senegal",
+      "name": "Senegal",
+      "code": "SEN",
+      "fifaCode": "SEN",
+      "confederation": "CAF",
+      "titles": {
+        "worldCup": 0,
+        "continental": 1
+      },
+      "federation": "Fédération Sénégalaise de Football"
+    },
+    {
+      "id": "south-africa",
+      "name": "South Africa",
+      "code": "RSA",
+      "fifaCode": "RSA",
+      "confederation": "CAF",
+      "titles": {
+        "worldCup": 0,
+        "continental": 1
+      },
+      "federation": "South African Football Association"
+    },
+    {
+      "id": "czech-republic",
+      "name": "Czech Republic",
+      "code": "CZE",
+      "fifaCode": "CZE",
+      "confederation": "UEFA",
+      "titles": {
+        "worldCup": 0,
+        "continental": 1
+      },
+      "federation": "Fotbalová asociace České republiky"
     }
   ]
 }

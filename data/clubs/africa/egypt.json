@@ -1,0 +1,20 @@
+{
+  "clubs": [
+    {
+      "id": "al-ahly-sc",
+      "name": "Al Ahly SC",
+      "shortName": "Al Ahly",
+      "code": "AHL",
+      "country": "Egypt",
+      "city": "Cairo",
+      "founded": 1907,
+      "stadium": "Cairo International Stadium",
+      "capacity": 75000,
+      "league": "Egyptian Premier League",
+      "confederation": "CAF",
+      "colors": ["Red", "White"],
+      "aliases": ["The Red Giants", "Nadi El Watannah"],
+      "website": "https://alahlyegypt.com"
+    }
+  ]
+}
