@@ -1,5 +1,7 @@
 const fs = require('fs');
 const path = require('path');
+const dns = require('dns');
+dns.setDefaultResultOrder('ipv4first');
 const { extractClub, getWikidataCandidates } = require('./lib/llm-extract');
 
 // Setup Paths
@@ -45,16 +47,6 @@ async function searchWikidata(clubName, country, aliases = []) {
     queries.add(a);
     queries.add(cleanTerm(a));
   });
-
-  // Also query LLM for candidates if we want to be thorough
-  try {
-    const llmCandidates = await getWikidataCandidates(clubName, country);
-    if (Array.isArray(llmCandidates)) {
-      llmCandidates.forEach(c => queries.add(c));
-    }
-  } catch (err) {
-    console.warn(`  ⚠️  Failed to generate LLM candidates for Wikidata search: ${err.message}`);
-  }
 
   const matches = [];
 
@@ -105,6 +97,61 @@ async function searchWikidata(clubName, country, aliases = []) {
 
     // If we have strong matches, we don't need to try all queries
     if (matches.length > 0) break;
+  }
+
+  // Fallback to LLM candidates ONLY if direct searches yield no matches
+  if (matches.length === 0) {
+    try {
+      const llmCandidates = await getWikidataCandidates(clubName, country);
+      if (Array.isArray(llmCandidates)) {
+        for (const llmQuery of llmCandidates) {
+          if (!llmQuery || llmQuery.length < 2 || queries.has(llmQuery)) continue;
+          try {
+            const url = `https://www.wikidata.org/w/api.php?action=wbsearchentities&search=${encodeURIComponent(llmQuery)}&language=en&format=json&type=item&limit=10`;
+            const res = await fetch(url, { headers: { 'User-Agent': 'topbin-bot/1.0 (https://github.com/Ashborn-047/topbin)' } });
+            if (!res.ok) continue;
+            const data = await res.json();
+            
+            if (data.search && Array.isArray(data.search)) {
+              for (const item of data.search) {
+                const desc = (item.description || '').toLowerCase();
+                const label = (item.label || '').toLowerCase();
+                
+                const isFootball = desc.includes('football club') ||
+                                   desc.includes('soccer club') ||
+                                   desc.includes('football team') ||
+                                   desc.includes('association football') ||
+                                   desc.includes('soccer team') ||
+                                   desc.includes('futbol club') ||
+                                   desc.includes('club de futbol') ||
+                                   desc.includes('club de football') ||
+                                   desc.includes('fussball-club') ||
+                                   desc.includes('fußballclub') ||
+                                   desc.includes('football association');
+                
+                const isCountryMatch = country.toLowerCase() === 'england' ?
+                  (desc.includes('england') || desc.includes('english') || desc.includes('united kingdom') || desc.includes('uk')) :
+                  (desc.includes(country.toLowerCase()));
+
+                if (isFootball && isCountryMatch) {
+                  matches.push({
+                    qid: item.id,
+                    label: item.label,
+                    description: item.description,
+                    score: (label === clubName.toLowerCase() ? 10 : 5) + (item.description ? 2 : 0)
+                  });
+                }
+              }
+            }
+          } catch (e) {
+            console.warn(`  ⚠️  Wikidata LLM search error for "${llmQuery}": ${e.message}`);
+          }
+          if (matches.length > 0) break;
+        }
+      }
+    } catch (err) {
+      console.warn(`  ⚠️  Failed to generate LLM candidates for Wikidata search: ${err.message}`);
+    }
   }
 
   if (matches.length > 0) {
@@ -357,6 +404,16 @@ async function run() {
       recordsAdded++;
     }
   }
+
+  // Clean up null/undefined/empty array fields to satisfy schema validation
+  existingClubs.forEach(c => {
+    if (c.city === null || c.city === undefined) delete c.city;
+    if (c.founded === null || c.founded === undefined) delete c.founded;
+    if (c.stadium === null || c.stadium === undefined) delete c.stadium;
+    if (c.wikidata_qid === null || c.wikidata_qid === undefined) delete c.wikidata_qid;
+    if (c.aliases && c.aliases.length === 0) delete c.aliases;
+    if (c.discontinuities && c.discontinuities.length === 0) delete c.discontinuities;
+  });
 
   // Save back to JSON
   const outputJson = {

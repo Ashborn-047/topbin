@@ -1,5 +1,8 @@
 const fs = require('fs');
 const path = require('path');
+const dns = require('dns');
+dns.setDefaultResultOrder('ipv4first');
+
 
 // Helper to load environment variables from .env
 function loadEnv() {
@@ -35,34 +38,45 @@ async function callLLM(systemPrompt, userPrompt) {
   }
 
   const url = `${baseUrl}/chat/completions`;
-  const response = await fetch(url, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${apiKey}`
-    },
-    body: JSON.stringify({
-      model: model,
-      messages: [
-        { role: 'system', content: systemPrompt },
-        { role: 'user', content: userPrompt }
-      ],
-      temperature: 0.1,
-      max_tokens: 1024
-    })
-  });
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 15000);
 
-  if (!response.ok) {
-    const text = await response.text();
-    throw new Error(`NVIDIA API call failed: ${response.status} ${response.statusText} - ${text}`);
+  try {
+    const response = await fetch(url, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${apiKey}`
+      },
+      body: JSON.stringify({
+        model: model,
+        messages: [
+          { role: 'system', content: systemPrompt },
+          { role: 'user', content: userPrompt }
+        ],
+        temperature: 0.1,
+        max_tokens: 1024
+      }),
+      signal: controller.signal
+    });
+
+    clearTimeout(timeoutId);
+
+    if (!response.ok) {
+      const text = await response.text();
+      throw new Error(`NVIDIA API call failed: ${response.status} ${response.statusText} - ${text}`);
+    }
+
+    const result = await response.json();
+    if (!result.choices || result.choices.length === 0) {
+      throw new Error('NVIDIA API returned empty choices');
+    }
+
+    return result.choices[0].message.content;
+  } catch (err) {
+    clearTimeout(timeoutId);
+    throw err;
   }
-
-  const result = await response.json();
-  if (!result.choices || result.choices.length === 0) {
-    throw new Error('NVIDIA API returned empty choices');
-  }
-
-  return result.choices[0].message.content;
 }
 
 /**

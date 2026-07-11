@@ -19,9 +19,16 @@
       "aliases": [
         "Man Utd",
         "United",
-        "Red Devils"
+        "Red Devils",
+        "Man. United",
+        "Manchester U.",
+        "Manchester Utd.",
+        "Manchester United",
+        "Manchester United Football Club",
+        "Newton Heath FC"
       ],
-      "website": "https://www.manutd.com"
+      "website": "https://www.manutd.com",
+      "wikidata_qid": "Q18656"
     },
     {
       "id": "manchester-city-fc",
@@ -42,9 +49,15 @@
       "aliases": [
         "Man City",
         "City",
-        "Citizens"
+        "Citizens",
+        "Manchester City",
+        "Man. City",
+        "Manchester C.",
+        "Manchester City Football Club",
+        "Ardwick FC"
       ],
-      "website": "https://www.mancity.com"
+      "website": "https://www.mancity.com",
+      "wikidata_qid": "Q50602"
     },
     {
       "id": "liverpool-fc",
@@ -63,9 +76,12 @@
       ],
       "aliases": [
         "Liverpool",
-        "The Reds"
+        "The Reds",
+        "FC Liverpool",
+        "Liverpool Football Club"
       ],
-      "website": "https://www.liverpoolfc.com"
+      "website": "https://www.liverpoolfc.com",
+      "wikidata_qid": "Q1130849"
     },
     {
       "id": "arsenal-fc",
@@ -85,9 +101,15 @@
       ],
       "aliases": [
         "Arsenal",
-        "The Gunners"
+        "The Gunners",
+        "FC Arsenal",
+        "Arsenal Football Club",
+        "The Arsenal FC",
+        "Woolwich Arsenal FC",
+        "Royal Arsenal FC"
       ],
-      "website": "https://www.arsenal.com"
+      "website": "https://www.arsenal.com",
+      "wikidata_qid": "Q9617"
     },
     {
       "id": "chelsea-fc",
@@ -107,9 +129,12 @@
       ],
       "aliases": [
         "Chelsea",
-        "The Blues"
+        "The Blues",
+        "FC Chelsea",
+        "Chelsea Football Club"
       ],
-      "website": "https://www.chelseafc.com"
+      "website": "https://www.chelseafc.com",
+      "wikidata_qid": "Q9616"
     },
     {
       "id": "tottenham-hotspur-fc",
@@ -129,9 +154,13 @@
       ],
       "aliases": [
         "Spurs",
-        "Tottenham"
+        "Tottenham",
+        "Tottenham Hotspur",
+        "Tottenham H.",
+        "Tottenham Hotspur Football Club"
       ],
-      "website": "https://www.tottenhamhotspur.com"
+      "website": "https://www.tottenhamhotspur.com",
+      "wikidata_qid": "Q18741"
     },
     {
       "id": "aston-villa-fc",
@@ -151,9 +180,12 @@
       ],
       "aliases": [
         "Villa",
-        "The Villans"
+        "The Villans",
+        "Aston Villa",
+        "Aston Villa Football Club"
       ],
-      "website": "https://www.avfc.co.uk"
+      "website": "https://www.avfc.co.uk",
+      "wikidata_qid": "Q18711"
     },
     {
       "id": "newcastle-united-fc",
@@ -174,9 +206,2258 @@
       "aliases": [
         "Newcastle",
         "The Magpies",
-        "Toon"
+        "Toon",
+        "Newcastle Utd.",
+        "Newcastle United",
+        "Newcastle United Football Club"
       ],
-      "website": "https://www.nufc.co.uk"
+      "website": "https://www.nufc.co.uk",
+      "wikidata_qid": "Q18716"
+    },
+    {
+      "id": "west-ham-united-fc",
+      "name": "West Ham United FC",
+      "country": "England",
+      "city": "London",
+      "founded": 1895,
+      "stadium": "Boleyn Ground",
+      "aliases": [
+        "West Ham",
+        "West Ham United",
+        "West Ham United Football Club"
+      ],
+      "wikidata_qid": "Q18747"
+    },
+    {
+      "id": "fulham-fc",
+      "name": "Fulham FC",
+      "country": "England",
+      "city": "London",
+      "founded": 1879,
+      "stadium": "Craven Cottage",
+      "aliases": [
+        "Fulham",
+        "FC Fulham",
+        "Fulham Football Club"
+      ],
+      "wikidata_qid": "Q18708"
+    },
+    {
+      "id": "charlton-athletic-fc",
+      "name": "Charlton Athletic FC",
+      "country": "England",
+      "city": "London",
+      "stadium": "The Valley",
+      "aliases": [
+        "Charlton",
+        "Charlton Ath.",
+        "Charlton Athletic",
+        "Charlton Athletic Football Club"
+      ],
+      "wikidata_qid": "Q19462"
+    },
+    {
+      "id": "crystal-palace-fc",
+      "name": "Crystal Palace FC",
+      "country": "England",
+      "city": "London",
+      "founded": 1905,
+      "stadium": "Selhurst Park",
+      "aliases": [
+        "Palace",
+        "C. Palace",
+        "Crystal P.",
+        "Crystal Palace",
+        "Crystal Palace Football Club"
+      ],
+      "wikidata_qid": "Q19467"
+    },
+    {
+      "id": "wimbledon-fc",
+      "name": "Wimbledon FC",
+      "country": "England",
+      "city": "London",
+      "aliases": [
+        "Wimbledon"
+      ],
+      "wikidata_qid": "Q19482"
+    },
+    {
+      "id": "afc-wimbledon-fc",
+      "name": "AFC Wimbledon",
+      "country": "England",
+      "city": "London",
+      "stadium": "Kingsmeadow",
+      "wikidata_qid": "Q48851"
+    },
+    {
+      "id": "kingstonian-fc",
+      "name": "Kingstonian FC",
+      "country": "England",
+      "city": "London",
+      "founded": 1885,
+      "aliases": [
+        "Kingstonian"
+      ]
+    },
+    {
+      "id": "queens-park-rangers-fc",
+      "name": "Queens Park Rangers FC",
+      "country": "England",
+      "city": "London",
+      "founded": 1882,
+      "stadium": "Loftus Road",
+      "aliases": [
+        "QPR",
+        "Queens Park R.",
+        "Queens Park Rangers",
+        "Queens Park Rangers Football Club"
+      ],
+      "wikidata_qid": "Q18723"
+    },
+    {
+      "id": "millwall-fc",
+      "name": "Millwall FC",
+      "country": "England",
+      "city": "London",
+      "stadium": "The Den",
+      "aliases": [
+        "Millwall",
+        "FC Millwall",
+        "Millwall Football Club",
+        "Millwall Athletic FC"
+      ],
+      "wikidata_qid": "Q19487"
+    },
+    {
+      "id": "brentford-fc",
+      "name": "Brentford FC",
+      "country": "England",
+      "city": "London",
+      "stadium": "Griffin Park",
+      "aliases": [
+        "Brentford",
+        "FC Brentford",
+        "Brentford Football Club"
+      ],
+      "wikidata_qid": "Q19571"
+    },
+    {
+      "id": "leyton-orient-fc",
+      "name": "Leyton Orient FC",
+      "country": "England",
+      "city": "London",
+      "stadium": "Brisbane Road",
+      "aliases": [
+        "Leyton Orient",
+        "Leyton Orient Football Club",
+        "Clapton Orient FC"
+      ],
+      "wikidata_qid": "Q19595"
+    },
+    {
+      "id": "barnet-fc",
+      "name": "Barnet FC",
+      "country": "England",
+      "city": "London",
+      "stadium": "The Hive Stadium",
+      "aliases": [
+        "Barnet"
+      ],
+      "wikidata_qid": "Q9408"
+    },
+    {
+      "id": "dagenham-redbridge-fc",
+      "name": "Dagenham & Redbridge FC",
+      "country": "England",
+      "city": "London",
+      "stadium": "Victoria Road",
+      "aliases": [
+        "Dagenham & Red.",
+        "Dagenham & Redbridge",
+        "Dag and Red",
+        "Dagenham and Redbridge"
+      ],
+      "wikidata_qid": "Q48938"
+    },
+    {
+      "id": "bromley-fc",
+      "name": "Bromley FC",
+      "country": "England",
+      "city": "London",
+      "aliases": [
+        "Bromley",
+        "FC Bromley"
+      ],
+      "wikidata_qid": "Q1584552"
+    },
+    {
+      "id": "hayes-yeading-united-fc",
+      "name": "Hayes & Yeading United FC",
+      "country": "England",
+      "city": "London",
+      "aliases": [
+        "Hayes & Yeading"
+      ],
+      "wikidata_qid": "Q1591915"
+    },
+    {
+      "id": "welling-united-fc",
+      "name": "Welling United FC",
+      "country": "England",
+      "city": "London",
+      "aliases": [
+        "Welling United"
+      ],
+      "wikidata_qid": "Q955872"
+    },
+    {
+      "id": "sutton-united-fc",
+      "name": "Sutton United FC",
+      "country": "England",
+      "city": "London",
+      "aliases": [
+        "Sutton",
+        "Sutton United"
+      ],
+      "wikidata_qid": "Q2454929"
+    },
+    {
+      "id": "thames-afc-1928-1932-fc",
+      "name": "Thames AFC (1928-1932)",
+      "country": "England",
+      "city": "London",
+      "aliases": [
+        "Thames"
+      ]
+    },
+    {
+      "id": "hampton-richmond-borough-fc",
+      "name": "Hampton & Richmond Borough FC",
+      "country": "England",
+      "city": "London",
+      "founded": 1921,
+      "aliases": [
+        "Hampton & Richmond Borough"
+      ],
+      "wikidata_qid": "Q2307965"
+    },
+    {
+      "id": "haringey-borough-fc",
+      "name": "Haringey Borough FC",
+      "country": "England",
+      "city": "London",
+      "founded": 1973,
+      "aliases": [
+        "Haringey Borough"
+      ],
+      "wikidata_qid": "Q6417465"
+    },
+    {
+      "id": "carshalton-athletic-fc",
+      "name": "Carshalton Athletic FC",
+      "country": "England",
+      "city": "London",
+      "founded": 1905,
+      "aliases": [
+        "Carshalton Athletic"
+      ],
+      "wikidata_qid": "Q3657748"
+    },
+    {
+      "id": "dulwich-hamlet-fc",
+      "name": "Dulwich Hamlet FC",
+      "country": "England",
+      "city": "London",
+      "founded": 1893,
+      "aliases": [
+        "Dulwich Hamlet"
+      ],
+      "wikidata_qid": "Q5313546"
+    },
+    {
+      "id": "wealdstone-fc",
+      "name": "Wealdstone FC",
+      "country": "England",
+      "city": "London",
+      "founded": 1899,
+      "aliases": [
+        "Wealdstone",
+        "Wealdstone Football Club"
+      ],
+      "wikidata_qid": "Q9437"
+    },
+    {
+      "id": "everton-fc",
+      "name": "Everton FC",
+      "country": "England",
+      "city": "Liverpool (Walton) › Lancashire",
+      "founded": 1878,
+      "stadium": "Goodison Park",
+      "aliases": [
+        "Everton",
+        "FC Everton",
+        "Everton Football Club"
+      ],
+      "wikidata_qid": "Q5794"
+    },
+    {
+      "id": "blackburn-rovers-fc",
+      "name": "Blackburn Rovers FC",
+      "country": "England",
+      "city": "Blackburn › Lancashire",
+      "stadium": "Ewood Park",
+      "aliases": [
+        "Blackburn",
+        "Blackburn Rovers",
+        "Blackburn Rovers Football Club"
+      ],
+      "wikidata_qid": "Q19446"
+    },
+    {
+      "id": "burnley-fc",
+      "name": "Burnley FC",
+      "country": "England",
+      "city": "Burnley › Lancashire",
+      "founded": 1882,
+      "stadium": "Turf Moor",
+      "aliases": [
+        "Burnley",
+        "FC Burnley",
+        "Burnley Football Club"
+      ],
+      "wikidata_qid": "Q19458"
+    },
+    {
+      "id": "blackpool-fc",
+      "name": "Blackpool FC",
+      "country": "England",
+      "city": "Blackpool › Lancashire",
+      "stadium": "Bloomfield Road",
+      "aliases": [
+        "Blackpool",
+        "FC Blackpool",
+        "Blackpool Football Club"
+      ],
+      "wikidata_qid": "Q19449"
+    },
+    {
+      "id": "south-shore-fc",
+      "name": "South Shore FC",
+      "country": "England",
+      "city": "Blackpool › Lancashire"
+    },
+    {
+      "id": "preston-north-end-fc",
+      "name": "Preston North End FC",
+      "country": "England",
+      "city": "Preston › Lancashire",
+      "stadium": "Deepdale",
+      "aliases": [
+        "Preston",
+        "Preston North End",
+        "Preston North End Football Club"
+      ],
+      "wikidata_qid": "Q19612"
+    },
+    {
+      "id": "afc-fylde-fc",
+      "name": "AFC Fylde",
+      "country": "England",
+      "city": "Wesham › Lancashire",
+      "aliases": [
+        "Fylde"
+      ],
+      "wikidata_qid": "Q18280"
+    },
+    {
+      "id": "darwen-1870-2009-fc",
+      "name": "Darwen FC (1870-2009)",
+      "country": "England",
+      "city": "Darwen › Lancashire",
+      "aliases": [
+        "Darwen"
+      ],
+      "wikidata_qid": "Q14624027"
+    },
+    {
+      "id": "bootle-1879-1893-fc",
+      "name": "Bootle FC (1879-1893)",
+      "country": "England",
+      "city": "Bootle › Lancashire",
+      "aliases": [
+        "Bootle"
+      ]
+    },
+    {
+      "id": "nelson-fc",
+      "name": "Nelson FC",
+      "country": "England",
+      "city": "Lancashire",
+      "aliases": [
+        "Nelson"
+      ],
+      "wikidata_qid": "Q2649979"
+    },
+    {
+      "id": "oldham-athletic-afc-fc",
+      "name": "Oldham Athletic AFC",
+      "country": "England",
+      "city": "Oldham › Greater Manchester",
+      "stadium": "Boundary Park",
+      "aliases": [
+        "Oldham",
+        "Oldham Athletic"
+      ],
+      "wikidata_qid": "Q19601"
+    },
+    {
+      "id": "bolton-wanderers-fc",
+      "name": "Bolton Wanderers FC",
+      "country": "England",
+      "city": "Bolton › Greater Manchester",
+      "stadium": "Macron Stadium",
+      "aliases": [
+        "Bolton",
+        "Bolton Wanderers",
+        "Bolton Wanderers Football Club"
+      ],
+      "wikidata_qid": "Q19451"
+    },
+    {
+      "id": "wigan-athletic-fc",
+      "name": "Wigan Athletic FC",
+      "country": "England",
+      "city": "Wigan › Greater Manchester",
+      "stadium": "DW Stadium",
+      "aliases": [
+        "Wigan",
+        "Wigan Athletic",
+        "Wigan Athletic Football Club"
+      ],
+      "wikidata_qid": "Q18750"
+    },
+    {
+      "id": "wigan-borough-1920-1931-fc",
+      "name": "Wigan Borough FC (1920-1931)",
+      "country": "England",
+      "city": "Wigan › Greater Manchester",
+      "aliases": [
+        "Wigan Borough"
+      ],
+      "wikidata_qid": "Q1783104"
+    },
+    {
+      "id": "atherton-collieries",
+      "name": "Atherton Collieries",
+      "country": "England",
+      "city": "Atherton › Greater Manchester",
+      "aliases": [
+        "Atherton Colli.",
+        "Atherton Collieries AFC"
+      ],
+      "wikidata_qid": "Q4813596"
+    },
+    {
+      "id": "stockport-county-fc",
+      "name": "Stockport County FC",
+      "country": "England",
+      "city": "Stockport › Greater Manchester",
+      "aliases": [
+        "Stockport",
+        "Stockport County"
+      ],
+      "wikidata_qid": "Q18526"
+    },
+    {
+      "id": "bury-fc",
+      "name": "Bury FC",
+      "country": "England",
+      "city": "Bury › Greater Manchester",
+      "stadium": "Gigg Lane",
+      "aliases": [
+        "Bury",
+        "FC Bury"
+      ]
+    },
+    {
+      "id": "rochdale-afc-fc",
+      "name": "Rochdale AFC",
+      "country": "England",
+      "city": "Rochdale › Greater Manchester",
+      "stadium": "Spotland Stadium",
+      "aliases": [
+        "Rochdale",
+        "Rochdale Association Football Club",
+        "FC Rochdale"
+      ],
+      "wikidata_qid": "Q48949"
+    },
+    {
+      "id": "altrincham-fc",
+      "name": "Altrincham FC",
+      "country": "England",
+      "city": "Altrincham › Greater Manchester",
+      "aliases": [
+        "Altrincham"
+      ],
+      "wikidata_qid": "Q18660"
+    },
+    {
+      "id": "droylsden-fc",
+      "name": "Droylsden FC",
+      "country": "England",
+      "city": "Droylsden › Greater Manchester",
+      "aliases": [
+        "Droylsden"
+      ],
+      "wikidata_qid": "Q661543"
+    },
+    {
+      "id": "hyde-united-fc",
+      "name": "Hyde United FC",
+      "country": "England",
+      "city": "Hyde › Greater Manchester",
+      "aliases": [
+        "Hyde United"
+      ],
+      "wikidata_qid": "Q18517"
+    },
+    {
+      "id": "stalybridge-celtic-fc",
+      "name": "Stalybridge Celtic FC",
+      "country": "England",
+      "city": "Stalybridge › Greater Manchester",
+      "aliases": [
+        "Stalybridge Celtic"
+      ],
+      "wikidata_qid": "Q1849964"
+    },
+    {
+      "id": "salford-city-fc",
+      "name": "Salford City FC",
+      "country": "England",
+      "city": "Salford › Greater Manchester",
+      "aliases": [
+        "Salford City",
+        "Salford"
+      ],
+      "wikidata_qid": "Q18460"
+    },
+    {
+      "id": "birmingham-city-fc",
+      "name": "Birmingham City FC",
+      "country": "England",
+      "city": "Birmingham › Warwickshire",
+      "stadium": "St Andrew's",
+      "aliases": [
+        "Birmingham",
+        "Birmingham City",
+        "Birmingham City Football Club",
+        "Birmingham FC",
+        "Small Heath FC"
+      ],
+      "wikidata_qid": "Q19444"
+    },
+    {
+      "id": "newcastle-west-end-fc",
+      "name": "Newcastle West End FC",
+      "country": "England",
+      "city": "Newcastle upon Tyne › Northumberland"
+    },
+    {
+      "id": "newcastle-east-end-fc",
+      "name": "Newcastle East End FC",
+      "country": "England",
+      "city": "Newcastle upon Tyne › Northumberland"
+    },
+    {
+      "id": "ashington-afc-fc",
+      "name": "Ashington AFC",
+      "country": "England",
+      "city": "Ashington › Northumberland",
+      "aliases": [
+        "Ashington"
+      ]
+    },
+    {
+      "id": "south-shields-fc",
+      "name": "South Shields FC",
+      "country": "England",
+      "city": "South Shields › Tyne and Wear",
+      "aliases": [
+        "South Shields"
+      ]
+    },
+    {
+      "id": "gateshead-fc",
+      "name": "Gateshead FC",
+      "country": "England",
+      "city": "Gateshead › Tyne and Wear",
+      "aliases": [
+        "Gateshead"
+      ],
+      "wikidata_qid": "Q18513"
+    },
+    {
+      "id": "southampton-fc",
+      "name": "Southampton FC",
+      "country": "England",
+      "city": "Southampton › Hampshire",
+      "founded": 1885,
+      "stadium": "St Mary's Stadium",
+      "aliases": [
+        "Southampton",
+        "FC Southampton",
+        "Southampton Football Club"
+      ],
+      "wikidata_qid": "Q18732"
+    },
+    {
+      "id": "aldershot-town-fc",
+      "name": "Aldershot Town FC",
+      "country": "England",
+      "city": "Aldershot › Hampshire",
+      "aliases": [
+        "Aldershot",
+        "Aldershot Town"
+      ],
+      "wikidata_qid": "Q48862"
+    },
+    {
+      "id": "portsmouth-fc",
+      "name": "Portsmouth FC",
+      "country": "England",
+      "city": "Portsmouth › Hampshire",
+      "stadium": "Fratton Park",
+      "aliases": [
+        "Portsmouth",
+        "FC Portsmouth",
+        "Portsmouth Football Club"
+      ],
+      "wikidata_qid": "Q19604"
+    },
+    {
+      "id": "eastleigh-fc",
+      "name": "Eastleigh FC",
+      "country": "England",
+      "city": "Eastleigh › Hampshire",
+      "aliases": [
+        "Eastleigh"
+      ],
+      "wikidata_qid": "Q2303493"
+    },
+    {
+      "id": "havant-waterlooville-fc",
+      "name": "Havant & Waterlooville FC",
+      "country": "England",
+      "city": "Havant › Hampshire",
+      "aliases": [
+        "Havant & Waterlooville",
+        "Havant & Waterlooville Football Club"
+      ],
+      "wikidata_qid": "Q2028870"
+    },
+    {
+      "id": "sunderland-afc-fc",
+      "name": "Sunderland AFC",
+      "country": "England",
+      "city": "Sunderland",
+      "founded": 1879,
+      "stadium": "Stadium of Light",
+      "aliases": [
+        "Sunderland",
+        "AFC Sunderland",
+        "Sunderland Association Football Club"
+      ],
+      "wikidata_qid": "Q18739"
+    },
+    {
+      "id": "leicester-city-fc",
+      "name": "Leicester City FC",
+      "country": "England",
+      "city": "Leicester",
+      "founded": 1884,
+      "stadium": "King Power Stadium",
+      "aliases": [
+        "Leicester",
+        "Leicester City",
+        "Leicester City Football Club"
+      ],
+      "wikidata_qid": "Q19481"
+    },
+    {
+      "id": "loughborough-1886-1900-fc",
+      "name": "Loughborough FC (1886-1900)",
+      "country": "England",
+      "aliases": [
+        "Loughborough"
+      ],
+      "wikidata_qid": "Q6686175"
+    },
+    {
+      "id": "west-bromwich-albion-fc",
+      "name": "West Bromwich Albion FC",
+      "country": "England",
+      "city": "West Bromwich › West Midlands",
+      "founded": 1878,
+      "stadium": "The Hawthorns",
+      "aliases": [
+        "West Brom",
+        "West Bromwich Albion",
+        "West Bromwich",
+        "Albion",
+        "West Bromwich Albion Football Club"
+      ],
+      "wikidata_qid": "Q18744"
+    },
+    {
+      "id": "coventry-city-fc",
+      "name": "Coventry City FC",
+      "country": "England",
+      "city": "Coventry › West Midlands",
+      "stadium": "Ricoh Arena",
+      "aliases": [
+        "Coventry",
+        "Coventry City",
+        "Coventry City Football Club"
+      ],
+      "wikidata_qid": "Q19580"
+    },
+    {
+      "id": "wolverhampton-wanderers-fc",
+      "name": "Wolverhampton Wanderers FC",
+      "country": "England",
+      "city": "Wolverhampton › West Midlands",
+      "stadium": "Molineux",
+      "aliases": [
+        "Wolves",
+        "Wolverhampton",
+        "Wolverhampton Wand.",
+        "Wolverhampton Wanderers",
+        "Wolverhampton Wanderers Football Club"
+      ],
+      "wikidata_qid": "Q19500"
+    },
+    {
+      "id": "walsall-fc",
+      "name": "Walsall FC",
+      "country": "England",
+      "city": "Walsall › West Midlands",
+      "stadium": "Bescot Stadium",
+      "aliases": [
+        "Walsall",
+        "FC Walsall",
+        "Walsall Town Swifts FC"
+      ],
+      "wikidata_qid": "Q19644"
+    },
+    {
+      "id": "solihull-moors-fc",
+      "name": "Solihull Moors FC",
+      "country": "England",
+      "city": "Solihull › West Midlands",
+      "aliases": [
+        "Solihull",
+        "Solihull Moors",
+        "FC Solihull Moors"
+      ],
+      "wikidata_qid": "Q2975959"
+    },
+    {
+      "id": "stafford-rangers-fc",
+      "name": "Stafford Rangers FC",
+      "country": "England",
+      "city": "Stafford › West Midlands",
+      "aliases": [
+        "Stafford Rangers"
+      ],
+      "wikidata_qid": "Q18304"
+    },
+    {
+      "id": "stourbridge-fc",
+      "name": "Stourbridge FC",
+      "country": "England",
+      "city": "Stourbridge › West Midlands",
+      "aliases": [
+        "Stourbridge Football Club"
+      ],
+      "wikidata_qid": "Q4383877"
+    },
+    {
+      "id": "york-city-fc",
+      "name": "York City FC",
+      "country": "England",
+      "city": "York › North Yorkshire",
+      "stadium": "Bootham Crescent",
+      "aliases": [
+        "York",
+        "York City"
+      ],
+      "wikidata_qid": "Q48954"
+    },
+    {
+      "id": "middlesbrough-fc",
+      "name": "Middlesbrough FC",
+      "country": "England",
+      "city": "Middlesbrough › North Yorkshire",
+      "founded": 1876,
+      "stadium": "Riverside Stadium",
+      "aliases": [
+        "Middlesbrough",
+        "Middlesboro",
+        "FC Middlesbrough",
+        "Middlesbrough Football Club"
+      ],
+      "wikidata_qid": "Q18661"
+    },
+    {
+      "id": "middlesbrough-ironopolis-1889-1894-fc",
+      "name": "Middlesbrough Ironopolis FC (1889-1894)",
+      "country": "England",
+      "city": "Middlesbrough › North Yorkshire",
+      "aliases": [
+        "Middlesbrough Ironopolis"
+      ],
+      "wikidata_qid": "Q2154562"
+    },
+    {
+      "id": "scarborough-athletic-fc",
+      "name": "Scarborough Athletic FC",
+      "country": "England",
+      "city": "Scarborough › North Yorkshire",
+      "founded": 2007,
+      "aliases": [
+        "Scarborough"
+      ],
+      "wikidata_qid": "Q7430259"
+    },
+    {
+      "id": "scarborough-1879-2007-fc",
+      "name": "Scarborough FC (1879-2007)",
+      "country": "England",
+      "city": "Scarborough › North Yorkshire",
+      "aliases": [
+        "Scarborough Football Club"
+      ],
+      "wikidata_qid": "Q1237961"
+    },
+    {
+      "id": "harrogate-town-afc-fc",
+      "name": "Harrogate Town AFC",
+      "country": "England",
+      "city": "Harrogate › North Yorkshire",
+      "aliases": [
+        "Harrogate",
+        "Harrogate Town",
+        "Harrogate Town Association Football Club"
+      ],
+      "wikidata_qid": "Q2219286"
+    },
+    {
+      "id": "leeds-united-fc",
+      "name": "Leeds United FC",
+      "country": "England",
+      "city": "Leeds › West Yorkshire",
+      "stadium": "Elland Road",
+      "aliases": [
+        "Leeds",
+        "Leeds United",
+        "Leeds United AFC",
+        "Leeds United Association Football Club"
+      ],
+      "wikidata_qid": "Q1128631"
+    },
+    {
+      "id": "leeds-city-1904-1919-fc",
+      "name": "Leeds City FC (1904-1919)",
+      "country": "England",
+      "city": "Leeds › West Yorkshire",
+      "aliases": [
+        "Leeds City"
+      ],
+      "wikidata_qid": "Q2321200"
+    },
+    {
+      "id": "bradford-city-afc-fc",
+      "name": "Bradford City AFC",
+      "country": "England",
+      "city": "Bradford › West Yorkshire",
+      "stadium": "Valley Parade",
+      "aliases": [
+        "Bradford",
+        "Bradford City",
+        "Bradford City FC"
+      ],
+      "wikidata_qid": "Q48879"
+    },
+    {
+      "id": "bradford-park-avenue-afc-fc",
+      "name": "Bradford Park Avenue AFC",
+      "country": "England",
+      "city": "Bradford › West Yorkshire",
+      "aliases": [
+        "Bradford Park Avenue"
+      ],
+      "wikidata_qid": "Q896965"
+    },
+    {
+      "id": "huddersfield-town-afc-fc",
+      "name": "Huddersfield Town AFC",
+      "country": "England",
+      "city": "Huddersfield › West Yorkshire",
+      "stadium": "John Smith's Stadium",
+      "aliases": [
+        "Huddersfield",
+        "Huddersfield Town",
+        "Huddersfield Town Association Football Club"
+      ],
+      "wikidata_qid": "Q19473"
+    },
+    {
+      "id": "halifax-town-fc",
+      "name": "FC Halifax Town",
+      "country": "England",
+      "city": "Halifax › West Yorkshire",
+      "aliases": [
+        "Halifax",
+        "Halifax Town"
+      ],
+      "wikidata_qid": "Q5214935"
+    },
+    {
+      "id": "farsley-celtic-fc",
+      "name": "Farsley Celtic FC",
+      "country": "England",
+      "city": "Farsley › West Yorkshire",
+      "aliases": [
+        "Farsley"
+      ],
+      "wikidata_qid": "Q18316"
+    },
+    {
+      "id": "guiseley-afc-fc",
+      "name": "Guiseley AFC",
+      "country": "England",
+      "city": "Guiseley › West Yorkshire",
+      "aliases": [
+        "Guiseley"
+      ],
+      "wikidata_qid": "Q4132020"
+    },
+    {
+      "id": "hull-city-afc-fc",
+      "name": "Hull City AFC",
+      "country": "England",
+      "city": "Hull › East Yorkshire",
+      "founded": 1904,
+      "stadium": "KC Stadium",
+      "aliases": [
+        "Hull",
+        "Hull City",
+        "Hull City FC",
+        "Hull City Association Football Club"
+      ],
+      "wikidata_qid": "Q19477"
+    },
+    {
+      "id": "north-ferriby-united-afc-fc",
+      "name": "North Ferriby United AFC",
+      "country": "England",
+      "city": "North Ferriby › East Yorkshire",
+      "aliases": [
+        "North Ferriby"
+      ],
+      "wikidata_qid": "Q18302"
+    },
+    {
+      "id": "sheffield-wednesday-fc",
+      "name": "Sheffield Wednesday FC",
+      "country": "England",
+      "city": "Sheffield (Owlerton) › South Yorkshire",
+      "stadium": "Hillsborough",
+      "aliases": [
+        "Sheffield Wed",
+        "Sheffield Weds",
+        "Sheffield Wednes.",
+        "Sheffield Wednesday",
+        "Sheff. Wednesday",
+        "The Wednesday FC",
+        "Sheffield Wednesday Football Club"
+      ],
+      "wikidata_qid": "Q19498"
+    },
+    {
+      "id": "sheffield-united-fc",
+      "name": "Sheffield United FC",
+      "country": "England",
+      "city": "Sheffield (Highfield) › South Yorkshire",
+      "stadium": "Bramall Lane",
+      "aliases": [
+        "Sheffield United",
+        "Sheff. United",
+        "Sheffield Utd.",
+        "Sheffield U.",
+        "Sheffield United Football Club"
+      ],
+      "wikidata_qid": "Q19607"
+    },
+    {
+      "id": "barnsley-fc",
+      "name": "Barnsley FC",
+      "country": "England",
+      "city": "Barnsley › South Yorkshire",
+      "stadium": "Oakwell",
+      "aliases": [
+        "Barnsley",
+        "FC Barnsley",
+        "Barnsley Football Club",
+        "Barnsley St. Peter's FC"
+      ],
+      "wikidata_qid": "Q19442"
+    },
+    {
+      "id": "rotherham-united-fc",
+      "name": "Rotherham United FC",
+      "country": "England",
+      "city": "Rotherham › South Yorkshire",
+      "stadium": "New York Stadium",
+      "aliases": [
+        "Rotherham",
+        "Rotherham United",
+        "Rotherham United Football Club"
+      ],
+      "wikidata_qid": "Q48950"
+    },
+    {
+      "id": "rotherham-county-1870-1925-fc",
+      "name": "Rotherham County FC (1870-1925)",
+      "country": "England",
+      "city": "Rotherham › South Yorkshire",
+      "aliases": [
+        "Rotherham County"
+      ]
+    },
+    {
+      "id": "rotherham-town-1899-1925-fc",
+      "name": "Rotherham Town FC (1899-1925)",
+      "country": "England",
+      "city": "Rotherham › South Yorkshire",
+      "aliases": [
+        "Rotherham Town"
+      ],
+      "wikidata_qid": "Q2154477"
+    },
+    {
+      "id": "doncaster-rovers-fc",
+      "name": "Doncaster Rovers FC",
+      "country": "England",
+      "city": "Doncaster › South Yorkshire",
+      "stadium": "Keepmoat Stadium",
+      "aliases": [
+        "Doncaster",
+        "Doncaster Rovers",
+        "Doncaster Rovers Football Club"
+      ],
+      "wikidata_qid": "Q19589"
+    },
+    {
+      "id": "stoke-city-fc",
+      "name": "Stoke City FC",
+      "country": "England",
+      "city": "Stoke-on-Trent › Staffordshire",
+      "founded": 1863,
+      "stadium": "Britannia Stadium",
+      "aliases": [
+        "Stoke",
+        "Stoke City",
+        "Stoke City Football Club",
+        "Stoke FC"
+      ],
+      "wikidata_qid": "Q18736"
+    },
+    {
+      "id": "port-vale-fc",
+      "name": "Port Vale FC",
+      "country": "England",
+      "city": "Stoke-on-Trent › Staffordshire",
+      "stadium": "Vale Park",
+      "aliases": [
+        "Port Vale",
+        "Port Vale Football Club",
+        "Burslem Port Vale FC"
+      ],
+      "wikidata_qid": "Q48948"
+    },
+    {
+      "id": "burton-albion-fc",
+      "name": "Burton Albion FC",
+      "country": "England",
+      "city": "Burton upon Trent › Staffordshire",
+      "stadium": "Pirelli Stadium",
+      "aliases": [
+        "Burton",
+        "Burton Albion",
+        "Burton Albion Football Club"
+      ],
+      "wikidata_qid": "Q48929"
+    },
+    {
+      "id": "burton-united-1901-1910-fc",
+      "name": "Burton United FC (1901-1910)",
+      "country": "England",
+      "city": "Burton upon Trent › Staffordshire",
+      "aliases": [
+        "Burton United"
+      ],
+      "wikidata_qid": "Q5000933"
+    },
+    {
+      "id": "burton-swifts-1871-1901-fc",
+      "name": "Burton Swifts FC (1871-1901)",
+      "country": "England",
+      "city": "Burton upon Trent › Staffordshire",
+      "aliases": [
+        "Burton Swifts"
+      ],
+      "wikidata_qid": "Q2453321"
+    },
+    {
+      "id": "burton-wanderers-1871-1901-fc",
+      "name": "Burton Wanderers FC (1871-1901)",
+      "country": "England",
+      "city": "Burton upon Trent › Staffordshire",
+      "aliases": [
+        "Burton Wanderers"
+      ],
+      "wikidata_qid": "Q1790836"
+    },
+    {
+      "id": "tamworth-fc",
+      "name": "Tamworth FC",
+      "country": "England",
+      "city": "Tamworth › Staffordshire",
+      "aliases": [
+        "Tamworth"
+      ],
+      "wikidata_qid": "Q18527"
+    },
+    {
+      "id": "derby-county-fc",
+      "name": "Derby County FC",
+      "country": "England",
+      "city": "Derby › Derbyshire",
+      "stadium": "iPro Stadium",
+      "aliases": [
+        "Derby",
+        "Derby County",
+        "Derby County Football Club"
+      ],
+      "wikidata_qid": "Q19470"
+    },
+    {
+      "id": "norwich-city-fc",
+      "name": "Norwich City FC",
+      "country": "England",
+      "city": "Norwich › Norfolk",
+      "founded": 1890,
+      "stadium": "Carrow Road",
+      "aliases": [
+        "Norwich",
+        "Norwich City",
+        "Norwich City Football Club"
+      ],
+      "wikidata_qid": "Q18721"
+    },
+    {
+      "id": "king-s-lynn-fc",
+      "name": "King's Lynn FC",
+      "country": "England",
+      "city": "King's Lynn › Norfolk",
+      "founded": 2010,
+      "aliases": [
+        "King's Lynn",
+        "King's Lynn Town",
+        "King's Lynn Town FC"
+      ],
+      "wikidata_qid": "Q2494190"
+    },
+    {
+      "id": "watford-fc",
+      "name": "Watford FC",
+      "country": "England",
+      "city": "Watford › Hertfordshire",
+      "founded": 1881,
+      "stadium": "Vicarage Road",
+      "aliases": [
+        "Watford",
+        "FC Watford",
+        "Watford Football Club"
+      ],
+      "wikidata_qid": "Q2714"
+    },
+    {
+      "id": "hitchin-town-fc",
+      "name": "Hitchin Town FC",
+      "country": "England",
+      "city": "Hitchin › Hertfordshire",
+      "founded": 1928,
+      "aliases": [
+        "Hitchin Town"
+      ],
+      "wikidata_qid": "Q5871864"
+    },
+    {
+      "id": "oxford-united-fc",
+      "name": "Oxford United FC",
+      "country": "England",
+      "city": "Oxford › Oxfordshire",
+      "stadium": "Kassam Stadium",
+      "aliases": [
+        "Oxford",
+        "Oxford Utd",
+        "Oxford United",
+        "Oxford United Football Club"
+      ],
+      "wikidata_qid": "Q48946"
+    },
+    {
+      "id": "oxford-city-fc",
+      "name": "Oxford City FC",
+      "country": "England",
+      "city": "Oxford (Marston)  › Oxfordshire",
+      "founded": 1883,
+      "aliases": [
+        "Oxford City"
+      ],
+      "wikidata_qid": "Q5213276"
+    },
+    {
+      "id": "peterborough-united-fc",
+      "name": "Peterborough United FC",
+      "country": "England",
+      "city": "Peterborough › Cambridgeshire",
+      "stadium": "Abax Stadium",
+      "aliases": [
+        "Peterboro",
+        "Peterborough",
+        "Peterborough Utd.",
+        "Peterborough United",
+        "Peterborough United Football Club"
+      ],
+      "wikidata_qid": "Q19495"
+    },
+    {
+      "id": "cambridge-united-fc",
+      "name": "Cambridge United FC",
+      "country": "England",
+      "city": "Cambridge › Cambridgeshire",
+      "stadium": "Abbey Stadium",
+      "aliases": [
+        "Cambridge",
+        "Cambridge Utd",
+        "Cambridge United",
+        "Cambridge United Football Club"
+      ],
+      "wikidata_qid": "Q18509"
+    },
+    {
+      "id": "histon-fc",
+      "name": "Histon FC",
+      "country": "England",
+      "city": "Histon and Impington › Cambridgeshire",
+      "aliases": [
+        "Histon"
+      ],
+      "wikidata_qid": "Q1387175"
+    },
+    {
+      "id": "ipswich-town-fc",
+      "name": "Ipswich Town FC",
+      "country": "England",
+      "city": "Ipswich › Suffolk",
+      "stadium": "Portman Road",
+      "aliases": [
+        "Ipswich",
+        "Ipswich Town",
+        "Ipswich Town Football Club"
+      ],
+      "wikidata_qid": "Q9653"
+    },
+    {
+      "id": "notts-county-fc",
+      "name": "Notts County FC",
+      "country": "England",
+      "city": "Nottingham › Nottinghamshire",
+      "stadium": "Meadow Lane",
+      "aliases": [
+        "Notts County"
+      ],
+      "wikidata_qid": "Q19598"
+    },
+    {
+      "id": "nottingham-forest-fc",
+      "name": "Nottingham Forest FC",
+      "country": "England",
+      "city": "West Bridgford › Nottinghamshire",
+      "stadium": "City Ground",
+      "aliases": [
+        "Nott'm Forest",
+        "Nott'ham Forest",
+        "Nottingham Forest",
+        "Nottingham Forest Football Club"
+      ],
+      "wikidata_qid": "Q19490"
+    },
+    {
+      "id": "mansfield-town-fc",
+      "name": "Mansfield Town FC",
+      "country": "England",
+      "city": "Mansfield › Nottinghamshire",
+      "stadium": "Field Mill",
+      "aliases": [
+        "Mansfield",
+        "Mansfield Town"
+      ],
+      "wikidata_qid": "Q18522"
+    },
+    {
+      "id": "afc-bournemouth-fc",
+      "name": "AFC Bournemouth",
+      "country": "England",
+      "city": "Bournemouth › Dorset",
+      "founded": 1890,
+      "stadium": "Dean Court",
+      "aliases": [
+        "Bournemouth",
+        "A.F.C. Bournemouth",
+        "Bournemouth FC",
+        "Athletic Football Club Bournemouth"
+      ],
+      "wikidata_qid": "Q19568"
+    },
+    {
+      "id": "weymouth-fc",
+      "name": "Weymouth FC",
+      "country": "England",
+      "city": "Weymouth › Dorset",
+      "aliases": [
+        "Weymouth"
+      ],
+      "wikidata_qid": "Q599356"
+    },
+    {
+      "id": "reading-fc",
+      "name": "Reading FC",
+      "country": "England",
+      "city": "Reading › Berkshire",
+      "founded": 1871,
+      "stadium": "Madejski Stadium",
+      "aliases": [
+        "Reading",
+        "FC Reading",
+        "Reading Football Club"
+      ],
+      "wikidata_qid": "Q18729"
+    },
+    {
+      "id": "maidenhead-united-fc",
+      "name": "Maidenhead United FC",
+      "country": "England",
+      "city": "Maidenhead › Berkshire",
+      "aliases": [
+        "Maidenhead",
+        "Maidenhead United"
+      ],
+      "wikidata_qid": "Q1131109"
+    },
+    {
+      "id": "slough-town-fc",
+      "name": "Slough Town FC",
+      "country": "England",
+      "city": "Slough › Berkshire",
+      "founded": 1893,
+      "aliases": [
+        "Slough Town"
+      ],
+      "wikidata_qid": "Q2306118"
+    },
+    {
+      "id": "brighton-hove-albion-fc",
+      "name": "Brighton & Hove Albion FC",
+      "country": "England",
+      "city": "Falmer › East Sussex",
+      "stadium": "American Express Stadium",
+      "aliases": [
+        "Brighton",
+        "Brighton & Hove",
+        "Brighton & Hove Albion",
+        "Brighton Hove Albion",
+        "Brighton & Hove Albion Football Club"
+      ],
+      "wikidata_qid": "Q19453"
+    },
+    {
+      "id": "eastbourne-borough-fc",
+      "name": "Eastbourne Borough FC",
+      "country": "England",
+      "city": "Eastbourne › East Sussex",
+      "aliases": [
+        "Eastbourne Borough"
+      ]
+    },
+    {
+      "id": "lewes-fc",
+      "name": "Lewes FC",
+      "country": "England",
+      "city": "Lewes › East Sussex",
+      "aliases": [
+        "Lewes"
+      ],
+      "wikidata_qid": "Q1927145"
+    },
+    {
+      "id": "crawley-town-fc",
+      "name": "Crawley Town FC",
+      "country": "England",
+      "city": "Crawley › West Sussex",
+      "stadium": "Broadfield Stadium",
+      "aliases": [
+        "Crawley Town"
+      ],
+      "wikidata_qid": "Q19584"
+    },
+    {
+      "id": "chichester-city-fc",
+      "name": "Chichester City FC",
+      "country": "England",
+      "city": "Chichester › West Sussex",
+      "founded": 2000,
+      "aliases": [
+        "Chichester City"
+      ],
+      "wikidata_qid": "Q5095988"
+    },
+    {
+      "id": "swindon-town-fc",
+      "name": "Swindon Town FC",
+      "country": "England",
+      "city": "Swindon › Wiltshire",
+      "stadium": "County Ground",
+      "aliases": [
+        "Swindon",
+        "Swindon Town",
+        "Swindon Town Football Club"
+      ],
+      "wikidata_qid": "Q19634"
+    },
+    {
+      "id": "chippenham-town-fc",
+      "name": "Chippenham Town FC",
+      "country": "England",
+      "city": "Chippenham › Wiltshire",
+      "founded": 1873,
+      "aliases": [
+        "Chippenham Town"
+      ],
+      "wikidata_qid": "Q5101644"
+    },
+    {
+      "id": "colchester-united-fc",
+      "name": "Colchester United FC",
+      "country": "England",
+      "city": "Colchester › Essex",
+      "stadium": "Colchester Community Stadium",
+      "aliases": [
+        "Colchester",
+        "Colchester United"
+      ],
+      "wikidata_qid": "Q19578"
+    },
+    {
+      "id": "southend-united-fc",
+      "name": "Southend United FC",
+      "country": "England",
+      "city": "Southend-on-Sea › Essex",
+      "stadium": "Roots Hall",
+      "aliases": [
+        "Southend",
+        "Southend United"
+      ],
+      "wikidata_qid": "Q48951"
+    },
+    {
+      "id": "braintree-town-fc",
+      "name": "Braintree Town FC",
+      "country": "England",
+      "city": "Braintree › Essex",
+      "aliases": [
+        "Braintree Town"
+      ],
+      "wikidata_qid": "Q18508"
+    },
+    {
+      "id": "grays-athletic-fc",
+      "name": "Grays Athletic FC",
+      "country": "England",
+      "city": "Grays › Essex",
+      "aliases": [
+        "Grays"
+      ],
+      "wikidata_qid": "Q625130"
+    },
+    {
+      "id": "canvey-island-fc",
+      "name": "Canvey Island FC",
+      "country": "England",
+      "city": "Canvey Island › Essex",
+      "aliases": [
+        "Canvey Island"
+      ],
+      "wikidata_qid": "Q2029340"
+    },
+    {
+      "id": "billericay-town-fc",
+      "name": "Billericay Town FC",
+      "country": "England",
+      "city": "Billericay › Essex",
+      "founded": 1880,
+      "aliases": [
+        "Billericay Town"
+      ],
+      "wikidata_qid": "Q4086727"
+    },
+    {
+      "id": "maldon-tiptree-fc",
+      "name": "Maldon & Tiptree FC",
+      "country": "England",
+      "city": "Maldon › Essex",
+      "founded": 1946,
+      "aliases": [
+        "Maldon & Tiptree"
+      ],
+      "wikidata_qid": "Q5212954"
+    },
+    {
+      "id": "lincoln-city-fc",
+      "name": "Lincoln City FC",
+      "country": "England",
+      "city": "Lincoln › Lincolnshire",
+      "aliases": [
+        "Lincoln",
+        "Lincoln City",
+        "Lincoln City Football Club"
+      ],
+      "wikidata_qid": "Q18519"
+    },
+    {
+      "id": "scunthorpe-united-fc",
+      "name": "Scunthorpe United FC",
+      "country": "England",
+      "city": "Scunthorpe › Lincolnshire",
+      "stadium": "Glanford Park",
+      "aliases": [
+        "Scunthorpe",
+        "Scunthorpe United",
+        "Scunthorpe & Lindsey United FC"
+      ],
+      "wikidata_qid": "Q19615"
+    },
+    {
+      "id": "boston-united-fc",
+      "name": "Boston United FC",
+      "country": "England",
+      "city": "Boston › Lincolnshire",
+      "aliases": [
+        "Boston",
+        "Boston United"
+      ],
+      "wikidata_qid": "Q894605"
+    },
+    {
+      "id": "gainsborough-trinity-fc",
+      "name": "Gainsborough Trinity FC",
+      "country": "England",
+      "aliases": [
+        "Gainsborough Trinity"
+      ],
+      "wikidata_qid": "Q1491327"
+    },
+    {
+      "id": "grimsby-town-fc",
+      "name": "Grimsby Town FC",
+      "country": "England",
+      "city": "Cleethorpes › North East Lincolnshire",
+      "aliases": [
+        "Grimsby",
+        "Grimsby Town"
+      ],
+      "wikidata_qid": "Q18515"
+    },
+    {
+      "id": "bristol-city-fc",
+      "name": "Bristol City FC",
+      "country": "England",
+      "city": "Bristol",
+      "stadium": "Ashton Gate",
+      "aliases": [
+        "Bristol City",
+        "Bristol City Football Club"
+      ],
+      "wikidata_qid": "Q19456"
+    },
+    {
+      "id": "bristol-rovers-fc",
+      "name": "Bristol Rovers FC",
+      "country": "England",
+      "city": "Bristol",
+      "stadium": "Memorial Stadium",
+      "aliases": [
+        "Bristol Rvs",
+        "Bristol Rovers",
+        "Bristol Rovers Football Club"
+      ],
+      "wikidata_qid": "Q48925"
+    },
+    {
+      "id": "tranmere-rovers-fc",
+      "name": "Tranmere Rovers FC",
+      "country": "England",
+      "city": "Birkenhead › Merseyside",
+      "founded": 1884,
+      "aliases": [
+        "Tranmere",
+        "Tranmere Rovers"
+      ],
+      "wikidata_qid": "Q19637"
+    },
+    {
+      "id": "southport-fc",
+      "name": "Southport FC",
+      "country": "England",
+      "city": "Southport › Merseyside",
+      "aliases": [
+        "Southport"
+      ],
+      "wikidata_qid": "Q18525"
+    },
+    {
+      "id": "new-brighton-tower-1898-1901-fc",
+      "name": "New Brighton Tower FC (1898-1901)",
+      "country": "England",
+      "city": "New Brighton › Merseyside",
+      "aliases": [
+        "New Brighton",
+        "New Brighton Tower"
+      ],
+      "wikidata_qid": "Q291833"
+    },
+    {
+      "id": "plymouth-argyle-fc",
+      "name": "Plymouth Argyle FC",
+      "country": "England",
+      "city": "Plymouth › Devon",
+      "stadium": "Home Park",
+      "aliases": [
+        "Plymouth",
+        "Plymouth Argyle",
+        "Plymouth Argyle Football Club"
+      ],
+      "wikidata_qid": "Q48947"
+    },
+    {
+      "id": "exeter-city-fc",
+      "name": "Exeter City FC",
+      "country": "England",
+      "city": "Exeter › Devon",
+      "stadium": "St James Park",
+      "aliases": [
+        "Exeter",
+        "Exeter City",
+        "Exeter City Football Club"
+      ],
+      "wikidata_qid": "Q48939"
+    },
+    {
+      "id": "torquay-united-fc",
+      "name": "Torquay United FC",
+      "country": "England",
+      "city": "Torquay › Devon",
+      "aliases": [
+        "Torquay",
+        "Torquay United"
+      ],
+      "wikidata_qid": "Q47965"
+    },
+    {
+      "id": "gillingham-fc",
+      "name": "Gillingham FC",
+      "country": "England",
+      "city": "Gillingham › Kent",
+      "stadium": "Priestfield Stadium",
+      "aliases": [
+        "Gillingham",
+        "FC Gillingham",
+        "Gillingham Football Club"
+      ],
+      "wikidata_qid": "Q48943"
+    },
+    {
+      "id": "maidstone-united-fc",
+      "name": "Maidstone United FC",
+      "country": "England",
+      "city": "Maidstone › Kent",
+      "aliases": [
+        "Maidstone",
+        "Maidstone United"
+      ],
+      "wikidata_qid": "Q1764590"
+    },
+    {
+      "id": "dartford-fc",
+      "name": "Dartford FC",
+      "country": "England",
+      "city": "Dartford › Kent",
+      "aliases": [
+        "Dartford"
+      ],
+      "wikidata_qid": "Q18510"
+    },
+    {
+      "id": "dover-athletic-fc",
+      "name": "Dover Athletic FC",
+      "country": "England",
+      "city": "Dover › Kent",
+      "aliases": [
+        "Dover Athletic"
+      ],
+      "wikidata_qid": "Q2658370"
+    },
+    {
+      "id": "ebbsfleet-united-fc",
+      "name": "Ebbsfleet United FC",
+      "country": "England",
+      "city": "Northfleet › Kent",
+      "aliases": [
+        "Ebbsfleet",
+        "Ebbsfleet United",
+        "Gravesend"
+      ],
+      "wikidata_qid": "Q18511"
+    },
+    {
+      "id": "luton-town-fc",
+      "name": "Luton Town FC",
+      "country": "England",
+      "city": "Luton › Bedfordshire",
+      "stadium": "Kenilworth Road",
+      "aliases": [
+        "Luton",
+        "Luton Town",
+        "Luton Town Football Club"
+      ],
+      "wikidata_qid": "Q18520"
+    },
+    {
+      "id": "milton-keynes-dons-fc",
+      "name": "Milton Keynes Dons FC",
+      "country": "England",
+      "city": "Milton Keynes › Buckinghamshire",
+      "stadium": "Stadium:mk",
+      "aliases": [
+        "Milton Keynes Dons",
+        "MK Dons",
+        "Milton Keynes Dons Football Club"
+      ],
+      "wikidata_qid": "Q248188"
+    },
+    {
+      "id": "wycombe-wanderers-fc",
+      "name": "Wycombe Wanderers FC",
+      "country": "England",
+      "city": "High Wycombe › Buckinghamshire",
+      "stadium": "Adams Park",
+      "aliases": [
+        "Wycombe",
+        "Wycombe Wanderers",
+        "Wycombe Wanderers Football Club"
+      ],
+      "wikidata_qid": "Q48953"
+    },
+    {
+      "id": "yeovil-town-fc",
+      "name": "Yeovil Town FC",
+      "country": "England",
+      "city": "Yeovil › Somerset",
+      "stadium": "Huish Park",
+      "aliases": [
+        "Yeovil",
+        "Yeovil Town"
+      ],
+      "wikidata_qid": "Q19651"
+    },
+    {
+      "id": "bath-city-fc",
+      "name": "Bath City FC",
+      "country": "England",
+      "city": "Bath › Somerset",
+      "aliases": [
+        "Bath City"
+      ],
+      "wikidata_qid": "Q368500"
+    },
+    {
+      "id": "weston-super-mare-afc-fc",
+      "name": "Weston-super-Mare AFC",
+      "country": "England",
+      "city": "Weston-super-Mare › Somerset",
+      "founded": 1948,
+      "aliases": [
+        "Weston-super-Mare"
+      ],
+      "wikidata_qid": "Q2343389"
+    },
+    {
+      "id": "forest-green-rovers-fc",
+      "name": "Forest Green Rovers FC",
+      "country": "England",
+      "city": "Nailsworth › Gloucestershire",
+      "aliases": [
+        "Forest Green",
+        "Forest Green Rovers"
+      ],
+      "wikidata_qid": "Q18512"
+    },
+    {
+      "id": "cheltenham-town-fc",
+      "name": "Cheltenham Town FC",
+      "country": "England",
+      "city": "Cheltenham › Gloucestershire",
+      "aliases": [
+        "Cheltenham",
+        "Cheltenham Town",
+        "Cheltenham Town Football Club"
+      ],
+      "wikidata_qid": "Q48932"
+    },
+    {
+      "id": "kidderminster-harriers-fc",
+      "name": "Kidderminster Harriers FC",
+      "country": "England",
+      "city": "Kidderminster › Worcestershire",
+      "aliases": [
+        "Kidderminster",
+        "Kidderminster Harriers"
+      ],
+      "wikidata_qid": "Q18518"
+    },
+    {
+      "id": "woking-fc",
+      "name": "Woking FC",
+      "country": "England",
+      "city": "Woking › Surrey",
+      "aliases": [
+        "Woking"
+      ],
+      "wikidata_qid": "Q18528"
+    },
+    {
+      "id": "metropolitan-police-fc",
+      "name": "Metropolitan Police FC",
+      "country": "England",
+      "founded": 1919,
+      "aliases": [
+        "Metropolitan Police"
+      ],
+      "wikidata_qid": "Q6400810"
+    },
+    {
+      "id": "dorking-wanderers-fc",
+      "name": "Dorking Wanderers FC",
+      "country": "England",
+      "city": "Dorking › Surrey",
+      "aliases": [
+        "Dorking Wanderers"
+      ],
+      "wikidata_qid": "Q5298045"
+    },
+    {
+      "id": "chesterfield-fc",
+      "name": "Chesterfield FC",
+      "country": "England",
+      "city": "Chesterfield › Derbyshire",
+      "stadium": "Proact Stadium",
+      "aliases": [
+        "Chesterfield",
+        "Chesterfield Town FC"
+      ],
+      "wikidata_qid": "Q48935"
+    },
+    {
+      "id": "alfreton-town-fc",
+      "name": "Alfreton Town FC",
+      "country": "England",
+      "city": "Alfreton › Derbyshire",
+      "aliases": [
+        "Alfreton Town"
+      ],
+      "wikidata_qid": "Q18506"
+    },
+    {
+      "id": "glossop-north-end-afc-fc",
+      "name": "Glossop North End AFC",
+      "country": "England",
+      "city": "Glossop › Derbyshire",
+      "aliases": [
+        "Glossop North End",
+        "Glossop North End FC",
+        "Glossop FC"
+      ]
+    },
+    {
+      "id": "carlisle-united-fc",
+      "name": "Carlisle United FC",
+      "country": "England",
+      "city": "Carlisle › Cumbria",
+      "stadium": "Brunton Park",
+      "aliases": [
+        "Carlisle",
+        "Carlisle United",
+        "Carlisle United Football Club"
+      ],
+      "wikidata_qid": "Q19575"
+    },
+    {
+      "id": "barrow-afc-fc",
+      "name": "Barrow AFC",
+      "country": "England",
+      "city": "Barrow-in-Furness › Cumbria",
+      "aliases": [
+        "Barrow",
+        "FC Barrow"
+      ],
+      "wikidata_qid": "Q18507"
+    },
+    {
+      "id": "workington-afc-fc",
+      "name": "Workington AFC",
+      "country": "England",
+      "city": "Workington › Cumbria",
+      "aliases": [
+        "Workington"
+      ],
+      "wikidata_qid": "Q555635"
+    },
+    {
+      "id": "northampton-town-fc",
+      "name": "Northampton Town FC",
+      "country": "England",
+      "city": "Northampton › Northamptonshire",
+      "stadium": "Sixfields Stadium",
+      "aliases": [
+        "Northampton",
+        "Northampton Town",
+        "Northampton Town Football Club"
+      ],
+      "wikidata_qid": "Q48945"
+    },
+    {
+      "id": "rushden-diamonds-1992-2011",
+      "name": "Rushden & Diamonds (1992-2011)",
+      "country": "England",
+      "city": "Rushden › Northamptonshire",
+      "aliases": [
+        "Rushden",
+        "Rushden & D",
+        "Rushden & Diamonds FC",
+        "Rushden & Diamonds Football Club"
+      ],
+      "wikidata_qid": "Q1138515"
+    },
+    {
+      "id": "afc-rushden-diamonds-fc",
+      "name": "AFC Rushden & Diamonds",
+      "country": "England",
+      "city": "Rushden › Northamptonshire",
+      "founded": 2011,
+      "wikidata_qid": "Q4651460"
+    },
+    {
+      "id": "kettering-town-fc",
+      "name": "Kettering Town FC",
+      "country": "England",
+      "city": "Kettering › Northamptonshire",
+      "aliases": [
+        "Kettering Town"
+      ],
+      "wikidata_qid": "Q1513377"
+    },
+    {
+      "id": "shrewsbury-town-fc",
+      "name": "Shrewsbury Town FC",
+      "country": "England",
+      "city": "Shrewsbury › Shropshire",
+      "stadium": "New Meadow",
+      "aliases": [
+        "Shrewsbury",
+        "Shrewsbury Town",
+        "Shrewsbury Town Football Club"
+      ],
+      "wikidata_qid": "Q19626"
+    },
+    {
+      "id": "telford-united-1872-2004-fc",
+      "name": "Telford United FC (1872-2004)",
+      "country": "England",
+      "city": "Telford › Shropshire",
+      "aliases": [
+        "Telford United"
+      ],
+      "wikidata_qid": "Q18505"
+    },
+    {
+      "id": "afc-telford-united-fc",
+      "name": "AFC Telford United",
+      "country": "England",
+      "city": "Telford › Shropshire",
+      "founded": 2004,
+      "wikidata_qid": "Q18505"
+    },
+    {
+      "id": "chester-fc",
+      "name": "Chester FC",
+      "country": "England",
+      "city": "Chester › Cheshire",
+      "aliases": [
+        "Chester"
+      ],
+      "wikidata_qid": "Q2041933"
+    },
+    {
+      "id": "crewe-alexandra-fc",
+      "name": "Crewe Alexandra FC",
+      "country": "England",
+      "city": "Crewe › Cheshire",
+      "stadium": "Gresty Road",
+      "aliases": [
+        "Crewe",
+        "Crewe Alexandra",
+        "FC Crewe Alexandra",
+        "Crewe Alexandra Football Club"
+      ],
+      "wikidata_qid": "Q19587"
+    },
+    {
+      "id": "macclesfield-town-fc",
+      "name": "Macclesfield Town FC",
+      "country": "England",
+      "city": "Macclesfield › Cheshire",
+      "aliases": [
+        "Macclesfield",
+        "Macclesfield Town"
+      ],
+      "wikidata_qid": "Q18521"
+    },
+    {
+      "id": "northwich-victoria-fc",
+      "name": "Northwich Victoria FC",
+      "country": "England",
+      "city": "Northwich › Cheshire",
+      "aliases": [
+        "Northwich",
+        "Northwich Victoria"
+      ],
+      "wikidata_qid": "Q18486"
+    },
+    {
+      "id": "nantwich-town-fc",
+      "name": "Nantwich Town FC",
+      "country": "England",
+      "city": "Nantwich › Cheshire",
+      "founded": 1884,
+      "aliases": [
+        "Nantwich Town"
+      ],
+      "wikidata_qid": "Q18300"
+    },
+    {
+      "id": "fleetwood-town-fc",
+      "name": "Fleetwood Town FC",
+      "country": "England",
+      "city": "Fleetwood › Lancashire",
+      "stadium": "Highbury Stadium",
+      "aliases": [
+        "Fleetwood Town",
+        "Fleetwood Town Football Club"
+      ],
+      "wikidata_qid": "Q48941"
+    },
+    {
+      "id": "accrington-stanley-fc",
+      "name": "Accrington Stanley FC",
+      "country": "England",
+      "city": "Accrington › Lancashire",
+      "stadium": "Crown Ground",
+      "aliases": [
+        "Accrington",
+        "Accrington Stanley",
+        "Accrington Stanley Football Club"
+      ],
+      "wikidata_qid": "Q48843"
+    },
+    {
+      "id": "accrington-1878-1896-fc",
+      "name": "Accrington FC (1878-1896)",
+      "country": "England",
+      "city": "Accrington › Lancashire",
+      "aliases": [
+        "Accrington F.C."
+      ]
+    },
+    {
+      "id": "morecambe-fc",
+      "name": "Morecambe FC",
+      "country": "England",
+      "city": "Morecambe › Lancashire",
+      "stadium": "Globe Arena",
+      "aliases": [
+        "Morecambe",
+        "FC Morecambe",
+        "Morecambe Football Club"
+      ],
+      "wikidata_qid": "Q48944"
+    },
+    {
+      "id": "chorley-fc",
+      "name": "Chorley FC",
+      "country": "England",
+      "city": "Chorley › Lancashire",
+      "aliases": [
+        "Chorley"
+      ],
+      "wikidata_qid": "Q18287"
+    },
+    {
+      "id": "hereford-2014-fc",
+      "name": "Hereford FC (2014-)",
+      "country": "England",
+      "city": "Hereford › Herefordshire",
+      "aliases": [
+        "Hereford"
+      ],
+      "wikidata_qid": "Q18516"
+    },
+    {
+      "id": "hereford-united-1924-2014-fc",
+      "name": "Hereford United FC (1924-2014)",
+      "country": "England",
+      "city": "Hereford › Herefordshire",
+      "aliases": [
+        "Hereford United"
+      ],
+      "wikidata_qid": "Q18516"
+    },
+    {
+      "id": "st-albans-city-fc",
+      "name": "St. Albans City FC",
+      "country": "England",
+      "city": "St. Albans  › Hertfordshire",
+      "aliases": [
+        "St. Albans"
+      ],
+      "wikidata_qid": "Q2585894"
+    },
+    {
+      "id": "boreham-wood-fc",
+      "name": "Boreham Wood FC",
+      "country": "England",
+      "city": "Borehamwood › Hertfordshire",
+      "aliases": [
+        "Boreham Wood"
+      ],
+      "wikidata_qid": "Q4094837"
+    },
+    {
+      "id": "stevenage-fc",
+      "name": "Stevenage FC",
+      "country": "England",
+      "city": "Stevenage   › Hertfordshire",
+      "stadium": "Broadhall Way",
+      "aliases": [
+        "Stevenage",
+        "Stevenage Borough",
+        "FC Stevenage",
+        "Stevenage Football Club"
+      ],
+      "wikidata_qid": "Q9426"
+    },
+    {
+      "id": "hartlepool-united-fc",
+      "name": "Hartlepool United FC",
+      "country": "England",
+      "city": "Hartlepool › Durham",
+      "stadium": "Victoria Park",
+      "aliases": [
+        "Hartlepool",
+        "Hartlepool United"
+      ],
+      "wikidata_qid": "Q19592"
+    },
+    {
+      "id": "darlington-fc",
+      "name": "Darlington FC",
+      "country": "England",
+      "city": "Darlington › Durham",
+      "aliases": [
+        "Darlington",
+        "FC Darlington"
+      ],
+      "wikidata_qid": "Q909189"
+    },
+    {
+      "id": "durham-city-afc-fc",
+      "name": "Durham City AFC",
+      "country": "England",
+      "city": "Durham › Durham",
+      "aliases": [
+        "Durham City"
+      ]
+    },
+    {
+      "id": "salisbury-city-1947-2014-fc",
+      "name": "Salisbury City FC (1947-2014)",
+      "country": "England",
+      "city": "Salisbury › Wiltshire",
+      "aliases": [
+        "Salisbury",
+        "Salisbury City"
+      ],
+      "wikidata_qid": "Q2118564"
+    },
+    {
+      "id": "salisbury-2015-fc",
+      "name": "Salisbury FC (2015-)",
+      "country": "England",
+      "city": "Salisbury › Wiltshire"
+    },
+    {
+      "id": "nuneaton-borough-fc",
+      "name": "Nuneaton Borough FC",
+      "country": "England",
+      "city": "Nuneaton › Warwickshire",
+      "aliases": [
+        "Nuneaton Town"
+      ],
+      "wikidata_qid": "Q18524"
+    },
+    {
+      "id": "berwick-rangers",
+      "name": "Berwick Rangers",
+      "country": "England",
+      "city": "Berwick-upon-Tweed",
+      "aliases": [
+        "Berwick"
+      ]
     }
   ]
 }

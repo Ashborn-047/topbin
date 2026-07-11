@@ -36,3 +36,7 @@ graphify-out/
 # Local planning and agents
 .agents/
 docs/
+
+# Local portable Node.js
+node-portable/
+node.zip
