@@ -12,7 +12,7 @@ const args = process.argv.slice(2);
 const country = args[0] || 'England';
 
 const defaultArchive = country.toLowerCase() === 'england' ? 'data/clubs/archive/europe/england/eng.clubs.txt' :
-                       country.toLowerCase() === 'spain' ? 'data/clubs/archive/europe/spain/esp.clubs.txt' :
+                       country.toLowerCase() === 'spain' ? 'data/clubs/archive/europe/spain/es.clubs.txt' :
                        country.toLowerCase() === 'italy' ? 'data/clubs/archive/europe/italy/it.clubs.txt' : '';
 
 const defaultDest = country.toLowerCase() === 'england' ? 'data/clubs/europe/england.json' :
@@ -47,6 +47,32 @@ function slugify(name) {
     .replace(/\b(fc|cf|sc|sl|fa|fk|club|de|futbol|soccer)\b/g, '')
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/(^-|-$)/g, '');
+}
+
+// Helper to match country descriptions in Wikidata
+function checkCountryMatch(desc, country) {
+  const descLower = desc.toLowerCase();
+  const countryLower = country.toLowerCase();
+  
+  if (descLower.includes(countryLower)) return true;
+  
+  if (countryLower === 'england') {
+    return descLower.includes('english') || descLower.includes('united kingdom') || descLower.includes('uk');
+  }
+  if (countryLower === 'spain') {
+    return descLower.includes('spanish');
+  }
+  if (countryLower === 'italy') {
+    return descLower.includes('italian');
+  }
+  if (countryLower === 'germany') {
+    return descLower.includes('german');
+  }
+  if (countryLower === 'france') {
+    return descLower.includes('french');
+  }
+  
+  return false;
 }
 
 /**
@@ -98,9 +124,7 @@ async function searchWikidata(clubName, country, aliases = []) {
                              desc.includes('football association');
           
           // Verify country context (e.g. England, English, United Kingdom, UK)
-          const isCountryMatch = country.toLowerCase() === 'england' ?
-            (desc.includes('england') || desc.includes('english') || desc.includes('united kingdom') || desc.includes('uk')) :
-            (desc.includes(country.toLowerCase()));
+          const isCountryMatch = checkCountryMatch(desc, country);
 
           if (isFootball && isCountryMatch) {
             matches.push({
@@ -121,7 +145,12 @@ async function searchWikidata(clubName, country, aliases = []) {
   }
 
   // Fallback to LLM candidates ONLY if direct searches yield no matches
-  if (matches.length === 0) {
+  const isReserveOrB = clubName.toLowerCase().includes(' b') ||
+                        clubName.toLowerCase().startsWith('ii) ') ||
+                        clubName.toLowerCase().startsWith('iii) ') ||
+                        clubName.toLowerCase().includes(' reserve');
+
+  if (matches.length === 0 && !isReserveOrB) {
     try {
       const llmCandidates = await getWikidataCandidates(clubName, country);
       if (Array.isArray(llmCandidates)) {
@@ -150,9 +179,7 @@ async function searchWikidata(clubName, country, aliases = []) {
                                    desc.includes('fußballclub') ||
                                    desc.includes('football association');
                 
-                const isCountryMatch = country.toLowerCase() === 'england' ?
-                  (desc.includes('england') || desc.includes('english') || desc.includes('united kingdom') || desc.includes('uk')) :
-                  (desc.includes(country.toLowerCase()));
+                const isCountryMatch = checkCountryMatch(desc, country);
 
                 if (isFootball && isCountryMatch) {
                   matches.push({
@@ -236,7 +263,7 @@ function parseClubLine(line) {
  * MAIN EXECUTION
  */
 async function run() {
-  console.log('⚽ Starting Ingestion Pilot: England Clubs');
+  console.log(`⚽ Starting Ingestion: ${country} Clubs`);
   console.log('==========================================');
 
   // Load existing clubs
@@ -346,7 +373,7 @@ async function run() {
     let finalClubData = {
       id,
       name: parsed.name,
-      country: 'England',
+      country: country,
       city: parsed.city || null,
       founded: parsed.founded || null,
       stadium: parsed.stadium || null,
@@ -357,7 +384,7 @@ async function run() {
     if (parsed.hasComplexComment) {
       console.log(`  🤖 Calling LLM to parse complex comments/discontinuities...`);
       try {
-        const llmResult = await extractClub(parsed.rawContext, 'England');
+        const llmResult = await extractClub(parsed.rawContext, country);
         if (llmResult) {
           if (llmResult.city && !finalClubData.city) finalClubData.city = llmResult.city;
           if (llmResult.founded && !finalClubData.founded) finalClubData.founded = llmResult.founded;
@@ -376,7 +403,7 @@ async function run() {
 
     // Resolve Wikidata QID
     console.log(`  🔍 Resolving Wikidata QID...`);
-    const qid = await searchWikidata(finalClubData.name, 'England', finalClubData.aliases);
+    const qid = await searchWikidata(finalClubData.name, country, finalClubData.aliases);
     if (qid) {
       console.log(`  Found Wikidata QID: ${qid}`);
       finalClubData.wikidata_qid = qid;
