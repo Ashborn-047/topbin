@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "LeagueSummary",
+  "description": "Schema for a season-by-season historic summary of a domestic league in the topbin database",
+  "type": "object",
+  "required": ["league_id", "seasons"],
+  "properties": {
+    "league_id": { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "Canonical lowercase hyphenated slug ID of the league" },
+    "seasons": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["season"],
+        "properties": {
+          "season": { "type": "string", "pattern": "^\\d{4}(-\\d{2})?$", "description": "Season year (e.g. 1888-89 or 2026)" },
+          "champion_ref": { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "Club slug of champion" },
+          "runner_up_ref": { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "Club slug of runner-up" },
+          "promoted_refs": {
+            "type": "array",
+            "items": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+            "description": "Clubs promoted to this league for the next season"
+          },
+          "relegated_refs": {
+            "type": "array",
+            "items": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+            "description": "Clubs relegated from this league at the end of the season"
+          },
+          "top_scorers": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["player_ref", "goals"],
+              "properties": {
+                "player_ref": { "type": "string", "pattern": "^[a-z0-9-]+(-19\\d{2}|-20\\d{2})?$", "description": "Player slug ID" },
+                "club_ref": { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "Club slug ID" },
+                "goals": { "type": "integer", "minimum": 1 }
+              }
+            },
+            "description": "Top goalscorers of the season"
+          }
+        }
+      }
+    }
+  }
+}

@@ -6,8 +6,29 @@ const { extractClub, getWikidataCandidates } = require('./lib/llm-extract');
 
 // Setup Paths
 const ROOT = path.join(__dirname, '..');
-const ARCHIVE_FILE = path.join(ROOT, 'data', 'clubs', 'archive', 'europe', 'england', 'eng.clubs.txt');
-const DEST_FILE = path.join(ROOT, 'data', 'clubs', 'europe', 'england.json');
+
+// Parse arguments: node scripts/ingest-clubs.js <country> [archiveRelativePath] [destRelativePath]
+const args = process.argv.slice(2);
+const country = args[0] || 'England';
+
+const defaultArchive = country.toLowerCase() === 'england' ? 'data/clubs/archive/europe/england/eng.clubs.txt' :
+                       country.toLowerCase() === 'spain' ? 'data/clubs/archive/europe/spain/esp.clubs.txt' :
+                       country.toLowerCase() === 'italy' ? 'data/clubs/archive/europe/italy/it.clubs.txt' : '';
+
+const defaultDest = country.toLowerCase() === 'england' ? 'data/clubs/europe/england.json' :
+                     country.toLowerCase() === 'spain' ? 'data/clubs/europe/spain.json' :
+                     country.toLowerCase() === 'italy' ? 'data/clubs/europe/italy.json' : '';
+
+const archiveRelPath = args[1] || defaultArchive;
+const destRelPath = args[2] || defaultDest;
+
+if (!archiveRelPath || !destRelPath) {
+  console.error(`Usage: node scripts/ingest-clubs.js <country> [archive_relative_path] [dest_relative_path]`);
+  process.exit(1);
+}
+
+const ARCHIVE_FILE = path.join(ROOT, archiveRelPath);
+const DEST_FILE = path.join(ROOT, destRelPath);
 const LOG_FILE = path.join(ROOT, 'scripts', 'ingestion-log.json');
 
 // Check source file exists

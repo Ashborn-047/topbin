@@ -20,6 +20,8 @@
     "colors": { "type": "array", "items": { "type": "string" }, "description": "Club colors" },
     "aliases": { "type": "array", "items": { "type": "string" }, "description": "Alternative names" },
     "website": { "type": ["string", "null"], "description": "Official website" },
+    "status": { "type": "string", "enum": ["active", "defunct", "merged"], "description": "Club status (active, defunct, or merged)" },
+    "successor_ref": { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "Optional reference slug of successor club if defunct/merged" },
     "discontinuities": {
       "type": "array",
       "items": {

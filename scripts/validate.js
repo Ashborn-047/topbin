@@ -23,6 +23,7 @@ const schemas = {
   stadium: JSON.parse(fs.readFileSync(path.join(SCHEMAS_DIR, 'stadium.schema.json'), 'utf8')),
   team: JSON.parse(fs.readFileSync(path.join(SCHEMAS_DIR, 'team.schema.json'), 'utf8')),
   roster: JSON.parse(fs.readFileSync(path.join(SCHEMAS_DIR, 'roster.schema.json'), 'utf8')),
+  leagueSummary: JSON.parse(fs.readFileSync(path.join(SCHEMAS_DIR, 'league-summary.schema.json'), 'utf8')),
 };
 
 // Add schemas to ajv
@@ -116,6 +117,15 @@ function getValidator(filePath) {
   if (relPath.startsWith('rosters/')) {
     // Roster files are direct matches to roster schema
     const validate = ajv.getSchema('roster');
+    return (data) => {
+      if (!validate(data)) return validate.errors;
+      return null;
+    };
+  }
+
+  if (relPath.startsWith('leagues/') && relPath.endsWith('summary.json')) {
+    // League summary files are direct matches to leagueSummary schema
+    const validate = ajv.getSchema('leagueSummary');
     return (data) => {
       if (!validate(data)) return validate.errors;
       return null;
