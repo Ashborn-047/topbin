@@ -19,9 +19,14 @@
       "aliases": [
         "Real",
         "Los Blancos",
-        "Los Merengues"
+        "Los Merengues",
+        "Real M.",
+        "R. Madrid",
+        "Real Madrid CF",
+        "Real Madrid Club de Fútbol"
       ],
-      "website": "https://www.realmadrid.com"
+      "website": "https://www.realmadrid.com",
+      "wikidata_qid": "Q8682"
     },
     {
       "id": "fc-barcelona",
@@ -41,9 +46,12 @@
       ],
       "aliases": [
         "Barça",
-        "Blaugrana"
+        "Blaugrana",
+        "Barcelona",
+        "Fútbol Club Barcelona"
       ],
-      "website": "https://www.fcbarcelona.com"
+      "website": "https://www.fcbarcelona.com",
+      "wikidata_qid": "Q7156"
     },
     {
       "id": "atletico-de-madrid",
@@ -63,9 +71,15 @@
       ],
       "aliases": [
         "Atleti",
-        "Los Colchoneros"
+        "Los Colchoneros",
+        "Atlético",
+        "Atl. Madrid",
+        "Atlético de Madrid",
+        "Club Atlético de Madrid",
+        "Ath Madrid [en]"
       ],
-      "website": "https://www.atleticodemadrid.com"
+      "website": "https://www.atleticodemadrid.com",
+      "wikidata_qid": "Q8701"
     },
     {
       "id": "sevilla-fc",
@@ -85,9 +99,1304 @@
       ],
       "aliases": [
         "Sevilla",
-        "Los Nervionenses"
+        "Los Nervionenses",
+        "Sevilla Fútbol Club",
+        "FC Sevilla"
       ],
-      "website": "https://www.sevillafc.es"
+      "website": "https://www.sevillafc.es",
+      "wikidata_qid": "Q10329"
+    },
+    {
+      "id": "ii-atletico-madrid-b",
+      "name": "ii) Atlético Madrid B",
+      "country": "Spain",
+      "aliases": [
+        "Ath Madrid B [en]"
+      ]
+    },
+    {
+      "id": "ii-real-madrid-b",
+      "name": "ii) Real Madrid B",
+      "country": "Spain",
+      "aliases": [
+        "Real Madrid CF B"
+      ]
+    },
+    {
+      "id": "getafe",
+      "name": "Getafe CF",
+      "country": "Spain",
+      "city": "Madrid",
+      "aliases": [
+        "Getafe",
+        "FC Getafe",
+        "Getafe Club de Fútbol"
+      ],
+      "wikidata_qid": "Q8806"
+    },
+    {
+      "id": "rayo-vallecano",
+      "name": "Rayo Vallecano",
+      "country": "Spain",
+      "city": "Madrid › Comunidad de Madrid",
+      "aliases": [
+        "Rayo",
+        "Vallecano",
+        "Rayo Vallecano de Madrid"
+      ],
+      "wikidata_qid": "Q10300"
+    },
+    {
+      "id": "ad-alcorcon",
+      "name": "AD Alcorcón",
+      "country": "Spain",
+      "city": "Alcorcón",
+      "aliases": [
+        "Alcorcón",
+        "Agrupación Deportiva Alcorcón",
+        "Alcorcón AD"
+      ],
+      "wikidata_qid": "Q10383"
+    },
+    {
+      "id": "fuenlabrada",
+      "name": "CF Fuenlabrada",
+      "country": "Spain",
+      "city": "Fuenlabrada",
+      "aliases": [
+        "Fuenlabrada",
+        "Club de Fútbol Fuenlabrada"
+      ],
+      "wikidata_qid": "Q108708"
+    },
+    {
+      "id": "rayo-majadahonda",
+      "name": "CF Rayo Majadahonda",
+      "country": "Spain",
+      "city": "Majadahonda",
+      "founded": 1976,
+      "aliases": [
+        "Rayo Majadahonda",
+        "Club de Fútbol Rayo Majadahonda",
+        "R. Majadahonda"
+      ],
+      "wikidata_qid": "Q2511257"
+    },
+    {
+      "id": "malaga",
+      "name": "Málaga CF",
+      "country": "Spain",
+      "city": "Málaga",
+      "aliases": [
+        "Málaga",
+        "Málaga Club de Fútbol",
+        "CF Málaga",
+        "FC Málaga"
+      ],
+      "wikidata_qid": "Q8857"
+    },
+    {
+      "id": "ii-malaga-b",
+      "name": "ii) Málaga CF B",
+      "country": "Spain",
+      "aliases": [
+        "Málaga B"
+      ]
+    },
+    {
+      "id": "ii-sevilla-b-fc",
+      "name": "ii) Sevilla FC B",
+      "country": "Spain",
+      "aliases": [
+        "Sevilla B",
+        "Sevilla Atlético"
+      ]
+    },
+    {
+      "id": "real-betis",
+      "name": "Real Betis",
+      "country": "Spain",
+      "city": "Sevilla",
+      "aliases": [
+        "Betis",
+        "Betis Sevilla",
+        "Real Betis Sevilla",
+        "Real Betis Balompié"
+      ],
+      "wikidata_qid": "Q8723"
+    },
+    {
+      "id": "algeciras",
+      "name": "Algeciras CF",
+      "country": "Spain",
+      "city": "Algeciras",
+      "aliases": [
+        "Algeciras"
+      ]
+    },
+    {
+      "id": "ud-almeria",
+      "name": "UD Almería",
+      "country": "Spain",
+      "city": "Almería",
+      "aliases": [
+        "Almería",
+        "Unión Deportiva Almería"
+      ],
+      "wikidata_qid": "Q2569964"
+    },
+    {
+      "id": "cadiz",
+      "name": "Cádiz CF",
+      "country": "Spain",
+      "city": "Cádiz",
+      "aliases": [
+        "Cádiz",
+        "Cádiz Club de Fútbol",
+        "FC Cádiz [de]"
+      ],
+      "wikidata_qid": "Q460448"
+    },
+    {
+      "id": "cordoba",
+      "name": "Córdoba CF",
+      "country": "Spain",
+      "city": "Córdoba",
+      "aliases": [
+        "Córdoba",
+        "Córdoba Club de Fútbol"
+      ],
+      "wikidata_qid": "Q10499"
+    },
+    {
+      "id": "ecija-balompie",
+      "name": "Écija Balompié",
+      "country": "Spain",
+      "city": "Écija",
+      "aliases": [
+        "Écija"
+      ],
+      "wikidata_qid": "Q273417"
+    },
+    {
+      "id": "real-jaen",
+      "name": "Real Jaén CF",
+      "country": "Spain",
+      "city": "Jaén",
+      "aliases": [
+        "Jaén",
+        "Real Jaén",
+        "Real Jaén Club de Fútbol"
+      ],
+      "wikidata_qid": "Q837183"
+    },
+    {
+      "id": "granada",
+      "name": "Granada CF",
+      "country": "Spain",
+      "city": "Granada",
+      "aliases": [
+        "Granada",
+        "Granada Club de Fútbol",
+        "FC Granada"
+      ],
+      "wikidata_qid": "Q8812"
+    },
+    {
+      "id": "granada-74",
+      "name": "Granada 74",
+      "country": "Spain",
+      "city": "Granada"
+    },
+    {
+      "id": "ii-barcelona-b-fc",
+      "name": "ii) FC Barcelona B",
+      "country": "Spain",
+      "aliases": [
+        "Barcelona B",
+        "Fútbol Club Barcelona B"
+      ],
+      "wikidata_qid": "Q7156"
+    },
+    {
+      "id": "rcd-espanyol",
+      "name": "RCD Espanyol",
+      "country": "Spain",
+      "city": "Barcelona",
+      "aliases": [
+        "Espanyol",
+        "Esp. Barcelona",
+        "Espan. Barcelona",
+        "Espanyol Barc.",
+        "Espanyol Barcelona",
+        "Real CD Espanyol",
+        "Real Club Deportivo Espanyol",
+        "Español",
+        "Real Club Deportivo Español",
+        "RCD Espanyol de Barcelona",
+        "Reial Club Deportiu Espanyol de Barcelona"
+      ],
+      "wikidata_qid": "Q592748"
+    },
+    {
+      "id": "ue-sant-andreu",
+      "name": "UE Sant Andreu",
+      "country": "Spain",
+      "city": "Barcelona",
+      "aliases": [
+        "Unió Esportiva Sant Andreu"
+      ]
+    },
+    {
+      "id": "gimnastic-tarragona",
+      "name": "Gimnàstic Tarragona",
+      "country": "Spain",
+      "city": "Tarragona",
+      "aliases": [
+        "Gimnàstic",
+        "Gimn. Tarragona"
+      ],
+      "wikidata_qid": "Q2629403"
+    },
+    {
+      "id": "girona-fc",
+      "name": "Girona FC",
+      "country": "Spain",
+      "city": "Gerona",
+      "aliases": [
+        "Girona",
+        "Girona Futbol Club",
+        "FC Girona"
+      ],
+      "wikidata_qid": "Q11945"
+    },
+    {
+      "id": "reus",
+      "name": "CF Reus",
+      "country": "Spain",
+      "city": "Reus",
+      "founded": 1909,
+      "aliases": [
+        "Reus Deportiu",
+        "CF Reus Deportiu",
+        "Club de Futbol Reus Deportiu"
+      ],
+      "wikidata_qid": "Q28403946"
+    },
+    {
+      "id": "lleida-esportiu",
+      "name": "Lleida Esportiu",
+      "country": "Spain",
+      "city": "Lleida",
+      "aliases": [
+        "Club Lleida Esportiu"
+      ]
+    },
+    {
+      "id": "ue-lleida-1939-2011",
+      "name": "UE Lleida (1939-2011)",
+      "country": "Spain",
+      "city": "Lleida",
+      "aliases": [
+        "Lleida",
+        "Lerida",
+        "Unió Esportiva Lleida"
+      ],
+      "wikidata_qid": "Q837218"
+    },
+    {
+      "id": "rcd-la-coruna",
+      "name": "RCD La Coruña",
+      "country": "Spain",
+      "city": "La Coruña",
+      "aliases": [
+        "La Coruña",
+        "RC Deportivo La Coruña",
+        "RC Deportivo de La Coruña",
+        "Real Club Deportivo La Coruña",
+        "Deportivo",
+        "Deportivo La Coruña",
+        "Deportivo de La Coruña",
+        "Deportivo da Coruña",
+        "Dep. La Coruña"
+      ],
+      "wikidata_qid": "Q8760"
+    },
+    {
+      "id": "rc-celta-vigo",
+      "name": "RC Celta Vigo",
+      "country": "Spain",
+      "city": "Vigo",
+      "aliases": [
+        "Celta",
+        "Celta Vigo",
+        "R.C. Celta",
+        "Real Club Celta Vigo",
+        "Real Club Celta de Vigo",
+        "Celta de Vigo",
+        "RC Celta de Vigo"
+      ],
+      "wikidata_qid": "Q8749"
+    },
+    {
+      "id": "sd-compostela",
+      "name": "SD Compostela",
+      "country": "Spain",
+      "city": "Santiago de Compostela",
+      "aliases": [
+        "Compostela"
+      ]
+    },
+    {
+      "id": "racing-ferrol",
+      "name": "Racing Ferrol",
+      "country": "Spain",
+      "city": "Ferrol",
+      "aliases": [
+        "Ferrol",
+        "Racing de Ferrol",
+        "Racing Club de Ferrol"
+      ],
+      "wikidata_qid": "Q843396"
+    },
+    {
+      "id": "valencia",
+      "name": "Valencia CF",
+      "country": "Spain",
+      "city": "Valencia",
+      "aliases": [
+        "Valencia",
+        "Valencia Club de Fútbol",
+        "FC Valencia",
+        "CF Valencia"
+      ],
+      "wikidata_qid": "Q10333"
+    },
+    {
+      "id": "levante-ud",
+      "name": "Levante UD",
+      "country": "Spain",
+      "city": "Valencia",
+      "aliases": [
+        "Levante",
+        "UD Levante",
+        "Levante Unión Deportiva"
+      ],
+      "wikidata_qid": "Q8823"
+    },
+    {
+      "id": "alicante",
+      "name": "Alicante CF",
+      "country": "Spain",
+      "city": "Alicante",
+      "aliases": [
+        "Alicante"
+      ],
+      "wikidata_qid": "Q527487"
+    },
+    {
+      "id": "hercules",
+      "name": "Hércules CF",
+      "country": "Spain",
+      "city": "Alicante",
+      "aliases": [
+        "Hércules",
+        "Hércules de Alicante Club de Fútbol"
+      ],
+      "wikidata_qid": "Q11963"
+    },
+    {
+      "id": "cd-alcoyano",
+      "name": "CD Alcoyano",
+      "country": "Spain",
+      "city": "Alcoy",
+      "aliases": [
+        "Alcoyano"
+      ],
+      "wikidata_qid": "Q837238"
+    },
+    {
+      "id": "elche",
+      "name": "Elche CF",
+      "country": "Spain",
+      "city": "Elche",
+      "aliases": [
+        "Elche",
+        "Elche Club de Fútbol",
+        "FC Elche [de]"
+      ],
+      "wikidata_qid": "Q10512"
+    },
+    {
+      "id": "cd-castellon",
+      "name": "CD Castellón",
+      "country": "Spain",
+      "city": "Castellón de la Plana",
+      "aliases": [
+        "Castellón",
+        "Club Deportivo Castellón"
+      ],
+      "wikidata_qid": "Q743557"
+    },
+    {
+      "id": "villarreal",
+      "name": "Villarreal CF",
+      "country": "Spain",
+      "city": "Villarreal",
+      "aliases": [
+        "Villarreal",
+        "FC Villarreal",
+        "Villarreal Club de Fútbol",
+        "Villareal"
+      ],
+      "wikidata_qid": "Q12297"
+    },
+    {
+      "id": "ii-villarreal-b",
+      "name": "ii) Villarreal CF B",
+      "country": "Spain",
+      "aliases": [
+        "Villarreal B",
+        "CF Villarreal B"
+      ],
+      "wikidata_qid": "Q1094113"
+    },
+    {
+      "id": "cd-eldense",
+      "name": "CD Eldense",
+      "country": "Spain",
+      "city": "Elda",
+      "founded": 1921,
+      "aliases": [
+        "Club Deportivo Eldense",
+        "Eldense"
+      ],
+      "wikidata_qid": "Q600232"
+    },
+    {
+      "id": "real-sociedad",
+      "name": "Real Sociedad",
+      "country": "Spain",
+      "city": "San Sebastián",
+      "aliases": [
+        "Sociedad",
+        "R. Sociedad",
+        "R. S. San Sebastián",
+        "S. Sebastián",
+        "Real Sociedad San Sebastián",
+        "Real Sociedad de Fútbol"
+      ],
+      "wikidata_qid": "Q10315"
+    },
+    {
+      "id": "ii-real-sociedad-b",
+      "name": "ii) Real Sociedad B",
+      "country": "Spain"
+    },
+    {
+      "id": "deportivo-alaves",
+      "name": "Deportivo Alavés",
+      "country": "Spain",
+      "city": "Vitoria",
+      "aliases": [
+        "Alavés",
+        "CD Alavés"
+      ],
+      "wikidata_qid": "Q223620"
+    },
+    {
+      "id": "sd-eibar",
+      "name": "SD Eibar",
+      "country": "Spain",
+      "city": "Eibar",
+      "aliases": [
+        "Eibar",
+        "Sociedad Deportiva Eibar"
+      ],
+      "wikidata_qid": "Q770740"
+    },
+    {
+      "id": "athletic-bilbao",
+      "name": "Athletic Club Bilbao",
+      "country": "Spain",
+      "city": "Bilbao",
+      "aliases": [
+        "Athletic",
+        "Athletic Club",
+        "Ath. Bilbao",
+        "Athl. Bilbao",
+        "Athletic Bilbao",
+        "Athletic Club de Bilbao"
+      ],
+      "wikidata_qid": "Q8687"
+    },
+    {
+      "id": "ii-athletic-bilbao-b",
+      "name": "ii) Athletic Club Bilbao B",
+      "country": "Spain",
+      "aliases": [
+        "Ath. Bilbao B",
+        "Athletic Bilbao B"
+      ]
+    },
+    {
+      "id": "sporting-gijon",
+      "name": "Sporting Gijón",
+      "country": "Spain",
+      "city": "Gijón",
+      "aliases": [
+        "Sporting",
+        "Sp Gijón",
+        "Real Sporting",
+        "Real Sporting de Gijón",
+        "Sporting de Gijón"
+      ],
+      "wikidata_qid": "Q12278"
+    },
+    {
+      "id": "albacete-balompie",
+      "name": "Albacete Balompié",
+      "country": "Spain",
+      "city": "Albacete",
+      "aliases": [
+        "Albacete"
+      ],
+      "wikidata_qid": "Q576285"
+    },
+    {
+      "id": "cd-guadalajara",
+      "name": "CD Guadalajara",
+      "country": "Spain",
+      "city": "Guadalajara",
+      "aliases": [
+        "Guadalajara"
+      ],
+      "wikidata_qid": "Q11955"
+    },
+    {
+      "id": "cd-badajoz",
+      "name": "CD Badajoz",
+      "country": "Spain",
+      "city": "Badajoz",
+      "aliases": [
+        "Badajoz"
+      ]
+    },
+    {
+      "id": "extremadura-2010",
+      "name": "CF Extremadura (-2010)",
+      "country": "Spain",
+      "city": "Almendralejo",
+      "aliases": [
+        "Extremadura"
+      ]
+    },
+    {
+      "id": "extremadura-ud",
+      "name": "Extremadura UD",
+      "country": "Spain",
+      "city": "Almendralejo",
+      "aliases": [
+        "Extremadura",
+        "Extremadura Unión Deportiva",
+        "UD Extremadura"
+      ]
+    },
+    {
+      "id": "cp-merida",
+      "name": "CP Mérida",
+      "country": "Spain",
+      "city": "Mérida",
+      "aliases": [
+        "Mérida"
+      ]
+    },
+    {
+      "id": "merida-ad",
+      "name": "Mérida AD",
+      "country": "Spain",
+      "city": "Mérida",
+      "founded": 2013,
+      "aliases": [
+        "Mérida Asociación Deportiva"
+      ],
+      "wikidata_qid": "Q5726133"
+    },
+    {
+      "id": "burgos",
+      "name": "Burgos CF",
+      "country": "Spain",
+      "city": "Burgos",
+      "aliases": [
+        "Burgos",
+        "Burgos Club de Fútbol"
+      ],
+      "wikidata_qid": "Q19874383"
+    },
+    {
+      "id": "cd-mirandes",
+      "name": "CD Mirandés",
+      "country": "Spain",
+      "city": "Miranda de Ebro",
+      "aliases": [
+        "Mirandés",
+        "Club Deportivo Mirandés"
+      ],
+      "wikidata_qid": "Q11997"
+    },
+    {
+      "id": "real-murcia",
+      "name": "Real Murcia CF",
+      "country": "Spain",
+      "city": "Murcia",
+      "aliases": [
+        "Murcia",
+        "Real Murcia",
+        "Real Murcia Club de Fútbol"
+      ],
+      "wikidata_qid": "Q12230"
+    },
+    {
+      "id": "ucam-murcia",
+      "name": "UCAM Murcia",
+      "country": "Spain",
+      "city": "Murcia",
+      "founded": 1999,
+      "aliases": [
+        "UCAM Murcia CF",
+        "Universidad Católica de Murcia Club de Fútbol"
+      ],
+      "wikidata_qid": "Q32444"
+    },
+    {
+      "id": "ciudad-murcia",
+      "name": "CF Ciudad de Murcia",
+      "country": "Spain",
+      "city": "Murcia",
+      "aliases": [
+        "Ciudad de Murcia"
+      ],
+      "wikidata_qid": "Q1195376"
+    },
+    {
+      "id": "cartagena-fc",
+      "name": "FC Cartagena",
+      "country": "Spain",
+      "city": "Cartagena",
+      "aliases": [
+        "Cartagena",
+        "Fútbol Club Cartagena"
+      ],
+      "wikidata_qid": "Q611653"
+    },
+    {
+      "id": "real-zaragoza",
+      "name": "Real Zaragoza",
+      "country": "Spain",
+      "city": "Zaragoza",
+      "aliases": [
+        "Zaragoza",
+        "Real Saragossa [de]"
+      ],
+      "wikidata_qid": "Q10308"
+    },
+    {
+      "id": "sd-huesca",
+      "name": "SD Huesca",
+      "country": "Spain",
+      "city": "Huesca",
+      "aliases": [
+        "Huesca",
+        "Sociedad Deportiva Huesca"
+      ],
+      "wikidata_qid": "Q11971"
+    },
+    {
+      "id": "ud-las-palmas",
+      "name": "UD Las Palmas",
+      "country": "Spain",
+      "city": "Las Palmas",
+      "aliases": [
+        "Las Palmas",
+        "Unión Deportiva Las Palmas",
+        "Las Palmas UD"
+      ],
+      "wikidata_qid": "Q11979"
+    },
+    {
+      "id": "universidad-las-palmas",
+      "name": "Universidad Las Palmas",
+      "country": "Spain",
+      "city": "Las Palmas",
+      "aliases": [
+        "U.Las Palmas"
+      ]
+    },
+    {
+      "id": "rcd-mallorca",
+      "name": "RCD Mallorca",
+      "country": "Spain",
+      "city": "Palma de Mallorca",
+      "aliases": [
+        "Mallorca",
+        "Real CD Mallorca",
+        "Real Club Deportivo Mallorca",
+        "Real Mallorca"
+      ],
+      "wikidata_qid": "Q8835"
+    },
+    {
+      "id": "ii-rcd-mallorca-b",
+      "name": "ii) RCD Mallorca B",
+      "country": "Spain",
+      "aliases": [
+        "Mallorca B"
+      ]
+    },
+    {
+      "id": "cd-atletico-baleares",
+      "name": "CD Atlético Baleares",
+      "country": "Spain",
+      "city": "Palma de Mallorca",
+      "aliases": [
+        "Atlético Baleares",
+        "Club Deportivo Atlético Baleares"
+      ],
+      "wikidata_qid": "Q855199"
+    },
+    {
+      "id": "cd-tenerife",
+      "name": "CD Tenerife",
+      "country": "Spain",
+      "city": "Santa Cruz de Tenerife",
+      "aliases": [
+        "Tenerife",
+        "Club Deportivo Tenerife",
+        "Teneriffa CD [de]",
+        "CD Teneriffa [de]"
+      ],
+      "wikidata_qid": "Q134436494"
+    },
+    {
+      "id": "ca-osasuna",
+      "name": "CA Osasuna",
+      "country": "Spain",
+      "city": "Pamplona",
+      "aliases": [
+        "Osasuna",
+        "At. Osasuna",
+        "Club Atlético Osasuna"
+      ],
+      "wikidata_qid": "Q10286"
+    },
+    {
+      "id": "cd-leganes",
+      "name": "CD Leganés",
+      "country": "Spain",
+      "aliases": [
+        "Leganés",
+        "Club Deportivo Leganés"
+      ],
+      "wikidata_qid": "Q856119"
+    },
+    {
+      "id": "cultural-leonesa",
+      "name": "Cultural Leonesa",
+      "country": "Spain",
+      "city": "León",
+      "founded": 1923,
+      "aliases": [
+        "Leonesa",
+        "Cultural y Deportiva Leonesa",
+        "CD Leonesa"
+      ],
+      "wikidata_qid": "Q582342"
+    },
+    {
+      "id": "ue-llagostera",
+      "name": "UE Llagostera",
+      "country": "Spain",
+      "aliases": [
+        "Llagostera"
+      ],
+      "wikidata_qid": "Q2504228"
+    },
+    {
+      "id": "cd-logrones",
+      "name": "CD Logroñés",
+      "country": "Spain",
+      "city": "Logroño",
+      "aliases": [
+        "Logroñés"
+      ],
+      "wikidata_qid": "Q847105"
+    },
+    {
+      "id": "ud-logrones",
+      "name": "UD Logroñés",
+      "country": "Spain",
+      "city": "Logroño",
+      "aliases": [
+        "Unión Deportiva Logroñés"
+      ],
+      "wikidata_qid": "Q61862317"
+    },
+    {
+      "id": "sd-logrones",
+      "name": "SD Logroñés",
+      "country": "Spain",
+      "city": "Logroño",
+      "aliases": [
+        "Sociedad Deportiva Logroñés"
+      ],
+      "wikidata_qid": "Q847105"
+    },
+    {
+      "id": "lorca-fc",
+      "name": "Lorca FC",
+      "country": "Spain",
+      "aliases": [
+        "Lorca"
+      ],
+      "wikidata_qid": "Q6463150"
+    },
+    {
+      "id": "cd-lugo",
+      "name": "CD Lugo",
+      "country": "Spain",
+      "aliases": [
+        "Lugo",
+        "Club Deportivo Lugo"
+      ],
+      "wikidata_qid": "Q11984"
+    },
+    {
+      "id": "cd-numancia",
+      "name": "CD Numancia",
+      "country": "Spain",
+      "aliases": [
+        "Numancia",
+        "Club Deportivo Numancia de Soria",
+        "Numancia CD"
+      ],
+      "wikidata_qid": "Q12158"
+    },
+    {
+      "id": "cd-ourense",
+      "name": "CD Ourense",
+      "country": "Spain",
+      "aliases": [
+        "Ourense",
+        "Orense"
+      ],
+      "wikidata_qid": "Q856137"
+    },
+    {
+      "id": "real-oviedo",
+      "name": "Real Oviedo",
+      "country": "Spain",
+      "aliases": [
+        "Oviedo"
+      ],
+      "wikidata_qid": "Q3331395"
+    },
+    {
+      "id": "polideportivo-ejido",
+      "name": "Polideportivo Ejido",
+      "country": "Spain",
+      "aliases": [
+        "Poli Ejido"
+      ]
+    },
+    {
+      "id": "sd-ponferradina",
+      "name": "SD Ponferradina",
+      "country": "Spain",
+      "aliases": [
+        "Ponferradina",
+        "Sociedad Deportiva Ponferradina",
+        "Ponferradina SD"
+      ],
+      "wikidata_qid": "Q12168"
+    },
+    {
+      "id": "pontevedra",
+      "name": "Pontevedra CF",
+      "country": "Spain",
+      "aliases": [
+        "Pontevedra"
+      ],
+      "wikidata_qid": "Q2050822"
+    },
+    {
+      "id": "real-union",
+      "name": "Real Unión",
+      "country": "Spain",
+      "wikidata_qid": "Q726810"
+    },
+    {
+      "id": "recreativo-huelva",
+      "name": "Recreativo Huelva",
+      "country": "Spain",
+      "aliases": [
+        "Recreativo",
+        "RC Recreativo de Huelva",
+        "Real Club Recreativo de Huelva"
+      ],
+      "wikidata_qid": "Q12249"
+    },
+    {
+      "id": "ce-sabadell",
+      "name": "CE Sabadell",
+      "country": "Spain",
+      "aliases": [
+        "Sabadell",
+        "CE Sabadell FC",
+        "Centre d'Esports Sabadell Futbol Club"
+      ],
+      "wikidata_qid": "Q12260"
+    },
+    {
+      "id": "ud-salamanca",
+      "name": "UD Salamanca",
+      "country": "Spain",
+      "aliases": [
+        "Salamanca"
+      ],
+      "wikidata_qid": "Q697353"
+    },
+    {
+      "id": "real-racing-santander",
+      "name": "Real Racing Santander",
+      "country": "Spain",
+      "city": "Santander",
+      "founded": 1913,
+      "aliases": [
+        "Santander",
+        "Racing Santander",
+        "Real Racing Club de Santander",
+        "Real Racing Club",
+        "Racing"
+      ],
+      "wikidata_qid": "Q12236"
+    },
+    {
+      "id": "terrassa-fc",
+      "name": "Terrassa FC",
+      "country": "Spain",
+      "aliases": [
+        "Terrassa"
+      ],
+      "wikidata_qid": "Q576521"
+    },
+    {
+      "id": "cd-toledo",
+      "name": "CD Toledo",
+      "country": "Spain",
+      "aliases": [
+        "Toledo"
+      ]
+    },
+    {
+      "id": "real-valladolid",
+      "name": "Real Valladolid CF",
+      "country": "Spain",
+      "aliases": [
+        "Valladolid",
+        "Real Valladolid",
+        "R. Valladolid C.F.",
+        "Real Valladolid Club de Fútbol"
+      ],
+      "wikidata_qid": "Q10319"
+    },
+    {
+      "id": "ud-vecindario",
+      "name": "UD Vecindario",
+      "country": "Spain",
+      "aliases": [
+        "Vecindario"
+      ]
+    },
+    {
+      "id": "xerez-cd",
+      "name": "Xerez CD",
+      "country": "Spain",
+      "aliases": [
+        "Xerez",
+        "Deportivo Xerez"
+      ],
+      "wikidata_qid": "Q12308"
+    },
+    {
+      "id": "real-madrid-castilla",
+      "name": "Real Madrid Castilla",
+      "country": "Spain",
+      "aliases": [
+        "Castilla",
+        "Real Madrid Castilla Club de Fútbol"
+      ]
+    },
+    {
+      "id": "marino-luanco",
+      "name": "Club Marino Luanco",
+      "country": "Spain",
+      "city": "Luanco",
+      "aliases": [
+        "Marino Luanco"
+      ]
+    },
+    {
+      "id": "illueca",
+      "name": "CF Illueca",
+      "country": "Spain",
+      "city": "Illueca",
+      "aliases": [
+        "Club de Fútbol Illueca",
+        "Illueca CF"
+      ],
+      "wikidata_qid": "Q13048793"
+    },
+    {
+      "id": "ud-socuellamos",
+      "name": "UD Socuéllamos",
+      "country": "Spain",
+      "city": "Socuéllamos",
+      "aliases": [
+        "UD Socuéllamos CF",
+        "Unión Deportiva Socuéllamos"
+      ],
+      "wikidata_qid": "Q7864294"
+    },
+    {
+      "id": "um-escobedo",
+      "name": "UM Escobedo",
+      "country": "Spain",
+      "city": "Escobedo",
+      "aliases": [
+        "Unión Montañesa Escobedo"
+      ],
+      "wikidata_qid": "Q943938"
+    },
+    {
+      "id": "gimnastica-segoviana",
+      "name": "Gimnástica Segoviana",
+      "country": "Spain",
+      "city": "Segoviana",
+      "aliases": [
+        "Segoviana",
+        "Gimnástica Segoviana CF",
+        "Gimnástica Segoviana Club de Fútbol"
+      ],
+      "wikidata_qid": "Q2638095"
+    },
+    {
+      "id": "zamora",
+      "name": "Zamora CF",
+      "country": "Spain",
+      "city": "Zamora",
+      "aliases": [
+        "Zamora Club de Fútbol"
+      ]
+    },
+    {
+      "id": "comillas",
+      "name": "Comillas CF",
+      "country": "Spain",
+      "city": "Comillas",
+      "wikidata_qid": "Q96611750"
+    },
+    {
+      "id": "cd-el-alamo",
+      "name": "CD El Álamo",
+      "country": "Spain",
+      "city": "El Álamo",
+      "aliases": [
+        "Club Deportivo El Álamo"
+      ],
+      "wikidata_qid": "Q5010075"
+    },
+    {
+      "id": "el-palmar",
+      "name": "El Palmar CF",
+      "country": "Spain",
+      "city": "El Palmar",
+      "aliases": [
+        "El Palmar Club de Fútbol-Estrella Grana",
+        "EG El Palmar CF"
+      ],
+      "wikidata_qid": "Q55610647"
+    },
+    {
+      "id": "bergantinos-fc",
+      "name": "Bergantiños FC",
+      "country": "Spain",
+      "city": "Carballo",
+      "aliases": [
+        "Bergantiños Fútbol Club",
+        "Bergantiños CF"
+      ],
+      "wikidata_qid": "Q3325336"
+    },
+    {
+      "id": "tolosa",
+      "name": "Tolosa CF",
+      "country": "Spain",
+      "city": "Tolosa",
+      "aliases": [
+        "Tolosa Club de Fútbol"
+      ]
+    },
+    {
+      "id": "badalona",
+      "name": "CF Badalona",
+      "country": "Spain",
+      "city": "Badalona",
+      "aliases": [
+        "Club de Fútbol Badalona"
+      ],
+      "wikidata_qid": "Q2504228"
+    },
+    {
+      "id": "ca-antoniano",
+      "name": "CA Antoniano",
+      "country": "Spain",
+      "city": "Lebrija",
+      "aliases": [
+        "Atlético Antoniano",
+        "Club Atlético Antoniano"
+      ]
+    },
+    {
+      "id": "cd-pena-azagresa",
+      "name": "CD Peña Azagresa",
+      "country": "Spain",
+      "city": "Azagra",
+      "aliases": [
+        "Club Deportivo Peña Azagresa"
+      ],
+      "wikidata_qid": "Q5010114"
+    },
+    {
+      "id": "cd-becerril",
+      "name": "CD Becerril",
+      "country": "Spain",
+      "city": "Becerril de Campos",
+      "aliases": [
+        "Club Deportivo Becerril"
+      ],
+      "wikidata_qid": "Q5010042"
+    },
+    {
+      "id": "ud-melilla",
+      "name": "UD Melilla",
+      "country": "Spain",
+      "city": "Melilla",
+      "aliases": [
+        "Union Deportiva Melilla",
+        "Melilla UD"
+      ],
+      "wikidata_qid": "Q680336"
+    },
+    {
+      "id": "sd-amorebieta",
+      "name": "SD Amorebieta",
+      "country": "Spain",
+      "city": "Amorebieta-Etxano",
+      "aliases": [
+        "Amorebieta",
+        "Sociedad Deportiva Amorebieta"
+      ]
+    },
+    {
+      "id": "ud-ibiza",
+      "name": "UD Ibiza",
+      "country": "Spain",
+      "aliases": [
+        "Ibiza",
+        "Unión Deportiva Ibiza"
+      ],
+      "wikidata_qid": "Q115803824"
+    },
+    {
+      "id": "cd-ebro",
+      "name": "CD Ebro",
+      "country": "Spain",
+      "city": "Zaragoza",
+      "aliases": [
+        "Club Deportivo Ebro"
+      ]
+    },
+    {
+      "id": "villanovense",
+      "name": "CF Villanovense",
+      "country": "Spain",
+      "city": "Villanueva de la Serena",
+      "aliases": [
+        "Club de Fútbol Villanovense"
+      ]
+    },
+    {
+      "id": "union-mutilvera",
+      "name": "Union Mutilvera",
+      "country": "Spain",
+      "aliases": [
+        "Unión Deportiva Mutilvera"
+      ],
+      "wikidata_qid": "Q7864287"
+    },
+    {
+      "id": "cd-calahorra",
+      "name": "CD Calahorra",
+      "country": "Spain",
+      "city": "Calahorra",
+      "aliases": [
+        "Club Deportivo Calahorra"
+      ],
+      "wikidata_qid": "Q109838280"
+    },
+    {
+      "id": "lorca-2003-2022-fc",
+      "name": "Lorca FC (2003-2022)",
+      "country": "Spain",
+      "city": "Lorca",
+      "aliases": [
+        "Lorca Fútbol Club",
+        "La Hoya Lorca CF",
+        "La Hoya Deportiva Club de Fútbol"
+      ],
+      "wikidata_qid": "Q6463150"
+    },
+    {
+      "id": "lorca-deportiva",
+      "name": "CF Lorca Deportiva",
+      "country": "Spain",
+      "city": "Lorca",
+      "founded": 2012,
+      "aliases": [
+        "Club de Fútbol Lorca Deportiva",
+        "Lorca Deportiva"
+      ],
+      "wikidata_qid": "Q18126658"
+    },
+    {
+      "id": "ontinyent-1947-2019",
+      "name": "Ontinyent CF (1947-2019)",
+      "country": "Spain",
+      "city": "Ontinyent",
+      "aliases": [
+        "Ontinyent Club de Fútbol"
+      ]
+    },
+    {
+      "id": "ontinyent-1931",
+      "name": "Ontinyent 1931 CF",
+      "country": "Spain",
+      "city": "Ontinyent",
+      "founded": 2019,
+      "aliases": [
+        "Ontinyent 1931 Club de Futbol"
+      ],
+      "wikidata_qid": "Q97199141"
     }
   ]
 }
