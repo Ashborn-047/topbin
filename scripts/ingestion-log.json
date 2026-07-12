@@ -15,6 +15,22 @@
       "records_added": 0,
       "records_updated": 203,
       "status": "success"
+    },
+    {
+      "timestamp": "2026-07-11T16:14:19.429Z",
+      "script": "ingest-clubs.js",
+      "target_file": "data/clubs/archive/europe/england/eng.clubs.txt",
+      "records_added": 195,
+      "records_updated": 8,
+      "status": "success"
+    },
+    {
+      "timestamp": "2026-07-12T15:30:06.725Z",
+      "script": "ingest-clubs.js",
+      "target_file": "data/clubs/archive/europe/england/eng.clubs.txt",
+      "records_added": 0,
+      "records_updated": 203,
+      "status": "success"
     }
   ]
 }

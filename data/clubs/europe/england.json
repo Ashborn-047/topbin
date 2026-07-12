@@ -587,7 +587,8 @@
       "city": "Bootle › Lancashire",
       "aliases": [
         "Bootle"
-      ]
+      ],
+      "wikidata_qid": "Q1917556"
     },
     {
       "id": "nelson-fc",
@@ -678,7 +679,8 @@
       "aliases": [
         "Bury",
         "FC Bury"
-      ]
+      ],
+      "wikidata_qid": "Q139761422"
     },
     {
       "id": "rochdale-afc-fc",
