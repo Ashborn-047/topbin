@@ -19,9 +19,14 @@
       "aliases": [
         "Juve",
         "La Vecchia Signora",
-        "Bianconeri"
+        "Bianconeri",
+        "Juventus Torino",
+        "Juventus FC",
+        "Juventus Football Club",
+        "Juventus Turin [de]"
       ],
-      "website": "https://www.juventus.com"
+      "website": "https://www.juventus.com",
+      "wikidata_qid": "Q1422"
     },
     {
       "id": "ac-milan",
@@ -42,9 +47,12 @@
       "aliases": [
         "Milan",
         "Rossoneri",
-        "Il Diavolo"
+        "Il Diavolo",
+        "Associazione Calcio Milan",
+        "AC Mailand [de]"
       ],
-      "website": "https://www.acmilan.com"
+      "website": "https://www.acmilan.com",
+      "wikidata_qid": "Q1543"
     },
     {
       "id": "fc-internazionale-milano",
@@ -65,9 +73,14 @@
       "aliases": [
         "Inter",
         "Nerazzurri",
-        "La Beneamata"
+        "La Beneamata",
+        "Internazionale",
+        "Inter Milan",
+        "Football Club Internazionale Milano",
+        "Inter Mailand [de]"
       ],
-      "website": "https://www.inter.it"
+      "website": "https://www.inter.it",
+      "wikidata_qid": "Q631"
     },
     {
       "id": "ssc-napoli",
@@ -88,9 +101,12 @@
       "aliases": [
         "Napoli",
         "Gli Azzurri",
-        "Partenopei"
+        "Partenopei",
+        "Società Sportiva Calcio Napoli",
+        "SSC Neapel [de]"
       ],
-      "website": "https://www.sscnapoli.it"
+      "website": "https://www.sscnapoli.it",
+      "wikidata_qid": "Q2641"
     },
     {
       "id": "as-roma",
@@ -111,9 +127,1123 @@
       "aliases": [
         "Roma",
         "Giallorossi",
-        "La Lupa"
+        "La Lupa",
+        "Associazione Sportiva Roma",
+        "AS Rom [de]"
       ],
-      "website": "https://www.asroma.com"
+      "website": "https://www.asroma.com",
+      "wikidata_qid": "Q2739"
+    },
+    {
+      "id": "ss-lazio",
+      "name": "SS Lazio",
+      "country": "Italy",
+      "city": "Roma",
+      "aliases": [
+        "Lazio",
+        "Lazio Roma",
+        "Società Sportiva Lazio",
+        "Lazio Rom [de]"
+      ],
+      "wikidata_qid": "Q3963707"
+    },
+    {
+      "id": "atalanta-bergamo",
+      "name": "Atalanta Bergamo",
+      "country": "Italy",
+      "city": "Bergamo",
+      "aliases": [
+        "At. Bergamo",
+        "Atalanta",
+        "Atalanta BC",
+        "Atalanta Bergamasca Calcio"
+      ],
+      "wikidata_qid": "Q1886"
+    },
+    {
+      "id": "us-cremonese",
+      "name": "US Cremonese",
+      "country": "Italy",
+      "city": "Cremona",
+      "aliases": [
+        "Cremonese",
+        "Unione Sportiva Cremonese"
+      ],
+      "wikidata_qid": "Q759482"
+    },
+    {
+      "id": "brescia-calcio",
+      "name": "Brescia Calcio",
+      "country": "Italy",
+      "city": "Brescia",
+      "aliases": [
+        "Brescia",
+        "Brescia Calc."
+      ],
+      "wikidata_qid": "Q6651"
+    },
+    {
+      "id": "ac-monza",
+      "name": "AC Monza",
+      "country": "Italy",
+      "city": "Monza",
+      "founded": 1912,
+      "aliases": [
+        "Monza",
+        "Associazione Calcio Monza",
+        "SS Monza",
+        "SS Monza 1912",
+        "SSD Monza 1912"
+      ]
+    },
+    {
+      "id": "torino-fc",
+      "name": "Torino FC",
+      "country": "Italy",
+      "city": "Torino",
+      "aliases": [
+        "Torino",
+        "Torino Football Club",
+        "FC Torino",
+        "FC Turin [de]"
+      ],
+      "wikidata_qid": "Q2768"
+    },
+    {
+      "id": "alessandria",
+      "name": "Alessandria",
+      "country": "Italy",
+      "city": "Alessandria",
+      "founded": 1912,
+      "aliases": [
+        "Unione Sportiva Alessandria Calcio",
+        "Unione Sportiva Alessandria Calcio 1912"
+      ],
+      "wikidata_qid": "Q16348"
+    },
+    {
+      "id": "hellas-verona",
+      "name": "Hellas Verona",
+      "country": "Italy",
+      "city": "Verona",
+      "founded": 1903,
+      "aliases": [
+        "Verona",
+        "Hellas",
+        "Hellas Verona FC",
+        "Hellas Verona Football Club"
+      ],
+      "wikidata_qid": "Q8639"
+    },
+    {
+      "id": "ac-chievo-verona",
+      "name": "AC Chievo Verona",
+      "country": "Italy",
+      "city": "Verona",
+      "aliases": [
+        "Chievo",
+        "Chievo Verona",
+        "Associazione Calcio Chievo Verona"
+      ],
+      "wikidata_qid": "Q2037"
+    },
+    {
+      "id": "venezia-fc",
+      "name": "Venezia FC",
+      "country": "Italy",
+      "city": "Venezia",
+      "founded": 1907,
+      "aliases": [
+        "Venezia",
+        "Venezia Football Club",
+        "FC Venedig [de]",
+        "AC Venezia",
+        "SSC Venezia",
+        "Società Sportiva Calcio Venezia",
+        "FBC Unione Venezia",
+        "Foot Ball Club Unione Venezia"
+      ],
+      "wikidata_qid": "Q501245"
+    },
+    {
+      "id": "lr-vicenza-virtus",
+      "name": "LR Vicenza Virtus",
+      "country": "Italy",
+      "city": "Vicenza",
+      "aliases": [
+        "Vicenza",
+        "Vicenza Calcio",
+        "Vicenza Virtus"
+      ],
+      "wikidata_qid": "Q56542463"
+    },
+    {
+      "id": "calcio-padova",
+      "name": "Calcio Padova",
+      "country": "Italy",
+      "city": "Padova",
+      "aliases": [
+        "Padova",
+        "Padua Calcio [de]"
+      ],
+      "wikidata_qid": "Q8428"
+    },
+    {
+      "id": "cittadella",
+      "name": "Cittadella",
+      "country": "Italy",
+      "city": "Cittadella",
+      "founded": 1973,
+      "aliases": [
+        "AS Cittadella",
+        "Associazione Sportiva Cittadella"
+      ],
+      "wikidata_qid": "Q6673"
+    },
+    {
+      "id": "udinese-calcio",
+      "name": "Udinese Calcio",
+      "country": "Italy",
+      "city": "Udine",
+      "aliases": [
+        "Udinese",
+        "Udinese Calc."
+      ],
+      "wikidata_qid": "Q2798"
+    },
+    {
+      "id": "us-triestina-calcio",
+      "name": "US Triestina Calcio",
+      "country": "Italy",
+      "city": "Trieste",
+      "aliases": [
+        "Triestina",
+        "Triestina Calcio",
+        "US Triestina Calcio 1918"
+      ],
+      "wikidata_qid": "Q13381"
+    },
+    {
+      "id": "genoa-cfc-fc",
+      "name": "Genoa CFC",
+      "country": "Italy",
+      "city": "Genova",
+      "aliases": [
+        "Genoa",
+        "Genoa Cricket and Football Club",
+        "FC Genua [de]",
+        "CFC Genua [de]",
+        "CFC Genua 1893 [de]"
+      ],
+      "wikidata_qid": "Q2074"
+    },
+    {
+      "id": "uc-sampdoria",
+      "name": "UC Sampdoria",
+      "country": "Italy",
+      "city": "Genova",
+      "aliases": [
+        "Sampdoria",
+        "Samp. Genoa",
+        "Sampdoria Genoa",
+        "Unione Calcio Sampdoria",
+        "Samp. Genua [de]",
+        "Sampdoria Genua [de]"
+      ],
+      "wikidata_qid": "Q1457"
+    },
+    {
+      "id": "benevento-calcio",
+      "name": "Benevento Calcio",
+      "country": "Italy",
+      "city": "Benevento",
+      "founded": 1929,
+      "aliases": [
+        "Benevento"
+      ],
+      "wikidata_qid": "Q652516"
+    },
+    {
+      "id": "avellino",
+      "name": "Avellino",
+      "country": "Italy",
+      "city": "Avellino",
+      "aliases": [
+        "US Avellino",
+        "US Avellino 1912",
+        "Unione Sportiva Avellino 1912",
+        "AS Avellino",
+        "Associazione Sportiva Avellino 1912"
+      ],
+      "wikidata_qid": "Q298217"
+    },
+    {
+      "id": "crotone-fc",
+      "name": "FC Crotone",
+      "country": "Italy",
+      "city": "Crotone",
+      "aliases": [
+        "Crotone",
+        "Crotone FC",
+        "Federazione Calcistica Crotone",
+        "Football Club Crotone"
+      ],
+      "wikidata_qid": "Q6690"
+    },
+    {
+      "id": "bari",
+      "name": "Bari",
+      "country": "Italy",
+      "city": "Bari",
+      "aliases": [
+        "AS Bari",
+        "SSC Bari",
+        "Società Sportiva Calcio Bari",
+        "FC Bari 1908"
+      ],
+      "wikidata_qid": "Q6641"
+    },
+    {
+      "id": "calcio-foggia-1920",
+      "name": "Calcio Foggia 1920",
+      "country": "Italy",
+      "city": "Foggia",
+      "aliases": [
+        "Calcio Foggia 1920 SSD",
+        "US Foggia",
+        "Foggia",
+        "Foggia Calcio"
+      ],
+      "wikidata_qid": "Q139399"
+    },
+    {
+      "id": "ravenna-fc",
+      "name": "Ravenna FC",
+      "country": "Italy",
+      "city": "Ravenna",
+      "aliases": [
+        "Ravenna",
+        "Ravenna FC 1913",
+        "Ravenna Calcio"
+      ]
+    },
+    {
+      "id": "bologna-fc",
+      "name": "Bologna FC",
+      "country": "Italy",
+      "city": "Bologna",
+      "aliases": [
+        "Bologna",
+        "FC Bologna",
+        "Bologna FC 1909",
+        "Bologna Football Club 1909",
+        "Bologna Football Club"
+      ],
+      "wikidata_qid": "Q1893"
+    },
+    {
+      "id": "us-sassuolo-calcio",
+      "name": "US Sassuolo Calcio",
+      "country": "Italy",
+      "city": "Sassuolo",
+      "founded": 1922,
+      "aliases": [
+        "Sassuolo",
+        "US Sassuolo",
+        "Sassuolo Calcio",
+        "Unione Sportiva Sassuolo Calcio"
+      ],
+      "wikidata_qid": "Q8603"
+    },
+    {
+      "id": "spal-ferrara",
+      "name": "SPAL Ferrara",
+      "country": "Italy",
+      "city": "Ferrara",
+      "aliases": [
+        "SPAL",
+        "SPAL 2013",
+        "SPAL 2013 Ferrara",
+        "Società Polisportiva Ars et Labor 2013"
+      ],
+      "wikidata_qid": "Q13385"
+    },
+    {
+      "id": "carpi",
+      "name": "Carpi",
+      "country": "Italy",
+      "city": "Carpi",
+      "aliases": [
+        "Carpi FC",
+        "Carpi FC 1909",
+        "Carpi Football Club 1909"
+      ],
+      "wikidata_qid": "Q610621"
+    },
+    {
+      "id": "ac-cesena-1940-2018",
+      "name": "AC Cesena (1940-2018)",
+      "country": "Italy",
+      "city": "Cesena",
+      "aliases": [
+        "Cesena",
+        "Associazione Calcio Cesena",
+        "Cesena FC"
+      ],
+      "wikidata_qid": "Q6664"
+    },
+    {
+      "id": "modena-fc",
+      "name": "Modena FC",
+      "country": "Italy",
+      "city": "Modena",
+      "aliases": [
+        "Modena",
+        "FC Modena",
+        "Modena Football Club 2018"
+      ],
+      "wikidata_qid": "Q8408"
+    },
+    {
+      "id": "acf-fiorentina",
+      "name": "ACF Fiorentina",
+      "country": "Italy",
+      "city": "Firenze",
+      "aliases": [
+        "Fiorentina",
+        "AC Firenze",
+        "Associazione Calcio Firenze Fiorentina",
+        "AC Fiorentina",
+        "AC Florenz [de]"
+      ],
+      "wikidata_qid": "Q2052"
+    },
+    {
+      "id": "empoli-fc",
+      "name": "Empoli FC",
+      "country": "Italy",
+      "city": "Empoli",
+      "aliases": [
+        "Empoli",
+        "Empoli Football Club",
+        "FC Empoli"
+      ],
+      "wikidata_qid": "Q6703"
+    },
+    {
+      "id": "ss-robur-siena",
+      "name": "SS Robur Siena",
+      "country": "Italy",
+      "city": "Siena",
+      "aliases": [
+        "Siena",
+        "AC Siena",
+        "Associazione Calcio Siena"
+      ],
+      "wikidata_qid": "Q2756"
+    },
+    {
+      "id": "ac-pisa",
+      "name": "AC Pisa",
+      "country": "Italy",
+      "city": "Pisa",
+      "aliases": [
+        "Pisa",
+        "AC Pisa 1909",
+        "Associazione Calcio Pisa 1909",
+        "Pisa SC",
+        "Pisa Sporting Club",
+        "SC Pisa",
+        "Pisa Calcio"
+      ],
+      "wikidata_qid": "Q289613"
+    },
+    {
+      "id": "ascoli",
+      "name": "Ascoli",
+      "country": "Italy",
+      "city": "Ascoli Piceno",
+      "aliases": [
+        "Ascoli FC",
+        "Ascoli Calcio",
+        "Ascoli Calcio 1898 FC",
+        "Ascoli Picchio FC",
+        "Ascoli Picchio FC 1898"
+      ],
+      "wikidata_qid": "Q6630"
+    },
+    {
+      "id": "cagliari-calcio",
+      "name": "Cagliari Calcio",
+      "country": "Italy",
+      "city": "Cagliari",
+      "aliases": [
+        "Cagliari",
+        "Cagliari Calc."
+      ],
+      "wikidata_qid": "Q1900"
+    },
+    {
+      "id": "frosinone-calcio",
+      "name": "Frosinone Calcio",
+      "country": "Italy",
+      "city": "Frosinone",
+      "aliases": [
+        "Frosinone"
+      ],
+      "wikidata_qid": "Q845043"
+    },
+    {
+      "id": "novara",
+      "name": "Novara",
+      "country": "Italy",
+      "city": "Novara",
+      "aliases": [
+        "Novara Calcio"
+      ],
+      "wikidata_qid": "Q8416"
+    },
+    {
+      "id": "palermo-fc",
+      "name": "Palermo FC",
+      "country": "Italy",
+      "city": "Palermo",
+      "aliases": [
+        "Palermo Football Club",
+        "Palermo",
+        "US Palermo",
+        "US Città di Palermo",
+        "Unione Sportiva Città di Palermo"
+      ],
+      "wikidata_qid": "Q2674"
+    },
+    {
+      "id": "parma-calcio",
+      "name": "Parma Calcio",
+      "country": "Italy",
+      "city": "Parma",
+      "aliases": [
+        "Parma FC",
+        "FC Parma",
+        "Parma Football Club",
+        "Parma",
+        "Parma Calcio 1913",
+        "AC Parma"
+      ],
+      "wikidata_qid": "Q2693"
+    },
+    {
+      "id": "ac-perugia",
+      "name": "AC Perugia",
+      "country": "Italy",
+      "city": "Perugia",
+      "founded": 1905,
+      "aliases": [
+        "Perugia",
+        "Perugia Calcio",
+        "AC Perugia Calcio",
+        "Associazione Calcistica Perugia Calcio"
+      ],
+      "wikidata_qid": "Q16344"
+    },
+    {
+      "id": "pescara",
+      "name": "Pescara",
+      "country": "Italy",
+      "city": "Pescara",
+      "aliases": [
+        "Pescara Calcio",
+        "Delfino Pescara",
+        "Delfino Pescara 1936"
+      ],
+      "wikidata_qid": "Q2710"
+    },
+    {
+      "id": "pro-vercelli",
+      "name": "Pro Vercelli",
+      "country": "Italy",
+      "city": "Vercelli",
+      "wikidata_qid": "Q8455"
+    },
+    {
+      "id": "salernitana",
+      "name": "Salernitana",
+      "country": "Italy",
+      "city": "Salerno",
+      "aliases": [
+        "Salernitana Calcio",
+        "US Salernitana 1919",
+        "US Salernitana",
+        "Unione Sportiva Salernitana 1919",
+        "Salernitana Calcio 1919"
+      ],
+      "wikidata_qid": "Q847587"
+    },
+    {
+      "id": "spezia-calcio",
+      "name": "Spezia Calcio",
+      "country": "Italy",
+      "city": "La Spezia",
+      "aliases": [
+        "Spezia"
+      ],
+      "wikidata_qid": "Q8615"
+    },
+    {
+      "id": "ternana",
+      "name": "Ternana",
+      "country": "Italy",
+      "city": "Terni",
+      "aliases": [
+        "Ternana Calcio"
+      ],
+      "wikidata_qid": "Q8623"
+    },
+    {
+      "id": "virtus-entella",
+      "name": "Virtus Entella",
+      "country": "Italy",
+      "city": "Chiavari",
+      "wikidata_qid": "Q2276413"
+    },
+    {
+      "id": "piacenza-calcio",
+      "name": "Piacenza Calcio",
+      "country": "Italy",
+      "city": "Piacenza",
+      "aliases": [
+        "Piacenza",
+        "Piacenza Calcio 1919"
+      ],
+      "wikidata_qid": "Q459794"
+    },
+    {
+      "id": "us-anconitana-asd",
+      "name": "US Anconitana ASD",
+      "country": "Italy",
+      "city": "Ancona",
+      "aliases": [
+        "Ancona"
+      ],
+      "wikidata_qid": "Q289029"
+    },
+    {
+      "id": "ac-ancona",
+      "name": "AC Ancona",
+      "country": "Italy",
+      "city": "Ancona",
+      "aliases": [
+        "Associazione Calcio Ancona",
+        "Ancona Calcio"
+      ],
+      "wikidata_qid": "Q20706646"
+    },
+    {
+      "id": "cosenza-calcio",
+      "name": "Cosenza Calcio",
+      "country": "Italy",
+      "city": "Cosenza",
+      "aliases": [
+        "Cosenza"
+      ],
+      "wikidata_qid": "Q1136016"
+    },
+    {
+      "id": "ss-fidelis-andria",
+      "name": "SS Fidelis Andria",
+      "country": "Italy",
+      "city": "Andria",
+      "aliases": [
+        "F. Andria",
+        "SS Fidelis Andria 1928"
+      ],
+      "wikidata_qid": "Q287695"
+    },
+    {
+      "id": "us-lecce",
+      "name": "US Lecce",
+      "country": "Italy",
+      "city": "Lecce",
+      "aliases": [
+        "Lecce",
+        "Unione Sportiva Lecce"
+      ],
+      "wikidata_qid": "Q13391"
+    },
+    {
+      "id": "as-lucchese-libertas",
+      "name": "AS Lucchese Libertas",
+      "country": "Italy",
+      "city": "Lucca",
+      "aliases": [
+        "Lucchese",
+        "AS Lucchese Libertas 1905"
+      ],
+      "wikidata_qid": "Q298333"
+    },
+    {
+      "id": "ac-reggiana",
+      "name": "AC Reggiana",
+      "country": "Italy",
+      "city": "Reggio Emilia",
+      "aliases": [
+        "Reggiana",
+        "AC Reggiana 1919",
+        "Reggio Audace",
+        "Reggio Audace FC",
+        "Reggio Audace Football Club",
+        "Associazione Calcio Reggiana 1919"
+      ],
+      "wikidata_qid": "Q289707"
+    },
+    {
+      "id": "urbs-reggina",
+      "name": "Urbs Reggina",
+      "country": "Italy",
+      "city": "Reggio Calabria",
+      "aliases": [
+        "Reggina",
+        "Urbs Reggina 1914"
+      ],
+      "wikidata_qid": "Q8476"
+    },
+    {
+      "id": "reggina-1914",
+      "name": "Reggina 1914",
+      "country": "Italy",
+      "city": "Reggio Calabria",
+      "aliases": [
+        "Reggina Calcio"
+      ],
+      "wikidata_qid": "Q8476"
+    },
+    {
+      "id": "acd-treviso",
+      "name": "ACD Treviso",
+      "country": "Italy",
+      "city": "Treviso",
+      "aliases": [
+        "Treviso",
+        "Associazione Calcio Dilettanti Treviso",
+        "Football Club Treviso",
+        "FC Treviso",
+        "FBC Treviso"
+      ],
+      "wikidata_qid": "Q611222"
+    },
+    {
+      "id": "asd-castel-di-sangro",
+      "name": "ASD Castel di Sangro",
+      "country": "Italy",
+      "city": "Castel di Sangro",
+      "aliases": [
+        "C. Sangro"
+      ],
+      "wikidata_qid": "Q297431"
+    },
+    {
+      "id": "unione-calcio-albinoleffe",
+      "name": "Unione Calcio Albinoleffe",
+      "country": "Italy",
+      "city": "Albino e Leffe",
+      "aliases": [
+        "Albinoleffe",
+        "UC Albinoleffe"
+      ],
+      "wikidata_qid": "Q752483"
+    },
+    {
+      "id": "calcio-catania",
+      "name": "Calcio Catania",
+      "country": "Italy",
+      "city": "Catania",
+      "aliases": [
+        "Catania",
+        "Catania Calcio"
+      ],
+      "wikidata_qid": "Q2018"
+    },
+    {
+      "id": "como-1907",
+      "name": "Como 1907",
+      "country": "Italy",
+      "city": "Como",
+      "aliases": [
+        "Como",
+        "Como Calcio",
+        "Calcio Como"
+      ],
+      "wikidata_qid": "Q1120838"
+    },
+    {
+      "id": "as-livorno-calcio",
+      "name": "AS Livorno Calcio",
+      "country": "Italy",
+      "city": "Livorno",
+      "founded": 1915,
+      "aliases": [
+        "Livorno",
+        "AS Livorno",
+        "Associazione Sportiva Livorno Calcio"
+      ],
+      "wikidata_qid": "Q6767"
+    },
+    {
+      "id": "acr-messina-ssd",
+      "name": "ACR Messina SSD",
+      "country": "Italy",
+      "city": "Messina",
+      "aliases": [
+        "Messina",
+        "ACR Messina",
+        "Associazioni Calcio Riunite Messina"
+      ]
+    },
+    {
+      "id": "ss-arezzo",
+      "name": "SS Arezzo",
+      "country": "Italy",
+      "city": "Arezzo",
+      "aliases": [
+        "Arezzo",
+        "Società Sportiva Arezzo",
+        "AC Arezzo",
+        "Associazione Calcio Arezzo"
+      ],
+      "wikidata_qid": "Q297430"
+    },
+    {
+      "id": "us-catanzaro",
+      "name": "US Catanzaro",
+      "country": "Italy",
+      "city": "Catanzaro",
+      "aliases": [
+        "Catanzaro",
+        "US Catanzaro 1929",
+        "Unione Sportiva Catanzaro 1929"
+      ]
+    },
+    {
+      "id": "asd-virtus-bergamo",
+      "name": "ASD Virtus Bergamo",
+      "country": "Italy",
+      "city": "Alzano Lombardo",
+      "aliases": [
+        "Alzano",
+        "ASD Virtus Bergamo 1909",
+        "Virtus Bergamo",
+        "Alzano Virescit"
+      ]
+    },
+    {
+      "id": "mc-fermana-fc",
+      "name": "MC Fermana FC",
+      "country": "Italy",
+      "city": "Fermo",
+      "aliases": [
+        "Fermana",
+        "Fermana FC",
+        "Fermana Football Club",
+        "US Fermana"
+      ],
+      "wikidata_qid": "Q2095117"
+    },
+    {
+      "id": "gallipoli-football-ssd",
+      "name": "Gallipoli Football SSD",
+      "country": "Italy",
+      "city": "Gallipoli",
+      "aliases": [
+        "Gallipoli",
+        "Gallipoli Football 1909 SSD"
+      ],
+      "wikidata_qid": "Q994918"
+    },
+    {
+      "id": "asd-us-grosseto",
+      "name": "ASD US Grosseto",
+      "country": "Italy",
+      "city": "Grosseto",
+      "aliases": [
+        "Grosseto",
+        "ASD US Grosseto 1912"
+      ],
+      "wikidata_qid": "Q6721"
+    },
+    {
+      "id": "as-gubbio",
+      "name": "AS Gubbio",
+      "country": "Italy",
+      "city": "Gubbio",
+      "aliases": [
+        "Gubbio",
+        "AS Gubbio 1910"
+      ],
+      "wikidata_qid": "Q298314"
+    },
+    {
+      "id": "ss-juve-stabia",
+      "name": "SS Juve Stabia",
+      "country": "Italy",
+      "city": "Castellammare di Stabia",
+      "aliases": [
+        "Juve Stabia"
+      ],
+      "wikidata_qid": "Q6748"
+    },
+    {
+      "id": "ssd-latina-calcio",
+      "name": "SSD Latina Calcio",
+      "country": "Italy",
+      "city": "Latina",
+      "aliases": [
+        "Latina",
+        "Latina Calcio",
+        "SSD Latina Calcio 1932"
+      ],
+      "wikidata_qid": "Q2118510"
+    },
+    {
+      "id": "mantova-ssd",
+      "name": "Mantova SSD",
+      "country": "Italy",
+      "city": "Mantova",
+      "aliases": [
+        "Mantova",
+        "Mantova 1911 SSD"
+      ]
+    },
+    {
+      "id": "asd-nocerina",
+      "name": "ASD Nocerina",
+      "country": "Italy",
+      "city": "Nocera Inferiore",
+      "aliases": [
+        "Nocerina",
+        "ASD Nocerina 1910"
+      ],
+      "wikidata_qid": "Q56387165"
+    },
+    {
+      "id": "us-pistoiese",
+      "name": "US Pistoiese",
+      "country": "Italy",
+      "city": "Pistoia",
+      "aliases": [
+        "Pistoiese",
+        "US Pistoiese 1921",
+        "AC Pistoiese"
+      ],
+      "wikidata_qid": "Q1279917"
+    },
+    {
+      "id": "portogruaro-calcio-asd",
+      "name": "Portogruaro Calcio ASD",
+      "country": "Italy",
+      "city": "Portogruaro",
+      "aliases": [
+        "Portogruaro"
+      ]
+    },
+    {
+      "id": "rimini-ssd-fc",
+      "name": "Rimini FC SSD",
+      "country": "Italy",
+      "city": "Rimini",
+      "aliases": [
+        "Rimini",
+        "Rimini FC 1912",
+        "Rimini FC 1912 SSD",
+        "Rimini Calcio"
+      ],
+      "wikidata_qid": "Q289713"
+    },
+    {
+      "id": "asd-savoia",
+      "name": "ASD Savoia",
+      "country": "Italy",
+      "city": "Torre Annunziata",
+      "aliases": [
+        "Savoia",
+        "ASD Savoia 1908"
+      ],
+      "wikidata_qid": "Q2158769"
+    },
+    {
+      "id": "trapani-calcio",
+      "name": "Trapani Calcio",
+      "country": "Italy",
+      "city": "Trapani",
+      "aliases": [
+        "Trapani"
+      ],
+      "wikidata_qid": "Q2114224"
+    },
+    {
+      "id": "varese-calcio",
+      "name": "Varese Calcio",
+      "country": "Italy",
+      "city": "Varese",
+      "aliases": [
+        "Varese",
+        "AS Varese 1910",
+        "Associazione Sportiva Varese 1910"
+      ],
+      "wikidata_qid": "Q8633"
+    },
+    {
+      "id": "virtus-lanciano",
+      "name": "Virtus Lanciano",
+      "country": "Italy",
+      "city": "Lanciano",
+      "aliases": [
+        "ASD 1920 Lanciano Calcio"
+      ],
+      "wikidata_qid": "Q8648"
+    },
+    {
+      "id": "pordenone-calcio",
+      "name": "Pordenone Calcio",
+      "country": "Italy",
+      "city": "Pordenone",
+      "founded": 1920,
+      "aliases": [
+        "Pordenone"
+      ],
+      "wikidata_qid": "Q257078"
+    },
+    {
+      "id": "vis-pesaro-1898",
+      "name": "Vis Pesaro 1898",
+      "country": "Italy",
+      "city": "Pesaro",
+      "wikidata_qid": "Q2414604"
+    },
+    {
+      "id": "giana-erminio",
+      "name": "Giana Erminio",
+      "country": "Italy",
+      "city": "Gorgonzola",
+      "aliases": [
+        "AS Giana Erminio"
+      ],
+      "wikidata_qid": "Q16735576"
+    },
+    {
+      "id": "carrarese-calcio",
+      "name": "Carrarese Calcio",
+      "country": "Italy",
+      "city": "Carrara",
+      "aliases": [
+        "Carrarese",
+        "Carrarese Calcio 1908"
+      ],
+      "wikidata_qid": "Q650365"
+    },
+    {
+      "id": "pontedera",
+      "name": "Pontedera",
+      "country": "Italy",
+      "city": "Pontedera",
+      "aliases": [
+        "US Città di Pontedera"
+      ]
+    },
+    {
+      "id": "pro-patria",
+      "name": "Pro Patria",
+      "country": "Italy",
+      "city": "Busto Arsizio",
+      "aliases": [
+        "Aurora Pro Patria 1919"
+      ],
+      "wikidata_qid": "Q777337"
+    },
+    {
+      "id": "ac-renate",
+      "name": "AC Renate",
+      "country": "Italy",
+      "city": "Renate",
+      "aliases": [
+        "Associazione Calcio Renate"
+      ]
+    },
+    {
+      "id": "calcio-lecco",
+      "name": "Calcio Lecco",
+      "country": "Italy",
+      "city": "Lecco",
+      "aliases": [
+        "Calcio Lecco 1912",
+        "Lecco"
+      ],
+      "wikidata_qid": "Q944876"
+    },
+    {
+      "id": "sudtirol-fc",
+      "name": "FC Südtirol",
+      "country": "Italy",
+      "city": "Bolzano",
+      "aliases": [
+        "Südtirol",
+        "Alto Adige",
+        "Fußball Club Südtirol"
+      ],
+      "wikidata_qid": "Q1387710"
+    },
+    {
+      "id": "feralpisalo",
+      "name": "Feralpisalò",
+      "country": "Italy",
+      "city": "Salò",
+      "aliases": [
+        "AC Feralpisalò"
+      ],
+      "wikidata_qid": "Q31821"
+    },
+    {
+      "id": "sambenedettese",
+      "name": "Sambenedettese",
+      "country": "Italy",
+      "city": "San Benedetto del Tronto",
+      "aliases": [
+        "SS Sambenedettese Calcio"
+      ],
+      "wikidata_qid": "Q1785447"
+    },
+    {
+      "id": "potenza-calcio",
+      "name": "Potenza Calcio",
+      "country": "Italy",
+      "city": "Potenza",
+      "aliases": [
+        "Potenza",
+        "Potenza SC",
+        "Potenza FC"
+      ],
+      "wikidata_qid": "Q2457991"
+    },
+    {
+      "id": "paganese-calcio",
+      "name": "Paganese Calcio",
+      "country": "Italy",
+      "city": "Pagani",
+      "aliases": [
+        "Paganese",
+        "Paganese Calcio 1926"
+      ]
+    },
+    {
+      "id": "vibonese-calcio",
+      "name": "Vibonese Calcio",
+      "country": "Italy",
+      "city": "Vibo Valentia",
+      "aliases": [
+        "Vibonese",
+        "US Vibonese Calcio",
+        "Unione Sportiva Vibonese Calcio"
+      ],
+      "wikidata_qid": "Q1856552"
     }
   ]
 }
