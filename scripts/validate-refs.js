@@ -51,6 +51,14 @@ const allJsonFiles = getJsonFiles(DATA_DIR);
 
 for (const filePath of allJsonFiles) {
   const relPath = path.relative(DATA_DIR, filePath).replace(/\\/g, '/');
+
+  if (!relPath.startsWith('players/') &&
+      !relPath.startsWith('clubs/') &&
+      !relPath.startsWith('stadiums/') &&
+      !relPath.startsWith('national-teams/teams.json')) {
+    continue;
+  }
+
   const content = fs.readFileSync(filePath, 'utf8');
   let data;
   try {
@@ -109,6 +117,11 @@ let errors = 0;
 // 2. Validate Rosters and Match files
 for (const filePath of allJsonFiles) {
   const relPath = path.relative(DATA_DIR, filePath).replace(/\\/g, '/');
+
+  if (!relPath.startsWith('rosters/') && !relPath.startsWith('competitions/world-cups/') && !relPath.startsWith('competitions/club-world-cup/')) {
+    continue;
+  }
+
   const content = fs.readFileSync(filePath, 'utf8');
   let data;
   try {
