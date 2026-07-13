@@ -1,0 +1,3 @@
+## 2024-05-24 - Unnecessary I/O and parsing in validation scripts
+**Learning:** Found a performance bottleneck in data processing scripts where loops iterate over a large collection of files and blindly read/parse the content *before* checking if the specific file path is relevant for the current logic phase. This leads to 100% of files being read/parsed when maybe only 10% are needed.
+**Action:** When writing or optimizing node scripts that process a subset of files within a larger directory tree, always use early `continue` statements that filter against `relPath` *before* hitting expensive `fs.readFileSync` or `JSON.parse` commands.
