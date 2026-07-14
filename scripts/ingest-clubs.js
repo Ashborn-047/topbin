@@ -27,8 +27,15 @@ if (!archiveRelPath || !destRelPath) {
   process.exit(1);
 }
 
-const ARCHIVE_FILE = path.join(ROOT, archiveRelPath);
-const DEST_FILE = path.join(ROOT, destRelPath);
+const ARCHIVE_FILE = path.resolve(ROOT, archiveRelPath);
+const DEST_FILE = path.resolve(ROOT, destRelPath);
+const resolvedRoot = path.resolve(ROOT);
+
+if (!ARCHIVE_FILE.startsWith(resolvedRoot + path.sep) || !DEST_FILE.startsWith(resolvedRoot + path.sep)) {
+  console.error(`Error: Paths must be within the project directory.`);
+  process.exit(1);
+}
+
 const LOG_FILE = path.join(ROOT, 'scripts', 'ingestion-log.json');
 
 // Check source file exists
