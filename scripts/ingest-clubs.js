@@ -5,7 +5,7 @@ dns.setDefaultResultOrder('ipv4first');
 const { extractClub, getWikidataCandidates } = require('./lib/llm-extract');
 
 // Setup Paths
-const ROOT = path.join(__dirname, '..');
+const ROOT = path.resolve(__dirname, '..');
 
 // Parse arguments: node scripts/ingest-clubs.js <country> [archiveRelativePath] [destRelativePath]
 const args = process.argv.slice(2);
@@ -27,9 +27,19 @@ if (!archiveRelPath || !destRelPath) {
   process.exit(1);
 }
 
-const ARCHIVE_FILE = path.join(ROOT, archiveRelPath);
-const DEST_FILE = path.join(ROOT, destRelPath);
-const LOG_FILE = path.join(ROOT, 'scripts', 'ingestion-log.json');
+const ARCHIVE_FILE = path.resolve(ROOT, archiveRelPath);
+const DEST_FILE = path.resolve(ROOT, destRelPath);
+const LOG_FILE = path.resolve(ROOT, 'scripts', 'ingestion-log.json');
+
+// Security Check: Prevent Path Traversal
+if (!ARCHIVE_FILE.startsWith(ROOT + path.sep)) {
+  console.error('Security Error: Archive path is outside the root directory.');
+  process.exit(1);
+}
+if (!DEST_FILE.startsWith(ROOT + path.sep)) {
+  console.error('Security Error: Destination path is outside the root directory.');
+  process.exit(1);
+}
 
 // Check source file exists
 if (!fs.existsSync(ARCHIVE_FILE)) {
