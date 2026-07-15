@@ -1,0 +1,4 @@
+## 2025-07-15 - [Path Traversal in Scripts]
+**Vulnerability:** Found Path Traversal in `scripts/ingest-clubs.js`. Command-line file path inputs were concatenated with `path.join(__dirname, '..')` directly without validation, allowing a payload like `../../../etc/passwd` to traverse outside the expected directory structure.
+**Learning:** Node.js scripts frequently run as local tooling or as batch jobs in standard directories, leading to an incorrect assumption that developer inputs or file paths are inherently safe. When combined with command-line arguments, these can lead to sensitive file exposure or arbitrary file writing on the system if not resolved securely.
+**Prevention:** Always use `path.resolve` combined with a strict `.startsWith(ROOT + path.sep)` validation check to ensure resolved paths strictly reside within the intended directory subtree. Never trust raw paths from command-line arguments.
