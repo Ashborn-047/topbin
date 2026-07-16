@@ -27,9 +27,19 @@ if (!archiveRelPath || !destRelPath) {
   process.exit(1);
 }
 
-const ARCHIVE_FILE = path.join(ROOT, archiveRelPath);
-const DEST_FILE = path.join(ROOT, destRelPath);
+const ARCHIVE_FILE = path.resolve(ROOT, archiveRelPath);
+const DEST_FILE = path.resolve(ROOT, destRelPath);
 const LOG_FILE = path.join(ROOT, 'scripts', 'ingestion-log.json');
+
+// Path Traversal check
+if (!ARCHIVE_FILE.startsWith(ROOT + path.sep)) {
+  console.error(`Invalid archive path: ${archiveRelPath}`);
+  process.exit(1);
+}
+if (!DEST_FILE.startsWith(ROOT + path.sep)) {
+  console.error(`Invalid destination path: ${destRelPath}`);
+  process.exit(1);
+}
 
 // Check source file exists
 if (!fs.existsSync(ARCHIVE_FILE)) {
