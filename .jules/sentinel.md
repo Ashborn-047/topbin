@@ -1,0 +1,4 @@
+## 2024-06-25 - Path Traversal Vulnerability in Ingestion Script
+**Vulnerability:** A Path Traversal vulnerability in `scripts/ingest-clubs.js` allowed external user input (`archiveRelPath` and `destRelPath` command-line arguments) to dictate where files are read from or written to, by utilizing `path.join`.
+**Learning:** `path.join` does not prevent path traversal (e.g. `../../etc/passwd`). It was allowing arbitrary filesystem read and write actions because it was not validating that the resolved path stayed inside the intended directory (`ROOT`).
+**Prevention:** Always use `path.resolve` and verify that the resulting absolute path starts with the intended base directory appended with a path separator (e.g. `resolvedPath.startsWith(ROOT + path.sep)`).
