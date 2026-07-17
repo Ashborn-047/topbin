@@ -1,0 +1,4 @@
+## 2025-02-23 - Path Traversal in Node.js File Arguments
+**Vulnerability:** Node.js ingestion scripts (`scripts/ingest-clubs.js`) accepting command-line file path arguments used naive `path.join(ROOT, userPath)` to access files. This allows an attacker to pass paths like `../pwned.json` to read or write arbitrary files on the system outside the target directory.
+**Learning:** `path.join` resolves `..` segments, meaning paths that contain directory traversal sequences can escape the intended root if not strictly checked. It's a common pattern in CLIs that process user-supplied file paths.
+**Prevention:** Use `path.resolve(ROOT, userPath)` and strictly verify that the resulting absolute path starts with `ROOT + path.sep` (e.g. `/app/`) to ensure the file access remains constrained to the intended directory bounds.
