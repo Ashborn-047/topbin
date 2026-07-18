@@ -27,9 +27,20 @@ if (!archiveRelPath || !destRelPath) {
   process.exit(1);
 }
 
-const ARCHIVE_FILE = path.join(ROOT, archiveRelPath);
-const DEST_FILE = path.join(ROOT, destRelPath);
-const LOG_FILE = path.join(ROOT, 'scripts', 'ingestion-log.json');
+const absRoot = path.resolve(ROOT);
+const ARCHIVE_FILE = path.resolve(ROOT, archiveRelPath);
+const DEST_FILE = path.resolve(ROOT, destRelPath);
+const LOG_FILE = path.resolve(ROOT, 'scripts', 'ingestion-log.json');
+
+// Security check: prevent path traversal out of ROOT
+if (!ARCHIVE_FILE.startsWith(absRoot + path.sep)) {
+  console.error(`Security Error: Path traversal detected in archive path: ${archiveRelPath}`);
+  process.exit(1);
+}
+if (!DEST_FILE.startsWith(absRoot + path.sep)) {
+  console.error(`Security Error: Path traversal detected in destination path: ${destRelPath}`);
+  process.exit(1);
+}
 
 // Check source file exists
 if (!fs.existsSync(ARCHIVE_FILE)) {
