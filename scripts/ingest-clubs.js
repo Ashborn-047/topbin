@@ -27,8 +27,23 @@ if (!archiveRelPath || !destRelPath) {
   process.exit(1);
 }
 
-const ARCHIVE_FILE = path.join(ROOT, archiveRelPath);
-const DEST_FILE = path.join(ROOT, destRelPath);
+// Ensure ROOT is resolved to absolute path for proper comparison
+const ABS_ROOT = path.resolve(ROOT);
+
+const ARCHIVE_FILE = path.resolve(ABS_ROOT, archiveRelPath);
+const DEST_FILE = path.resolve(ABS_ROOT, destRelPath);
+
+// Security Check: Prevent Path Traversal
+if (!ARCHIVE_FILE.startsWith(ABS_ROOT + path.sep)) {
+  console.error(`Security Error: Archive path is outside the project root: ${ARCHIVE_FILE}`);
+  process.exit(1);
+}
+
+if (!DEST_FILE.startsWith(ABS_ROOT + path.sep)) {
+  console.error(`Security Error: Destination path is outside the project root: ${DEST_FILE}`);
+  process.exit(1);
+}
+
 const LOG_FILE = path.join(ROOT, 'scripts', 'ingestion-log.json');
 
 // Check source file exists
