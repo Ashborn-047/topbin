@@ -1,0 +1,4 @@
+## 2026-07-22 - Prevent Path Traversal in File Writing
+**Vulnerability:** The `scripts/ingest-clubs.js` script used `path.join(ROOT, archiveRelPath)` and `path.join(ROOT, destRelPath)` with user-supplied relative path arguments, allowing arbitrary path traversal outside the project directory (e.g., writing to `/etc/passwd`).
+**Learning:** Using `path.join` with relative paths supplied by arguments directly resolves to paths outside the intended root directory, causing path traversal vulnerabilities when used in file operations like `fs.writeFileSync`.
+**Prevention:** Use `path.resolve(ROOT, relativePath)` and strictly verify that the resolved path starts with the intended root directory appended with `path.sep` (e.g., `if (!RESOLVED_PATH.startsWith(ROOT + path.sep)) { ... }`) before performing any file operations.
