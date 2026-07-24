@@ -1,0 +1,4 @@
+## 2024-05-18 - [Path Traversal in ingest-clubs.js]
+**Vulnerability:** Found a Path Traversal vulnerability in `scripts/ingest-clubs.js`. The script accepts user input for `archiveRelPath` and `destRelPath` from `process.argv` and uses `path.join(ROOT, archiveRelPath)` without verifying that the resulting path is still within the `ROOT` directory.
+**Learning:** Using `path.join` with user-controlled input can allow an attacker to escape the intended directory using `../` sequences, leading to arbitrary file read (and potentially write, since `fs.writeFileSync` is used with `DEST_FILE`).
+**Prevention:** Always use `path.resolve(ROOT, userInput)` and strictly verify that the resolved path starts with the intended root directory appended with `path.sep` (e.g. `!resolvedPath.startsWith(ROOT + path.sep)`).
