@@ -27,8 +27,15 @@ if (!archiveRelPath || !destRelPath) {
   process.exit(1);
 }
 
-const ARCHIVE_FILE = path.join(ROOT, archiveRelPath);
-const DEST_FILE = path.join(ROOT, destRelPath);
+// Ensure secure path resolution
+const ARCHIVE_FILE = path.resolve(ROOT, archiveRelPath);
+const DEST_FILE = path.resolve(ROOT, destRelPath);
+
+if (!ARCHIVE_FILE.startsWith(ROOT + path.sep) || !DEST_FILE.startsWith(ROOT + path.sep)) {
+  console.error('Error: Invalid path. Path traversal detected.');
+  process.exit(1);
+}
+
 const LOG_FILE = path.join(ROOT, 'scripts', 'ingestion-log.json');
 
 // Check source file exists
