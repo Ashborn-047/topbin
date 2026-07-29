@@ -27,9 +27,15 @@ if (!archiveRelPath || !destRelPath) {
   process.exit(1);
 }
 
-const ARCHIVE_FILE = path.join(ROOT, archiveRelPath);
-const DEST_FILE = path.join(ROOT, destRelPath);
+const ARCHIVE_FILE = path.resolve(ROOT, archiveRelPath);
+const DEST_FILE = path.resolve(ROOT, destRelPath);
 const LOG_FILE = path.join(ROOT, 'scripts', 'ingestion-log.json');
+
+// Prevent path traversal outside of ROOT directory
+if (!ARCHIVE_FILE.startsWith(ROOT + path.sep) || !DEST_FILE.startsWith(ROOT + path.sep)) {
+  console.error('Invalid file paths: Access outside the project directory is not allowed.');
+  process.exit(1);
+}
 
 // Check source file exists
 if (!fs.existsSync(ARCHIVE_FILE)) {
