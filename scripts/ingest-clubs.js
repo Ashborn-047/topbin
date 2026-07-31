@@ -27,9 +27,14 @@ if (!archiveRelPath || !destRelPath) {
   process.exit(1);
 }
 
-const ARCHIVE_FILE = path.join(ROOT, archiveRelPath);
-const DEST_FILE = path.join(ROOT, destRelPath);
-const LOG_FILE = path.join(ROOT, 'scripts', 'ingestion-log.json');
+const ARCHIVE_FILE = path.resolve(ROOT, archiveRelPath);
+const DEST_FILE = path.resolve(ROOT, destRelPath);
+const LOG_FILE = path.resolve(ROOT, 'scripts', 'ingestion-log.json');
+
+if (!ARCHIVE_FILE.startsWith(ROOT + path.sep) || !DEST_FILE.startsWith(ROOT + path.sep)) {
+  console.error(`Error: Resolved paths must be within the project root directory.`);
+  process.exit(1);
+}
 
 // Check source file exists
 if (!fs.existsSync(ARCHIVE_FILE)) {
