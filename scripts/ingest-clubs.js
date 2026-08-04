@@ -3,6 +3,7 @@ const path = require('path');
 const dns = require('dns');
 dns.setDefaultResultOrder('ipv4first');
 const { extractClub, getWikidataCandidates } = require('./lib/llm-extract');
+const { slugify } = require('./lib/utils');
 
 // Setup Paths
 const ROOT = path.resolve(__dirname, '..');
@@ -40,18 +41,6 @@ const LOG_FILE = path.join(ROOT, 'scripts', 'ingestion-log.json');
 if (!fs.existsSync(ARCHIVE_FILE)) {
   console.error(`Source archive file not found at: ${ARCHIVE_FILE}`);
   process.exit(1);
-}
-
-// Helper to normalize and slugify name
-function slugify(name) {
-  return name
-    .toLowerCase()
-    .normalize('NFD') // remove accents
-    .replace(/[\u0300-\u036f]/g, '')
-    // Strip common suffixes
-    .replace(/\b(fc|cf|sc|sl|fa|fk|club|de|futbol|soccer)\b/g, '')
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/(^-|-$)/g, '');
 }
 
 // Helper to match country descriptions in Wikidata
