@@ -1,0 +1,4 @@
+## 2025-08-05 - Scope-Restricted Path Traversal Validation
+**Vulnerability:** The ingestion script `scripts/ingest-clubs.js` validated file paths by checking if they started with the repository `ROOT` directory. This permitted path traversal attacks where arbitrary files inside the repository (like `package.json` or `.env`) could be read or modified.
+**Learning:** Using the project root for path traversal validation is overly permissive and dangerous when user/script inputs are intended to only interact with a specific subdirectory (e.g., `data/`).
+**Prevention:** Always scope path validation to the most restrictive directory possible (e.g., `DATA_DIR = path.join(ROOT, 'data')`) and ensure the resolved path strictly starts with that restrictive directory appended with a path separator (`DATA_DIR + path.sep`).
