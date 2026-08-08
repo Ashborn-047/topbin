@@ -30,7 +30,9 @@ if (!archiveRelPath || !destRelPath) {
 const ARCHIVE_FILE = path.resolve(ROOT, archiveRelPath);
 const DEST_FILE = path.resolve(ROOT, destRelPath);
 
-if (!ARCHIVE_FILE.startsWith(ROOT + path.sep) || !DEST_FILE.startsWith(ROOT + path.sep)) {
+// Security constraint: restrict paths to the 'data' directory to prevent path traversal
+const DATA_DIR = path.join(ROOT, 'data') + path.sep;
+if (!ARCHIVE_FILE.startsWith(DATA_DIR) || !DEST_FILE.startsWith(DATA_DIR)) {
   console.error('Security Error: Path traversal detected.');
   process.exit(1);
 }
