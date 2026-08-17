@@ -6,6 +6,7 @@ const { extractClub, getWikidataCandidates } = require('./lib/llm-extract');
 
 // Setup Paths
 const ROOT = path.resolve(__dirname, '..');
+const DATA_DIR = path.resolve(ROOT, 'data');
 
 // Parse arguments: node scripts/ingest-clubs.js <country> [archiveRelativePath] [destRelativePath]
 const args = process.argv.slice(2);
@@ -30,7 +31,7 @@ if (!archiveRelPath || !destRelPath) {
 const ARCHIVE_FILE = path.resolve(ROOT, archiveRelPath);
 const DEST_FILE = path.resolve(ROOT, destRelPath);
 
-if (!ARCHIVE_FILE.startsWith(ROOT + path.sep) || !DEST_FILE.startsWith(ROOT + path.sep)) {
+if (!ARCHIVE_FILE.startsWith(DATA_DIR + path.sep) || !DEST_FILE.startsWith(DATA_DIR + path.sep)) {
   console.error('Security Error: Path traversal detected.');
   process.exit(1);
 }
