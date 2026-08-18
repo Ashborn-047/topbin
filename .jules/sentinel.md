@@ -1,0 +1,4 @@
+## 2024-05-24 - Sanitize Error Messages to Prevent Data Leaks
+**Vulnerability:** The `callLLM` function in `scripts/lib/llm-extract.js` appended raw HTTP response text to the error message when the NVIDIA API call failed. This could inadvertently leak sensitive data (such as API keys or internal service details) into application logs.
+**Learning:** External API error responses should not be blindly appended to error messages or logs, as they may contain sensitive or untrusted data.
+**Prevention:** Ensure error messages are sanitized and only log safe, generic information about the failure (like the status code and text), omitting raw response bodies unless strictly necessary and sanitized.
