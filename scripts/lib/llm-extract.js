@@ -63,8 +63,8 @@ async function callLLM(systemPrompt, userPrompt) {
     clearTimeout(timeoutId);
 
     if (!response.ok) {
-      const text = await response.text();
-      throw new Error(`NVIDIA API call failed: ${response.status} ${response.statusText} - ${text}`);
+      await response.text(); // consume body to avoid resource leaks
+      throw new Error(`NVIDIA API call failed: ${response.status} ${response.statusText}`);
     }
 
     const result = await response.json();
@@ -120,7 +120,7 @@ Strict constraints:
   try {
     return JSON.parse(cleaned);
   } catch (err) {
-    console.error('Failed to parse JSON response from LLM:', cleaned);
+    console.error('Failed to parse JSON response from LLM (output suppressed for security)');
     throw err;
   }
 }
@@ -145,7 +145,7 @@ The output MUST be a valid JSON array of strings (e.g. ["Query 1", "Query 2"]). 
   try {
     return JSON.parse(cleaned);
   } catch (err) {
-    console.error('Failed to parse candidates JSON from LLM:', cleaned);
+    console.error('Failed to parse candidates JSON from LLM (output suppressed for security)');
     // Fallback candidate
     return [clubName];
   }
