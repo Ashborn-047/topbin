@@ -63,8 +63,8 @@ async function callLLM(systemPrompt, userPrompt) {
     clearTimeout(timeoutId);
 
     if (!response.ok) {
-      const text = await response.text();
-      throw new Error(`NVIDIA API call failed: ${response.status} ${response.statusText} - ${text}`);
+      // Do not expose raw response text in error messages to prevent data leakage
+      throw new Error(`NVIDIA API call failed: ${response.status} ${response.statusText}`);
     }
 
     const result = await response.json();
