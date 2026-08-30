@@ -6,22 +6,12 @@
 
 const fs = require('fs');
 const path = require('path');
+const { slugify } = require('./lib/utils');
 
 const ROOT = path.join(__dirname, '..');
 const DATA_DIR = path.join(ROOT, 'data');
 
 const ignoreDirs = ['archive'];
-
-// Slugify helper that normalizes names and strips common suffixes like FC, CF, SC
-function slugify(name) {
-  return name
-    .toLowerCase()
-    .normalize('NFD') // remove accents
-    .replace(/[\u0300-\u036f]/g, '')
-    .replace(/\b(fc|cf|sc|sl|fa|fk|club|de|futbol|soccer)\b/g, '') // strip common suffixes/words
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/(^-|-$)/g, '');
-}
 
 function getJsonFiles(dir) {
   const results = [];

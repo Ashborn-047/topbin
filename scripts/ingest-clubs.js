@@ -3,9 +3,11 @@ const path = require('path');
 const dns = require('dns');
 dns.setDefaultResultOrder('ipv4first');
 const { extractClub, getWikidataCandidates } = require('./lib/llm-extract');
+const { slugify } = require('./lib/utils');
 
 // Setup Paths
 const ROOT = path.resolve(__dirname, '..');
+const DATA_DIR = path.resolve(ROOT, 'data');
 
 // Parse arguments: node scripts/ingest-clubs.js <country> [archiveRelativePath] [destRelativePath]
 const args = process.argv.slice(2);
@@ -30,8 +32,8 @@ if (!archiveRelPath || !destRelPath) {
 const ARCHIVE_FILE = path.resolve(ROOT, archiveRelPath);
 const DEST_FILE = path.resolve(ROOT, destRelPath);
 
-if (!ARCHIVE_FILE.startsWith(ROOT + path.sep) || !DEST_FILE.startsWith(ROOT + path.sep)) {
-  console.error('Security Error: Path traversal detected.');
+if (!ARCHIVE_FILE.startsWith(DATA_DIR + path.sep) || !DEST_FILE.startsWith(DATA_DIR + path.sep)) {
+  console.error('Security Error: Path traversal detected. Paths must reside inside the data directory.');
   process.exit(1);
 }
 const LOG_FILE = path.join(ROOT, 'scripts', 'ingestion-log.json');
@@ -40,18 +42,6 @@ const LOG_FILE = path.join(ROOT, 'scripts', 'ingestion-log.json');
 if (!fs.existsSync(ARCHIVE_FILE)) {
   console.error(`Source archive file not found at: ${ARCHIVE_FILE}`);
   process.exit(1);
-}
-
-// Helper to normalize and slugify name
-function slugify(name) {
-  return name
-    .toLowerCase()
-    .normalize('NFD') // remove accents
-    .replace(/[\u0300-\u036f]/g, '')
-    // Strip common suffixes
-    .replace(/\b(fc|cf|sc|sl|fa|fk|club|de|futbol|soccer)\b/g, '')
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/(^-|-$)/g, '');
 }
 
 // Helper to match country descriptions in Wikidata

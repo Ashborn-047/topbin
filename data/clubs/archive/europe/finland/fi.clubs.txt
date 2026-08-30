@@ -60,7 +60,7 @@ Koparit Kuopio (1931-1990),   Kuopio
 Myllykosken Pallo -47,   Myllykoski    ## part of the city of Kouvola
   | MYPA | MyPa | MyPa-47
   | Myllykosken Pallo-47
-  | Myllykosken Pallo −47   ### todo/fix: norm dash (− => -) !!!
+  | Myllykosken Pallo -47
 
 FC Lahti,         Lahti
   | Lahti
