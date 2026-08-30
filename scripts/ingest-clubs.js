@@ -29,8 +29,9 @@ if (!archiveRelPath || !destRelPath) {
 
 const ARCHIVE_FILE = path.resolve(ROOT, archiveRelPath);
 const DEST_FILE = path.resolve(ROOT, destRelPath);
+const DATA_DIR = path.join(ROOT, 'data');
 
-if (!ARCHIVE_FILE.startsWith(ROOT + path.sep) || !DEST_FILE.startsWith(ROOT + path.sep)) {
+if (!ARCHIVE_FILE.startsWith(DATA_DIR + path.sep) || !DEST_FILE.startsWith(DATA_DIR + path.sep)) {
   console.error('Security Error: Path traversal detected.');
   process.exit(1);
 }
