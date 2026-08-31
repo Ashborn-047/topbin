@@ -96,7 +96,17 @@ async function searchWikidata(clubName, country, aliases = []) {
     if (!query || query.length < 2) continue;
     try {
       const url = `https://www.wikidata.org/w/api.php?action=wbsearchentities&search=${encodeURIComponent(query)}&language=en&format=json&type=item&limit=10`;
-      const res = await fetch(url, { headers: { 'User-Agent': 'topbin-bot/1.0 (https://github.com/Ashborn-047/topbin)' } });
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 10000);
+      let res;
+      try {
+        res = await fetch(url, {
+          headers: { 'User-Agent': 'topbin-bot/1.0 (https://github.com/Ashborn-047/topbin)' },
+          signal: controller.signal
+        });
+      } finally {
+        clearTimeout(timeoutId);
+      }
       if (!res.ok) continue;
       const data = await res.json();
       
@@ -153,7 +163,17 @@ async function searchWikidata(clubName, country, aliases = []) {
           if (!llmQuery || llmQuery.length < 2 || queries.has(llmQuery)) continue;
           try {
             const url = `https://www.wikidata.org/w/api.php?action=wbsearchentities&search=${encodeURIComponent(llmQuery)}&language=en&format=json&type=item&limit=10`;
-            const res = await fetch(url, { headers: { 'User-Agent': 'topbin-bot/1.0 (https://github.com/Ashborn-047/topbin)' } });
+            const controller = new AbortController();
+            const timeoutId = setTimeout(() => controller.abort(), 10000);
+            let res;
+            try {
+              res = await fetch(url, {
+                headers: { 'User-Agent': 'topbin-bot/1.0 (https://github.com/Ashborn-047/topbin)' },
+                signal: controller.signal
+              });
+            } finally {
+              clearTimeout(timeoutId);
+            }
             if (!res.ok) continue;
             const data = await res.json();
             
