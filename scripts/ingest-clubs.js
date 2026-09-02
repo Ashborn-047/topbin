@@ -71,6 +71,24 @@ function checkCountryMatch(desc, country) {
 }
 
 /**
+ * Robust fetch wrapper with timeout
+ */
+async function fetchWithTimeout(url, options = {}, timeoutMs = 15000) {
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
+
+  try {
+    const response = await fetch(url, {
+      ...options,
+      signal: controller.signal
+    });
+    return response;
+  } finally {
+    clearTimeout(timeoutId);
+  }
+}
+
+/**
  * Searches Wikidata for a club QID
  */
 async function searchWikidata(clubName, country, aliases = []) {
@@ -96,7 +114,7 @@ async function searchWikidata(clubName, country, aliases = []) {
     if (!query || query.length < 2) continue;
     try {
       const url = `https://www.wikidata.org/w/api.php?action=wbsearchentities&search=${encodeURIComponent(query)}&language=en&format=json&type=item&limit=10`;
-      const res = await fetch(url, { headers: { 'User-Agent': 'topbin-bot/1.0 (https://github.com/Ashborn-047/topbin)' } });
+      const res = await fetchWithTimeout(url, { headers: { 'User-Agent': 'topbin-bot/1.0 (https://github.com/Ashborn-047/topbin)' } });
       if (!res.ok) continue;
       const data = await res.json();
       
@@ -153,7 +171,7 @@ async function searchWikidata(clubName, country, aliases = []) {
           if (!llmQuery || llmQuery.length < 2 || queries.has(llmQuery)) continue;
           try {
             const url = `https://www.wikidata.org/w/api.php?action=wbsearchentities&search=${encodeURIComponent(llmQuery)}&language=en&format=json&type=item&limit=10`;
-            const res = await fetch(url, { headers: { 'User-Agent': 'topbin-bot/1.0 (https://github.com/Ashborn-047/topbin)' } });
+            const res = await fetchWithTimeout(url, { headers: { 'User-Agent': 'topbin-bot/1.0 (https://github.com/Ashborn-047/topbin)' } });
             if (!res.ok) continue;
             const data = await res.json();
             
