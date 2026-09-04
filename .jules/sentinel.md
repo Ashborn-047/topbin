@@ -11,3 +11,8 @@
 ### Standardized Character Encoding & Utilities
 - **Slugification:** Centralize string normalization and suffix removal inside `scripts/lib/utils.js`.
 - **Character Encoding:** Normalize Unicode dashes (`−`) to ASCII hyphens (`-`) across raw data text files.
+
+## 2024-05-30 - Resource Exhaustion via Timer Leaks
+**Vulnerability:** External API calls enforcing timeouts lacked a `finally` block to clear the timer, leading to potential memory and timer leaks.
+**Learning:** To prevent Denial of Service (DoS) through resource exhaustion in Node.js, cleanup functions like `clearTimeout` must run regardless of success or failure.
+**Prevention:** Always place `clearTimeout` inside a `finally` block when wrapping promises with `setTimeout`.
