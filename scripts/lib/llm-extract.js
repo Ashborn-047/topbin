@@ -60,8 +60,6 @@ async function callLLM(systemPrompt, userPrompt) {
       signal: controller.signal
     });
 
-    clearTimeout(timeoutId);
-
     if (!response.ok) {
       await response.text();
       throw new Error(`NVIDIA API call failed: ${response.status} ${response.statusText}`);
@@ -74,8 +72,9 @@ async function callLLM(systemPrompt, userPrompt) {
 
     return result.choices[0].message.content;
   } catch (err) {
-    clearTimeout(timeoutId);
     throw err;
+  } finally {
+    clearTimeout(timeoutId);
   }
 }
 
