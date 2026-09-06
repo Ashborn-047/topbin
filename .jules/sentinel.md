@@ -11,3 +11,8 @@
 ### Standardized Character Encoding & Utilities
 - **Slugification:** Centralize string normalization and suffix removal inside `scripts/lib/utils.js`.
 - **Character Encoding:** Normalize Unicode dashes (`−`) to ASCII hyphens (`-`) across raw data text files.
+
+## 2024-09-06 - Enforce Timeouts on External API Calls
+**Vulnerability:** Missing timeouts on `fetch` calls to Wikidata and early timer clearing for LLM API calls could cause ingestion scripts to hang indefinitely, leading to resource exhaustion (DoS).
+**Learning:** When fetching from external APIs, it's crucial to enforce timeouts. Additionally, `clearTimeout` must be placed in a `finally` block to prevent timer/memory leaks and ensure that body parsing (`.json()`, `.text()`) is fully covered by the timeout window.
+**Prevention:** Always use `AbortController` with `setTimeout` and place `clearTimeout` inside a `finally` block for robust timeout protection on all external HTTP requests.
