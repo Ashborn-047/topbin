@@ -11,3 +11,8 @@
 ### Standardized Character Encoding & Utilities
 - **Slugification:** Centralize string normalization and suffix removal inside `scripts/lib/utils.js`.
 - **Character Encoding:** Normalize Unicode dashes (`−`) to ASCII hyphens (`-`) across raw data text files.
+
+## 2024-05-15 - Enforce Timeout Cleanup using finally block
+**Vulnerability:** External API calls using `setTimeout` for timeout were not guaranteeing timer cleanup, potentially leading to memory leaks/DoS.
+**Learning:** Always use `finally` block to ensure `clearTimeout` executes in success and error scenarios.
+**Prevention:** Ensure `clearTimeout` is within a `finally` block when managing `AbortController` timeouts.
