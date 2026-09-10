@@ -94,9 +94,14 @@ async function searchWikidata(clubName, country, aliases = []) {
 
   for (const query of queries) {
     if (!query || query.length < 2) continue;
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 15000);
     try {
       const url = `https://www.wikidata.org/w/api.php?action=wbsearchentities&search=${encodeURIComponent(query)}&language=en&format=json&type=item&limit=10`;
-      const res = await fetch(url, { headers: { 'User-Agent': 'topbin-bot/1.0 (https://github.com/Ashborn-047/topbin)' } });
+      const res = await fetch(url, {
+        headers: { 'User-Agent': 'topbin-bot/1.0 (https://github.com/Ashborn-047/topbin)' },
+        signal: controller.signal
+      });
       if (!res.ok) continue;
       const data = await res.json();
       
@@ -133,6 +138,8 @@ async function searchWikidata(clubName, country, aliases = []) {
       }
     } catch (e) {
       console.warn(`  ⚠️  Wikidata search error for "${query}": ${e.message}`);
+    } finally {
+      clearTimeout(timeoutId);
     }
 
     // If we have strong matches, we don't need to try all queries
@@ -151,9 +158,14 @@ async function searchWikidata(clubName, country, aliases = []) {
       if (Array.isArray(llmCandidates)) {
         for (const llmQuery of llmCandidates) {
           if (!llmQuery || llmQuery.length < 2 || queries.has(llmQuery)) continue;
+          const controller = new AbortController();
+          const timeoutId = setTimeout(() => controller.abort(), 15000);
           try {
             const url = `https://www.wikidata.org/w/api.php?action=wbsearchentities&search=${encodeURIComponent(llmQuery)}&language=en&format=json&type=item&limit=10`;
-            const res = await fetch(url, { headers: { 'User-Agent': 'topbin-bot/1.0 (https://github.com/Ashborn-047/topbin)' } });
+            const res = await fetch(url, {
+              headers: { 'User-Agent': 'topbin-bot/1.0 (https://github.com/Ashborn-047/topbin)' },
+              signal: controller.signal
+            });
             if (!res.ok) continue;
             const data = await res.json();
             
@@ -188,6 +200,8 @@ async function searchWikidata(clubName, country, aliases = []) {
             }
           } catch (e) {
             console.warn(`  ⚠️  Wikidata LLM search error for "${llmQuery}": ${e.message}`);
+          } finally {
+            clearTimeout(timeoutId);
           }
           if (matches.length > 0) break;
         }
